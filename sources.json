@@ -1,0 +1,74 @@
+[
+  {
+    "domain": "kitco.com",
+    "ownershipGroup": "thomson-reuters",
+    "ownership": "Reuters: Thomson Reuters; host ownership not audited",
+    "ownershipSource": "https://reutersagency.com/about/standards-values/",
+    "country": "International wire",
+    "note": "Approved seed source. Syndicated Reuters material counts as one originating newsroom. Check actual authorship of future articles; fail on uncertainty."
+  },
+  {
+    "domain": "foxnews.com",
+    "ownershipGroup": "fox-corporation",
+    "ownership": "Fox Corporation",
+    "ownershipSource": "https://www.foxnews.com/about-us",
+    "country": "United States",
+    "note": "Approved seed source. Syndicated Reuters material counts as one originating newsroom. Check actual authorship of future articles; fail on uncertainty."
+  },
+  {
+    "domain": "theguardian.com",
+    "ownershipGroup": "scott-trust",
+    "ownership": "Guardian Media Group; Scott Trust ownership",
+    "ownershipSource": "https://www.theguardian.com/about/history",
+    "country": "United Kingdom",
+    "note": "Approved seed source. Syndicated Reuters material counts as one originating newsroom. Check actual authorship of future articles; fail on uncertainty."
+  },
+  {
+    "domain": "indianexpress.com",
+    "ownershipGroup": "thomson-reuters",
+    "ownership": "Reuters: Thomson Reuters; host: The Indian Express [P] Ltd.",
+    "ownershipSource": "https://reutersagency.com/about/standards-values/",
+    "country": "India (host); international wire",
+    "note": "Approved seed source. Syndicated Reuters material counts as one originating newsroom. Check actual authorship of future articles; fail on uncertainty."
+  },
+  {
+    "domain": "timesofisrael.com",
+    "ownershipGroup": "times-of-israel-staff-agencies",
+    "ownership": "Zmanei Yisrael; founded by David Horovitz with capital partner Seth Klarman",
+    "ownershipSource": "https://www.timesofisrael.com/about/",
+    "country": "Israel",
+    "note": "Approved seed source. Syndicated Reuters material counts as one originating newsroom. Check actual authorship of future articles; fail on uncertainty."
+  },
+  {
+    "domain": "aljazeera.com",
+    "ownershipGroup": "al-jazeera-network",
+    "ownership": "Al Jazeera Media Network; partly funded by Qatar's government",
+    "ownershipSource": "https://www.aljazeera.com/about-us",
+    "country": "Qatar",
+    "note": "Approved seed source. Syndicated Reuters material counts as one originating newsroom. Check actual authorship of future articles; fail on uncertainty."
+  },
+  {
+    "domain": "investing.com",
+    "ownershipGroup": "thomson-reuters",
+    "ownership": "Reuters: Thomson Reuters; host ownership not audited",
+    "ownershipSource": "https://reutersagency.com/about/standards-values/",
+    "country": "International wire",
+    "note": "Approved seed source. Syndicated Reuters material counts as one originating newsroom. Check actual authorship of future articles; fail on uncertainty."
+  },
+  {
+    "domain": "indiatoday.in",
+    "ownershipGroup": "india-today-group",
+    "ownership": "India Today Group; exact corporate owner not separately audited",
+    "ownershipSource": "https://www.indiatodaygroup.com/about-us.php",
+    "country": "India",
+    "note": "Approved seed source. Syndicated Reuters material counts as one originating newsroom. Check actual authorship of future articles; fail on uncertainty."
+  },
+  {
+    "domain": "appleinsider.com",
+    "ownershipGroup": "quiller-media",
+    "ownership": "Quiller Media, Inc. (publisher footer)",
+    "ownershipSource": "https://appleinsider.com/help/ethics",
+    "country": "Not independently verified",
+    "note": "Approved seed source. Syndicated Reuters material counts as one originating newsroom. Check actual authorship of future articles; fail on uncertainty."
+  }
+]

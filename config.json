@@ -1,0 +1,11 @@
+{
+  "title": "World News Archive",
+  "repositoryUrl": "https://github.com/heckel75/World-News-Archive",
+  "automationStatus": "setup-required",
+  "automationNote": "Daily enrichment is prepared but has not been activated. This site currently contains a researched historical edition.",
+  "timezone": "UTC",
+  "maxArticleAgeHours": 72,
+  "model": "gpt-6-astra",
+  "maxOutputTokens": 18000,
+  "maxSearchCalls": 20
+}

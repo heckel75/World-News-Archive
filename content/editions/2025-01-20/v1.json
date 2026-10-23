@@ -1,0 +1,525 @@
+{
+  "schemaVersion": 1,
+  "date": "2025-01-20",
+  "cutoff": "2025-01-20T23:59:59Z",
+  "recordedAt": "2026-10-23T13:48:54Z",
+  "kind": "retrospective",
+  "selectionSummary": "Three consequential developments spanning governance, war and technology. This is an editorial selection for the MVP, not a measured ranking of every world event or a claim of geographically exhaustive coverage.",
+  "snapshot": {
+    "summary": "Washington's change of administration intersected with both Gaza diplomacy and TikTok's uncertain US future. Across the three stories, immediate changes were visible while implementation, durability and the use of executive power remained open questions.",
+    "connections": [
+      "Political transitions, conflict diplomacy and digital sovereignty intersected through the incoming US administration."
+    ],
+    "uncertainties": [
+      "The durability of the Gaza pause, the scope of US policy changes and TikTok’s legal position remained unresolved."
+    ]
+  },
+  "stories": [
+    {
+      "id": "2025-01-20-us-inauguration",
+      "eventId": "us-trump-second-presidency-2025",
+      "title": "Trump returns to the US presidency",
+      "summary": "Donald Trump took office for a second term. The transfer brought promised changes to immigration and the federal government, with international partners watching the direction of US policy.",
+      "whyItMatters": "A change in US leadership can affect alliances, trade, migration and conflict diplomacy well beyond the country's borders.",
+      "region": "North America",
+      "tags": [
+        "United States",
+        "Governance",
+        "Diplomacy",
+        "Executive power"
+      ],
+      "selectionRationale": "Selected for United States, Governance, Diplomacy and its consequences beyond one country. This is an editorial selection, not an exhaustive global ranking.",
+      "evidenceNote": "The shared facts concern the public ceremony. The contrasting evaluations are interpretations, not additional verified facts.",
+      "articles": [
+        {
+          "id": "inauguration-reference",
+          "role": "reference",
+          "headline": "Trump sworn in a second time, vows 'golden age of America'",
+          "url": "https://www.kitco.com/news/off-the-wire/2025-01-20/trump-sworn-second-time-vows-golden-age-america",
+          "publishedAt": "2025-01-20",
+          "publishedPrecision": "date",
+          "genre": "News report",
+          "outlet": {
+            "name": "Reuters via Kitco News",
+            "domain": "kitco.com",
+            "country": "International wire",
+            "ownership": "Reuters: Thomson Reuters; host ownership not audited",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": "https://reutersagency.com/about/standards-values/"
+          },
+          "lens": {
+            "label": "Reference / institutional sequence",
+            "rationale": "Reports the oath, planned actions and constraints, alongside political context."
+          },
+          "summary": "Reuters records the oath and incoming policy plans, explaining the institutional transition and potential legal challenges. This early report distinguishes intended executive actions from actions already completed.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T13:48:54Z",
+            "method": "research-tool",
+            "note": "Full article text was observed through the research tool without payment or login. Browser and regional availability can differ."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T13:48:54Z",
+            "contentHash": null,
+            "evidenceNote": "Full article body opened; visible paragraphs through closing text and byline. Syndicated Reuters story; no separate Reuters-origin URL asserted. Date evidence: Publisher display inspected; report explicitly places the inauguration on January 20. Publisher display: Jan 20, 2025 - 5:36 PM. Last updated display: Jan 20, 2025 - 5:39 PM. Ownership metadata checked in October 2026, not audited at the historical cutoff."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "inauguration-a",
+          "role": "contrast_a",
+          "headline": "Donald Trump sworn in as 47th president of the United States",
+          "url": "https://www.foxnews.com/politics/trump-calls-revolution-commonsense-vows-new-era-national-success-inaugural-address",
+          "publishedAt": "2025-01-20T17:07:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "News report",
+          "outlet": {
+            "name": "Fox News",
+            "domain": "foxnews.com",
+            "country": "United States",
+            "ownership": "Fox Corporation",
+            "ownershipGroup": "fox-corporation",
+            "ownershipSource": "https://www.foxnews.com/about-us"
+          },
+          "lens": {
+            "label": "Renewal",
+            "rationale": "Foregrounds presidential optimism."
+          },
+          "summary": "Presents Trump's return as renewal.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T13:48:54Z",
+            "method": "research-tool",
+            "note": "Full article text was observed through the research tool without payment or login. Browser and regional availability can differ."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T13:48:54Z",
+            "contentHash": null,
+            "evidenceNote": "Article body and timestamps opened; current surrounding recommendations excluded. Date evidence: Published and updated timestamps visible above article. Publisher display: January 20, 2025 12:07pm EST. Last updated display: January 20, 2025 12:10pm EST. Ownership metadata checked in October 2026, not audited at the historical cutoff."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "inauguration-b",
+          "role": "contrast_b",
+          "headline": "The Guardian view on Donald Trump’s inauguration: fear, division and the facade of national populism",
+          "url": "https://www.theguardian.com/commentisfree/2025/jan/20/the-guardian-view-on-donald-trumps-inauguration-fear-division-and-the-facade-of-national-populism",
+          "publishedAt": "2025-01-20T18:58:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Editorial",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group; Scott Trust ownership",
+            "ownershipGroup": "scott-trust",
+            "ownershipSource": "https://www.theguardian.com/about/history"
+          },
+          "lens": {
+            "label": "Democratic accountability",
+            "rationale": "Critiques power."
+          },
+          "summary": "Warns against authoritarianism.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T13:48:54Z",
+            "method": "research-tool",
+            "note": "Full article text was observed through the research tool without payment or login. Browser and regional availability can differ."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T13:48:54Z",
+            "contentHash": null,
+            "evidenceNote": "Full editorial opened; explicitly labeled opinion/editorial. Date evidence: Publication and same-day last-modified times visible; latest displayed time converts to January 20 at 22:42 UTC. Publisher display: Mon 20 Jan 2025 19.58 CET. Last updated display: Mon 20 Jan 2025 23.42 CET. Ownership metadata checked in October 2026, not audited at the historical cutoff."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Trump took the presidential oath on January 20, 2025.",
+          "sourceIds": [
+            "inauguration-reference",
+            "inauguration-a",
+            "inauguration-b"
+          ]
+        },
+        {
+          "text": "The ceremony took place inside the Capitol because of cold weather.",
+          "sourceIds": [
+            "inauguration-reference",
+            "inauguration-a",
+            "inauguration-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Renewal: Foregrounds presidential optimism.",
+          "sourceIds": [
+            "inauguration-a"
+          ]
+        },
+        {
+          "text": "Democratic accountability: Critiques power.",
+          "sourceIds": [
+            "inauguration-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Which announced executive actions would survive legal challenges?",
+        "How would tariff proposals and alliance policy translate into implemented decisions?"
+      ],
+      "unverifiedClaims": []
+    },
+    {
+      "id": "2025-01-20-gaza-ceasefire",
+      "eventId": "israel-gaza-ceasefire-january-2025",
+      "title": "Gaza ceasefire begins with hostage and prisoner releases",
+      "summary": "The ceasefire's first exchanges were completed while people in Gaza confronted destruction. The initial halt created room for reunions and relief, but subsequent negotiations and rebuilding remained unresolved.",
+      "whyItMatters": "The pause affected civilian survival, the return of people held captive or detained, and prospects for a wider regional de-escalation.",
+      "region": "Middle East",
+      "tags": [
+        "Gaza",
+        "Israel",
+        "Palestine",
+        "Ceasefire",
+        "Humanitarian"
+      ],
+      "selectionRationale": "Selected for Gaza, Israel, Palestine and its consequences beyond one country. This is an editorial selection, not an exhaustive global ranking.",
+      "evidenceNote": "Release totals recur across the selected coverage. The sources can share officials and agency material; corroboration is not a separate forensic investigation. Demographic disagreements are retained as uncertainty.",
+      "articles": [
+        {
+          "id": "gaza-reference",
+          "role": "reference",
+          "headline": "Palestinian rescue workers begin search for people under rubble on day two of ceasefire",
+          "url": "https://indianexpress.com/article/news-today/palestinian-rescue-workers-search-people-under-rubble-day-two-ceasefire-9787845/",
+          "publishedAt": "2025-01-20T13:41:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "News report",
+          "outlet": {
+            "name": "Reuters via The Indian Express",
+            "domain": "indianexpress.com",
+            "country": "India (host); international wire",
+            "ownership": "Reuters: Thomson Reuters; host: The Indian Express [P] Ltd.",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": "https://reutersagency.com/about/standards-values/"
+          },
+          "lens": {
+            "label": "Reference / conditions on the ground",
+            "rationale": "Separates reported releases from attributed rescue estimates and allegations."
+          },
+          "summary": "Reuters reports the exchange and Gaza's destruction, attributing casualty estimates to officials. Residents describe the ceasefire largely holding, while reports of isolated shootings await an Israeli military response.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T13:48:54Z",
+            "method": "research-tool",
+            "note": "Full article text was observed through the research tool without payment or login. Browser and regional availability can differ."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T13:48:54Z",
+            "contentHash": null,
+            "evidenceNote": "Full Reuters-syndicated body readable through final paragraph. Host offers subscriptions elsewhere, but no paywall blocked this selected article. Date evidence: Archive banner and article timestamp both identify January 20, 2025. Publisher display: Jan 20, 2025 07:11 PM IST. Ownership metadata checked in October 2026, not audited at the historical cutoff."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "gaza-a",
+          "role": "contrast_a",
+          "headline": "Israel frees 90 Palestinian security prisoners, who are welcomed with Hamas flags",
+          "url": "https://www.timesofisrael.com/israel-frees-90-palestinian-security-prisoners-who-are-welcomed-with-hamas-flags/",
+          "publishedAt": "2025-01-20",
+          "publishedPrecision": "date",
+          "genre": "News report",
+          "outlet": {
+            "name": "The Times of Israel",
+            "domain": "timesofisrael.com",
+            "country": "Israel",
+            "ownership": "Zmanei Yisrael; founded by David Horovitz with capital partner Seth Klarman",
+            "ownershipGroup": "times-of-israel-staff-agencies",
+            "ownershipSource": "https://www.timesofisrael.com/about/"
+          },
+          "lens": {
+            "label": "Israeli security and hostages",
+            "rationale": "Leads with prisoners' security classifications, factional flags and the exchange for civilian hostages."
+          },
+          "summary": "The report emphasizes security context and the prisoner-release process. It notes conflicting demographic breakdowns and distinguishes the first group released from people expected to be freed later.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T13:48:54Z",
+            "method": "research-tool",
+            "note": "Full article text was observed through the research tool without payment or login. Browser and regional availability can differ."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T13:48:54Z",
+            "contentHash": null,
+            "evidenceNote": "Full report opened; explicitly credited to staff and agencies, so not assumed wholly independent original reporting. Date evidence: Dated byline visible above article. Publisher display: 20 January 2025, 6:24 am. Ownership metadata checked in October 2026, not audited at the historical cutoff."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "gaza-b",
+          "role": "contrast_b",
+          "headline": "Tears, hugs greet 90 Palestinian women, children freed from Israeli prisons",
+          "url": "https://www.aljazeera.com/news/2025/1/20/celebrations-as-90-detained-palestinians-freed-from-israeli-prisons",
+          "publishedAt": "2025-01-20",
+          "publishedPrecision": "date",
+          "genre": "News report",
+          "outlet": {
+            "name": "Al Jazeera",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network; partly funded by Qatar's government",
+            "ownershipGroup": "al-jazeera-network",
+            "ownershipSource": "https://www.aljazeera.com/about-us"
+          },
+          "lens": {
+            "label": "Palestinian experience",
+            "rationale": "Families lead coverage."
+          },
+          "summary": "Centers Palestinians' reunions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T13:48:54Z",
+            "method": "research-tool",
+            "note": "Full article text was observed through the research tool without payment or login. Browser and regional availability can differ."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T13:48:54Z",
+            "contentHash": null,
+            "evidenceNote": "Full article opened. Do not reproduce its demographic breakdown as a common verified fact; selected coverage disagrees on details. Date evidence: Publication day visible below headline. Publisher display: 20 Jan 2025. Ownership metadata checked in October 2026, not audited at the historical cutoff."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Hamas released three Israeli hostages in the first exchange.",
+          "sourceIds": [
+            "gaza-reference",
+            "gaza-a",
+            "gaza-b"
+          ]
+        },
+        {
+          "text": "Israel released 90 Palestinian prisoners and detainees.",
+          "sourceIds": [
+            "gaza-reference",
+            "gaza-a",
+            "gaza-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Israeli security and hostages: Leads with prisoners' security classifications, factional flags and the exchange for civilian hostages.",
+          "sourceIds": [
+            "gaza-a"
+          ]
+        },
+        {
+          "text": "Palestinian experience: Families lead coverage.",
+          "sourceIds": [
+            "gaza-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether later phases would produce a lasting ceasefire and further releases remained unresolved.",
+        "The final number of people buried under rubble and the practical scope of reconstruction were not established.",
+        "The precise age and sex breakdown of the released Palestinians was disputed in contemporary reporting."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Palestinian emergency officials estimated thousands remained under rubble. This was an attributed estimate, not independently verified by this archive.",
+          "sourceIds": [
+            "gaza-reference"
+          ],
+          "reason": "Attributed in contemporaneous reporting; not independently established by this archive."
+        },
+        {
+          "text": "Medics reported people hit by Israeli fire near Rafah; the selected reference report said the military was checking those reports.",
+          "sourceIds": [
+            "gaza-reference"
+          ],
+          "reason": "Attributed in contemporaneous reporting; not independently established by this archive."
+        }
+      ]
+    },
+    {
+      "id": "2025-01-20-tiktok-us",
+      "eventId": "us-tiktok-divestiture-2025",
+      "title": "TikTok returns as its US future remains unsettled",
+      "summary": "TikTok began restoring US service after a brief shutdown and Trump's assurances. Its return did not settle the ownership dispute or eliminate uncertainty for the companies distributing and hosting it.",
+      "whyItMatters": "The conflict tested the boundary between national security policy, cross-border technology ownership and public access to a major communications platform.",
+      "region": "Global",
+      "tags": [
+        "United States",
+        "China",
+        "Technology",
+        "Digital sovereignty",
+        "Free expression"
+      ],
+      "selectionRationale": "Selected for United States, China, Technology and its consequences beyond one country. This is an editorial selection, not an exhaustive global ranking.",
+      "evidenceNote": "The January 18–20 reports capture different stages. The blackout article is earlier than the restoration report; compare timestamps rather than treating the difference as a factual contradiction.",
+      "articles": [
+        {
+          "id": "tiktok-reference",
+          "role": "reference",
+          "headline": "TikTok restores U.S service after Trump says \"we have to save it\"",
+          "url": "https://www.investing.com/news/stock-market-news/tiktok-goes-dark-for-us-users-trump-says-save-tiktok-3820071",
+          "publishedAt": "2025-01-19",
+          "publishedPrecision": "date",
+          "genre": "News report",
+          "outlet": {
+            "name": "Reuters via Investing.com",
+            "domain": "investing.com",
+            "country": "International wire",
+            "ownership": "Reuters: Thomson Reuters; host ownership not audited",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": "https://reutersagency.com/about/standards-values/"
+          },
+          "lens": {
+            "label": "Reference / service and legal status",
+            "rationale": "Tracks restoration while reporting competing company, government and legislative positions."
+          },
+          "summary": "Reuters describes service returning after Trump's assurances, while downloads remained unavailable. It reports Chinese officials' response, Republican objections to a delay and unresolved proposals for TikTok's ownership.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T13:48:54Z",
+            "method": "research-tool",
+            "note": "Full article text was observed through the research tool without payment or login. Browser and regional availability can differ."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T13:48:54Z",
+            "contentHash": null,
+            "evidenceNote": "Full Reuters article readable to final ownership paragraph. A wire republication, not a separate Investing.com newsroom report. Date evidence: Published and updated dates visible before article; update is January 20. Publisher display: Jan 19, 2025, 08:33 AM. Last updated display: Jan 20, 2025, 02:56 AM. Ownership metadata checked in October 2026, not audited at the historical cutoff."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "tiktok-a",
+          "role": "contrast_a",
+          "headline": "Good morning, America: Why India banned TikTok 5 years back",
+          "url": "https://www.indiatoday.in/india/story/tiktok-banned-in-america-why-india-blocked-chinese-apps-five-years-back-2666888-2025-01-19",
+          "publishedAt": "2025-01-19",
+          "publishedPrecision": "updated-only",
+          "genre": "News explainer",
+          "outlet": {
+            "name": "India Today",
+            "domain": "indiatoday.in",
+            "country": "India",
+            "ownership": "India Today Group; exact corporate owner not separately audited",
+            "ownershipGroup": "india-today-group",
+            "ownershipSource": "https://www.indiatodaygroup.com/about-us.php"
+          },
+          "lens": {
+            "label": "National security",
+            "rationale": "Centers state concerns."
+          },
+          "summary": "Highlights India's security precedent.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T13:48:54Z",
+            "method": "research-tool",
+            "note": "Full article text was observed through the research tool without payment or login. Browser and regional availability can differ."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T13:48:54Z",
+            "contentHash": null,
+            "evidenceNote": "Full explainer opened. The displayed day is an update date, not an independently confirmed first-publication timestamp. Date evidence: Visible updated timestamp and dated article URL both identify January 19; initial publication time is not separately displayed. Publisher display: New Delhi, UPDATED: Jan 19, 2025 17:21 IST. Last updated display: Jan 19, 2025 17:21 IST. Ownership metadata checked in October 2026, not audited at the historical cutoff."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "tiktok-b",
+          "role": "contrast_b",
+          "headline": "TikTok has shut itself down in the US ahead of January 19 deadline.",
+          "url": "https://appleinsider.com/articles/25/01/19/tiktok-has-shut-itself-down-in-the-us-ahead-of-january-19-deadline",
+          "publishedAt": "2025-01-19T03:53:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "News with analysis",
+          "outlet": {
+            "name": "AppleInsider",
+            "domain": "appleinsider.com",
+            "country": "Not independently verified",
+            "ownership": "Quiller Media, Inc. (publisher footer)",
+            "ownershipGroup": "quiller-media",
+            "ownershipSource": "https://appleinsider.com/help/ethics"
+          },
+          "lens": {
+            "label": "Political motives and platform access",
+            "rationale": "Argues political incentives outweigh the publicly stated security rationale; this is the author's interpretation."
+          },
+          "summary": "The article recounts TikTok's shutdown and the policy's history, questioning the security rationale and highlighting political reversals. Its conclusion about motives is analysis rather than a finding established by this archive.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T13:48:54Z",
+            "method": "research-tool",
+            "note": "Full article text was observed through the research tool without payment or login. Browser and regional availability can differ."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T13:48:54Z",
+            "contentHash": null,
+            "evidenceNote": "Full article opened through closing paragraph. Browser document title differs from visible headline; saved headline follows the visible article heading. Date evidence: Visible timestamp is January 18 at 22:53 EST, which converts to January 19 at 03:53 UTC. URL uses January 19. Publisher display: Sat Jan 18 2025, 10:53 PM EST. Ownership metadata checked in October 2026, not audited at the historical cutoff."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "TikTok became unavailable to US users during the January 18–19 shutdown.",
+          "sourceIds": [
+            "tiktok-reference",
+            "tiktok-b"
+          ]
+        },
+        {
+          "text": "The app was removed from US Apple and Google app stores during the shutdown.",
+          "sourceIds": [
+            "tiktok-reference",
+            "tiktok-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "National security: Centers state concerns.",
+          "sourceIds": [
+            "tiktok-a"
+          ]
+        },
+        {
+          "text": "Political motives and platform access: Argues political incentives outweigh the publicly stated security rationale; this is the author's interpretation.",
+          "sourceIds": [
+            "tiktok-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Which ownership arrangement, if any, would satisfy US requirements?",
+        "How far could presidential assurances protect service providers under the enacted law?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "US officials cited possible misuse of Americans' data. The selected reports document the concern, not proof of a specific misuse.",
+          "sourceIds": [
+            "tiktok-reference"
+          ],
+          "reason": "Attributed in contemporaneous reporting; not independently established by this archive."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-10-23T13:48:54Z",
+    "author": "Archive research agent",
+    "reason": "Initial retrospective edition. Contemporary articles inspected in October 2026; no historical page captures asserted."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "Archive research agent",
+    "note": "Every selected article was opened and its readable article body inspected through the research tool on 23 October 2026 without signing in or payment. This observes public retrieval, not guaranteed availability in every browser or country. No contemporaneous archive capture was verified. Current page text may differ from what a reader saw in January 2025. Outlet descriptions below were checked on current publisher pages in October 2026; historical ownership at the edition cutoff was not separately audited. Research was agent-assisted, not a human editorial review."
+  }
+}
