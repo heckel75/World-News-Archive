@@ -8,7 +8,6 @@
     "build": "node scripts/build.mjs",
     "test": "node --test tests/*.test.mjs",
     "validate": "node scripts/validate.mjs",
-    "research": "node scripts/research.mjs",
     "publish": "node scripts/publish.mjs",
     "serve": "node scripts/serve.mjs"
   }

@@ -1,11 +1,8 @@
 {
   "title": "World News Archive",
   "repositoryUrl": "https://github.com/heckel75/World-News-Archive",
-  "automationStatus": "setup-required",
-  "automationNote": "Daily enrichment is prepared but has not been activated. This site currently contains a researched historical edition.",
+  "automationStatus": "agent-managed",
+  "automationNote": "Editions are researched and reviewed in ChatGPT, then published to this archive. The website does not call an AI API. Connection of the existing daily ChatGPT task to publishing is pending verification.",
   "timezone": "UTC",
-  "maxArticleAgeHours": 72,
-  "model": "gpt-6-astra",
-  "maxOutputTokens": 18000,
-  "maxSearchCalls": 20
+  "maxArticleAgeHours": 72
 }

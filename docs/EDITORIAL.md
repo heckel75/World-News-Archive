@@ -1,56 +1,38 @@
 # Editorial operation
 
-## Data contract
+## Daily research in ChatGPT
 
-`lib/schema.mjs` defines the strict data schema; `lib/validate.mjs` adds semantic checks. The checked-in January 20 edition is an example. Required fields include UTC cutoff, actual record time, edition kind, review status, version reason, 3 stories, and exactly 3 articles per story. Every common fact references at least two selected source IDs; the citation targets must belong to the same story.
+Use the existing Open Source News Archive task and its news-selection intent. Research the previous completed UTC day. Check the repository first: if that day already exists, do not duplicate it. Reuse persistent event IDs for continuing stories. A run more than 48 hours after cutoff is a retrospective backfill.
 
-Article `role` is `reference`, `contrast_a`, or `contrast_b`. These are slots, not permanent outlet bias classifications. `genre` distinguishes news, analysis and editorial. `ownershipGroup` tracks the originating newsroom rather than just the syndication host. `lens.rationale` must identify a visible difference in this article. A source's disagreement does not make its factual claims credible.
+Search broadly for consequential international developments. Select three distinct events based on cross-border impact, breadth of reporting and lasting significance. This is an editorial selection, not an objective ranking. Find exactly three free-to-read articles about each event, with independent originating newsrooms: one factual/reference lens and two materially contrasting editorial or geopolitical lenses. Syndicated copies of one wire story do not constitute independent perspectives.
 
-Preserve the original URL exactly. Canonicalization is only for duplicate detection. Dates with no displayed timezone use `YYYY-MM-DD` and `publishedPrecision: date`; never invent a clock time. An `updated-only` source is visibly labeled and is allowed only in reviewed retrospective editions. Automated daily editions require original publication metadata, before cutoff and within 72 hours.
+Open the actual articles without payment/login. Check original headline, publication date, genre, publisher, originating newsroom and access. An earlier chat entry is a research lead, not proof. Missing or inaccessible links must be repaired or replaced. Never bypass a paywall or substitute snippets for inspection. A state outlet may document its government's position, but its claims remain attributed unless independently supported.
 
-`recordedAt` answers “when did this archive create the record?” `cutoff` answers “through what moment is the edition allowed to know things?” Keep them separate. Historical backfills created more than 48 hours after cutoff must be `retrospective`. They cannot prove the page contents were identical on that earlier day.
+Read and compare before writing. Keep summaries original and brief, respect source-specific usage limits, and never store publisher bodies or images. Identify article-specific framing without permanent extreme/moderate labels. A reference lens does not guarantee neutrality. At least two selected sources must support each common fact; multiple reports quoting one official establish the existence of that claim, not its truth.
 
-## Manual research
+## As-of-day integrity
 
-Read the selected articles fully, without payment/login. Check publication date, article type, origin and any syndication. Record exactly what access was observed. Prefer stable articles over live pages. Keep article summaries short and original. Do not copy full article bodies, photos, or excerpts into the repository.
+cutoff is the end of the edition day in UTC; recordedAt is the actual preparation time. Do not backdate retrieval or recording. Every article must have original publication metadata within 72 hours before cutoff. Use YYYY-MM-DD when no timezone or clock time is verified. An updated-only date is permitted only in a reviewed retrospective edition, with an explicit limitation. Disclose later edits and avoid facts only learned after cutoff. Preserve uncertainties as they stood then.
 
-For a new completed day:
+Review and openly flag unresolved claims, source-access gaps, uncertain date precision and lack of archived snapshots. Leave archivedUrl and contentHash null when no capture or actual fingerprint was checked. A current article retrieval is not proof that its text was identical at the historical cutoff.
 
-```sh
-node scripts/research.mjs 2026-10-22
-node scripts/publish.mjs work/drafts/2026-10-22.json
-npm test
-npm run build
-```
+## Data and publication
 
-The research command requires `OPENAI_API_KEY` in the environment and writes no published content. The publish command requires the matching verification receipt. Never commit `.env` files or receipts with private keys; receipts here contain usage and response IDs, not credentials or article bodies.
+lib/schema.mjs defines the fields and lib/validate.mjs enforces dates, counts, citations, ownership groups and duplicates. Use the existing editions as structural examples. Each article has a reference, contrast_a or contrast_b role. ownershipGroup describes the originating newsroom even on a syndication host.
 
-For a manually prepared or edited draft, perform a real editorial review and use:
+Write the draft under work/drafts/. Set review.status to agent-reviewed, review.reviewer to ChatGPT and a concrete review.note describing the checks and limitations. Set revision.author to ChatGPT. Publish locally with:
 
-```sh
-node scripts/publish.mjs work/drafts/2026-10-22.json --human-reviewed --reviewer="Your name"
-```
+    node scripts/publish.mjs work/drafts/YYYY-MM-DD.json --agent-reviewed --reviewer=ChatGPT
+    npm test
+    npm run validate
+    npm run build
 
-That option is an explicit manual attestation, not a way for an automated job to bypass evidence checks. It still enforces the schema, dates, counts and immutable versions.
+A real human editor may instead set human-reviewed, use their own name and pass --human-reviewed with the matching --reviewer. Never use that option for agent work. No API key or verification-receipt fabrication is needed. Structural tests supplement editorial source checks; they cannot establish truth.
 
-## Correct an edition
+Commit only the completed edition and intended metadata to heckel75/World-News-Archive. Inspect the current branch head and use an expected-head check to avoid overwriting concurrent work. Do not upload local secrets, private files, full article text, or temporary drafts. Optional human approval uses a pull request. After a commit or merge, confirm GitHub Actions deployment success and open the live edition. If deployment fails, retry deployment without collecting the same edition again.
 
-1. Copy the latest version to `work/correction.json`.
-2. Keep the edition date, original `recordedAt`, edition kind and event IDs for unchanged events.
-3. Increase `revision.number` by one. Set `revision.at` to the real current UTC timestamp. Name the editor and explain what changed and why.
-4. Correct the error with source evidence. Do not put subsequent developments into the original as-of-day uncertainty; those belong in later editions. Describe a correction that reflects later verification explicitly in its reason.
-5. Use the manual publisher above, test/build, and commit the new version. The build includes every earlier JSON file and a fingerprint per version. The site exposes the version selector and reason.
+## Corrections and failures
 
-Do not overwrite or delete old edition files. A typo correction also creates a new version. PR checks reject modification of published files. Git administrators can bypass CI, so repository protections and external backups still matter; this is not a tamper-proof ledger.
+Copy the latest version to a draft, preserve original recordedAt and unchanged event IDs, increase revision.number, and record the actual correction timestamp, author and reason. Perform a fresh agent or human source review and use the matching publisher flag. Earlier versions remain immutable and selectable. Later developments belong in a later edition, not silently inside an earlier uncertainty.
 
-## Failures and reruns
-
-- Missing key, quota, unsupported model or API errors: fix configuration; inspect the failing step. Never print the secret.
-- Paywall, metadata absence, post-cutoff modification or weak source evidence: select another genuine source or perform a documented human review. No bypassing access controls.
-- Duplicate day: research exits without spending again. Corrections use the next version, never force an overwrite.
-- Failed Pages deployment after a content commit: run the deployment workflow again; don't research the same day again.
-- Existing review branch: the workflow preserves it. Open the branch and its PR; if PR creation failed, create the PR from that branch. It does not overwrite human edits.
-- Failed research: no partial day is admitted. Receipts and successful drafts are retained as Actions artifacts for 30 days; raw article bodies are never persisted. Check calendar gaps and manually backfill a completed date.
-- Retrospective machine checks can reject pages updated later. This is expected. A human can assess dated evidence and explicitly describe its limitation; the seed was prepared this way by an agent-assisted research review and is labeled accordingly.
-
-Automated review can miss context or hallucinate. Inspect early editions before unattended publication and sample regularly afterward. The site labels agent review honestly and carries source-specific uncertainties.
+If nine suitable articles cannot be verified, retain a private working draft and report the gap. Do not lower evidence standards or fabricate a complete day. If access, authentication or publishing permission fails, preserve the existing site and report the actionable problem. Never claim the schedule or deployment succeeded merely because a task or commit exists.
