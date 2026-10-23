@@ -2,7 +2,7 @@
 
 ## Daily research in ChatGPT
 
-Use the existing Open Source News Archive task and its news-selection intent. Research the previous completed UTC day. Check the repository first: if that day already exists, do not duplicate it. Reuse persistent event IDs for continuing stories. A run more than 48 hours after cutoff is a retrospective backfill.
+Use the existing World News History Archive task in the Open Source News Archive conversation and its news-selection intent. Research the previous completed Europe/Paris calendar day. Check the repository first: if that day already exists, do not duplicate it. Reuse persistent event IDs for continuing stories. A run more than 48 hours after cutoff is a retrospective backfill.
 
 Search broadly for consequential international developments. Select three distinct events based on cross-border impact, breadth of reporting and lasting significance. This is an editorial selection, not an objective ranking. Find exactly three free-to-read articles about each event, with independent originating newsrooms: one factual/reference lens and two materially contrasting editorial or geopolitical lenses. Syndicated copies of one wire story do not constitute independent perspectives.
 
@@ -12,7 +12,7 @@ Read and compare before writing. Keep summaries original and brief, respect sour
 
 ## As-of-day integrity
 
-cutoff is the end of the edition day in UTC; recordedAt is the actual preparation time. Do not backdate retrieval or recording. Every article must have original publication metadata within 72 hours before cutoff. Use YYYY-MM-DD when no timezone or clock time is verified. An updated-only date is permitted only in a reviewed retrospective edition, with an explicit limitation. Disclose later edits and avoid facts only learned after cutoff. Preserve uncertainties as they stood then.
+Set timezone to Europe/Paris. cutoff is the UTC instant corresponding to 23:59:59 on the edition date in Europe/Paris (21:59:59Z in summer, 22:59:59Z in winter); recordedAt is the actual preparation time. The validator checks the timezone with daylight-saving rules. Older editions without a timezone field retain UTC interpretation. Do not backdate retrieval or recording. Every article must have original publication metadata within 72 hours before cutoff. Use YYYY-MM-DD when no timezone or clock time is verified. An updated-only date is permitted only in a reviewed retrospective edition, with an explicit limitation. Disclose later edits and avoid facts only learned after cutoff. Preserve uncertainties as they stood then.
 
 Review and openly flag unresolved claims, source-access gaps, uncertain date precision and lack of archived snapshots. Leave archivedUrl and contentHash null when no capture or actual fingerprint was checked. A current article retrieval is not proof that its text was identical at the historical cutoff.
 

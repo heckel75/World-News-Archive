@@ -1,0 +1,532 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-22",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-10-22T21:59:59Z",
+  "recordedAt": "2026-10-23T14:43:29.486Z",
+  "kind": "daily",
+  "selectionSummary": "Continues the three events selected in the existing daily news task, after fresh source inspection. Selection weighs international security, energy exposure and long-term climate consequences; it is an editorial choice. Two inaccessible original links were replaced with accessible AP syndications, Sputnik with TASS, and the climate reference with UNEP’s explanatory news story. This edition covers the completed Paris calendar day, not the following day.",
+  "snapshot": {
+    "summary": "Iranian shipping claims, continued strikes in the Russia–Ukraine war, and a new climate assessment put energy and international cooperation under scrutiny. Military assertions remained disputed; climate pathways remained conditional.",
+    "connections": [
+      "Editorial interpretation: energy security links the maritime crisis, attacks on infrastructure and climate policy, although the stories operate on different timescales."
+    ],
+    "uncertainties": [
+      "The scale of military damage and prospects for de-escalation remained uncertain.",
+      "Emissions projections depended on future policy choices and technological feasibility."
+    ]
+  },
+  "stories": [
+    {
+      "id": "hormuz-vessel-claims",
+      "eventId": "me-iran-hormuz-2026",
+      "title": "Iran claims seven vessels were hit near Hormuz",
+      "summary": "Iran’s navy announced attacks and mine incidents involving seven vessels, alongside a warning to US bases. The incidents were not independently established in the selected reporting.",
+      "whyItMatters": "The waterway links regional conflict with international energy transport and shipping risk.",
+      "region": "Middle East",
+      "tags": [
+        "Iran",
+        "Hormuz",
+        "Shipping",
+        "Energy",
+        "Diplomacy"
+      ],
+      "selectionRationale": "Potential cross-border energy disruption and military escalation justify inclusion.",
+      "evidenceNote": "Separate newsrooms largely describe the same IRGC statement. Corroboration establishes that the statement was made, not that all claimed incidents occurred.",
+      "articles": [
+        {
+          "id": "hormuz-reference",
+          "role": "reference",
+          "headline": "Iran says 7 oil tankers were attacked in the Strait of Hormuz as fears grow of a return to war",
+          "url": "https://www.wtva.com/2026/10/22/iran-says-7-oil-tankers-were-attacked-strait-hormuz-fears-grow-return-war/",
+          "publishedAt": "2026-10-22T21:45:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "news",
+          "outlet": {
+            "name": "Associated Press via WTVA",
+            "domain": "wtva.com",
+            "country": "United States",
+            "ownership": "The article credits Associated Press; WTVA is the syndication host. Reporting independence is counted at AP level.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Verification and shipping context",
+            "rationale": "Distinguishes Iran’s account from independent confirmation and examines continued tanker traffic."
+          },
+          "summary": "Reports the allegations with explicit verification limits and context from maritime observers.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T14:43:29.486Z",
+            "method": "research-tool",
+            "note": "Substantive article text was accessible without payment or login during preparation. Publication shown as 5:45 PM EDT, October 22. A relative updated label was visible at retrieval; its exact timestamp was unavailable. Selected claims are corroborated in the other dated reports. Original wire link: https://apnews.com/article/2abebce2fca2c085e0e0ee717e42cf28"
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T14:43:29.486Z",
+            "contentHash": null,
+            "evidenceNote": "No contemporaneous snapshot or content fingerprint was saved. Publication shown as 5:45 PM EDT, October 22. A relative updated label was visible at retrieval; its exact timestamp was unavailable. Selected claims are corroborated in the other dated reports. Original wire link: https://apnews.com/article/2abebce2fca2c085e0e0ee717e42cf28"
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "hormuz-a",
+          "role": "contrast_a",
+          "headline": "IRGC Navy says four offending vessels hit in northern Persian Gulf, three others strike mines west of Hormuz",
+          "url": "https://www.presstv.co.uk/Detail/2026/10/22/778916/IRGC-Navy-four-vessels-hit-Persian-Gulf",
+          "publishedAt": "2026-10-22T05:28:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "news",
+          "outlet": {
+            "name": "Press TV",
+            "domain": "presstv.co.uk",
+            "country": "Iran",
+            "ownership": "IRIB World Service channel, headquartered in Tehran, according to its About page.",
+            "ownershipGroup": "irib",
+            "ownershipSource": "https://www.presstv.co.uk/aboutus"
+          },
+          "lens": {
+            "label": "Iranian military justification",
+            "rationale": "Adopts the navy’s rule-enforcement vocabulary and assigns responsibility to US routing."
+          },
+          "summary": "Presents Iran’s announced actions as enforcement of its claimed navigation restrictions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T14:43:29.486Z",
+            "method": "research-tool",
+            "note": "Substantive article text was accessible without payment or login during preparation. The article displays 05:28 UTC. Its account relies on the IRGC statement; that is not independent proof of damage."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T14:43:29.486Z",
+            "contentHash": null,
+            "evidenceNote": "No contemporaneous snapshot or content fingerprint was saved. The article displays 05:28 UTC. Its account relies on the IRGC statement; that is not independent proof of damage."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "hormuz-b",
+          "role": "contrast_b",
+          "headline": "IRGC Claims Attacks on Seven Ships in Persian Gulf",
+          "url": "https://iranwire.com/en/news/159184-irgc-claims-attacks-on-seven-ships-in-persian-gulf/",
+          "publishedAt": "2026-10-22",
+          "publishedPrecision": "date",
+          "genre": "news",
+          "outlet": {
+            "name": "IranWire",
+            "domain": "iranwire.com",
+            "country": "United Kingdom / Iran coverage",
+            "ownership": "Its About page names UK company Off-Centre Productions as owner and Maziar Bahari as founder.",
+            "ownershipGroup": "off-centre-productions",
+            "ownershipSource": "https://iranwire.com/en/about"
+          },
+          "lens": {
+            "label": "Scrutiny of official claims",
+            "rationale": "Attributes the account to the IRGC and treats the disputed route restrictions as Iran’s position."
+          },
+          "summary": "Reports the announcement as a military claim rather than adopting its justification.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T14:43:29.486Z",
+            "method": "research-tool",
+            "note": "Substantive article text was accessible without payment or login during preparation. The page displays October 22, without a verified clock time."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T14:43:29.486Z",
+            "contentHash": null,
+            "evidenceNote": "No contemporaneous snapshot or content fingerprint was saved. The page displays October 22, without a verified clock time."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The IRGC announced incidents involving four attacked vessels and three mine strikes.",
+          "sourceIds": [
+            "hormuz-a",
+            "hormuz-b"
+          ]
+        },
+        {
+          "text": "Its announcement included a threat to widen confrontation to US bases.",
+          "sourceIds": [
+            "hormuz-reference",
+            "hormuz-a"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Press TV legitimizes the restrictions; IranWire keeps that justification at a distance.",
+          "sourceIds": [
+            "hormuz-a",
+            "hormuz-b"
+          ]
+        },
+        {
+          "text": "AP foregrounds verification limits and commercial navigation rather than endorsing Iran’s account.",
+          "sourceIds": [
+            "hormuz-reference",
+            "hormuz-a"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Which vessels were damaged, and by what means?",
+        "Would the threats produce wider fighting or renewed negotiations?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Seven vessels were struck or damaged by mines as described by the IRGC.",
+          "sourceIds": [
+            "hormuz-reference",
+            "hormuz-a",
+            "hormuz-b"
+          ],
+          "reason": "The underlying incidents were not independently confirmed in these accounts."
+        }
+      ]
+    },
+    {
+      "id": "ukraine-russia-strikes",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Strikes continue while Russia–Ukraine talks are discussed",
+      "summary": "Missiles hit Kyiv as Moscow reported a large Ukrainian drone operation. Fresh diplomatic contacts had not produced a halt in fighting.",
+      "whyItMatters": "Civilian security and infrastructure remained exposed despite renewed discussion of negotiations.",
+      "region": "Europe",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "War",
+        "Drones",
+        "Diplomacy"
+      ],
+      "selectionRationale": "Large-scale military operations and diplomacy carry consequences beyond the two countries.",
+      "evidenceNote": "Casualty and interception figures are attributed to officials. Source overlap on such statements does not independently establish every number or intended target.",
+      "articles": [
+        {
+          "id": "ukraine-reference",
+          "role": "reference",
+          "headline": "Russian missiles pound Kyiv as Moscow says over 800 Ukrainian drones downed",
+          "url": "https://www.arabnews.com/world/russian-missiles-pound-kyiv-as-moscow-says-over-800-ukrainian-drones-downed-3007742",
+          "publishedAt": "2026-10-22",
+          "publishedPrecision": "date",
+          "genre": "news",
+          "outlet": {
+            "name": "Associated Press via Arab News",
+            "domain": "arabnews.com",
+            "country": "United States / Saudi Arabia host",
+            "ownership": "The article credits AP; Arab News hosts this syndication. Independence is counted at AP level.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "War and diplomacy together",
+            "rationale": "Places both countries’ accounts alongside the proposed negotiations."
+          },
+          "summary": "Connects the attacks and competing official claims to continuing diplomatic uncertainty.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T14:43:29.486Z",
+            "method": "research-tool",
+            "note": "Substantive article text was accessible without payment or login during preparation. Published October 22 at 16:46, updated 16:47; timezone was not established, so the date alone is stored. Original wire link: https://apnews.com/article/5eef1c7dc4cc401dd8de85f718574877"
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T14:43:29.486Z",
+            "contentHash": null,
+            "evidenceNote": "No contemporaneous snapshot or content fingerprint was saved. Published October 22 at 16:46, updated 16:47; timezone was not established, so the date alone is stored. Original wire link: https://apnews.com/article/5eef1c7dc4cc401dd8de85f718574877"
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukraine-a",
+          "role": "contrast_a",
+          "headline": "Deadly Russian missile strike on Kyiv used cluster warheads, hours after Putin-Witkoff meeting",
+          "url": "https://kyivindependent.com/russian-ballistic-missiles-rock-kyiv-in-late-night-attack-injuring-6/",
+          "publishedAt": "2026-10-22",
+          "publishedPrecision": "date",
+          "genre": "news",
+          "outlet": {
+            "name": "The Kyiv Independent",
+            "domain": "kyivindependent.com",
+            "country": "Ukraine",
+            "ownership": "Original Kyiv Independent reporting with named journalists. Beneficial ownership was not independently audited for this edition.",
+            "ownershipGroup": "kyiv-independent",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Civilian harm in Ukraine",
+            "rationale": "Foregrounds on-the-ground disruption and Ukrainian officials’ account of the attack."
+          },
+          "summary": "Describes damage and civilian consequences in Kyiv, including allegations about weapons and intent.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T14:43:29.486Z",
+            "method": "research-tool",
+            "note": "Substantive article text was accessible without payment or login during preparation. First publication October 22 at 1:22 AM; updated 6:49 PM on the same date. A developing article; timezone not verified, so no clock time is asserted."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T14:43:29.486Z",
+            "contentHash": null,
+            "evidenceNote": "No contemporaneous snapshot or content fingerprint was saved. First publication October 22 at 1:22 AM; updated 6:49 PM on the same date. A developing article; timezone not verified, so no clock time is asserted."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukraine-b",
+          "role": "contrast_b",
+          "headline": "FACTBOX: What we know about one of largest Ukrainian drone attacks on Moscow",
+          "url": "https://tass.com/politics/2206077",
+          "publishedAt": "2026-10-22",
+          "publishedPrecision": "date",
+          "genre": "news factbox",
+          "outlet": {
+            "name": "TASS",
+            "domain": "tass.com",
+            "country": "Russia",
+            "ownership": "TASS identifies itself as a Russian state-run news agency.",
+            "ownershipGroup": "russian-state-tass",
+            "ownershipSource": "https://tass.com/today"
+          },
+          "lens": {
+            "label": "Russian air defence and domestic damage",
+            "rationale": "Centers Russian officials’ interception and damage claims."
+          },
+          "summary": "Compiles Moscow’s account of drone interceptions and effects on Russian communities.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T14:43:29.486Z",
+            "method": "research-tool",
+            "note": "Substantive article text was accessible without payment or login during preparation. October 22 dateline and dated overnight window were checked. The search listing also dates the article October 22; no clock timezone is asserted. Replaces an inaccessible Sputnik link."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T14:43:29.486Z",
+            "contentHash": null,
+            "evidenceNote": "No contemporaneous snapshot or content fingerprint was saved. October 22 dateline and dated overnight window were checked. The search listing also dates the article October 22; no clock timezone is asserted. Replaces an inaccessible Sputnik link."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Russian missile attacks hit Kyiv during renewed discussion of peace talks.",
+          "sourceIds": [
+            "ukraine-reference",
+            "ukraine-a"
+          ]
+        },
+        {
+          "text": "Russia’s Defence Ministry reported intercepting 808 Ukrainian drones overnight.",
+          "sourceIds": [
+            "ukraine-reference",
+            "ukraine-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "The Kyiv Independent emphasizes Ukrainian civilian harm; TASS emphasizes Russian defences and local damage.",
+          "sourceIds": [
+            "ukraine-a",
+            "ukraine-b"
+          ]
+        },
+        {
+          "text": "AP joins the competing military accounts to the diplomatic context.",
+          "sourceIds": [
+            "ukraine-reference",
+            "ukraine-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "How much damage did the drone operation cause inside Russia?",
+        "Would negotiations be scheduled and change conditions on the ground?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Russian forces intercepted precisely 808 drones.",
+          "sourceIds": [
+            "ukraine-reference",
+            "ukraine-b"
+          ],
+          "reason": "An official military count, not an independently established total."
+        },
+        {
+          "text": "The Kyiv strikes were deliberately intended to maximize civilian harm.",
+          "sourceIds": [
+            "ukraine-a"
+          ],
+          "reason": "Attributed to Ukrainian officials; intent is not independently proven here."
+        }
+      ]
+    },
+    {
+      "id": "unep-emissions-gap",
+      "eventId": "global-climate-emissions-gap-2026",
+      "title": "Climate assessment shifts attention to limiting overshoot",
+      "summary": "Coverage of UNEP’s new assessment examined pathways beyond 1.5°C and the reductions needed to bring warming back down. National reporting emphasized different responsibilities.",
+      "whyItMatters": "The assessment provides a dated benchmark for comparing future emissions, climate policy and temperature projections.",
+      "region": "Global",
+      "tags": [
+        "Climate",
+        "UNEP",
+        "Emissions",
+        "Energy",
+        "Paris Agreement"
+      ],
+      "selectionRationale": "Long-term international consequences and contrasting national coverage justify following the assessment after its October 21 launch.",
+      "evidenceNote": "All three articles discuss the same UNEP assessment. They corroborate what the report says, not independent climate measurements. The reference is UNEP’s institutional explanatory news article, not an independent newsroom audit.",
+      "articles": [
+        {
+          "id": "climate-reference",
+          "role": "reference",
+          "headline": "As temperatures spike, this new report outlines humanity’s options for containing climate change",
+          "url": "https://www.unep.org/en/news-and-stories/story/temperatures-spike-new-report-outlines-humanitys-options-containing-climate",
+          "publishedAt": "2026-10-21",
+          "publishedPrecision": "date",
+          "genre": "institutional news explainer",
+          "outlet": {
+            "name": "UN Environment Programme",
+            "domain": "unep.org",
+            "country": "United Nations / international",
+            "ownership": "An institutional news story published by the UN Environment Programme, which produced the assessment.",
+            "ownershipGroup": "unep",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Report methods and conditional pathways",
+            "rationale": "Explains the assessment while openly sharing its institutional origin."
+          },
+          "summary": "Explains how emissions reductions and carbon removal affect possible warming trajectories.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T14:43:29.486Z",
+            "method": "manual-browser",
+            "note": "Substantive article text was accessible without payment or login during preparation. The browser displays Published on 21 OCT 2026. Used as the institutional reference instead of the earlier task’s Hindustan Times explainer."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T14:43:29.486Z",
+            "contentHash": null,
+            "evidenceNote": "No contemporaneous snapshot or content fingerprint was saved. The browser displays Published on 21 OCT 2026. Used as the institutional reference instead of the earlier task’s Hindustan Times explainer."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "climate-a",
+          "role": "contrast_a",
+          "headline": "UN report calls out US emissions, says world can no longer avoid overshooting key climate target",
+          "url": "https://www.scrippsnews.com/science-and-tech/climate-change/un-report-calls-out-us-emissions-says-world-can-no-longer-avoid-overshooting-key-climate-target",
+          "publishedAt": "2026-10-21T20:06:33Z",
+          "publishedPrecision": "datetime",
+          "genre": "news",
+          "outlet": {
+            "name": "Scripps News",
+            "domain": "scrippsnews.com",
+            "country": "United States",
+            "ownership": "The site identifies Scripps News as part of The E. W. Scripps Company.",
+            "ownershipGroup": "ew-scripps",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "US policy accountability",
+            "rationale": "Focuses on US emissions and political responsibility."
+          },
+          "summary": "Examines the US contribution to the outlook and records the administration’s disagreement.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T14:43:29.486Z",
+            "method": "manual-browser",
+            "note": "Substantive article text was accessible without payment or login during preparation. Browser publication metadata gives 2026-10-21T16:06:33-0400. This corrects the earlier chat’s date-only October 22 attribution."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T14:43:29.486Z",
+            "contentHash": null,
+            "evidenceNote": "No contemporaneous snapshot or content fingerprint was saved. Browser publication metadata gives 2026-10-21T16:06:33-0400. This corrects the earlier chat’s date-only October 22 attribution."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "climate-b",
+          "role": "contrast_b",
+          "headline": "India likely to meet climate targets as UNEP warns of global emissions gap",
+          "url": "https://www.business-standard.com/world-news/india-likely-to-meet-climate-targets-as-unep-warns-of-global-emissions-gap-126102200628_1.html",
+          "publishedAt": "2026-10-22T08:16:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "news",
+          "outlet": {
+            "name": "Business Standard",
+            "domain": "business-standard.com",
+            "country": "India",
+            "ownership": "The site identifies Business Standard Private Ltd; the article is by Sarjna Rai. Shareholder details were not audited.",
+            "ownershipGroup": "business-standard",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Indian development and per-person emissions",
+            "rationale": "Emphasizes national targets and emissions relative to population."
+          },
+          "summary": "Explores India’s progress against its pledges alongside the wider global shortfall.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-23T14:43:29.486Z",
+            "method": "research-tool",
+            "note": "Substantive article text was accessible without payment or login during preparation. First published October 22 at 1:46 PM IST; updated 1:47 PM IST. Substantive text was readable without a subscription."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-23T14:43:29.486Z",
+            "contentHash": null,
+            "evidenceNote": "No contemporaneous snapshot or content fingerprint was saved. First published October 22 at 1:46 PM IST; updated 1:47 PM IST. Substantive text was readable without a subscription."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The assessment says much deeper emissions cuts are needed to limit overshoot.",
+          "sourceIds": [
+            "climate-reference",
+            "climate-b"
+          ]
+        },
+        {
+          "text": "It projects about 2.8°C of warming this century under current policies.",
+          "sourceIds": [
+            "climate-reference",
+            "climate-a"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Scripps stresses US policy responsibility; Business Standard emphasizes India’s development and per-capita context.",
+          "sourceIds": [
+            "climate-a",
+            "climate-b"
+          ]
+        },
+        {
+          "text": "UNEP explains conditional pathways from the report-producing institution’s perspective.",
+          "sourceIds": [
+            "climate-reference",
+            "climate-a"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Would governments implement the required reductions?",
+        "Could carbon removal reach the necessary scale safely and affordably?"
+      ],
+      "unverifiedClaims": []
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-10-23T14:43:29.486Z",
+    "author": "ChatGPT",
+    "reason": "First website edition for this date, based on fresh inspection of the earlier task’s selected events. Missing links repaired and source dates checked."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Reviewed source text, publication dates, independent newsroom groups, article-specific contrast, citation support and free access using browsing tools. This is agent review, not human verification. The record was prepared the following day; mutable pages are not historical captures. Official statements and report projections remain attributed."
+  }
+}

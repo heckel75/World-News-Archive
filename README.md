@@ -1,12 +1,12 @@
 # World News Archive
 
-Three consequential world stories per UTC day, each with exactly three freely readable news links: a reference account and two substantially contrasting editorial or geopolitical lenses. This is a static, searchable archive of original summaries, source metadata, common facts, framing differences and uncertainties.
+Three consequential world stories per Paris calendar day, each with exactly three freely readable news links: a reference account and two substantially contrasting editorial or geopolitical lenses. This is a static, searchable archive of original summaries, source metadata, common facts, framing differences and uncertainties.
 
 ## How it is maintained
 
 ChatGPT researches and reviews each edition using the chat's browsing tools, then publishes versioned JSON to this repository. GitHub Actions only validates, builds and deploys that saved content to GitHub Pages. **No OpenAI API key, paid research API, or scheduled research workflow is used by this website.**
 
-The existing ChatGPT task is named **Open Source News Archive**. Its publishing connection must be configured and tested separately; do not create a duplicate schedule. Until that is confirmed, editions can be published from the working chat. See [DEPLOYMENT.md](DEPLOYMENT.md) for verified status.
+The existing hosted ChatGPT task is named **World News History Archive**, inside the **Open Source News Archive** conversation. Its active schedule remains daily at **08:00 Europe/Paris**. Its instructions now include publishing to this repository; the first unattended website publication has not yet been verified. No duplicate local schedule was created. See [DEPLOYMENT.md](DEPLOYMENT.md) for verified status.
 
 Canonical website: https://heckel75.github.io/World-News-Archive/
 

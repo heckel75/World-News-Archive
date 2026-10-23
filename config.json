@@ -2,7 +2,7 @@
   "title": "World News Archive",
   "repositoryUrl": "https://github.com/heckel75/World-News-Archive",
   "automationStatus": "agent-managed",
-  "automationNote": "Editions are researched and reviewed in ChatGPT, then published to this archive. The website does not call an AI API. Connection of the existing daily ChatGPT task to publishing is pending verification.",
-  "timezone": "UTC",
+  "automationNote": "The existing ChatGPT task is active daily at 08:00 Europe/Paris and has instructions to research and publish the previous completed Paris day. Its first unattended website publication has not yet been verified. The website makes no AI API calls.",
+  "timezone": "Europe/Paris",
   "maxArticleAgeHours": 72
 }
