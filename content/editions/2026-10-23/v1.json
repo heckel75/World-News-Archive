@@ -1,0 +1,584 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-23",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-10-23T21:59:59Z",
+  "recordedAt": "2026-10-24T06:26:05.272Z",
+  "kind": "daily",
+  "selectionSummary": "Three distinct worldwide-relevant stories chosen by geographical reach, humanitarian or economic exposure, diversity of independent source coverage, and potential long-term significance: Saudi-Houthi fighting and energy markets; the Oleshky local ceasefire announcement; and the Hebron shooting followed by West Bank restriction orders. These are editorial selections, not rankings of governments or policy choices.",
+  "snapshot": {
+    "summary": "Saudi-Houthi military escalation intersected with worldwide oil-market risk; Ukraine and Russia described plans for a limited humanitarian pause that had not yet started; and a lethal Hebron-area shooting prompted Israeli orders and plans for stricter West Bank movement controls. Each development generated competing narratives while key operational details were still unverified.",
+    "connections": [
+      "Energy insecurity and regional fighting linked the Arabian Peninsula conflict with the international economy. The Ukrainian and West Bank stories raised different questions about mobility, humanitarian protection and what announced government measures would mean on the ground."
+    ],
+    "uncertainties": [
+      "The effects and independent casualty totals of Saudi and Yemeni attacks remained unsettled.",
+      "Future humanitarian access in Oleshky and proposed November diplomacy were not established by October 23.",
+      "The extent of West Bank closure and verified militant responsibility had not been settled."
+    ]
+  },
+  "stories": [
+    {
+      "id": "saudi-houthi-attacks-oil",
+      "eventId": "me-saudi-houthi-escalation-2026",
+      "title": "Saudi-Houthi fighting raises civilian and global energy concerns",
+      "summary": "Reports described Houthi attacks against Saudi infrastructure and Saudi air operations in Yemen, with contrasting accounts of civilian harm. International oil prices climbed amid market concerns about energy supply. Casualty counts and the circumstances of particular strikes remained disputed or unverified.",
+      "whyItMatters": "Fighting near energy facilities and maritime chokepoints can affect global commodity costs while civilians on both sides remain exposed.",
+      "region": "Middle East / Arabian Peninsula",
+      "tags": [
+        "Saudi Arabia",
+        "Yemen",
+        "Houthis",
+        "Oil market",
+        "Energy security"
+      ],
+      "selectionRationale": "Cross-border fighting and potential disruption to vital international energy supplies with documented market consequences.",
+      "evidenceNote": "Reuters, Arab News and Press TV originate from different newsrooms. Reuters independently records prices, Arab News interviews Saudi residents and Press TV repeats Yemeni official casualty statements. They do not independently verify precise official casualty or damage figures.",
+      "articles": [
+        {
+          "id": "saudi-ref",
+          "role": "reference",
+          "headline": "Oil prices jump $3 on Houthi attacks, oil spill, highest settlement since April",
+          "url": "https://www.reuters.com/business/energy/oil-little-changed-supply-concern-lingers-amid-houthi-attacks-saudi-arabia-2026-10-23/",
+          "publishedAt": "2026-10-23",
+          "publishedPrecision": "date",
+          "genre": "original commodity market news",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom / international",
+            "ownership": "Original Reuters journalism with named reporters; Thomson Reuters.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Energy-market consequences",
+            "rationale": "Centers measured oil-price changes and attributed assessments of shipping and supply risk."
+          },
+          "summary": "Reports a rise in global oil benchmarks on October 23 and connects trader concern to Houthi attacks on Saudi Arabia.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-24T06:26:05.272Z",
+            "method": "research-tool",
+            "note": "Full substantive page opened without payment or login during October 24 research. Original Reuters byline Nicole Jao. Page displays October 23, 1:04 AM UTC, but accessible article also reports closing market prices; later same-day updates may not be separately timestamped, so publishedAt retains date precision."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-24T06:26:05.272Z",
+            "contentHash": null,
+            "evidenceNote": "The original publisher page, headline, date and apparent newsroom origin were inspected. Original Reuters byline Nicole Jao. Page displays October 23, 1:04 AM UTC, but accessible article also reports closing market prices; later same-day updates may not be separately timestamped, so publishedAt retains date precision. No preserved version at the historical cutoff, archive snapshot or verified content fingerprint was obtained; publishers may later update their pages."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "saudi-a",
+          "role": "contrast_a",
+          "headline": "Houthis target civilians as Dammam airport and energy infrastructure attacked",
+          "url": "https://www.arabnews.com/saudi-arabia/houthis-target-civilians-as-dammam-airport-and-energy-infrastructure-attacked-3007712",
+          "publishedAt": "2026-10-22",
+          "publishedPrecision": "date",
+          "genre": "original news feature",
+          "outlet": {
+            "name": "Arab News",
+            "domain": "arabnews.com",
+            "country": "Saudi Arabia",
+            "ownership": "Original reporting by journalists Jasmine Bager and Waad Hussain; detailed ownership not independently audited.",
+            "ownershipGroup": "arab-news",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Saudi residents and infrastructure",
+            "rationale": "Uses interviews and Saudi accounts of attacks to foreground civilian disruption and infrastructure risks."
+          },
+          "summary": "Interviews residents about explosions in Dammam and describes reported impacts on Saudi transport and energy facilities.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-24T06:26:05.272Z",
+            "method": "research-tool",
+            "note": "Full substantive page opened without payment or login during October 24 research. Original publication October 22, 2026 at 23:50; site updated October 23 at 06:56. Site does not verify the time zone, so publishedAt is date-only."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-24T06:26:05.272Z",
+            "contentHash": null,
+            "evidenceNote": "The original publisher page, headline, date and apparent newsroom origin were inspected. Original publication October 22, 2026 at 23:50; site updated October 23 at 06:56. Site does not verify the time zone, so publishedAt is date-only. No preserved version at the historical cutoff, archive snapshot or verified content fingerprint was obtained; publishers may later update their pages."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "saudi-b",
+          "role": "contrast_b",
+          "headline": "At least three killed in Saudi airstrikes on Yemen’s capital",
+          "url": "https://www.presstv.co.uk/Detail/2026/10/23/779024/At-least-three-killed-in-Saudi-airstrikes-Yemen%E2%80%99s-capital",
+          "publishedAt": "2026-10-23T15:33:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "news report citing regional officials",
+          "outlet": {
+            "name": "Press TV",
+            "domain": "presstv.co.uk",
+            "country": "Iran",
+            "ownership": "Iranian state news broadcaster; Yemen casualty numbers attributed to a local official and al-Masirah.",
+            "ownershipGroup": "iran-state-presstv",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Yemeni civilian harm",
+            "rationale": "Foregrounds reported Yemeni casualties from Saudi raids rather than Saudi victims of Houthi attacks."
+          },
+          "summary": "Relays claims by a Yemeni local security official about airstrikes and fatalities in Sana'a, with reports of attacks in other Yemeni provinces.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-24T06:26:05.272Z",
+            "method": "research-tool",
+            "note": "Full substantive page opened without payment or login during October 24 research. Page explicitly displays 2026/10/23 15:33 UTC. This original Press TV article relies on Yemeni official and Houthi-aligned reporting for disputed casualties."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-24T06:26:05.272Z",
+            "contentHash": null,
+            "evidenceNote": "The original publisher page, headline, date and apparent newsroom origin were inspected. Page explicitly displays 2026/10/23 15:33 UTC. This original Press TV article relies on Yemeni official and Houthi-aligned reporting for disputed casualties. No preserved version at the historical cutoff, archive snapshot or verified content fingerprint was obtained; publishers may later update their pages."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The conflict involved Houthi attacks or military operations directed toward Saudi Arabia, including reported threats to infrastructure.",
+          "sourceIds": [
+            "saudi-ref",
+            "saudi-a",
+            "saudi-b"
+          ]
+        },
+        {
+          "text": "Saudi-linked military action in Yemen and Houthi attacks on Saudi Arabia were both described in reporting on the continuing confrontation.",
+          "sourceIds": [
+            "saudi-ref",
+            "saudi-b"
+          ]
+        },
+        {
+          "text": "The Saudi-Houthi confrontation affected civilian security while generating concerns about Saudi energy infrastructure and wider supply.",
+          "sourceIds": [
+            "saudi-ref",
+            "saudi-a"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Arab News centers Saudi residents and affected facilities, while Press TV centers Yemeni civilians and reports attributed to Yemeni authorities.",
+          "sourceIds": [
+            "saudi-a",
+            "saudi-b"
+          ]
+        },
+        {
+          "text": "Reuters analyzes the oil-market and shipping implications instead of presenting either party's military account as established fact.",
+          "sourceIds": [
+            "saudi-ref",
+            "saudi-a",
+            "saudi-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The independently verified casualty totals, target identification and damage after individual attacks were not established.",
+        "How long would oil infrastructure and regional commercial shipping remain at risk?",
+        "Would further strikes or diplomacy alter the confrontation?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Saudi airstrikes in Sana'a killed at least three people on October 23.",
+          "sourceIds": [
+            "saudi-b"
+          ],
+          "reason": "The figure is attributed to a local Yemeni security official speaking to al-Masirah; the archive did not establish independent casualty confirmation."
+        },
+        {
+          "text": "Specific earlier Houthi attacks killed the reported number of Saudi civilians and caused each reported item of damage.",
+          "sourceIds": [
+            "saudi-a"
+          ],
+          "reason": "The report cites Saudi authorities and interviewees; these are not independently audited total-loss estimates."
+        }
+      ]
+    },
+    {
+      "id": "oleshky-ceasefire-announcement",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Ukraine and Russia announce a planned humanitarian ceasefire in Oleshky",
+      "summary": "Officials in Ukraine and Russia announced a localized ceasefire for Russian-occupied Oleshky to enable humanitarian deliveries and evacuation, with military preparations expected from October 27. US First Lady Melania Trump was publicly credited with facilitating discussions. No ceasefire had begun by the October 23 cutoff.",
+      "whyItMatters": "The announced local arrangement might improve survival conditions in a town affected by war, while offering a limited channel of cooperation amid unresolved territorial and security disagreements.",
+      "region": "Eastern Europe / Ukraine",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Oleshky",
+        "Humanitarian corridors",
+        "Diplomacy"
+      ],
+      "selectionRationale": "A prospective humanitarian agreement announced by warring states, with direct civilian effects and implications for future negotiations.",
+      "evidenceNote": "All three independent newsrooms cite an official agreement announcement; publication of statements is corroborated, not future adherence. Some official accounts distinguish an October 27 military pause from an October 29 aid operation.",
+      "articles": [
+        {
+          "id": "oleshky-ref",
+          "role": "reference",
+          "headline": "Russia, Ukraine agree on ceasefire in embattled town, to hold peace talks next month",
+          "url": "https://www.reuters.com/world/europe/russia-ukraine-agree-ceasefire-embattled-town-hold-peace-talks-next-month-2026-10-23/",
+          "publishedAt": "2026-10-23T21:16:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original diplomatic news",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom / international",
+            "ownership": "Original Reuters journalism with named reporters; Thomson Reuters.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Humanitarian arrangements and negotiations",
+            "rationale": "Places the limited Oleshky deal within the broader war and uncertain future three-party talks."
+          },
+          "summary": "Reports both countries' proposed October 27 pause, its humanitarian purpose and possible November diplomatic meetings.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-24T06:26:05.272Z",
+            "method": "research-tool",
+            "note": "Full substantive page opened without payment or login during October 24 research. Reuters original report by Steve Holland and Yuliia Dysa; 2026-10-23 9:16 PM UTC is prior to the 21:59:59 UTC Paris cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-24T06:26:05.272Z",
+            "contentHash": null,
+            "evidenceNote": "The original publisher page, headline, date and apparent newsroom origin were inspected. Reuters original report by Steve Holland and Yuliia Dysa; 2026-10-23 9:16 PM UTC is prior to the 21:59:59 UTC Paris cutoff. No preserved version at the historical cutoff, archive snapshot or verified content fingerprint was obtained; publishers may later update their pages."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "oleshky-a",
+          "role": "contrast_a",
+          "headline": "Ukraine confirms Oleshky ceasefire mediated by Melania Trump between Russia, Ukraine",
+          "url": "https://kyivindependent.com/breaking-russia-ukraine-agree-to-oleshky-ceasefire-mediated-by-melania-trump-white-house-says/",
+          "publishedAt": "2026-10-23",
+          "publishedPrecision": "date",
+          "genre": "original breaking news",
+          "outlet": {
+            "name": "The Kyiv Independent",
+            "domain": "kyivindependent.com",
+            "country": "Ukraine",
+            "ownership": "Original reporting by journalist Francis Farrell for the Kyiv Independent newsroom.",
+            "ownershipGroup": "kyiv-independent",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Ukrainian occupied-town and humanitarian context",
+            "rationale": "Emphasizes Ukrainian confirmation and the needs of civilians in Russian-occupied Oleshky."
+          },
+          "summary": "Reports Ukraine's ombudsman's confirmation of planned aid and evacuation arrangements.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-24T06:26:05.272Z",
+            "method": "research-tool",
+            "note": "Full substantive page opened without payment or login during October 24 research. First published October 23 at 4:38 PM and updated at 11:31 PM, with no verified displayed timezone; treated as developing original newsroom coverage."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-24T06:26:05.272Z",
+            "contentHash": null,
+            "evidenceNote": "The original publisher page, headline, date and apparent newsroom origin were inspected. First published October 23 at 4:38 PM and updated at 11:31 PM, with no verified displayed timezone; treated as developing original newsroom coverage. No preserved version at the historical cutoff, archive snapshot or verified content fingerprint was obtained; publishers may later update their pages."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "oleshky-b",
+          "role": "contrast_b",
+          "headline": "Russia, Ukraine agree to ceasefire in Alyoshki — White House",
+          "url": "https://tass.com/politics/2207035",
+          "publishedAt": "2026-10-23",
+          "publishedPrecision": "date",
+          "genre": "original news / official-statement factbox",
+          "outlet": {
+            "name": "TASS",
+            "domain": "tass.com",
+            "country": "Russia",
+            "ownership": "Russian state news agency compiling White House, Kremlin and Russian military statements.",
+            "ownershipGroup": "russian-state-tass",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Russian official account of evacuation",
+            "rationale": "Prioritizes the White House and Russian statements and uses the Russian spelling Alyoshki."
+          },
+          "summary": "Summarizes announced local ceasefire arrangements, future humanitarian operations and Kremlin assurances.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-24T06:26:05.272Z",
+            "method": "research-tool",
+            "note": "Full substantive page opened without payment or login during October 24 research. TASS page dates article MOSCOW, October 23 without verifiable clock time; it reports October 27 military start and October 29 humanitarian stage, which must not be flattened into a confirmed single date."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-24T06:26:05.272Z",
+            "contentHash": null,
+            "evidenceNote": "The original publisher page, headline, date and apparent newsroom origin were inspected. TASS page dates article MOSCOW, October 23 without verifiable clock time; it reports October 27 military start and October 29 humanitarian stage, which must not be flattened into a confirmed single date. No preserved version at the historical cutoff, archive snapshot or verified content fingerprint was obtained; publishers may later update their pages."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "On October 23 officials announced a limited ceasefire arrangement around Russian-occupied Oleshky to permit aid and possible civilian evacuation.",
+          "sourceIds": [
+            "oleshky-ref",
+            "oleshky-a",
+            "oleshky-b"
+          ]
+        },
+        {
+          "text": "The public statements credited US First Lady Melania Trump with serving as an intermediary for the announced local arrangement.",
+          "sourceIds": [
+            "oleshky-ref",
+            "oleshky-a",
+            "oleshky-b"
+          ]
+        },
+        {
+          "text": "The announced ceasefire was prospective on October 23, rather than one verified to have taken effect that day.",
+          "sourceIds": [
+            "oleshky-ref",
+            "oleshky-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "The Kyiv Independent foregrounds Ukrainian human-rights officials and residents of the occupied town, while TASS emphasizes Russian and White House official statements.",
+          "sourceIds": [
+            "oleshky-a",
+            "oleshky-b"
+          ]
+        },
+        {
+          "text": "Reuters discusses the local announcement alongside unresolved wider peace talks and territorial disputes, rather than presenting it as a general settlement.",
+          "sourceIds": [
+            "oleshky-ref",
+            "oleshky-a",
+            "oleshky-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Would military forces observe the proposed October 27 pause?",
+        "Would aid be delivered and civilians evacuated safely through agreed routes?",
+        "Would the reported October 27 and October 29 phases work together in practice?",
+        "Would proposed November peace talks occur, and where?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The announced humanitarian ceasefire and civilian evacuation would be implemented on the stated dates.",
+          "sourceIds": [
+            "oleshky-ref",
+            "oleshky-b"
+          ],
+          "reason": "As of October 23 the dates were future commitments, not a verified outcome."
+        },
+        {
+          "text": "All suffering in Oleshky was caused by shelling attributed to one specific side.",
+          "sourceIds": [
+            "oleshky-b"
+          ],
+          "reason": "Competing official attributions are not independently established by the selected material."
+        }
+      ]
+    },
+    {
+      "id": "hebron-attack-west-bank-controls",
+      "eventId": "me-west-bank-2026-movement-restrictions",
+      "title": "Hebron-area shooting leads to Israeli movement-restriction orders",
+      "summary": "Israeli military sources reported two soldiers and two suspected Palestinian gunmen killed in a shooting near Hebron. Prime Minister Benjamin Netanyahu ordered a Hebron cordon and preparations for wider West Bank restrictions. An independently reported Palestinian village story documented the civilian impact of older local roadblocks, which predated the October 23 attack.",
+      "whyItMatters": "The security response potentially limits movement for a large civilian population in the occupied West Bank, affecting emergency care, schooling, work and further regional tensions.",
+      "region": "Occupied West Bank",
+      "tags": [
+        "West Bank",
+        "Hebron",
+        "Israel",
+        "Palestinian civilians",
+        "Freedom of movement"
+      ],
+      "selectionRationale": "Deadly armed violence followed by announced restrictions that could have consequences far beyond the attack site and affect basic civilian access.",
+      "evidenceNote": "AP and The Jerusalem Post report Israeli official casualty information; agreement about the official numbers does not supply a separate forensic verification. The Al Jazeera feature has its own byline and field interviews on ongoing restrictions and is not syndication or a direct account of the shooting.",
+      "articles": [
+        {
+          "id": "west-ref",
+          "role": "reference",
+          "headline": "Israeli military says 2 soldiers were killed in West Bank attack that also left 2 gunmen dead",
+          "url": "https://apnews.com/article/israel-shooting-west-bank-election-f6646718072b4ff6929cff43297edd05",
+          "publishedAt": "2026-10-23",
+          "publishedPrecision": "date",
+          "genre": "original international news",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Original Associated Press field reporting by Shlomo Mor and Sam Mednick.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Military statements and wider context",
+            "rationale": "Attributes casualty totals to the military and distinguishes a Hebron cordon from planning for a wider West Bank closure."
+          },
+          "summary": "Reports the shooting, official Israeli response and related West Bank security and political developments.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-24T06:26:05.272Z",
+            "method": "research-tool",
+            "note": "Full substantive page opened without payment or login during October 24 research. AP original byline confirmed; story concerns Friday October 23, 2026; no exact original clock time was displayed and verified."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-24T06:26:05.272Z",
+            "contentHash": null,
+            "evidenceNote": "The original publisher page, headline, date and apparent newsroom origin were inspected. AP original byline confirmed; story concerns Friday October 23, 2026; no exact original clock time was displayed and verified. No preserved version at the historical cutoff, archive snapshot or verified content fingerprint was obtained; publishers may later update their pages."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "west-a",
+          "role": "contrast_a",
+          "headline": "Netanyahu orders Hebron sealed off, full West Bank closure after Hamas terror attack",
+          "url": "https://www.jpost.com/israel-news/defense-news/article-912642",
+          "publishedAt": "2026-10-23",
+          "publishedPrecision": "date",
+          "genre": "original security and politics news",
+          "outlet": {
+            "name": "The Jerusalem Post",
+            "domain": "jpost.com",
+            "country": "Israel",
+            "ownership": "Original The Jerusalem Post reporting by Yonah Jeremy Bob, Tzvi Jasper and Amichai Stein.",
+            "ownershipGroup": "jerusalem-post",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Israeli military and security response",
+            "rationale": "Prioritizes the Israeli casualties, official warnings and reported anti-attack measures."
+          },
+          "summary": "Reports Israeli government instructions and security statements after the Hebron-area attack.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-24T06:26:05.272Z",
+            "method": "research-tool",
+            "note": "Full substantive page opened without payment or login during October 24 research. The headline categorically describes a full closure, while quoted Netanyahu statement calls for preparation of a wider lockdown. Site shows Oct 23 07:29, updated 17:57, timezone not verified; political and military affiliations are attributed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-24T06:26:05.272Z",
+            "contentHash": null,
+            "evidenceNote": "The original publisher page, headline, date and apparent newsroom origin were inspected. The headline categorically describes a full closure, while quoted Netanyahu statement calls for preparation of a wider lockdown. Site shows Oct 23 07:29, updated 17:57, timezone not verified; political and military affiliations are attributed. No preserved version at the historical cutoff, archive snapshot or verified content fingerprint was obtained; publishers may later update their pages."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "west-b",
+          "role": "contrast_b",
+          "headline": "Israeli roadblocks disrupt schools and medical care in West Bank village",
+          "url": "https://www.aljazeera.com/news/2026/10/23/israeli-roadblocks-disrupt-schools-and-medical-care-in-west-bank-village",
+          "publishedAt": "2026-10-23",
+          "publishedPrecision": "date",
+          "genre": "original reported feature",
+          "outlet": {
+            "name": "Al Jazeera",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Original field reporting by Fayha Shalash for Al Jazeera Media Network.",
+            "ownershipGroup": "al-jazeera",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Palestinian civilians' movement and livelihoods",
+            "rationale": "Uses interviews about access to work, hospitals, schools and farmland under roadblocks."
+          },
+          "summary": "Documents a blockade at Madama and the impact of restrictions on residents, while describing wider security measures.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-24T06:26:05.272Z",
+            "method": "research-tool",
+            "note": "Full substantive page opened without payment or login during October 24 research. Original named journalist Fayha Shalash and Oct 23 date. Madama restrictions began October 11 and must not be misrepresented as the result of the October 23 Hebron shooting."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-24T06:26:05.272Z",
+            "contentHash": null,
+            "evidenceNote": "The original publisher page, headline, date and apparent newsroom origin were inspected. Original named journalist Fayha Shalash and Oct 23 date. Madama restrictions began October 11 and must not be misrepresented as the result of the October 23 Hebron shooting. No preserved version at the historical cutoff, archive snapshot or verified content fingerprint was obtained; publishers may later update their pages."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Israeli military authorities reported that two soldiers and two alleged gunmen were killed in the Hebron-area shooting on October 23.",
+          "sourceIds": [
+            "west-ref",
+            "west-a"
+          ]
+        },
+        {
+          "text": "Netanyahu ordered Hebron cordoned off and instructed preparations for wider West Bank movement restrictions, whose complete implementation was not independently established as of cutoff.",
+          "sourceIds": [
+            "west-ref",
+            "west-a"
+          ]
+        },
+        {
+          "text": "Israeli restrictions on travel were affecting the occupied West Bank; reports about Hebron and Madama describe separate locations and different starting dates.",
+          "sourceIds": [
+            "west-ref",
+            "west-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "The Jerusalem Post foregrounds military loss and security measures; Al Jazeera's original feature centers Palestinians' lived experience of roadblocks in a different West Bank location.",
+          "sourceIds": [
+            "west-a",
+            "west-b"
+          ]
+        },
+        {
+          "text": "AP keeps reported military counts attributed and differentiates announced orders from completed territory-wide restrictions.",
+          "sourceIds": [
+            "west-ref",
+            "west-a",
+            "west-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Would all West Bank entry and exit routes be closed, and under which exceptions and duration?",
+        "What independent evidence supports official claims concerning the gunmen's organizational affiliation and intended targets?",
+        "How would new security restrictions affect civilians, schooling and access to medical treatment?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The two gunmen were under Hamas operational direction.",
+          "sourceIds": [
+            "west-a"
+          ],
+          "reason": "The source uses the Israeli government's and military's attribution; independent confirmation of a command relationship is not shown."
+        },
+        {
+          "text": "Every reported instance of abuse or interference with Madama residents' movement was independently documented.",
+          "sourceIds": [
+            "west-b"
+          ],
+          "reason": "The article includes named residents' testimony, which is recorded here as attributed reporting rather than conclusive adjudication."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-10-24T06:26:05.272Z",
+    "author": "ChatGPT",
+    "reason": "First researched edition for the completed 2026-10-23 Paris calendar day; nine original accessible article pages checked and source claims attributed."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent-only research review on October 24, 2026: opened full publisher pages, checked visible headlines, original publication dates or datelines, bylines, genre, free access and distinct newsroom origins per story; distinguished reported statements from proven outcomes and future announcements. No human review, verified historical capture or article fingerprint. Access timestamps record actual review, not the 2026-10-23 historical cutoff."
+  }
+}
