@@ -1,0 +1,598 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-24",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-10-24T21:59:59Z",
+  "recordedAt": "2026-10-26T09:11:15.012Z",
+  "kind": "daily",
+  "selectionSummary": "Three distinct developments selected for cross-border impact, population affected, independent international reporting and potential lasting historical significance: France's second nationwide weekend of cost-of-living demonstrations; Israeli military operations and civilian displacement in the occupied West Bank; and US-Iran security escalation involving embassy staffing reductions and a Persian Gulf naval warning. This is an editorial selection rather than an objective ranking. Two of the three stories concern separate issues in the Middle East, while the France story has wider European political implications. Source publication dates fall within 72 hours before the completed Paris-day cutoff. France's Le Monde liveblog was later closed on October 25, but only posts timestamped October 24 and facts corroborated by same-day reporting are used. An original Reuters France report was accessible as a syndicated copy; its originating newsroom is identified and counted once.",
+  "snapshot": {
+    "summary": "France saw large demonstrations over living costs and public services, with conflicting attendance estimates and some clashes under heavy policing. Israeli raids, demolitions and closures in the occupied West Bank displaced families after a deadly Hebron shooting. The United States reduced staff at several regional embassies following an intelligence warning, while an Iranian general threatened to bar US warships from the Persian Gulf.",
+    "connections": [
+      "In France and the West Bank, official security measures and restrictions on movement generated competing narratives about public safety, proportionality and civil rights; the contexts and legal systems differ sharply.",
+      "The Iran-US confrontation and West Bank operations heightened uncertainty in the wider Middle East, but the diplomatic-staffing decisions and Hebron military raids were distinct developments with different immediate causes."
+    ],
+    "uncertainties": [
+      "France's crowd and arrest figures were competing or provisional estimates, and the longer-term political consequences were not established.",
+      "The number and duration of displacements in Hebron and the geographic scope of Israeli operations remained contested.",
+      "The US intelligence assessment of alleged Iranian plots and Iran's claims about naval control were not independently established; the risk of renewed strikes remained uncertain."
+    ]
+  },
+  "stories": [
+    {
+      "id": "france-october-protests-second-weekend",
+      "eventId": "eu-france-social-protests-2026",
+      "title": "Large French demonstrations draw rival crowd estimates and heavy policing",
+      "summary": "Hundreds of thousands marched over living costs, school funding and public services. The Interior Ministry estimated 410,000 participants nationwide while the CGT union reported roughly 800,000. Most marches were peaceful, but confrontations broke out in several cities; 70,000 police and gendarmes were mobilised.",
+      "whyItMatters": "The protests tested French political stability and public-service legitimacy while disrupting travel, commerce and cultural institutions. Reuters also reported demonstrations in neighbouring European countries, indicating broader regional discontent.",
+      "region": "France / Western Europe",
+      "tags": [
+        "France",
+        "Cost of living",
+        "Protests",
+        "Police",
+        "Public services",
+        "European politics"
+      ],
+      "selectionRationale": "Large nationwide participation, pressure on the government of a major European state, economic disruption and reporting of related unrest across Europe made this a significant international story.",
+      "evidenceNote": "AP, Le Monde and Reuters are independent originating newsrooms. Reuters' complete wire report was accessed on Investing.com, a syndication host, and is counted only once as Reuters reporting. Le Monde's October 24 liveblog was closed with an update on October 25; only entries explicitly timestamped October 24 and statements independently reported by October 24 were used. Crowd estimates and arrest totals are attributed to their sources, not treated as independently audited totals.",
+      "articles": [
+        {
+          "id": "france-reference",
+          "role": "reference",
+          "headline": "Police and protesters clash in Paris as an estimated 410,000 demonstrate across France",
+          "url": "https://apnews.com/article/france-protests-paris-unrest-ad2fb9206e72e5d1b4ae43fdf7aa96a9",
+          "publishedAt": "2026-10-24",
+          "publishedPrecision": "date",
+          "genre": "original news report",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States / international",
+            "ownership": "Original Associated Press reporting by Thomas Adamson, John Leicester and Tom Nouvian.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "National protest and policing overview",
+            "rationale": "Reports economic demands, official and union attendance estimates, policing and protester testimony, distinguishing them from independent measurements."
+          },
+          "summary": "Reports widespread demonstrations, police clashes and participants' concerns about living costs, education and restrictions on marching.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:10:06.643Z",
+            "method": "research-tool",
+            "note": "Full substantive page opened and readable without a subscription or login during this run. AP original page displays Saturday October 24 reporting and named bylines, but no reliably visible original publication clock time; date precision only."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:10:06.643Z",
+            "contentHash": null,
+            "evidenceNote": "Source evidence reviewed and recorded at this timestamp after the page was opened; no precise original HTTP retrieval second or contemporaneous cutoff capture is available. AP original page displays Saturday October 24 reporting and named bylines, but no reliably visible original publication clock time; date precision only."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "france-a",
+          "role": "contrast_a",
+          "headline": "Manifestations du 24 octobre : entre 410 000 et 800 000 manifestants, cortèges sous haute surveillance, tensions en fin de journée… Revivez la journée de mobilisation",
+          "url": "https://www.lemonde.fr/societe/live/2026/10/24/en-direct-manifestations-du-24-octobre-entre-410-000-et-800-000-manifestants-corteges-sous-haute-surveillance-tensions-en-fin-de-journee-revivez-la-journee-de-mobilisation_6799445_3224.html",
+          "publishedAt": "2026-10-24",
+          "publishedPrecision": "date",
+          "genre": "original live news reporting",
+          "outlet": {
+            "name": "Le Monde",
+            "domain": "lemonde.fr",
+            "country": "France",
+            "ownership": "Original Le Monde newsroom live reporting with named editors and regional correspondents.",
+            "ownershipGroup": "le-monde",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Protest participation, rights and local voices",
+            "rationale": "Highlights demonstrators' social demands, disputed crowd estimates, route restrictions and firsthand accounts of police interactions."
+          },
+          "summary": "The October 24 posts document local demonstrations, competing attendance estimates and accounts of restrictions and clashes.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:10:06.643Z",
+            "method": "research-tool",
+            "note": "Full substantive page opened and readable without a subscription or login during this run. Publicly readable liveblog. It was closed/updated October 25 at 04:50; only October 24 posts (before Paris cutoff) are used. Its live format is not a frozen contemporaneous capture."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:10:06.643Z",
+            "contentHash": null,
+            "evidenceNote": "Source evidence reviewed and recorded at this timestamp after the page was opened; no precise original HTTP retrieval second or contemporaneous cutoff capture is available. Publicly readable liveblog. It was closed/updated October 25 at 04:50; only October 24 posts (before Paris cutoff) are used. Its live format is not a frozen contemporaneous capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "france-b",
+          "role": "contrast_b",
+          "headline": "Violence flares in Paris after largely peaceful protests across France",
+          "url": "https://www.investing.com/news/world-news/france-mounts-huge-security-operation-to-prevent-protest-violence-4970771",
+          "publishedAt": "2026-10-24",
+          "publishedPrecision": "date",
+          "genre": "original wire news reporting, syndicated",
+          "outlet": {
+            "name": "Reuters via Investing.com",
+            "domain": "investing.com",
+            "country": "United Kingdom / international",
+            "ownership": "Original Reuters reporting by Juliette Jabkhiro, Yann Tessier and Crispian Balmer, republished by Investing.com; the host is not an independent Reuters source.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Security response and economic disruption",
+            "rationale": "Foregrounds riot policing, vandalism concerns, closed museums, business disruption and government responses, while also quoting demonstrators."
+          },
+          "summary": "Reports largely peaceful marches, later clashes, security deployments, closed cultural sites and protests elsewhere in Europe.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:10:06.643Z",
+            "method": "research-tool",
+            "note": "Full substantive page opened and readable without a subscription or login during this run. Complete Reuters text readable on Investing.com without payment. Host shows first published October 24 05:36 AM and updated 05:30 PM, but does not identify the clock timezone; store only the verified date. Reuters is the originating newsroom."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:10:06.643Z",
+            "contentHash": null,
+            "evidenceNote": "Source evidence reviewed and recorded at this timestamp after the page was opened; no precise original HTTP retrieval second or contemporaneous cutoff capture is available. Complete Reuters text readable on Investing.com without payment. Host shows first published October 24 05:36 AM and updated 05:30 PM, but does not identify the clock timezone; store only the verified date. Reuters is the originating newsroom."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The French Interior Ministry estimated about 410,000 participants nationwide on October 24, while the CGT union reported about 800,000; these are competing attributed counts, not independently verified totals.",
+          "sourceIds": [
+            "france-reference",
+            "france-a",
+            "france-b"
+          ]
+        },
+        {
+          "text": "Authorities mobilised about 70,000 police and gendarmes to manage the demonstrations and prevent a repeat of the previous week's unrest.",
+          "sourceIds": [
+            "france-reference",
+            "france-b"
+          ]
+        },
+        {
+          "text": "Marches over living costs and public services were mostly peaceful, but clashes occurred in Paris and other French cities.",
+          "sourceIds": [
+            "france-reference",
+            "france-a",
+            "france-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Le Monde's live reporting foregrounds protesters' social demands, march restrictions and firsthand local experiences; Reuters gives more attention to police tactics, damage risk, retail disruption and public order.",
+          "sourceIds": [
+            "france-a",
+            "france-b"
+          ]
+        },
+        {
+          "text": "AP balances testimony from participants and officials with scenes of clashes and broader political context, while Reuters places particular weight on the security response and business closures.",
+          "sourceIds": [
+            "france-reference",
+            "france-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "What was the independently verifiable number of participants and arrests?",
+        "Would the demonstrations spread, diminish or change the government's economic and education policies?",
+        "How would authorities and courts assess allegations of excessive policing, unlawful violence or restrictions on demonstrations?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The CGT said roughly 800,000 participated nationwide, compared with the Interior Ministry's 410,000 estimate.",
+          "sourceIds": [
+            "france-reference",
+            "france-a",
+            "france-b"
+          ],
+          "reason": "Both are interested-party estimates with different methods; repeating them does not verify a definitive attendance total."
+        },
+        {
+          "text": "The Interior Minister alleged that far-left militants and criminal groups were organising much of the violence.",
+          "sourceIds": [
+            "france-reference",
+            "france-b"
+          ],
+          "reason": "A political/security attribution, not independently established for each incident in the selected reporting."
+        }
+      ]
+    },
+    {
+      "id": "hebron-west-bank-operation-displacement",
+      "eventId": "me-west-bank-2026-movement-restrictions",
+      "title": "Israel expands West Bank raids and Hebron restrictions after fatal attack on soldiers",
+      "summary": "Israeli troops conducted raids, arrests, demolitions and road closures in the occupied West Bank after a Friday shooting near Hebron killed two Israeli soldiers and the two suspected Palestinian gunmen were killed. Local authorities reported hundreds of families displaced; the exact number and duration of evacuations were not independently established.",
+      "whyItMatters": "The operation restricted movement for Palestinians across a densely populated occupied territory, risked prolonged displacement and intensified security tensions just days before Israel's parliamentary election.",
+      "region": "Occupied West Bank / Israel-Palestine",
+      "tags": [
+        "Hebron",
+        "West Bank",
+        "Israel",
+        "Palestinians",
+        "Displacement",
+        "Military operations"
+      ],
+      "selectionRationale": "Large-scale civilian movement restrictions and reported displacement in the West Bank, with security and electoral implications across a long-running international conflict.",
+      "evidenceNote": "AP's Sam Metz reported independently, Al Jazeera cited its correspondents and residents, and The Times of Israel prepared its own live news entry combining WAFA's local displacement reports with the IDF response. ToI's repetition of WAFA numbers does not independently verify those figures. The two-soldier deaths, Israeli military operation and checkpoint restrictions were documented by multiple originating newsrooms before cutoff.",
+      "articles": [
+        {
+          "id": "hebron-reference",
+          "role": "reference",
+          "headline": "Israel presses ahead with West Bank army operation days before election",
+          "url": "https://apnews.com/article/israel-west-bank-military-operation-election-5995f6958ff503686ad68a8d547daf4d",
+          "publishedAt": "2026-10-24",
+          "publishedPrecision": "date",
+          "genre": "original news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States / international",
+            "ownership": "Original Associated Press field reporting by Sam Metz, with AP photographs from Hebron.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Civilian impact, Israeli security and election context",
+            "rationale": "Reports military restrictions, the preceding shooting, displaced residents' testimony, Israeli official statements and the approaching Israeli vote."
+          },
+          "summary": "Describes raids, demolitions and closed Hebron roads while attributing military and civilian claims and noting the election.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:10:25.382Z",
+            "method": "research-tool",
+            "note": "Substantive publisher article opened and readable without login or payment. AP original page is freely readable and identifies Sam Metz. The article and original photo captions are dated Saturday October 24; no reliable publication clock time was visible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:10:25.382Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence reviewed and logged at this timestamp after original page inspection; no exact prior HTTP fetch second, contemporaneous snapshot or content fingerprint. AP original page is freely readable and identifies Sam Metz. The article and original photo captions are dated Saturday October 24; no reliable publication clock time was visible."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "hebron-a",
+          "role": "contrast_a",
+          "headline": "Israel raids towns, arrests dozens of Palestinians in occupied West Bank",
+          "url": "https://www.aljazeera.com/news/2026/10/24/israel-raids-towns-detains-dozens-of-palestinians-in-occupied-west-bank",
+          "publishedAt": "2026-10-24",
+          "publishedPrecision": "date",
+          "genre": "original news reporting",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar / international",
+            "ownership": "Original Al Jazeera reporting citing its own correspondents in the West Bank; not a wire-service syndication.",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Palestinian civilian rights and collective restrictions",
+            "rationale": "Foregrounds evacuations, raids, road closures, residents' fears and Palestinian criticism of collective punishment."
+          },
+          "summary": "Reports operations in at least 15 northern West Bank towns, restrictions around Hebron and testimony of displaced Palestinian families.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:10:25.382Z",
+            "method": "research-tool",
+            "note": "Substantive publisher article opened and readable without login or payment. Page displays October 24 and 07:48 without a verified timezone, so only original date is encoded; article is freely readable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:10:25.382Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence reviewed and logged at this timestamp after original page inspection; no exact prior HTTP fetch second, contemporaneous snapshot or content fingerprint. Page displays October 24 and 07:48 without a verified timezone, so only original date is encoded; article is freely readable."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "hebron-b",
+          "role": "contrast_b",
+          "headline": "Report: IDF op in Hebron has already displaced some 1,500 Palestinians, thousands more expected to be ordered to leave",
+          "url": "https://www.timesofisrael.com/liveblog_entry/report-idf-op-in-hebron-has-already-displaced-some-1500-palestinians-thousands-more-expected-to-be-ordered-to-leave",
+          "publishedAt": "2026-10-24",
+          "publishedPrecision": "date",
+          "genre": "original newsroom liveblog brief summarizing attributed reports",
+          "outlet": {
+            "name": "The Times of Israel",
+            "domain": "timesofisrael.com",
+            "country": "Israel",
+            "ownership": "Times of Israel newsroom liveblog entry summarizing WAFA reports, Hebron officials and the Israeli military response; it is not an independent on-the-ground confirmation of WAFA figures.",
+            "ownershipGroup": "times-of-israel",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Israeli security operation and attributed displacement reports",
+            "rationale": "Presents displacement reports alongside the IDF's claim that the operation was geographically limited and would last several days."
+          },
+          "summary": "Records local claims of about 1,500 displaced and potential further evacuations, while citing the military's stated security rationale.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:10:25.382Z",
+            "method": "research-tool",
+            "note": "Substantive publisher article opened and readable without login or payment. Freely readable original liveblog entry dated October 24 at 2:42 pm; page does not clearly label the clock timezone, so publication precision is date."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:10:25.382Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence reviewed and logged at this timestamp after original page inspection; no exact prior HTTP fetch second, contemporaneous snapshot or content fingerprint. Freely readable original liveblog entry dated October 24 at 2:42 pm; page does not clearly label the clock timezone, so publication precision is date."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Two Israeli soldiers were killed in a Friday shooting in the Hebron area; the two suspected Palestinian gunmen were also killed, according to reporting across the selected outlets.",
+          "sourceIds": [
+            "hebron-reference",
+            "hebron-a",
+            "hebron-b"
+          ]
+        },
+        {
+          "text": "Israeli forces conducted a major military operation around Hebron on Saturday, including road restrictions and raids affecting Palestinian residents.",
+          "sourceIds": [
+            "hebron-reference",
+            "hebron-a",
+            "hebron-b"
+          ]
+        },
+        {
+          "text": "Palestinian local officials reported the displacement of more than 200 families; the outlets document that allegation, not an independently audited count.",
+          "sourceIds": [
+            "hebron-a",
+            "hebron-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Al Jazeera emphasizes Palestinian civilian displacement, rights concerns and broad restrictions; The Times of Israel includes the IDF's stated limited-operation rationale and the Israeli soldiers' deaths alongside Palestinian reports.",
+          "sourceIds": [
+            "hebron-a",
+            "hebron-b"
+          ]
+        },
+        {
+          "text": "AP connects the military campaign with both Palestinian civilian testimony and the upcoming Israeli election, rather than treating either official account as complete.",
+          "sourceIds": [
+            "hebron-reference",
+            "hebron-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "How many families and individuals had actually been displaced by the end of October 24?",
+        "How long would road closures and evacuations last, and could residents return to their homes?",
+        "Would the operation expand further and how would it affect Israel's October 27 election?",
+        "Would the Israeli military substantiate its claim that the operation was limited to the suspects' area?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Local reports said around 1,500 Palestinians had already been displaced and that a further 2,500 could be ordered to leave.",
+          "sourceIds": [
+            "hebron-b"
+          ],
+          "reason": "Attributed to WAFA, Hebron authorities and local reports; not independently confirmed by the selected newsrooms."
+        },
+        {
+          "text": "The IDF described the Hebron operation as focused and limited to the suspects' area.",
+          "sourceIds": [
+            "hebron-b"
+          ],
+          "reason": "An Israeli military characterization that requires separate assessment of the operation's actual geographic scope."
+        },
+        {
+          "text": "The Palestinian Authority called the Israeli measures collective punishment.",
+          "sourceIds": [
+            "hebron-a"
+          ],
+          "reason": "A legal and political characterization attributed to the PA, not an independently adjudicated finding in the selected reports."
+        }
+      ]
+    },
+    {
+      "id": "iran-us-embassy-warning-gulf-threat",
+      "eventId": "me-iran-hormuz-2026",
+      "title": "US diplomatic staff reductions and Iran's naval warning sharpen regional tensions",
+      "summary": "The US State Department announced reduced staffing at four Middle Eastern embassies after an intelligence memo alleged more advanced Iranian plots against Americans. Iran's senior military commander separately warned that US warships would not be allowed into the Persian Gulf. These were documented official statements; the underlying intelligence allegations and military capability claims were not independently proven.",
+      "whyItMatters": "Diplomatic safety, potential renewed US-Iran fighting and competing claims of control near the Strait of Hormuz create risks for regional civilians, international shipping and global energy supply.",
+      "region": "Iran / United States / Persian Gulf",
+      "tags": [
+        "Iran",
+        "United States",
+        "Strait of Hormuz",
+        "Diplomatic security",
+        "Military escalation",
+        "Energy"
+      ],
+      "selectionRationale": "Potential escalation between major military powers in an energy-critical maritime corridor and precautionary changes at multiple embassies have cross-border security and economic implications.",
+      "evidenceNote": "AP, Fox News and Press TV are distinct originating newsrooms. AP and Fox independently reported and examined the same US intelligence memo; repetition of its allegations is not independent proof of Iranian operations. Press TV reports a different but contemporaneous Iranian military warning within the same confrontation. The contrast concerns responsibility, threat perception and naval control, not independent verification of either side's military assertions. The AP story's original timestamp was corroborated through an openly readable ABC-hosted AP syndication, not counted as a separate source.",
+      "articles": [
+        {
+          "id": "iran-reference",
+          "role": "reference",
+          "headline": "US is reducing staffing at 4 Middle East embassies over increased threats from Iran",
+          "url": "https://apnews.com/article/iran-war-houthis-embassies-staffing-rubio-9635852ea973064907ed0b7c0fca4799",
+          "publishedAt": "2026-10-24T01:42:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original diplomatic news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States / international",
+            "ownership": "Original Associated Press diplomatic reporting by Matthew Lee; independently originated AP news story.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Memo, staffing and regional diplomacy",
+            "rationale": "Distinguishes a US intelligence assessment from independently proven plots and explains embassy operational changes and the wider military standoff."
+          },
+          "summary": "Reports the intelligence memo, reduced embassy staffing, Houthi threats and the prospect of further US-Iran escalation.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:10:44.314Z",
+            "method": "research-tool",
+            "note": "Original article page opened with substantive text accessible without a paid subscription or login. The original AP page is fully readable; AP byline Matthew Lee. An ABC-hosted AP syndication displays original publication October 23 at 9:42 PM US Eastern time, equivalent to October 24 01:42 UTC; ABC is not counted as an independent source."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:10:44.314Z",
+            "contentHash": null,
+            "evidenceNote": "Source evidence reviewed and timestamp logged at this time following article inspection; exact original HTTP-fetch seconds are unavailable. No cutoff-time archive capture or content fingerprint. The original AP page is fully readable; AP byline Matthew Lee. An ABC-hosted AP syndication displays original publication October 23 at 9:42 PM US Eastern time, equivalent to October 24 01:42 UTC; ABC is not counted as an independent source."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "iran-a",
+          "role": "contrast_a",
+          "headline": "Iran has 'substantially increased' efforts to target Americans abroad, US intelligence memo warns",
+          "url": "https://www.foxnews.com/politics/iran-substantially-increased-efforts-target-americans-abroad-us-intelligence-memo-warns",
+          "publishedAt": "2026-10-24T08:26:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original news reporting",
+          "outlet": {
+            "name": "Fox News Digital",
+            "domain": "foxnews.com",
+            "country": "United States",
+            "ownership": "Original Fox News reporting by Michael Sinkewicz, with contributions by Jessica Mekles and Nick Kalman.",
+            "ownershipGroup": "fox-news-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "US intelligence and protection of Americans",
+            "rationale": "Centers the US memo's allegations and risk to Americans abroad, with comments from officials about embassy staffing."
+          },
+          "summary": "Reports that US intelligence officials warned of advanced alleged Iranian plots and that embassy staffing was being adjusted.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:10:44.314Z",
+            "method": "research-tool",
+            "note": "Original article page opened with substantive text accessible without a paid subscription or login. Fox page explicitly shows October 24, 2026 at 4:26 AM EDT, converted to 08:26 UTC; full story readable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:10:44.314Z",
+            "contentHash": null,
+            "evidenceNote": "Source evidence reviewed and timestamp logged at this time following article inspection; exact original HTTP-fetch seconds are unavailable. No cutoff-time archive capture or content fingerprint. Fox page explicitly shows October 24, 2026 at 4:26 AM EDT, converted to 08:26 UTC; full story readable."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "iran-b",
+          "role": "contrast_b",
+          "headline": "Iran will not allow ‘rusty’ US military vessels to re-enter Persian Gulf: Top commander",
+          "url": "https://www.presstv.co.uk/Detail/2026/10/24/779050/Iran-will-not-allow-US-military-vessels-into-Persian-Gulf-Top-commander",
+          "publishedAt": "2026-10-24T04:42:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "news report of military statement",
+          "outlet": {
+            "name": "Press TV",
+            "domain": "presstv.co.uk",
+            "country": "Iran",
+            "ownership": "Iranian state-affiliated Press TV / IRIB World Service reporting on the armed forces chief's statement.",
+            "ownershipGroup": "irib",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Iranian deterrence and sovereignty claim",
+            "rationale": "Highlights Iranian military deterrence, alleged US naval weakness and Tehran's claimed authority to deny US access."
+          },
+          "summary": "Relays Major General Ali Abdollahi's warning that Iran would not permit US warships into the Gulf and his claim that the US Navy had become ineffective.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:10:44.314Z",
+            "method": "research-tool",
+            "note": "Original article page opened with substantive text accessible without a paid subscription or login. Press TV original page displays 2026/10/24 04:42 UTC; article text freely readable. This is a military official's claim, not independent evidence of US naval location or capability."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:10:44.314Z",
+            "contentHash": null,
+            "evidenceNote": "Source evidence reviewed and timestamp logged at this time following article inspection; exact original HTTP-fetch seconds are unavailable. No cutoff-time archive capture or content fingerprint. Press TV original page displays 2026/10/24 04:42 UTC; article text freely readable. This is a military official's claim, not independent evidence of US naval location or capability."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "A memo sent by US Director of National Intelligence Jay Clayton to Secretary of State Marco Rubio alleged increased Iranian plotting against American personnel; both US outlets document that the memo was issued, not that its allegations were proven.",
+          "sourceIds": [
+            "iran-reference",
+            "iran-a"
+          ]
+        },
+        {
+          "text": "The US State Department was adjusting staffing levels at several Middle Eastern embassies while citing regional threats involving Iran and the Houthis.",
+          "sourceIds": [
+            "iran-reference",
+            "iran-a"
+          ]
+        },
+        {
+          "text": "US officials were publicly discussing possible renewed strikes against Iran while Iranian military representatives were issuing warnings concerning US operations in the region.",
+          "sourceIds": [
+            "iran-reference",
+            "iran-a",
+            "iran-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Fox News foregrounds the US intelligence warning and protecting Americans overseas; Press TV foregrounds Iranian military strength and the asserted right to bar US naval vessels from the Persian Gulf.",
+          "sourceIds": [
+            "iran-a",
+            "iran-b"
+          ]
+        },
+        {
+          "text": "AP distinguishes reported intelligence allegations and embassy measures from verified attacks, while Press TV presents the Iranian general's claims of US naval weakness as part of a deterrence narrative.",
+          "sourceIds": [
+            "iran-reference",
+            "iran-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "What evidence supported the US intelligence assessment, and were the alleged plots operational or imminent?",
+        "Would the embassy staffing reductions expand into mandatory evacuations in additional countries?",
+        "Would Washington and Tehran resume formal talks or military attacks?",
+        "Could either side substantiate its claims about control and military presence around the Strait of Hormuz?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The US intelligence memo said Iranian plots to kill Americans had reached advanced stages.",
+          "sourceIds": [
+            "iran-reference",
+            "iran-a"
+          ],
+          "reason": "The existence and wording of the US intelligence allegation are documented; independent evidence of the alleged plots was not available in these sources."
+        },
+        {
+          "text": "Iranian armed forces chief Ali Abdollahi claimed US naval forces were ineffective and would never be allowed to re-enter the Persian Gulf.",
+          "sourceIds": [
+            "iran-b"
+          ],
+          "reason": "An Iranian military commander's assertion, not independent proof of US ship movements or operational capability."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-10-26T09:11:15.012Z",
+    "author": "ChatGPT",
+    "reason": "First published edition for October 24, 2026, filling the only missing completed Paris date after the October 25 edition was already published."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent review only, not human review. The nine linked pages were opened and their substantive text inspected without paywall bypass; bylines or originating newsrooms, visible original publication dates, genres and free readability were checked. Reuters reporting was accessible via a clearly identified Investing.com syndication and counted as one Reuters newsroom. AP's Iran publication timestamp was corroborated on an ABC-hosted AP syndication but ABC was not counted as an additional source. Le Monde's liveblog closed after cutoff; only October 24 entries were used. Military assertions, intelligence allegations and competing attendance/displacement estimates remain attributed. Exact prior HTTP-fetch seconds and historical cutoff-time snapshots were not available; source retrievedAt/checkedAt values record actual review logging during this run. No article bodies, images or unverified archive captures are republished."
+  }
+}
