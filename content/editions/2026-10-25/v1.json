@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-25",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-10-25T22:59:59Z",
+  "recordedAt": "2026-10-26T09:03:59.774Z",
+  "kind": "daily",
+  "selectionSummary": "Selected three distinct internationally consequential developments from the completed October 25 Europe/Paris calendar day using consistent criteria: breadth of population or infrastructure affected, cross-border security or political consequences, independent source coverage, and long-term historical significance. Serbia's student-backed electoral breakthrough, Saudi-Houthi missile confrontation and aviation disruption, and Brazil's presidential runoff were prominent by cutoff. The ranking is editorial rather than objective. Brazil's election result was not yet declared by the Paris cutoff and is deliberately excluded. The Saudi event reuses its persistent ID from the October 23 edition.",
+  "snapshot": {
+    "summary": "Aleksandar Vučić conceded a Serbian parliamentary election to a student-backed movement based on preliminary estimates; Saudi and Houthi accounts of missiles diverged while Riyadh airport partially reopened; and Brazil held a close presidential runoff with court-ordered voting extensions but no declared winner by the Paris cutoff.",
+    "connections": [
+      "Serbia and Brazil faced high-stakes political choices about leadership and institutional legitimacy; the Serbian concession was public before cutoff, while the Brazilian outcome remained unknown.",
+      "The Saudi-Yemen escalation demonstrated how a regional war could affect commercial aviation, confidence in energy infrastructure and maritime-security expectations beyond the combatants."
+    ],
+    "uncertainties": [
+      "Serbia's final certified seat allocation and governing arrangements remained unsettled.",
+      "Saudi and Houthi military claims about interceptions, successful strikes and casualties lacked independent confirmation.",
+      "Brazil's election winner, full turnout and consequences of the voting-hour extension were not known by 23:59:59 Paris time."
+    ]
+  },
+  "stories": [
+    {
+      "id": "serbia-student-election-concession",
+      "eventId": "eu-serbia-student-election-2026",
+      "title": "Vučić concedes as Serbia's student-backed list leads parliamentary vote",
+      "summary": "After a snap parliamentary election, Aleksandar Vučić said his electoral list had lost and that the student-backed list would win a majority, estimating 135–140 of 250 seats against roughly 105 for his camp. These were preliminary projections, not certified final results.",
+      "whyItMatters": "The projected change could reshape Serbia's governance, anti-corruption agenda, EU accession prospects and relationships with Russia and China after years of SNS dominance.",
+      "region": "Serbia / Southeast Europe",
+      "tags": [
+        "Serbia",
+        "Elections",
+        "Student movement",
+        "EU enlargement",
+        "Rule of law"
+      ],
+      "selectionRationale": "A potentially historic change of government in a strategically important EU-candidate state, with consequences for regional institutions and geopolitical alignment.",
+      "evidenceNote": "Reuters, Euronews Serbia and RTS are distinct originating newsrooms. Their accounts corroborate the public concession and preliminary estimates, not final certified returns. Reuters' page carries an early clock-time field inconsistent with its later-event narrative and may have been updated; only the calendar date and claims established by cutoff are used.",
+      "articles": [
+        {
+          "id": "serbia-reference",
+          "role": "reference",
+          "headline": "Serbia's Vucic concedes defeat in historic election win for student protest movement",
+          "url": "https://www.reuters.com/world/europe/serbia-votes-students-seek-unseat-vucic-snap-election-2026-10-25/",
+          "publishedAt": "2026-10-25",
+          "publishedPrecision": "date",
+          "genre": "news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom / international",
+            "ownership": "Original Reuters reporting by Ivana Sekularac, Edward McAllister and Aleksandar Vasovic; Thomson Reuters.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Election and governance uncertainty",
+            "rationale": "Reports the concession, crowds and provisional projections alongside questions about governing, Russia, China and EU ties."
+          },
+          "summary": "Reports the announced concession, preliminary seat estimates, street celebrations and questions about the student candidates' governing plans.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:03:01.845Z",
+            "method": "research-tool",
+            "note": "Substantive original page read without login or payment. Publisher displays October 25. Its visible 01:03 UTC clock field predates the evening concession, so a date-only original publication record is used; later updates are possible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:03:01.845Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence reviewed and timestamp logged during this run, after earlier page retrieval; no exact HTTP-request timestamp, cutoff-time capture or content fingerprint. Publisher displays October 25. Its visible 01:03 UTC clock field predates the evening concession, so a date-only original publication record is used; later updates are possible."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "serbia-a",
+          "role": "contrast_a",
+          "headline": "Student List wins Serbian election in political earthquake as Vučić concedes defeat",
+          "url": "https://www.euronews.com/2026/10/25/vucic-concedes-defeat-in-pivotal-serbian-elections-says-student-movement-has-won",
+          "publishedAt": "2026-10-25T20:51:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "news analysis",
+          "outlet": {
+            "name": "Euronews Serbia / Euronews",
+            "domain": "euronews.com",
+            "country": "Serbia / European network",
+            "ownership": "Original reporting by Ljubiša Ivanović with Euronews Serbia.",
+            "ownershipGroup": "euronews-serbia",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Institutional rupture and student victory",
+            "rationale": "Interprets the result as a generational political change and considers the difficulty of governing and future foreign policy."
+          },
+          "summary": "Emphasizes the student movement's breakthrough and its uncertain ability to govern.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:03:01.845Z",
+            "method": "research-tool",
+            "note": "Substantive original page read without login or payment. Original page says published October 25 at 21:51 GMT+1, updated 22:12, both before the Paris cutoff. The political-earthquake interpretation is analysis."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:03:01.845Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence reviewed and timestamp logged during this run, after earlier page retrieval; no exact HTTP-request timestamp, cutoff-time capture or content fingerprint. Original page says published October 25 at 21:51 GMT+1, updated 22:12, both before the Paris cutoff. The political-earthquake interpretation is analysis."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "serbia-b",
+          "role": "contrast_b",
+          "headline": "Vučić: Izgubili smo izbore, pobedila je Studentska lista",
+          "url": "https://www.rts.rs/lat/vesti/izbori-2026/6069583/vucic-izgubili-smo-izbore.html",
+          "publishedAt": "2026-10-25",
+          "publishedPrecision": "date",
+          "genre": "news report of political statement",
+          "outlet": {
+            "name": "Radio Television of Serbia (RTS)",
+            "domain": "rts.rs",
+            "country": "Serbia",
+            "ownership": "Original RTS newsroom reporting; Serbian public-service broadcaster.",
+            "ownershipGroup": "rts",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Incumbent's concession and party defense",
+            "rationale": "Concentrates on Vučić's speech, his preliminary figures, party resilience and accusations against critics."
+          },
+          "summary": "Records Vučić's admission of defeat, party unity claims and accusations of outside influence.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:03:01.845Z",
+            "method": "research-tool",
+            "note": "Substantive original page read without login or payment. Page dated October 25 at 21:33, updated 22:05 local time; clock timezone not specified on-page, so publication precision is date."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:03:01.845Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence reviewed and timestamp logged during this run, after earlier page retrieval; no exact HTTP-request timestamp, cutoff-time capture or content fingerprint. Page dated October 25 at 21:33, updated 22:05 local time; clock timezone not specified on-page, so publication precision is date."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Vučić publicly acknowledged that his electoral list had lost to the student-backed list, while saying final results were not yet available.",
+          "sourceIds": [
+            "serbia-reference",
+            "serbia-a",
+            "serbia-b"
+          ]
+        },
+        {
+          "text": "He cited preliminary projections of 135–140 parliamentary seats for the Student List and about 105 for his list, in a 250-seat assembly.",
+          "sourceIds": [
+            "serbia-reference",
+            "serbia-a",
+            "serbia-b"
+          ]
+        },
+        {
+          "text": "The student-backed movement emerged from protests over the 2024 Novi Sad railway station disaster and broader allegations of corruption and institutional abuse.",
+          "sourceIds": [
+            "serbia-reference",
+            "serbia-a"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Euronews Serbia stresses a generational institutional break and the student movement's victory; RTS centers the incumbent's own explanation, party resilience and rebuttals.",
+          "sourceIds": [
+            "serbia-a",
+            "serbia-b"
+          ]
+        },
+        {
+          "text": "Reuters places the result in a wider diplomatic and governance context, while RTS devotes substantial space to Vučić's defense of his record and allegations about opponents.",
+          "sourceIds": [
+            "serbia-reference",
+            "serbia-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "What would the election commission certify as final vote and seat totals?",
+        "Who would lead the government and which reforms could the new list implement?",
+        "Would the next leadership substantially change relations with the EU, Russia, China or Kosovo?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Vučić alleged that European governments and a US 'deep state' supported the student movement's political success.",
+          "sourceIds": [
+            "serbia-b"
+          ],
+          "reason": "Allegation in a political speech, not corroborated by the selected independent reporting."
+        },
+        {
+          "text": "The Student List would receive exactly 135–140 seats and Vučić's camp about 105.",
+          "sourceIds": [
+            "serbia-reference",
+            "serbia-a",
+            "serbia-b"
+          ],
+          "reason": "Preliminary estimates, not final certified returns at the cutoff."
+        }
+      ]
+    },
+    {
+      "id": "saudi-houthi-missiles-riyadh",
+      "eventId": "me-saudi-houthi-escalation-2026",
+      "title": "Saudi and Houthi forces give competing accounts of missile attacks as Riyadh airport reopens",
+      "summary": "The Saudi-led coalition said it intercepted projectiles aimed at Riyadh and southern Saudi Arabia while Riyadh airport partially resumed operations. A Sanaa-based outlet relayed Houthi claims of successful strikes on the airport and military bases. Neither side's detailed military outcomes were independently established.",
+      "whyItMatters": "The conflict threatens civilian air travel and infrastructure in a major energy exporter, while fighting near Yemen's Red Sea coast raises wider regional and maritime-security concerns.",
+      "region": "Saudi Arabia / Yemen",
+      "tags": [
+        "Saudi Arabia",
+        "Yemen",
+        "Houthis",
+        "Civil aviation",
+        "Energy security",
+        "Red Sea"
+      ],
+      "selectionRationale": "Cross-border military escalation in a major energy-exporting state and risks to aviation and shipping corridors give the event consequences beyond the battlefield.",
+      "evidenceNote": "Reuters, Saudi Gazette and Yemen Press Agency are distinct originating editorial organizations. Saudi Gazette relays Saudi coalition statements; YPA relays Sanaa/Houthi military statements. Their incompatible claims of interceptions and successful strikes are not independently verified. Reuters first published its continuing report October 24 UTC and later incorporated Sunday developments; no cutoff-time snapshot exists.",
+      "articles": [
+        {
+          "id": "saudi-reference",
+          "role": "reference",
+          "headline": "Saudis say Riyadh airport partly reopens despite renewed Houthi threats",
+          "url": "https://www.reuters.com/world/middle-east/yemens-houthis-renew-warning-against-using-riyadh-airport-2026-10-24/",
+          "publishedAt": "2026-10-24T23:56:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom / international",
+            "ownership": "Original Reuters reporting credited to Yomna Ehab and colleagues; Thomson Reuters.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Competing claims and commercial aviation risk",
+            "rationale": "Distinguishes Saudi announcements from Houthi claims and notes little observed flight traffic after reopening was announced."
+          },
+          "summary": "Reports the terminal reopening announcement, warnings to airlines, coalition interception claims and the continuing war.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:03:13.550Z",
+            "method": "research-tool",
+            "note": "Substantive original page read without login or payment. Page displays first publication October 24 at 23:56 UTC; later updated to include October 25 developments. Exact update time not visible. Claims used here are supported by the other selected October 25 sources."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:03:13.550Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence reviewed and timestamp logged during this run, after earlier page retrieval; no exact HTTP-request timestamp, cutoff-time capture or content fingerprint. Page displays first publication October 24 at 23:56 UTC; later updated to include October 25 developments. Exact update time not visible. Claims used here are supported by the other selected October 25 sources."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "saudi-a",
+          "role": "contrast_a",
+          "headline": "Al-Maliki: A dozen Houthi missiles intercepted over southern region, Riyadh",
+          "url": "https://saudigazette.com.sa/article/665714/saudi-arabia/al-maliki-a-dozen-houthi-missiles-intercepted-over-southern-region-riyadh",
+          "publishedAt": "2026-10-25",
+          "publishedPrecision": "date",
+          "genre": "news report",
+          "outlet": {
+            "name": "Saudi Gazette",
+            "domain": "saudigazette.com.sa",
+            "country": "Saudi Arabia",
+            "ownership": "Original Saudi Gazette staff report; beneficial ownership not independently audited.",
+            "ownershipGroup": "saudi-gazette",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Saudi coalition defense and interception",
+            "rationale": "Uses the coalition's security terminology and emphasizes reported interception success without independent technical evidence."
+          },
+          "summary": "Reports coalition spokesman al-Maliki's assertion that ten ballistic missiles toward the south, a cruise missile and projectiles toward Riyadh were intercepted.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:03:13.550Z",
+            "method": "research-tool",
+            "note": "Substantive original page read without login or payment. Page displays October 25, 05:10 PM; timezone not explicit, so only original calendar date is stored."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:03:13.550Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence reviewed and timestamp logged during this run, after earlier page retrieval; no exact HTTP-request timestamp, cutoff-time capture or content fingerprint. Page displays October 25, 05:10 PM; timezone not explicit, so only original calendar date is stored."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "saudi-b",
+          "role": "contrast_b",
+          "headline": "Sanaa forces announce three military operations targeting Saudi heartland",
+          "url": "https://en.ypagency.net/409850",
+          "publishedAt": "2026-10-25",
+          "publishedPrecision": "date",
+          "genre": "news report of military claims",
+          "outlet": {
+            "name": "Yemen Press Agency (YPA)",
+            "domain": "en.ypagency.net",
+            "country": "Yemen",
+            "ownership": "Original Sanaa-based YPA staff report; ownership not independently audited; Houthi-aligned terminology evident in article.",
+            "ownershipGroup": "yemen-press-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Sanaa forces' claimed retaliation",
+            "rationale": "Presents attacks as a response to Saudi aggression and asserts successful strikes against Saudi targets."
+          },
+          "summary": "Relays Sanaa/Houthi military claims of operations against Riyadh airport and bases at Khamis Mushait and Jizan, plus renewed airline warnings.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:03:13.550Z",
+            "method": "research-tool",
+            "note": "Substantive original page read without login or payment. Original page displays October 25 at 10:51 PM; local timezone not explicit. Successful hits and claimed casualties remain uncorroborated."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:03:13.550Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence reviewed and timestamp logged during this run, after earlier page retrieval; no exact HTTP-request timestamp, cutoff-time capture or content fingerprint. Original page displays October 25 at 10:51 PM; local timezone not explicit. Successful hits and claimed casualties remain uncorroborated."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Saudi coalition officials announced interceptions of missiles aimed at Riyadh and southern Saudi Arabia on Sunday.",
+          "sourceIds": [
+            "saudi-reference",
+            "saudi-a"
+          ]
+        },
+        {
+          "text": "Houthi/Sanaa military representatives publicly identified King Khalid International Airport as a target and warned airlines and travellers against using it.",
+          "sourceIds": [
+            "saudi-reference",
+            "saudi-b"
+          ]
+        },
+        {
+          "text": "The opposing forces issued competing public accounts of attacks involving Riyadh and Saudi military facilities; the announcements themselves are documented, not the physical outcomes.",
+          "sourceIds": [
+            "saudi-reference",
+            "saudi-a",
+            "saudi-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Saudi Gazette calls the Houthis a terrorist militia and emphasizes defensive interceptions; YPA calls the launches retaliation for Saudi aggression and asserts direct hits.",
+          "sourceIds": [
+            "saudi-a",
+            "saudi-b"
+          ]
+        },
+        {
+          "text": "Reuters keeps both sides' claims attributed and focuses on aviation disruption and commercial risk, unlike YPA's presentation of claimed military success.",
+          "sourceIds": [
+            "saudi-reference",
+            "saudi-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "How many missiles or drones were launched, intercepted or actually struck targets?",
+        "Were there verified casualties or damage from the particular October 25 claimed strikes?",
+        "How much scheduled air traffic resumed at Riyadh airport, and would the threats force another closure?",
+        "Would fighting near Red Sea routes and Saudi energy infrastructure escalate?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Sanaa forces said dozens of ballistic missiles successfully hit Riyadh airport, Khamis Mushait and a naval base in Jizan, with casualties among Saudi forces.",
+          "sourceIds": [
+            "saudi-b"
+          ],
+          "reason": "A Houthi-aligned military claim, without independent confirmation in the other selected reports."
+        },
+        {
+          "text": "The Saudi coalition intercepted ten ballistic missiles toward the southern region and other projectiles toward Riyadh.",
+          "sourceIds": [
+            "saudi-reference",
+            "saudi-a"
+          ],
+          "reason": "The number and interceptions are attributed to the Saudi-led coalition; multiple outlets repeating the statement do not independently verify it."
+        }
+      ]
+    },
+    {
+      "id": "brazil-runoff-voting-extension",
+      "eventId": "am-brazil-presidential-runoff-2026",
+      "title": "Brazil's presidential runoff proceeds amid a court-ordered voting extension",
+      "summary": "Nearly 159 million Brazilians were eligible for a close presidential runoff between incumbent Lula and Senator Flávio Bolsonaro. Amid complaints about access to voting, a Supreme Court justice extended voting at stations that had not yet closed. The winner was not declared before the Paris-day cutoff.",
+      "whyItMatters": "The election could reshape Latin America's largest economy, its foreign policy, social and environmental programmes, and relations with the United States, China and regional partners.",
+      "region": "Brazil / Latin America",
+      "tags": [
+        "Brazil",
+        "Presidential election",
+        "Lula",
+        "Flávio Bolsonaro",
+        "Voting access",
+        "Latin America"
+      ],
+      "selectionRationale": "A nationally decisive election in a country with nearly 159 million eligible voters and substantial economic, environmental and diplomatic influence.",
+      "evidenceNote": "The Guardian, Brasil de Fato and Gazeta do Povo are independent originating newsrooms with different emphases. The Guardian article first published October 25 at 09:00 CET; Brasil de Fato posted October 25 at 08:15 local; Gazeta's court report was first published October 25 at 16:35 and updated 19:06 local. The Brasil de Fato text contains a likely calendar typo '(26)' despite its October 25 timestamp and the actual Sunday vote. The winner, announced after 23:59:59 Paris time, is deliberately excluded.",
+      "articles": [
+        {
+          "id": "brazil-reference",
+          "role": "reference",
+          "headline": "Brazilians vote in presidential election runoff pitting leftist Lula against far-right Bolsonaro",
+          "url": "https://www.theguardian.com/world/2026/oct/25/lula-da-silva-flavio-bolsonaro-brazil-presidential-election",
+          "publishedAt": "2026-10-25T08:00:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original news reporting",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Original Guardian reporting by Tiago Rogero in Rio de Janeiro; Guardian News & Media.",
+            "ownershipGroup": "guardian-news-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Competing candidates and voter motivations",
+            "rationale": "Describes both campaigns and interviews supporters on each side, while scrutinizing authoritarianism concerns; a reference account is not guaranteed neutral."
+          },
+          "summary": "Reports voting, the narrow first-round gap, the candidates' rival security and social-policy pitches and pre-result uncertainty.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:03:29.952Z",
+            "method": "research-tool",
+            "note": "Substantive original page read without login or payment. Original page states first published Sunday October 25 at 09:00 CET and updated 15:41 CET; freely readable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:03:29.952Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence reviewed and timestamp logged during this run, after earlier page retrieval; no exact HTTP-request timestamp, cutoff-time capture or content fingerprint. Original page states first published Sunday October 25 at 09:00 CET and updated 15:41 CET; freely readable."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "brazil-a",
+          "role": "contrast_a",
+          "headline": "Brasileiros decidem entre continuidade da esquerda e retorno do bolsonarismo à presidência",
+          "url": "https://www.brasildefato.com.br/2026/10/25/brasileiros-decidem-entre-continuidade-da-esquerda-e-retorno-do-bolsonarismo-a-presidencia/",
+          "publishedAt": "2026-10-25",
+          "publishedPrecision": "date",
+          "genre": "news analysis",
+          "outlet": {
+            "name": "Brasil de Fato",
+            "domain": "brasildefato.com.br",
+            "country": "Brazil",
+            "ownership": "Original Brasil de Fato newsroom article credited to Redação; ultimate beneficial ownership not independently audited.",
+            "ownershipGroup": "brasil-de-fato",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Social rights and anti-Bolsonarismo framing",
+            "rationale": "Frames the choice as continuity of left-wing reconstruction and social rights versus a right-wing return."
+          },
+          "summary": "Explains the runoff, high polarization, voting arrangements and competing presidential programmes.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:03:29.952Z",
+            "method": "research-tool",
+            "note": "Substantive original page read without login or payment. Page shows October 25 at 08:15 and original staff text, freely readable. One sentence says Sunday '(26)', inconsistent with its own October 25 date; this is treated as an apparent typo, not as a new event date."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:03:29.952Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence reviewed and timestamp logged during this run, after earlier page retrieval; no exact HTTP-request timestamp, cutoff-time capture or content fingerprint. Page shows October 25 at 08:15 and original staff text, freely readable. One sentence says Sunday '(26)', inconsistent with its own October 25 date; this is treated as an apparent typo, not as a new event date."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "brazil-b",
+          "role": "contrast_b",
+          "headline": "Zanin esclarece decisão e diz que votação até 19h vale para locais onde urnas ainda estão abertas",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/stf-concede-liminar-e-prorroga-votacao-ate-as-19h-em-todo-o-brasil/",
+          "publishedAt": "2026-10-25",
+          "publishedPrecision": "date",
+          "genre": "news reporting",
+          "outlet": {
+            "name": "Gazeta do Povo",
+            "domain": "gazetadopovo.com.br",
+            "country": "Brazil",
+            "ownership": "Original reporting credited to Aline Menezes and Fernanda Leitoles; ultimate ownership not independently audited.",
+            "ownershipGroup": "gazeta-do-povo",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Court procedure and limits on extended voting",
+            "rationale": "Focuses on Supreme Court and electoral-court orders, the status of closed voting machines, and access complaints from both campaigns."
+          },
+          "summary": "Reports Justice Cristiano Zanin's order extending voting hours and subsequent clarification restricting extension to stations still open.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-26T09:03:29.952Z",
+            "method": "research-tool",
+            "note": "Substantive original page read without login or payment. Page shows first publication October 25 at 16:35 and update at 19:06 local; headline was revised to the clarification wording. Freely readable substantive text was inspected."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-26T09:03:29.952Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence reviewed and timestamp logged during this run, after earlier page retrieval; no exact HTTP-request timestamp, cutoff-time capture or content fingerprint. Page shows first publication October 25 at 16:35 and update at 19:06 local; headline was revised to the clarification wording. Freely readable substantive text was inspected."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Brazil held a second-round presidential vote on October 25 between incumbent Luiz Inácio Lula da Silva of the PT and Senator Flávio Bolsonaro of the PL.",
+          "sourceIds": [
+            "brazil-reference",
+            "brazil-a",
+            "brazil-b"
+          ]
+        },
+        {
+          "text": "The contest was close after Bolsonaro led the October 4 first round but neither candidate secured the majority required to avoid a runoff.",
+          "sourceIds": [
+            "brazil-reference",
+            "brazil-a"
+          ]
+        },
+        {
+          "text": "About 159 million Brazilians were eligible to vote in the presidential runoff.",
+          "sourceIds": [
+            "brazil-reference",
+            "brazil-a"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Brasil de Fato emphasizes social rights, reconstruction and the risks of a right-wing return; the Guardian documents voter motivations and campaign disputes on both sides while also scrutinizing democratic risks.",
+          "sourceIds": [
+            "brazil-a",
+            "brazil-reference"
+          ]
+        },
+        {
+          "text": "Gazeta do Povo concentrates on judicial procedure and the practical limits of the voting extension; Brasil de Fato centers the ideological stakes and competing governing projects.",
+          "sourceIds": [
+            "brazil-b",
+            "brazil-a"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Which candidate would be declared the winner after counting, and by what margin?",
+        "How many voters were affected by reported transport difficulties and which stations could lawfully remain open?",
+        "Would the extension of voting lead to legal challenges or disputes over the count?",
+        "How would the eventual government manage relations with the US and domestic fiscal and social priorities?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Campaigns alleged that transport problems prevented some voters from reaching polling stations; whether particular restrictions were deliberate voter suppression was unresolved.",
+          "sourceIds": [
+            "brazil-b"
+          ],
+          "reason": "The court ruling and complaints were reported, but the alleged intent and scale of suppression were not independently established by the selected accounts."
+        },
+        {
+          "text": "Analysts and campaign figures speculated that the losing side might reject the outcome.",
+          "sourceIds": [
+            "brazil-reference"
+          ],
+          "reason": "A pre-result forecast and concern, not an event known to have happened by the Paris cutoff."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-10-26T09:03:59.774Z",
+    "author": "ChatGPT",
+    "reason": "First edition for October 25, 2026; prepared and reviewed from nine directly opened, free-to-read newsroom articles with distinct source ownership per story."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent-only review of original newsroom pages and displayed dates, headlines, article genres, readable access, newsroom independence, two-source corroboration and divergent editorial framing. No human review. Source evidence was opened and reviewed during this run; per-source metadata timestamps record actual evidence-review logging, not exact prior HTTP fetch seconds. Mutable news pages can have been updated; no historical archive captures or content fingerprints were verified. All military counts and allegations remain attributed. Brazil's later-announced result is excluded because it was unknown by the October 25 Paris cutoff."
+  }
+}
