@@ -6,7 +6,7 @@ Three consequential world stories per Paris calendar day, each with exactly thre
 
 ChatGPT researches and reviews each edition using the chat's browsing tools, then publishes versioned JSON to this repository. GitHub Actions only validates, builds and deploys that saved content to GitHub Pages. **No OpenAI API key, paid research API, or scheduled research workflow is used by this website.**
 
-The existing hosted ChatGPT task is named **World News History Archive**, inside the **Open Source News Archive** conversation. Its active schedule remains daily at **08:00 Europe/Paris**. Its instructions now include publishing to this repository; the first unattended website publication has not yet been verified. No duplicate local schedule was created. See [DEPLOYMENT.md](DEPLOYMENT.md) for verified status.
+The existing hosted ChatGPT task is named **World News History Archive**, inside the **Open Source News Archive** conversation. Its active schedule remains daily at **08:00 Europe/Paris**. It finishes one missing edition per run: the previous completed day first, then the oldest gap if that day is already published. No duplicate local schedule was created. See [DEPLOYMENT.md](DEPLOYMENT.md) for verified status.
 
 Canonical website: https://heckel75.github.io/World-News-Archive/
 
@@ -42,7 +42,7 @@ This public repository is already configured for GitHub Pages with Source set to
 
 Research takes place within the signed-in ChatGPT/Codex session and is subject to that account's plan limits. The website makes no AI API calls and requires no research secret. GitHub Pages supports public repositories on GitHub Free, subject to current platform limits; a custom domain is optional. There is no database or persistent server. The initial Sites demo is a separate deployment and does not receive GitHub updates.
 
-A local scheduled chat needs the computer on and the app running. A hosted ChatGPT task depends on its own tool access and permissions. Do not describe either as working until its first publish succeeds. Check failed runs and calendar gaps; a missing day stays visible as a gap until verified research is available.
+A local scheduled chat needs the computer on and the app running. A hosted ChatGPT task depends on its own tool access and permissions. The October 24 run prepared the October 23 edition but paused at GitHub approval. On October 26, the owner authorized GitHub for that conversation, the task was resumed, and its pending content commit was recovered and deployed. A saved schedule alone is not evidence of successful publication. Check the actual edition dates and deployment result after each run; a missing day stays visible as a gap until verified research is available.
 
 ## Rights and provenance
 
