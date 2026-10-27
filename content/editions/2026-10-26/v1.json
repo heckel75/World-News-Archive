@@ -1,0 +1,623 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-26",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-10-26T22:59:59Z",
+  "recordedAt": "2026-10-27T07:37:43.121Z",
+  "kind": "daily",
+  "selectionSummary": "Three stories selected by population and institutional scale, cross-border consequences, independent coverage and long-term significance: Brazil's presidential runoff result, China's fifth party plenum and four-country security talks in Tehran. Continuing event IDs are preserved.",
+  "snapshot": {
+    "summary": "Lula's election victory was confirmed; China's ruling party began a discipline-focused plenum; and regional security officials met Iranian leaders to discuss de-escalation.",
+    "connections": [
+      "Institutional legitimacy and international economic and security consequences connect the three distinct developments."
+    ],
+    "uncertainties": [
+      "Brazilian electoral challenges, China's final plenum decisions and the outcome of regional security talks remained unresolved by cutoff."
+    ]
+  },
+  "stories": [
+    {
+      "id": "brazil-lula-reelection-recognition",
+      "eventId": "am-brazil-presidential-runoff-2026",
+      "title": "Lula's reelection is confirmed as Bolsonaro contests the vote but his party recognizes the result",
+      "summary": "Brazil's electoral court declared Luiz Inácio Lula da Silva the winner of a fourth presidential term following Sunday's runoff, defeating Flávio Bolsonaro by over four million votes. On Monday, Bolsonaro challenged the late extension of polling hours, but his Liberal Party acknowledged Lula's victory while requesting explanations. US President Donald Trump cast doubt on the vote without evidence, and Brazilian financial markets fell sharply.",
+      "whyItMatters": "The result determines the leadership of Latin America's largest economy, influencing trade, Amazon protections and foreign relations. The discrepancy between the opposition candidate and his party over accepting the result tested electoral legitimacy, while the market selloff signalled immediate fiscal concerns.",
+      "region": "Brazil / Latin America",
+      "tags": [
+        "Brazil",
+        "Presidential election",
+        "Lula",
+        "Flávio Bolsonaro",
+        "Electoral integrity",
+        "US-Brazil relations",
+        "Financial markets"
+      ],
+      "selectionRationale": "A major country's presidential outcome, more than 120 million valid votes, an unprecedented fourth mandate, a cross-border diplomatic response and market effects meet the common tests of scale, international exposure, independent newsroom coverage and lasting historical importance. The election was held October 25 but the decisive declaration followed that date's Paris cutoff; the October 25 event ID is reused.",
+      "evidenceNote": "Reuters, Al Jazeera Staff and Gazeta do Povo are distinct originating newsrooms. The declared electoral result is distinguished from unproved interference allegations. Reuters originally published at 07:07 UTC October 26 but its rolling report contains later Monday developments without a visible updated time. Gazeta first published October 26 at 19:52 site time and was updated at 21:20, which may be after the Paris cutoff if its timezone is Brasília: only its original party-recognition announcement, results and court extension corroborated by other same-day sources are used. The reported election outcome itself emerged after the previous Paris cutoff.",
+      "articles": [
+        {
+          "id": "brazil-reference",
+          "role": "reference",
+          "headline": "Trump says Brazil election looked 'rigged,' defeated Bolsonaro's party recognizes Lula win",
+          "url": "https://www.reuters.com/world/americas/brazil-heads-back-future-flavio-bolsonaro-refuses-recognize-lula-win-2026-10-26/",
+          "publishedAt": "2026-10-26T07:07:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original multi-reporter international political and financial news",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom / international",
+            "ownership": "Original Thomson Reuters newsroom reporting credited to Oliver Griffin and Eduardo Simões with colleagues.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Election result, party recognition and economic response",
+            "rationale": "Documents the result and conflicting statements by Bolsonaro, his party and Trump; notes no evidence for Trump's assertion, and covers market reaction."
+          },
+          "summary": "Reports Lula's win, the defeated candidate's challenge, his party's acknowledgment, Trump's unsubstantiated comments and Brazilian asset selloffs.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-27T07:34:15.688Z",
+            "method": "research-tool",
+            "note": "Full substantive publisher text opened and read without login or paid access. Reuters page visibly gives first publication October 26 07:07 UTC, with named bylines, but no exact last-update timestamp."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-27T07:34:15.688Z",
+            "contentHash": null,
+            "evidenceNote": "Actual source-review log time after opening page; not a guessed original HTTP retrieval time. No verified cutoff-time archive capture or content fingerprint. The October 26 party recognition is independently reported by Gazeta; Reuters later content cannot be presumed present at its original publication time."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "brazil-a",
+          "role": "contrast_a",
+          "headline": "Lula holds off far right with victory in Brazil presidential election",
+          "url": "https://www.aljazeera.com/news/2026/10/26/lula-holds-off-far-right-with-victory-in-brazil-presidential-election",
+          "publishedAt": "2026-10-26",
+          "publishedPrecision": "date",
+          "genre": "original Al Jazeera newsroom political reporting",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar / international",
+            "ownership": "Original Al Jazeera Staff newsroom article; a Reuters photo credit does not make its written report a Reuters syndication.",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Lula's social-policy comeback and regional ideology",
+            "rationale": "Emphasizes the reversal of Lula's first-round loss, democratic appeals, social promises and the regional rightward electoral trend, while covering Bolsonaro's objection."
+          },
+          "summary": "Explains Lula's runoff comeback, his fourth term, victory speech, difficulties facing Congress and Bolsonaro's initial refusal to concede.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-27T07:34:15.688Z",
+            "method": "research-tool",
+            "note": "Full substantive publisher text opened and read without login or paid access. Site displays Al Jazeera Staff byline and original publication October 26; no unambiguous timezone or clock time; full article publicly readable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-27T07:34:15.688Z",
+            "contentHash": null,
+            "evidenceNote": "Actual source-review log time after opening page; not a guessed original HTTP retrieval time. No verified cutoff-time archive capture or content fingerprint. The site credits Reuters for a photo only; the selected written report is identified as Al Jazeera newsroom work."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "brazil-b",
+          "role": "contrast_b",
+          "headline": "PL reconhece vitória de Lula, mas cobra explicações",
+          "url": "https://www.gazetadopovo.com.br/eleicoes/2026/pl-reconhece-vitoria-de-lula-mas-cobra-explicacoes/",
+          "publishedAt": "2026-10-26",
+          "publishedPrecision": "date",
+          "genre": "original domestic politics news report",
+          "outlet": {
+            "name": "Gazeta do Povo",
+            "domain": "gazetadopovo.com.br",
+            "country": "Brazil",
+            "ownership": "Original reporting by Camila Abrão for Gazeta do Povo, separate from Reuters and Al Jazeera.",
+            "ownershipGroup": "gazeta-do-povo",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Party statement and voting-rule concerns",
+            "rationale": "Focuses on the defeated candidate's party recognizing the announced tally while asking about the judicial voting extension, instead of treating the outcome chiefly as an ideological shift."
+          },
+          "summary": "Reports Liberal Party president Valdemar Costa Neto acknowledging Lula's victory and calling for clarity about election procedures.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-27T07:34:15.688Z",
+            "method": "research-tool",
+            "note": "Full substantive publisher text opened and read without login or paid access. Page shows first published Oct 26 at 19:52 and updated 21:20 local-site time, without explicitly labelling timezone. Readable without payment."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-27T07:34:15.688Z",
+            "contentHash": null,
+            "evidenceNote": "Actual source-review log time after opening page; not a guessed original HTTP retrieval time. No verified cutoff-time archive capture or content fingerprint. The 21:20 update may postdate Paris cutoff; selected factual material concerns the earlier published PL announcement, count and preexisting court extension only."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Brazil's electoral court declared Lula winner of the October 25 presidential runoff over Flávio Bolsonaro with roughly 51.8% versus 48.2% and a margin exceeding four million valid votes.",
+          "sourceIds": [
+            "brazil-reference",
+            "brazil-a",
+            "brazil-b"
+          ]
+        },
+        {
+          "text": "A supreme court order extended polling by two hours at stations still voting amid reported transport and weather problems; Bolsonaro questioned the legitimacy of the changed hours.",
+          "sourceIds": [
+            "brazil-reference",
+            "brazil-a",
+            "brazil-b"
+          ]
+        },
+        {
+          "text": "Bolsonaro initially refused to concede, but his Liberal Party on October 26 acknowledged the announced result while asking that concerns be clarified.",
+          "sourceIds": [
+            "brazil-reference",
+            "brazil-b"
+          ]
+        },
+        {
+          "text": "Lula overturned a first-round deficit to win a fourth non-consecutive presidency, an unprecedented reversal in the modern Brazilian runoff system.",
+          "sourceIds": [
+            "brazil-reference",
+            "brazil-a"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Al Jazeera foregrounds Lula's political comeback and social-democratic message; Gazeta do Povo centres the defeated party's conditional acceptance and its procedural concerns, which are not presented as proof of fraud.",
+          "sourceIds": [
+            "brazil-a",
+            "brazil-b"
+          ]
+        },
+        {
+          "text": "Reuters links Brazil's result with Trump's unsupported intervention and an abrupt investor selloff; Al Jazeera concentrates on turnout, campaign appeal and legislative challenges.",
+          "sourceIds": [
+            "brazil-reference",
+            "brazil-a"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether the defeated candidate would file a viable court challenge and how party recognition would affect his position remained unsettled.",
+        "Whether the incoming Lula administration could obtain enough support in a more conservative Congress was uncertain.",
+        "How persistent would the market selloff prove, and what detailed fiscal response would the government offer?",
+        "Would the US administration substantiate or withdraw its unsupported election criticism?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "US President Donald Trump described the outcome as appearing rigged.",
+          "sourceIds": [
+            "brazil-reference"
+          ],
+          "reason": "A public allegation without presented supporting evidence. The recorded margin was far larger than the ballots cast during extended voting hours."
+        },
+        {
+          "text": "Flávio Bolsonaro alleged the voting extension unfairly changed the rules and could undermine the result.",
+          "sourceIds": [
+            "brazil-reference",
+            "brazil-a",
+            "brazil-b"
+          ],
+          "reason": "A candidate's criticism, not an independently verified finding of election manipulation or a proven change in the winner."
+        }
+      ]
+    },
+    {
+      "id": "china-fifth-plenum-party-governance",
+      "eventId": "as-china-cpc-fifth-plenum-2026",
+      "title": "China's Communist Party begins discipline-focused plenum before the 2027 leadership cycle",
+      "summary": "China's ruling Communist Party opened a closed-door four-day fifth Central Committee plenum in Beijing on October 26. Xi Jinping presented a work report and draft decision on party self-governance. Official coverage emphasised institutional discipline and anti-corruption; international reporting examined the implications for political control and the next party leadership cycle. No final plenum decision had been announced by the Paris cutoff.",
+      "whyItMatters": "Party governance and elite personnel decisions in the world's second-largest economy can affect economic implementation, international trade, the military and relations with neighbouring states. The plenum precedes the 2027 Party Congress and may shape expectations without itself establishing future leadership appointments.",
+      "region": "China / East Asia",
+      "tags": [
+        "China",
+        "Xi Jinping",
+        "Communist Party",
+        "Fifth plenum",
+        "Anti-corruption",
+        "Governance",
+        "2027 Party Congress"
+      ],
+      "selectionRationale": "A national governing meeting affecting roughly 1.4 billion people and a major global trade and security power, with consequences for 2027 succession, passes the same population-scale, cross-border stakes, coverage diversity and long-term impact criterion. Significant anticipated consequences are clearly distinguished from decisions not yet made.",
+      "evidenceNote": "Reuters, The Guardian and Xinhua are distinct originating newsrooms. Xinhua's claims about the benefits of party self-reform are Chinese state institutional assessments, not externally audited achievements. The Guardian original publication Sun Oct 25 20:58 EDT converts to Mon Oct 26 00:58 UTC; its displayed last modification Mon Oct 26 19:03 EDT converts to Oct 26 23:03 UTC, four minutes after Paris cutoff. The edition uses no uniquely post-cutoff information from that update and discloses missing cutoff snapshot.",
+      "articles": [
+        {
+          "id": "china-reference",
+          "role": "reference",
+          "headline": "China's Xi opens Communist Party plenum, aims for firm governance measures",
+          "url": "https://www.reuters.com/world/china/chinas-communist-party-opens-fifth-plenum-2026-10-26/",
+          "publishedAt": "2026-10-26T02:04:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original international political news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom / international",
+            "ownership": "Original Reuters news reporting by Liz Lee and the Beijing newsroom.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Governance agenda and leadership implications",
+            "rationale": "Reports Xi's presented draft, meeting timetable and analysts' forecasts about the 2027 leadership transition, distinguishing official purpose from outside analysis."
+          },
+          "summary": "Reports the October 26 opening, self-governance agenda, four-day meeting, Xi's presentation and possible 2027 leadership implications.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-27T07:35:12.454Z",
+            "method": "research-tool",
+            "note": "Publisher page opened; substantive text read in public view without paid access or account login. Reuters page gives October 26 at 02:04 UTC as first publication and Liz Lee/Beijing newsroom reporting credits. Complete substantive report publicly readable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-27T07:35:12.454Z",
+            "contentHash": null,
+            "evidenceNote": "Actual evidence-review metadata logging time after original page opening; not a fabricated precise HTTP fetch timestamp. No verified cutoff-time archived capture or content fingerprint. The article attributes descriptions of the draft to Xinhua and outside predictions to named analysts; those are not established plenum decisions."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "china-a",
+          "role": "contrast_a",
+          "headline": "Xi Jinping’s corruption crackdown in the spotlight as China prepares for meeting of top leaders",
+          "url": "https://www.theguardian.com/world/2026/oct/26/xi-jinping-corruption-crackdown-china-fifth-plenum",
+          "publishedAt": "2026-10-26T00:58:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original reported explanatory political analysis",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Amy Hawkins's original Beijing reporting with named academic interviews for Guardian News & Media.",
+            "ownershipGroup": "guardian-news-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Senior-level purges, political incentives and loyalty",
+            "rationale": "Examines whether anticorruption enforcement serves both genuine discipline and political consolidation, using attributable expert interpretation rather than claiming every case is politically motivated."
+          },
+          "summary": "Reviews Xi's longstanding anti-corruption drive, recent investigations of high-ranking figures and expert interpretations of the plenum's function.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-27T07:35:12.454Z",
+            "method": "research-tool",
+            "note": "Publisher page opened; substantive text read in public view without paid access or account login. Page displays first publication October 25 at 20:58 EDT, i.e. October 26 at 00:58 UTC, and last modification October 26 at 19:03 EDT, three to four minutes past cutoff. Freely readable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-27T07:35:12.454Z",
+            "contentHash": null,
+            "evidenceNote": "Actual evidence-review metadata logging time after original page opening; not a fabricated precise HTTP fetch timestamp. No verified cutoff-time archived capture or content fingerprint. Modification time is later than historical Paris cutoff. Only earlier-known context and the plenum's opening corroborated by Reuters/Xinhua are used; not a verified original cut-off-state rendering."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "china-b",
+          "role": "contrast_b",
+          "headline": "20th CPC Central Committee starts fifth plenary session",
+          "url": "https://english.news.cn/20261026/b60f1e831c4b48cda2f26ed186d7cbc5/c.html",
+          "publishedAt": "2026-10-26",
+          "publishedPrecision": "date",
+          "genre": "original Chinese state news agency political report",
+          "outlet": {
+            "name": "Xinhua",
+            "domain": "english.news.cn",
+            "country": "China",
+            "ownership": "Original Xinhua English-language news agency article, reporting the party's official agenda and statements.",
+            "ownershipGroup": "xinhua-news-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "State institutional self-reform account",
+            "rationale": "Presents the party's announced agenda and positive assessment of internal reform, reflecting the governing institution's own interpretation."
+          },
+          "summary": "Reports the fifth plenum's opening, Xi's work report, the draft party-governance decision and official assessments of discipline policy.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-27T07:35:12.454Z",
+            "method": "research-tool",
+            "note": "Publisher page opened; substantive text read in public view without paid access or account login. Xinhua original publisher page shows October 26 12:10:00 but no confirmed publication timezone; precision limited to date. Its complete short story is public and readable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-27T07:35:12.454Z",
+            "contentHash": null,
+            "evidenceNote": "Actual evidence-review metadata logging time after original page opening; not a fabricated precise HTTP fetch timestamp. No verified cutoff-time archived capture or content fingerprint. Xinhua's reporting establishes the official agenda and the party's statements; assertions of historic reforms are attributed as government/party views."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The Communist Party's fifth Central Committee plenum opened in Beijing on October 26 and was planned to continue through October 29.",
+          "sourceIds": [
+            "china-reference",
+            "china-a",
+            "china-b"
+          ]
+        },
+        {
+          "text": "Xi Jinping presented a work report and outlined a draft decision regarding full and rigorous party self-governance and internal discipline.",
+          "sourceIds": [
+            "china-reference",
+            "china-b"
+          ]
+        },
+        {
+          "text": "Anti-corruption and enforcement of institutional discipline were central to the publicly described agenda.",
+          "sourceIds": [
+            "china-reference",
+            "china-a",
+            "china-b"
+          ]
+        },
+        {
+          "text": "Analysts saw the plenum as important ahead of the 2027 Party Congress and possible leadership reshuffle, without any final decision about Xi's next term made by October 26.",
+          "sourceIds": [
+            "china-reference",
+            "china-a"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Xinhua highlights the party's own claims of historic self-reform and more effective governance; The Guardian interrogates whether investigations into corruption and disloyalty also consolidate Xi's authority.",
+          "sourceIds": [
+            "china-a",
+            "china-b"
+          ]
+        },
+        {
+          "text": "Reuters concentrates on the schedule and potential 2027 policy and personnel effects, while Xinhua focuses more narrowly on the official work report, reform agenda and party self-assessment.",
+          "sourceIds": [
+            "china-reference",
+            "china-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "What binding decisions or personnel changes would the plenum announce when it concluded later in the week?",
+        "To what extent would the meeting influence Xi's expected next term and the wider 2027 party leadership reshuffle?",
+        "How many specific corruption cases involved demonstrable wrongdoing versus political or loyalty motives?",
+        "Would more rigorous discipline improve implementation or deter candid reporting and initiative among officials?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The party's published position held that more than a decade of strict self-governance had delivered historic successes and effective self-reform.",
+          "sourceIds": [
+            "china-b",
+            "china-reference"
+          ],
+          "reason": "An official political self-assessment, not independently established by the existence of its announcement."
+        },
+        {
+          "text": "Some commentators interpreted the high-ranking anticorruption campaign as also serving a goal of consolidating loyalty around Xi.",
+          "sourceIds": [
+            "china-a",
+            "china-reference"
+          ],
+          "reason": "An attributed analytical perspective, not independent proof of the motivation behind every disciplinary case."
+        }
+      ]
+    },
+    {
+      "id": "tehran-four-state-security-talks",
+      "eventId": "me-iran-hormuz-2026",
+      "title": "Iran hosts Saudi, Pakistani and Turkish security chiefs amid regional war and threatened shipping routes",
+      "summary": "Saudi Defence Minister Prince Khalid bin Salman, Pakistan's army chief Asim Munir and Turkish intelligence director Ibrahim Kalin met Iranian leaders in Tehran on October 26. Representatives said dialogue on regional peace and security would continue. Saudi sources emphasised a diplomatic opening while Iranian officials argued for regional self-reliance; the talks took place amid ongoing Saudi-Houthi hostilities and US–Iran tensions.",
+      "whyItMatters": "A first high-level meeting between Iran and a Saudi-led regional defence grouping could influence renewed war risks, Yemen's humanitarian emergency, Gulf shipping and energy markets. Agreement to keep talking did not establish a ceasefire, settlement or acceptance of a specific peace plan.",
+      "region": "Iran / Saudi Arabia / Pakistan / Türkiye / Persian Gulf",
+      "tags": [
+        "Iran",
+        "Saudi Arabia",
+        "Pakistan",
+        "Türkiye",
+        "Diplomacy",
+        "Makkah defence agreement",
+        "Strait of Hormuz",
+        "Yemen"
+      ],
+      "selectionRationale": "Four regionally important security actors held direct talks during an active confrontation threatening crucial energy and trade corridors. The size of possible cross-border military/economic effects, newsroom coverage diversity and potential long-term diplomatic consequence satisfy the common impact criterion. This continues the Iran–Hormuz escalation ID from October 24; Saudi-Houthi fighting was overlapping context but not counted as a fourth story.",
+      "evidenceNote": "Reuters, Saudi Gazette and Press TV are separate originating newsrooms, but Saudi Gazette reports Iranian television and ministry accounts and Press TV reports its president's views. Shared underlying government statements establish what was said, not diplomatic effectiveness or successful military outcomes. Reuters first published at 03:20 UTC October 26 and updated later without visible timestamp; the October 26 meeting is corroborated by Saudi Gazette's late same-day report and Press TV's 16:10 UTC publication. The Saudi Gazette article shows October 26 11:42 PM with timezone unlabeled; because it is Riyadh-based, this was almost certainly 20:42 UTC, before the October 26 22:59:59Z Paris cutoff, but the formal metadata retains day precision.",
+      "articles": [
+        {
+          "id": "tehran-reference",
+          "role": "reference",
+          "headline": "Saudi defence pact countries push for peace in Tehran as Houthis launch more attacks",
+          "url": "https://www.reuters.com/world/asia-pacific/top-officials-mecca-pact-countries-meet-iranian-officials-tehran-monday-two-2026-10-26/",
+          "publishedAt": "2026-10-26T03:20:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original multi-correspondent international news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom / international",
+            "ownership": "Original Reuters reporting by Andrew Mills, Ariba Shahid and Menna Alaaeldin, with other original bureau contributions.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Regional security, diplomacy and oil-shipping risk",
+            "rationale": "Connects the four-way diplomatic contact to the continuing Houthi war, US-Iran confrontation and oil and shipping disruption, with government positions explicitly attributed."
+          },
+          "summary": "Reports the Tehran meeting, its agreement to continue discussions and the wider security threats from Houthi attacks and trade-route disruption.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-27T07:36:12.830Z",
+            "method": "research-tool",
+            "note": "Full substantive publisher article opened and read without login or payment. Reuters page lists 26 October 03:20 UTC first published, named bylines and complete text without a paywall; exact later update time is not visible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-27T07:36:12.830Z",
+            "contentHash": null,
+            "evidenceNote": "Actual evidence-review logging time after publisher page inspection, not an inferred original HTTP fetch second. No verified cutoff-state archive capture or content fingerprint. Later Monday meeting outcomes on Reuters' rolling article are independently supported by the selected same-day regional newsroom reports."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "tehran-a",
+          "role": "contrast_a",
+          "headline": "Makkah Alliance countries, Iran agree to pursue talks for regional de-escalation",
+          "url": "https://saudigazette.com.sa/article/665758/saudi-arabia/makkah-alliance-countries-iran-agree-to-pursue-talks-for-regional-de-escalation",
+          "publishedAt": "2026-10-26",
+          "publishedPrecision": "date",
+          "genre": "original Saudi regional diplomacy report",
+          "outlet": {
+            "name": "Saudi Gazette",
+            "domain": "saudigazette.com.sa",
+            "country": "Saudi Arabia",
+            "ownership": "Saudi Gazette newsroom account drawing on Saudi Foreign Ministry statements and Iranian television, not a reprinted Reuters/Press TV text.",
+            "ownershipGroup": "saudi-gazette",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Saudi-alliance diplomatic initiative",
+            "rationale": "Highlights Riyadh's claimed mediating role, the Makkah mutual defence arrangement and Saudi calls for negotiation rather than battlefield disputes."
+          },
+          "summary": "Reports that four governments would pursue further talks, naming delegations and the Saudi ministry's stated de-escalation goals.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-27T07:36:12.830Z",
+            "method": "research-tool",
+            "note": "Full substantive publisher article opened and read without login or payment. Article page shows 26 October at 11:42 PM, with update the same minute; its clock timezone is not marked. The full short piece is accessible without payment."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-27T07:36:12.830Z",
+            "contentHash": null,
+            "evidenceNote": "Actual evidence-review logging time after publisher page inspection, not an inferred original HTTP fetch second. No verified cutoff-state archive capture or content fingerprint. A stale unrelated header calendar is ignored in favour of the story's own October 26 date. The statement is not evidence that negotiations succeeded."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "tehran-b",
+          "role": "contrast_b",
+          "headline": "Iran’s president urges regional unity as he hosts Pakistani, Saudi, Turkish officials",
+          "url": "https://www.presstv.co.uk/Detail/2026/10/26/779255/iran-reaffirms-support-for-deals-enhancing-unity-among-muslim-states",
+          "publishedAt": "2026-10-26T16:10:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original Iranian state-affiliated report of presidential remarks",
+          "outlet": {
+            "name": "Press TV",
+            "domain": "presstv.co.uk",
+            "country": "Iran",
+            "ownership": "Iranian state-affiliated Press TV / IRIB newsroom report of President Masoud Pezeshkian's statement, distinct from Reuters and Saudi Gazette.",
+            "ownershipGroup": "irib-press-tv",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Iranian regional self-reliance and resistance to outside pressure",
+            "rationale": "Foregrounds Pezeshkian's support for Muslim-state cooperation and criticism of US/Israeli policies; allegations and claims of military success remain attributed."
+          },
+          "summary": "Relays Pezeshkian's offer to support regional cooperation and his criticism of foreign pressure during the Tehran meeting.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-10-27T07:36:12.830Z",
+            "method": "research-tool",
+            "note": "Full substantive publisher article opened and read without login or payment. Original publisher page clearly states 2026/10/26 16:10 UTC; its substantive original report is freely readable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-10-27T07:36:12.830Z",
+            "contentHash": null,
+            "evidenceNote": "Actual evidence-review logging time after publisher page inspection, not an inferred original HTTP fetch second. No verified cutoff-state archive capture or content fingerprint. State-affiliated article establishes the Iranian president's claims, not independent evidence of asserted foreign plots, war outcomes or a settlement."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Saudi Defence Minister Khalid bin Salman, Pakistani army chief Asim Munir and Turkish intelligence chief Ibrahim Kalin met high-level Iranian officials in Tehran on October 26.",
+          "sourceIds": [
+            "tehran-reference",
+            "tehran-a",
+            "tehran-b"
+          ]
+        },
+        {
+          "text": "The four-country participants publicly agreed to continue dialogue aimed at improving regional peace and security; this is an announcement of intent, not an accomplished peace agreement.",
+          "sourceIds": [
+            "tehran-reference",
+            "tehran-a"
+          ]
+        },
+        {
+          "text": "Iranian and Saudi representatives each publicly expressed support for diplomatic de-escalation or cooperation during the visit.",
+          "sourceIds": [
+            "tehran-reference",
+            "tehran-a",
+            "tehran-b"
+          ]
+        },
+        {
+          "text": "The Saudi, Pakistani and Turkish representatives were connected to a regional mutual defence framework described by the sources as the Makkah or Mecca agreement.",
+          "sourceIds": [
+            "tehran-reference",
+            "tehran-a"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Saudi Gazette stresses Saudi-led talks, defence partnership and negotiation to avoid escalation; Press TV presents the visit as validating Iran's call for region-led unity free of US or Israeli influence.",
+          "sourceIds": [
+            "tehran-a",
+            "tehran-b"
+          ]
+        },
+        {
+          "text": "Reuters contextualises the four-state meeting within the Yemen war, oil-market impacts and restrictions at the Strait of Hormuz; Press TV centres Tehran's appeals for regional cohesion and its denunciations of outside interference.",
+          "sourceIds": [
+            "tehran-reference",
+            "tehran-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Would an agreement to keep talking produce concrete negotiations with the United States or an enforceable regional non-aggression framework?",
+        "Would new Houthi attacks against Saudi Arabia and retaliatory military operations continue despite the diplomatic contacts?",
+        "Could shipping and energy transit return to normal through the Strait of Hormuz and adjacent routes?",
+        "What role would Pakistan, Türkiye or Qatar play as possible guarantors, and on what mutually accepted terms?",
+        "Would the defence pact's remaining domestic approval processes change the participants' commitments?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "President Pezeshkian alleged that US and Israeli policies sought to divide and weaken Muslim-majority countries.",
+          "sourceIds": [
+            "tehran-b"
+          ],
+          "reason": "An attributed geopolitical allegation in a presidential statement without substantiation from the other selected reports."
+        },
+        {
+          "text": "An unnamed Pakistani security official said Islamabad had offered a possible US-Iran compromise.",
+          "sourceIds": [
+            "tehran-reference"
+          ],
+          "reason": "No independently verified terms, official text or acceptance by Washington and Tehran appeared in the selected sources."
+        },
+        {
+          "text": "The Houthis said they had attacked Saudi oil pumping infrastructure and Riyadh airport.",
+          "sourceIds": [
+            "tehran-reference"
+          ],
+          "reason": "A belligerent's claim without independent confirmation of damage or impact from the selected reporting."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-10-27T07:37:43.121Z",
+    "author": "ChatGPT",
+    "reason": "First edition, recovering previously researched and reviewed October 26 source records."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent review only. Preserves the original October 27 research timestamps from the prepared source records. Nine publisher pages were reported opened and read in the prior research session. Updated pages without cutoff snapshots are disclosed individually; no human review or archived captures are claimed."
+  }
+}
