@@ -1,0 +1,510 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-02",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-02T22:59:59Z",
+  "recordedAt": "2026-11-06T19:21:02Z",
+  "kind": "retrospective",
+  "selectionSummary": "Selected developments are South Korea's parliamentary budget pitch, a warning about northern Ethiopia's health system, and the closing US midterm campaign. Selection is editorial judgment, not an objective ranking.",
+  "snapshot": {
+    "summary": "Governments and voters confronted the gap between headline growth and everyday security: Korea debated how to invest a chip windfall, Ethiopia faced threats to basic care, and US candidates competed over affordability.",
+    "connections": [
+      "Public spending choices influence who benefits from economic growth and who receives essential services.",
+      "Campaign promises, budget proposals and humanitarian warnings are different kinds of evidence; none is a completed outcome."
+    ],
+    "uncertainties": [
+      "The Korean budget still required parliamentary approval.",
+      "US reports updated after the cutoff are used only for bounded, corroborated campaign developments; later broadcasts and election outcomes are excluded."
+    ]
+  },
+  "stories": [
+    {
+      "id": "korea-budget-pitch",
+      "eventId": "as-south-korea-budget-2027",
+      "title": "Lee seeks approval for South Korea's record budget and AI investment",
+      "summary": "President Lee urged parliament to approve an 820.9 trillion won budget for 2027, including 21.3 trillion won for AI-related investment. The proposal raised questions about regional distribution, defence priorities and debt.",
+      "whyItMatters": "A major chip producer's spending choices affect technology capacity, economic resilience and the distribution of growth.",
+      "region": "Asia",
+      "tags": [
+        "South Korea",
+        "budget",
+        "AI"
+      ],
+      "selectionRationale": "A major fiscal proposal brought before parliament with implications beyond the technology sector.",
+      "evidenceNote": "Three separately authored reports corroborate the proposed figures. Spending remains proposed; dollar conversions and forecast export milestones are omitted.",
+      "articles": [
+        {
+          "id": "korea-budget-pitch-reference",
+          "role": "reference",
+          "headline": "Lee Addresses Parliament, Pledges Bold AI Investment",
+          "url": "https://rki.kbs.co.kr/service/news_view.htm?Seq_Code=205275&lang=e",
+          "publishedAt": "2026-11-02",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "KBS",
+            "domain": "rki.kbs.co.kr",
+            "country": "South Korea",
+            "ownership": "South Korean public broadcaster.",
+            "ownershipGroup": "kbs",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Parliamentary request",
+            "rationale": "Concentrates on the formal spending proposal and the request for prompt passage."
+          },
+          "summary": "KBS reports Lee's National Assembly address, the overall budget and the proposed AI allocation. It explains the expected role of higher semiconductor-related tax receipts.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full KBS World article read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Written November 2 at 11:11:33 and updated 11:35:27. Date precision retained because the inspected clock does not explicitly label its timezone. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "korea-budget-pitch-a",
+          "role": "contrast_a",
+          "headline": "South Korea’s president vows to make bold AI investment in record budget push",
+          "url": "https://www.channelnewsasia.com/east-asia/south-korea-vows-bold-ai-investment-budget-6512016",
+          "publishedAt": "2026-11-02",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "channelnewsasia.com",
+            "country": "United Kingdom",
+            "ownership": "Original reporting credited to Reuters. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Chip-led growth and uneven benefits",
+            "rationale": "Connects the proposal with global AI demand and Lee's acknowledgement of unequal gains."
+          },
+          "summary": "The Reuters account places the spending plan in the context of the semiconductor boom and the proposed Future Response Fund. It distinguishes strong exports from improvements in living standards.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Substantive Reuters-sourced dispatch opened on CNA."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Reuters's original report is dated November 2; CNA's body identifies Monday November 2 but its extracted header omits the publication clock. Original wire date is used, without claiming a host timestamp. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "korea-budget-pitch-b",
+          "role": "contrast_b",
+          "headline": "Korea's Lee pitches for record budget to drive AI-led growth",
+          "url": "https://www.ajupress.com/view/20261102111057061",
+          "publishedAt": "2026-11-02",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Aju Press",
+            "domain": "ajupress.com",
+            "country": "South Korea",
+            "ownership": "Original reporting credited to Aju Press. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "aju-news",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Defence, regional spending and fiscal dissent",
+            "rationale": "Examines spending outside AI and the opposition's preference for debt reduction."
+          },
+          "summary": "Lee Jung-woo details defence and regional priorities as well as the Future Response Fund debate. The article contrasts investment arguments with concerns about fiscal management.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Complete signed Aju Press article read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Posted and updated November 2 at 11:37; date precision retained. The planned measures are not represented as enacted spending. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Lee asked parliament to approve an 820.9 trillion won budget for 2027.",
+          "sourceIds": [
+            "korea-budget-pitch-reference",
+            "korea-budget-pitch-a",
+            "korea-budget-pitch-b"
+          ]
+        },
+        {
+          "text": "The proposal included 21.3 trillion won for AI initiatives and related megaprojects.",
+          "sourceIds": [
+            "korea-budget-pitch-reference",
+            "korea-budget-pitch-a",
+            "korea-budget-pitch-b"
+          ]
+        },
+        {
+          "text": "Expected semiconductor-related tax revenues were central to the spending plan.",
+          "sourceIds": [
+            "korea-budget-pitch-reference",
+            "korea-budget-pitch-a",
+            "korea-budget-pitch-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "KBS concentrates on parliamentary approval, while Reuters situates the plan within the chip economy and uneven growth.",
+          "sourceIds": [
+            "korea-budget-pitch-reference",
+            "korea-budget-pitch-a"
+          ]
+        },
+        {
+          "text": "Aju Press adds defence and regional priorities and the opposition's fiscal objections.",
+          "sourceIds": [
+            "korea-budget-pitch-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Parliament could change the proposal.",
+        "Future tax receipts and the return on AI investment were uncertain."
+      ],
+      "unverifiedClaims": []
+    },
+    {
+      "id": "ethiopia-health-warning",
+      "eventId": "af-ethiopia-renewed-conflict-2026",
+      "title": "WHO warns that violence is pushing northern Ethiopia's health system toward collapse",
+      "summary": "Tedros warned that fighting and attacks on civilians were worsening shortages and obstructing medical deliveries. Local reporting supplied witness accounts, while responsibility and casualty totals remained incompletely verified.",
+      "whyItMatters": "Loss of access to emergency, maternal and routine care can multiply the human cost of conflict.",
+      "region": "Africa",
+      "tags": [
+        "Ethiopia",
+        "health",
+        "conflict"
+      ],
+      "selectionRationale": "A serious warning about essential services in a conflict with growing civilian consequences.",
+      "evidenceNote": "The reports share Tedros's statement, so repetition is not independent verification of his assessment. Addis Standard adds its own witness reporting; casualty estimates and perpetrator claims remain attributed.",
+      "articles": [
+        {
+          "id": "ethiopia-health-warning-reference",
+          "role": "reference",
+          "headline": "Ethiopia attacks kill civilians as health system nears collapse, WHO chief says",
+          "url": "https://abcnews.com/amp/International/wireStory/ethiopia-attacks-kill-civilians-health-system-nears-collapse-137765937",
+          "publishedAt": "2026-11-02T13:05:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "abcnews.com",
+            "country": "United States",
+            "ownership": "Independent news cooperative; ABC News hosts the dispatch.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Warning, evidence limits and political context",
+            "rationale": "Notes what Tedros did not specify and places the warning within renewed conflict."
+          },
+          "summary": "Khaled Kazziha reports the health warning while noting the absence of casualty totals, attack dates and identified perpetrators in Tedros's statement. AP also describes the conflict's political setting.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full AP report and byline opened."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 2 at 08:05 Eastern standard time. Article limitations are preserved. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ethiopia-health-warning-a",
+          "role": "contrast_a",
+          "headline": "Ethiopia: WHO Chief Warns Continued Violence in Amhara, Tigray Pushing Ethiopia's Fragile Health System Toward Collapse",
+          "url": "https://allafrica.com/stories/202611030152.html",
+          "publishedAt": "2026-11-02",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Addis Standard",
+            "domain": "allafrica.com",
+            "country": "Ethiopia",
+            "ownership": "Original reporting credited to Addis Standard. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "jakenn-addis-standard",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Local witness accounts",
+            "rationale": "Adds reporting from camp residents and sources in Rama rather than relying only on the WHO statement."
+          },
+          "summary": "Addis Standard links the warning to its own reporting on recent strikes. Its account records differing casualty estimates, underscoring the limits of a single definitive toll.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Complete Addis Standard article read through its credited AllAfrica syndication; original site returned an access error."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. The syndication explicitly gives November 2 as the original article date despite a November 3 URL path. Original date and newsroom credit are visible; host posting date is not substituted for original publication. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ethiopia-health-warning-b",
+          "role": "contrast_b",
+          "headline": "Insecurity in North Ethiopia Obstructs Life-saving Medicines Delivery",
+          "url": "https://newbusinessethiopia.com/health/insecurity-in-north-ethiopia-obstructs-life-saving-medicines-delivery/",
+          "publishedAt": "2026-11-02",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "New Business Ethiopia",
+            "domain": "newbusinessethiopia.com",
+            "country": "Ethiopia",
+            "ownership": "Original reporting credited to New Business Ethiopia. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "new-business-ethiopia",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Access to care and supplies",
+            "rationale": "Foregrounds how insecurity interrupts treatment and medical logistics."
+          },
+          "summary": "The report focuses on Tedros's concerns about medical deliveries, limited ambulances and shortages of staff and equipment. It does not offer a separate survey of hospital capacity.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full original outlet report opened; its reliance on Tedros's public statement is explicit."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 2 date displayed. The report's common official source is disclosed rather than counted as another independent field investigation. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Tedros warned that violence was worsening an already fragile health system in northern Ethiopia.",
+          "sourceIds": [
+            "ethiopia-health-warning-reference",
+            "ethiopia-health-warning-a",
+            "ethiopia-health-warning-b"
+          ]
+        },
+        {
+          "text": "He cited shortages of staff, medicines and equipment and obstacles to delivering supplies.",
+          "sourceIds": [
+            "ethiopia-health-warning-reference",
+            "ethiopia-health-warning-a",
+            "ethiopia-health-warning-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "AP highlights the limits of the official statement and the political context; Addis Standard contributes local witness reporting.",
+          "sourceIds": [
+            "ethiopia-health-warning-reference",
+            "ethiopia-health-warning-a"
+          ]
+        },
+        {
+          "text": "New Business Ethiopia foregrounds interrupted medical access and logistics.",
+          "sourceIds": [
+            "ethiopia-health-warning-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The selected articles do not independently establish a complete casualty count or responsibility for each strike.",
+        "A warning of possible collapse is not a measured finding that every health facility has stopped operating."
+      ],
+      "unverifiedClaims": []
+    },
+    {
+      "id": "us-campaign-closes",
+      "eventId": "am-us-midterm-elections-2026",
+      "title": "US midterm campaigns close with affordability and congressional power at stake",
+      "summary": "Candidates made their final pitches before the November 3 vote. Economic grievances competed with partisan attacks, while analysts questioned how quickly proposed policies could lower household costs.",
+      "whyItMatters": "Control of Congress would shape the remaining two years of Trump's presidency and the government's policy choices.",
+      "region": "Americas",
+      "tags": [
+        "United States",
+        "elections",
+        "affordability"
+      ],
+      "selectionRationale": "The final campaign day in an election with substantial domestic and international consequences.",
+      "evidenceNote": "The selected wire pages later incorporated material beyond the Paris cutoff. This edition uses only the election schedule, policy stakes and corroborated daytime campaign themes; late Fox appearances, subsequent strikes and results are excluded.",
+      "articles": [
+        {
+          "id": "us-campaign-closes-reference",
+          "role": "reference",
+          "headline": "Tensions rise as midterm campaign ends with control of Congress at stake",
+          "url": "https://wtaq.com/2026/11/02/republicans-democrats-set-midterm-closing-arguments-as-michigan-endorsement-roils-senate-race/",
+          "publishedAt": "2026-11-02",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "wtaq.com",
+            "country": "United Kingdom",
+            "ownership": "Original reporting credited to Reuters. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Congressional stakes and contested races",
+            "rationale": "Explains the institutional consequences of the vote and tensions within close campaigns."
+          },
+          "summary": "Nathan Layne and Nandita Bose report the closing campaign and competition over Congress. The selected account's late broadcast additions are excluded from this edition.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full Reuters dispatch and byline read on WTAQ."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 2 morning date displayed. The current text includes a later Hannity appearance, beyond this cutoff; neither that appearance nor unbounded late developments are used. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "us-campaign-closes-a",
+          "role": "contrast_a",
+          "headline": "Reflecting Pool vs. the state of the economy: Trump and Dems clash in closing messages",
+          "url": "https://www.click2houston.com/news/politics/2026/11/02/trump-forgoes-traditional-campaign-trail-stops-in-final-push-before-midterm-election-day/",
+          "publishedAt": "2026-11-02",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "click2houston.com",
+            "country": "United States",
+            "ownership": "Independent news cooperative; KPRC/Click2Houston is the syndication host.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Campaign messages versus household concerns",
+            "rationale": "Contrasts the president's public remarks with Democrats' economic emphasis."
+          },
+          "summary": "AP examines the divergence between campaign rhetoric and voters' concerns about living costs. This edition retains the daytime speech and broad messaging, without later military or evening campaign updates.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Substantive AP report and publication metadata read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 2 at 12:45 on the Houston host, updated 21:27 after the Paris cutoff. Date precision retained; later additions are explicitly excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "us-campaign-closes-b",
+          "role": "contrast_b",
+          "headline": "How do midterm candidates plan to fight inflation? Economists evaluate their proposals",
+          "url": "https://abcnews.com/amp/Business/midterm-candidates-plan-fight-inflation-economists-evaluate-proposals/story?id=137570780",
+          "publishedAt": "2026-11-02T20:32:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original explanatory reporting",
+          "outlet": {
+            "name": "ABC News",
+            "domain": "abcnews.com",
+            "country": "United States",
+            "ownership": "ABC News is part of The Walt Disney Company; this is Max Zahn's original ABC reporting, not AP syndication.",
+            "ownershipGroup": "disney",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Testing affordability promises",
+            "rationale": "Uses economist interviews to examine policy mechanisms and delays rather than electoral positioning."
+          },
+          "summary": "Max Zahn examines proposals involving war, taxes, housing and tariffs. Interviewed economists distinguish relief for household budgets from reductions in inflation and stress that effects may take time.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full signed ABC report and economist interviews read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 2 at 15:32 Eastern standard time, before cutoff. No election result is included. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The November 3 elections would decide control of Congress for the remaining two years of Trump's term.",
+          "sourceIds": [
+            "us-campaign-closes-reference",
+            "us-campaign-closes-a"
+          ]
+        },
+        {
+          "text": "Affordability and economic dissatisfaction were prominent campaign issues.",
+          "sourceIds": [
+            "us-campaign-closes-a",
+            "us-campaign-closes-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters emphasises institutional stakes and close races; AP compares campaign messages with voters' concerns.",
+          "sourceIds": [
+            "us-campaign-closes-reference",
+            "us-campaign-closes-a"
+          ]
+        },
+        {
+          "text": "ABC tests the mechanisms and timing of proposed affordability policies.",
+          "sourceIds": [
+            "us-campaign-closes-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Campaign expectations and polls are not election results.",
+        "Proposed economic measures have uncertain effects and implementation times."
+      ],
+      "unverifiedClaims": []
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-06T19:21:02Z",
+    "author": "ChatGPT",
+    "reason": "First edition: recovery of the missing 2026-11-02 Paris calendar day, researched on 2026-11-06."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent review only. Checked nine substantive articles, original publication metadata within 72 hours before cutoff, originating newsroom credits, three ownership groups per story, source-specific lenses and at least two selected citations per common fact. Distinguished reporting from official claims, forecasts and estimates. Disclosed visible later edits and date precision; excluded post-cutoff developments and unrelated live widgets. Current retrieval cannot prove text was identical at cutoff. No historical capture, fingerprint or human review is claimed. Honest preparation timestamps and the applicable retrospective label are used. Structural validation is performed separately before commit."
+  }
+}

@@ -1,0 +1,532 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-29",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-10-29T22:59:59Z",
+  "recordedAt": "2026-11-06T19:21:02Z",
+  "kind": "retrospective",
+  "selectionSummary": "Recovery edition covering Haiti's delayed political transition, a leadership change at the European Central Bank, and international responses to the UN vote on Cuba's embargo. Selection is editorial judgment, not an objective ranking.",
+  "snapshot": {
+    "summary": "Haiti's new election timetable was reported amid a foreign security deployment. Christine Lagarde announced an early ECB departure. The UN again opposed the Cuba embargo, although support fell.",
+    "connections": [
+      "Editorial connection: domestic political legitimacy, international financial governance and economic coercion each involved institutions whose announcements did not settle their practical effects."
+    ],
+    "uncertainties": [
+      "Haiti's security and electoral readiness, the ECB succession and the practical effect of the Cuba vote remained open."
+    ]
+  },
+  "stories": [
+    {
+      "id": "haiti-election-calendar-security",
+      "eventId": "am-haiti-election-security-crisis-2026",
+      "title": "Haiti's election moves into 2027 amid questions over a Salvadoran deployment",
+      "summary": "International reports described a July 2027 first-round election date and a larger Salvadoran security operation. Haitian reporting sought clarification of the calendar, while humanitarian concerns focused on civilians and access to care.",
+      "whyItMatters": "The prolonged absence of elected national leadership and expanded foreign intervention affect democratic legitimacy, civilian safety and regional stability.",
+      "region": "Haiti / El Salvador / Caribbean",
+      "tags": [
+        "Haiti",
+        "Elections",
+        "Security forces",
+        "Civilian protection"
+      ],
+      "selectionRationale": "A consequential intersection of delayed elections and cross-border security intervention, with local scrutiny alongside two international newsrooms.",
+      "evidenceNote": "Reuters, AP and Vant Bèf Info originate the reports. VBI describes a document received by its newsroom as awaiting confirmation, whereas the wires describe an announced calendar. That difference is retained. Deployment totals and command arrangements are not treated as independently audited.",
+      "articles": [
+        {
+          "id": "haiti-election-calendar-security-reference",
+          "role": "reference",
+          "headline": "El Salvador to send over 2,000 soldiers to Haiti for rescue while elections postponed",
+          "url": "https://www.investing.com/news/world-news/haiti-postpones-first-presidential-election-in-a-decade-to-july-2027-4981377",
+          "publishedAt": "2026-10-28",
+          "publishedPrecision": "date",
+          "genre": "Original Reuters reporting, syndicated",
+          "outlet": {
+            "name": "Reuters via Investing.com",
+            "domain": "investing.com",
+            "country": "United Kingdom / international",
+            "ownership": "Reuters, part of Thomson Reuters; original report by Harold Isaac and Gerardo Arbaiza.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Election timetable and bilateral deployment",
+            "rationale": "Connects the delayed vote to the stated rescue mission and official coordination."
+          },
+          "summary": "Reports the new calendar and El Salvador's announced troop commitment, while noting unanswered command questions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Published October 28, 10:28 PM; updated 11:30 PM, with no labeled timezone. Date precision retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Named reporters and Reuters credit visible. ThePrint copy was inaccessible; this accessible credited copy was inspected. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "haiti-election-calendar-security-a",
+          "role": "contrast_a",
+          "headline": "Haiti announces new election dates as 2,000 Salvadoran troops help fight gangs",
+          "url": "https://abcnews.com/amp/International/wireStory/haiti-announces-new-election-dates-2000-salvadoran-troops-137674662",
+          "publishedAt": "2026-10-29T13:50:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original AP reporting, syndicated",
+          "outlet": {
+            "name": "Associated Press via ABC News",
+            "domain": "abcnews.com",
+            "country": "United States",
+            "ownership": "AP not-for-profit news cooperative; original report by Dánica Coto.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Civilian risk and operational oversight",
+            "rationale": "Foregrounds expert questions about authority and aid agencies' concerns about access to treatment."
+          },
+          "summary": "Examines unclear deployment rules and the danger to civilians caught between gangs and security forces.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. October 29, 9:50 AM ET displayed; substantive AP body accessible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Troop totals are reported claims. Aid agencies' statements establish their concerns and reported treatment experience, not an independent audit of all casualties. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "haiti-election-calendar-security-b",
+          "role": "contrast_b",
+          "headline": "Haïti / Élections : le CEP propose un nouveau calendrier électoral pour 2027",
+          "url": "https://vantbefinfo.com/haiti-elections-le-cep-propose-un-nouveau-calendrier-electoral-pour-2027/",
+          "publishedAt": "2026-10-29",
+          "publishedPrecision": "date",
+          "genre": "Original local reporting and analysis",
+          "outlet": {
+            "name": "Vant Bèf Info",
+            "domain": "vantbefinfo.com",
+            "country": "Haiti",
+            "ownership": "Vant Bèf Info's own newsroom; body signed Emmanuel Joseph, posted under Youry Doret. Detailed shareholding was not established.",
+            "ownershipGroup": "vant-bef-info",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Local electoral credibility",
+            "rationale": "Questions the document's formal status, apparent anomalies and practical preparations."
+          },
+          "summary": "Calls for the electoral council to clarify the timetable and demonstrate that logistical and security preparations can support a credible vote.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. October 29 publication date; full French text available without registration."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original report says the document was sent to its newsroom. The mismatch between post author and body signature is disclosed; dates remain date precision. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Reports described July 18, 2027 as the proposed or announced first-round presidential and legislative election date.",
+          "sourceIds": [
+            "haiti-election-calendar-security-reference",
+            "haiti-election-calendar-security-a",
+            "haiti-election-calendar-security-b"
+          ]
+        },
+        {
+          "text": "Security conditions were obstructing the organization of elections.",
+          "sourceIds": [
+            "haiti-election-calendar-security-reference",
+            "haiti-election-calendar-security-a",
+            "haiti-election-calendar-security-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters links the calendar to bilateral security coordination; AP examines civilian risk and opaque operational authority.",
+          "sourceIds": [
+            "haiti-election-calendar-security-reference",
+            "haiti-election-calendar-security-a"
+          ]
+        },
+        {
+          "text": "VBI emphasizes local accountability and uncertainty over the calendar's formal status, a caution less prominent in the wire accounts.",
+          "sourceIds": [
+            "haiti-election-calendar-security-reference",
+            "haiti-election-calendar-security-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Was the published timetable final, and could its practical requirements be met?",
+        "How would Salvadoran troops coordinate with Haitian and UN-backed forces, and with what civilian safeguards?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "More than 2,000 Salvadoran troops were announced or reported arriving.",
+          "sourceIds": [
+            "haiti-election-calendar-security-reference",
+            "haiti-election-calendar-security-a"
+          ],
+          "reason": "Reports describe different deployment stages; the total and chain of command were not independently verified."
+        }
+      ]
+    },
+    {
+      "id": "ecb-lagarde-early-departure",
+      "eventId": "eu-ecb-leadership-transition-2026",
+      "title": "Lagarde announces an early ECB departure as succession talks begin",
+      "summary": "Christine Lagarde said she would leave on February 7, 2027. Coverage contrasted her stated desire to speak outside monetary policy with the political timing of succession and the institution's continuity.",
+      "whyItMatters": "ECB leadership influences euro-area crisis management and financing conditions. Choosing a successor also requires bargaining among European governments.",
+      "region": "Euro area / European Union",
+      "tags": [
+        "European Central Bank",
+        "Leadership",
+        "Monetary policy"
+      ],
+      "selectionRationale": "A major international economic institution announced a leadership transition while policy and political pressures persisted.",
+      "evidenceNote": "AP, Reuters and Euronews originate these accounts, drawing partly on the same announcement and press conference. Explanations of political timing remain analysis; the future successor was not known.",
+      "articles": [
+        {
+          "id": "ecb-lagarde-early-departure-reference",
+          "role": "reference",
+          "headline": "European Central Bank head resigns, allowing EU leaders to choose successor before French election",
+          "url": "https://abcnews.com/International/wireStory/european-central-bank-head-resigns-allowing-eu-leaders-137667888",
+          "publishedAt": "2026-10-29",
+          "publishedPrecision": "date",
+          "genre": "Original AP reporting, syndicated",
+          "outlet": {
+            "name": "Associated Press via ABC News",
+            "domain": "abcnews.com",
+            "country": "United States / European reporting",
+            "ownership": "AP not-for-profit news cooperative; report by David McHugh.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Succession and electoral timing",
+            "rationale": "Examines political bargaining before France's next presidential election."
+          },
+          "summary": "Explains how an early departure opens a negotiation over senior posts while existing European leaders remain in office.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Original October 29, 6:11 AM displayed without timezone; date precision retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. An undated correction changes the year Lagarde succeeded Draghi. That historical detail is not needed here; present-tense announcement facts are corroborated by the other selected sources. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ecb-lagarde-early-departure-a",
+          "role": "contrast_a",
+          "headline": "ECB’s Lagarde resigns early so she can speak freely on topics beyond monetary policy",
+          "url": "https://www.investing.com/news/economy-news/ecbs-lagarde-resigns-early-so-she-can-speak-freely-on-topics-beyond-monetary-policy-4984570",
+          "publishedAt": "2026-10-29",
+          "publishedPrecision": "date",
+          "genre": "Original Reuters reporting, syndicated",
+          "outlet": {
+            "name": "Reuters via Investing.com",
+            "domain": "investing.com",
+            "country": "United Kingdom / international",
+            "ownership": "Reuters, part of Thomson Reuters; Frankfurt-datelined agency report.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Stated motivation and institutional neutrality",
+            "rationale": "Centers Lagarde's explanation of the limits imposed by central-bank independence."
+          },
+          "summary": "Reports her wish to engage publicly beyond monetary policy and her assurance that the institution can manage the transition.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Published October 29, 11:06 AM; updated 11:13 AM. No explicit timezone, so date precision used."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Reuters origin and complete short report verified. Her explanation is attributed, not treated as an independently established account of every motive. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ecb-lagarde-early-departure-b",
+          "role": "contrast_b",
+          "headline": "ECB President Christine Lagarde to step down next February, months before her mandate ends",
+          "url": "https://www.euronews.com/2026/10/29/ecb-president-christine-lagarde-to-step-down-in-february-months-before-her-term-ends",
+          "publishedAt": "2026-10-29T10:25:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Euronews",
+            "domain": "euronews.com",
+            "country": "France / European newsroom",
+            "ownership": "Euronews SA lists Alpac Capital as its 97.6% shareholder; original report by Quirino Mealha.",
+            "ownershipGroup": "alpac-capital",
+            "ownershipSource": "https://www.euronews.com/about"
+          },
+          "lens": {
+            "label": "European process and market conditions",
+            "rationale": "Places the appointment procedure alongside the rate pause and French bond-market pressure."
+          },
+          "summary": "Describes how European institutions will choose the next president amid an unsettled economic backdrop.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. October 29, 11:25 GMT+1; updated 17:57 that day, before cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Named Euronews author; AP image credit is not an agency-text credit. Later related-story links are excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Lagarde announced that she would leave the ECB presidency on February 7, 2027, before her scheduled term ended.",
+          "sourceIds": [
+            "ecb-lagarde-early-departure-reference",
+            "ecb-lagarde-early-departure-b"
+          ]
+        },
+        {
+          "text": "She said she wanted greater freedom to address matters outside monetary policy.",
+          "sourceIds": [
+            "ecb-lagarde-early-departure-reference",
+            "ecb-lagarde-early-departure-a",
+            "ecb-lagarde-early-departure-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "AP emphasizes electoral timing and bargaining over appointments; Reuters foregrounds Lagarde's stated wish to leave institutional neutrality behind.",
+          "sourceIds": [
+            "ecb-lagarde-early-departure-reference",
+            "ecb-lagarde-early-departure-a"
+          ]
+        },
+        {
+          "text": "Euronews situates the transition within European appointment rules and market pressures, alongside the political context emphasized by AP.",
+          "sourceIds": [
+            "ecb-lagarde-early-departure-reference",
+            "ecb-lagarde-early-departure-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Who would succeed Lagarde, and how would governments divide other senior appointments?",
+        "Would the transition affect policy communication amid inflation and bond-market pressure?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "An early exit could help current leaders settle the succession before France's election.",
+          "sourceIds": [
+            "ecb-lagarde-early-departure-reference",
+            "ecb-lagarde-early-departure-b"
+          ],
+          "reason": "An analytical account of political timing, not proof of a hidden agreement or sole motive."
+        }
+      ]
+    },
+    {
+      "id": "cuba-un-embargo-vote",
+      "eventId": "am-cuba-us-embargo-un-vote-2026",
+      "title": "UN again calls for ending Cuba's embargo as support declines",
+      "summary": "The General Assembly's October 28 resolution passed by 130 votes to 17, with 25 abstentions. Reporting contrasted Washington's success in shifting votes with the continuing majority against the embargo and its sovereignty implications.",
+      "whyItMatters": "The vote tests international support for economic pressure on Cuba, while offering no direct mechanism to remove US restrictions.",
+      "region": "Cuba / United States / United Nations",
+      "tags": [
+        "Cuba",
+        "United Nations",
+        "Sanctions",
+        "Diplomacy"
+      ],
+      "selectionRationale": "A major multilateral vote receiving fresh October 29 coverage, with consequences for economic coercion and diplomatic alignment.",
+      "evidenceNote": "Reuters, AP and Xinhua are distinct originating newsrooms. AP's selected report is a pre-vote account supplying political and humanitarian context; Reuters and Xinhua corroborate the result. Xinhua's institutional perspective is identified, and resolution language is not treated as an adjudicated legal finding.",
+      "articles": [
+        {
+          "id": "cuba-un-embargo-vote-reference",
+          "role": "reference",
+          "headline": "US sways more countries to oppose UN resolution condemning its Cuba embargo",
+          "url": "https://sightmagazine.com.au/news/us-sways-more-countries-to-oppose-un-resolution-condemning-its-cuba-embargo/",
+          "publishedAt": "2026-10-28T16:48:24Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original Reuters reporting, syndicated",
+          "outlet": {
+            "name": "Reuters via Sight Magazine",
+            "domain": "sightmagazine.com.au",
+            "country": "United Kingdom / international",
+            "ownership": "Reuters, part of Thomson Reuters; original report by Antoni Slodkowski and Dave Sherwood.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Diplomatic alignment and leverage",
+            "rationale": "Tracks shifting votes while including both government positions and a Havana resident's perspective."
+          },
+          "summary": "Reports reduced support for the resolution without implying that Washington overturned the majority or that the vote lifts the embargo.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Host publication October 29, 10:45 am, with no timezone; Reuters attribution and bylines visible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original Reuters publication verified as October 28 at 16:48:24 UTC; the inspected Sight syndication is dated October 29. Host publication is not substituted for the original wire date. ThePrint was inaccessible and a metered AP host was excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cuba-un-embargo-vote-a",
+          "role": "contrast_a",
+          "headline": "UN holds annual vote on condemning US embargo on Cuba as tensions spill into public",
+          "url": "https://abcnews.com/US/wireStory/holds-annual-vote-condemning-us-embargo-cuba-tensions-137629029",
+          "publishedAt": "2026-10-28",
+          "publishedPrecision": "date",
+          "genre": "Original AP pre-vote reporting, syndicated",
+          "outlet": {
+            "name": "Associated Press via ABC News",
+            "domain": "abcnews.com",
+            "country": "United States",
+            "ownership": "AP not-for-profit news cooperative; original report by Farnoush Amiri, with Dánica Coto contributing.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Public confrontation and civilian conditions",
+            "rationale": "Links the diplomatic dispute to worsening everyday conditions and escalating rhetoric."
+          },
+          "summary": "Describes the pre-vote confrontation and the humanitarian context, while explaining that the resolution is nonbinding.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. October 28, 12:07 AM displayed without timezone. Substantive article body read beneath unrelated election widgets."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. This is a pre-vote report, not confirmation of the outcome. Later US-election widgets and popular-read links are excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cuba-un-embargo-vote-b",
+          "role": "contrast_b",
+          "headline": "UN votes overwhelmingly against U.S. embargo on Cuba",
+          "url": "https://english.news.cn/20261029/738029a58a074c22acaf74cfc9c28b05/c.html",
+          "publishedAt": "2026-10-29",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Xinhua",
+            "domain": "english.news.cn",
+            "country": "China",
+            "ownership": "China's state news agency; Xinhua source credit and named editor displayed.",
+            "ownershipGroup": "xinhua",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Sovereignty and opposition to extraterritorial measures",
+            "rationale": "Foregrounds the resolution's objections to restrictions affecting other states and trade."
+          },
+          "summary": "Summarizes the vote and the resolution's call for states to repeal or invalidate the restrictions it criticizes.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. October 29, 03:28:15 displayed without a timezone; date precision retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. A short original Xinhua dispatch. Its presentation of resolution language is attributed to the resolution, not endorsed as an independent legal judgment. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The General Assembly adopted the resolution by 130 votes to 17, with 25 abstentions.",
+          "sourceIds": [
+            "cuba-un-embargo-vote-reference",
+            "cuba-un-embargo-vote-b"
+          ]
+        },
+        {
+          "text": "The vote called for an end to the US embargo but did not itself remove US restrictions.",
+          "sourceIds": [
+            "cuba-un-embargo-vote-reference",
+            "cuba-un-embargo-vote-a",
+            "cuba-un-embargo-vote-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters emphasizes shifting diplomatic alignment; AP's pre-vote account foregrounds public confrontation and civilian conditions.",
+          "sourceIds": [
+            "cuba-un-embargo-vote-reference",
+            "cuba-un-embargo-vote-a"
+          ]
+        },
+        {
+          "text": "Xinhua foregrounds sovereignty and extraterritorial restrictions, while Reuters gives more attention to Washington's lobbying gains.",
+          "sourceIds": [
+            "cuba-un-embargo-vote-reference",
+            "cuba-un-embargo-vote-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Would the diplomatic vote change any government's practical economic policy?",
+        "How would continuing restrictions and domestic conditions affect Cuban civilians?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "US and Cuban officials offered opposing characterizations of the embargo and their diplomatic confrontation.",
+          "sourceIds": [
+            "cuba-un-embargo-vote-reference",
+            "cuba-un-embargo-vote-a"
+          ],
+          "reason": "Official allegations and political labels are not independently established findings."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-06T19:21:02Z",
+    "author": "ChatGPT",
+    "reason": "First edition: recovery of the missing 2026-10-29 Paris calendar day, researched on 2026-11-06."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent review only. Checked nine substantive articles, original publication metadata within 72 hours before cutoff, originating newsroom credits, three ownership groups per story, source-specific lenses and at least two selected citations per common fact. Distinguished reporting from official claims, forecasts and estimates. Disclosed visible later edits and date precision; excluded post-cutoff developments and unrelated live widgets. Current retrieval cannot prove text was identical at cutoff. No historical capture, fingerprint or human review is claimed. Honest preparation timestamps and the applicable retrospective label are used. Structural validation is performed separately before commit."
+  }
+}

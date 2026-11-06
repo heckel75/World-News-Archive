@@ -1,0 +1,516 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-04",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-04T22:59:59Z",
+  "recordedAt": "2026-11-06T19:21:02Z",
+  "kind": "daily",
+  "selectionSummary": "Selected developments are the US congressional election outcome, the EU's enlargement assessment, and Bangladesh's garment-wage timetable. Selection is editorial judgment, not an objective ranking.",
+  "snapshot": {
+    "summary": "US election reporting established a change of congressional control for January. European accession prospects diverged, while Bangladesh announced a pay-revision timetable without settling the amount.",
+    "connections": [
+      "Political mandates and announced timetables do not by themselves deliver policy changes.",
+      "Institutional checks, reform conditions and implementation details shape what follows headline announcements."
+    ],
+    "uncertainties": [
+      "Some US races remained uncalled; no final seat totals are asserted.",
+      "Accession targets and wage promises remained conditional."
+    ]
+  },
+  "stories": [
+    {
+      "id": "us-midterm-outcome",
+      "eventId": "am-us-midterm-elections-2026",
+      "title": "Democrats win both chambers, setting up divided US government",
+      "summary": "AP, NPR and Reuters reported Democratic victories in both congressional chambers. The incoming majority promised affordability measures and oversight, while Trump's continuing veto power limited the prospect of rapid legislation.",
+      "whyItMatters": "The result changes the balance over spending, appointments and scrutiny of the administration from January.",
+      "region": "Americas",
+      "tags": [
+        "United States",
+        "elections",
+        "Congress"
+      ],
+      "selectionRationale": "A consequential change in national power with international policy implications.",
+      "evidenceNote": "AP and Reuters report the outcome; NPR supplies its own congressional analysis but explicitly uses AP race calls. Independent newsrooms do not mean independent election tallies. No final seat count or certified result is asserted.",
+      "articles": [
+        {
+          "id": "us-midterm-outcome-reference",
+          "role": "reference",
+          "headline": "Democratic sweep of Congress ushers in a new era as Trump acknowledges impact of the Iran war",
+          "url": "https://gmg-wdiv-prod.cdn.arcpublishing.com/news/politics/2026/11/04/democrats-usher-in-a-new-era-with-their-resounding-sweep-of-the-house-and-the-senate/",
+          "publishedAt": "2026-11-04",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "gmg-wdiv-prod.cdn.arcpublishing.com",
+            "country": "United States",
+            "ownership": "Independent news cooperative; WDIV hosts the dispatch.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Political accountability and competing mandates",
+            "rationale": "Examines the victors' agenda and the defeated administration's response."
+          },
+          "summary": "Lisa Mascaro reports plans for oversight and cost-of-living legislation alongside Trump's response. Democratic leaders acknowledge that rejection of Republicans does not automatically establish confidence in their own party.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Substantive AP dispatch and named byline read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 4 at 09:01 on the Detroit host, updated 15:49 the same day, before the Paris cutoff. Date precision retained; related live news excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "us-midterm-outcome-a",
+          "role": "contrast_a",
+          "headline": "Democrats win full control of Congress, ushering in a new era of divided government",
+          "url": "https://www.nhpr.org/national/2026-11-03/democrats-win-full-control-of-congress-ushering-in-a-new-era-of-divided-government",
+          "publishedAt": "2026-11-04T04:44:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original political reporting and analysis",
+          "outlet": {
+            "name": "NPR",
+            "domain": "nhpr.org",
+            "country": "United States",
+            "ownership": "Original reporting credited to NPR. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "npr",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Institutional power and limits",
+            "rationale": "Explains why oversight powers may change faster than legislation."
+          },
+          "summary": "Claudia Grisales and Eric McDaniel discuss investigations, confirmations and funding negotiations. They caution that campaign promises still face the president's veto and the need for legislative cooperation.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full credited NPR article read on NHPR."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Published November 3 at 23:44 EST, updated November 4 at 14:16 EST. Both precede cutoff. NPR explicitly bases its chamber-control assessment on AP calls; its analysis is independently authored. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "us-midterm-outcome-b",
+          "role": "contrast_b",
+          "headline": "Wall St opens higher as Democrats win Congress; data center stocks slide",
+          "url": "https://www.investing.com/news/stock-market-news/wall-st-opens-higher-as-democrats-win-congress-data-center-stocks-slide-5000011",
+          "publishedAt": "2026-11-04",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "investing.com",
+            "country": "United Kingdom",
+            "ownership": "Original reporting credited to Reuters. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Immediate market expectations",
+            "rationale": "Shows a financial-market reading of divided government that differs from campaign claims."
+          },
+          "summary": "Reuters reports a broad opening rally alongside pressure on data-centre shares. It attributes the divergence to expectations about policy constraints and possible AI regulation, rather than established future policy.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Complete Reuters opening-market dispatch read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Published November 4 at 09:37, updated 09:43; date precision retained because the host does not label its clock. This is the opening snapshot, not the closing-market story or live price widgets. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Democrats were reported to have won control of both the House and Senate.",
+          "sourceIds": [
+            "us-midterm-outcome-reference",
+            "us-midterm-outcome-a",
+            "us-midterm-outcome-b"
+          ]
+        },
+        {
+          "text": "The new Congress would take office in January, while Trump retained the presidency and veto power.",
+          "sourceIds": [
+            "us-midterm-outcome-reference",
+            "us-midterm-outcome-a"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "AP emphasises political accountability and the parties' responses; NPR explains the institutional powers and constraints that follow.",
+          "sourceIds": [
+            "us-midterm-outcome-reference",
+            "us-midterm-outcome-a"
+          ]
+        },
+        {
+          "text": "Reuters records investors' initial expectations, which do not establish the direction of eventual policy.",
+          "sourceIds": [
+            "us-midterm-outcome-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Some races remained uncalled and results still required certification.",
+        "A majority does not guarantee passage of an affordability agenda or agreement on oversight priorities."
+      ],
+      "unverifiedClaims": []
+    },
+    {
+      "id": "eu-enlargement-assessment",
+      "eventId": "eu-enlargement-process",
+      "title": "EU sees a possible Montenegro accession treaty in 2027 as candidate paths diverge",
+      "summary": "The European Commission said Montenegro could finish accession talks in 2026 and sign a treaty in June 2027. Its annual assessment also offered Serbia a conditional opening and highlighted deterioration in relations with Georgia.",
+      "whyItMatters": "Enlargement could reshape European institutions, economic integration and regional influence.",
+      "region": "Europe",
+      "tags": [
+        "European Union",
+        "Montenegro",
+        "enlargement"
+      ],
+      "selectionRationale": "A formal annual assessment with concrete, conditional milestones for several candidate countries.",
+      "evidenceNote": "Reuters, AP and Euronews independently report the same enlargement package from different country perspectives. Commission forecasts remain conditional; publication of an assessment is not admission to the EU.",
+      "articles": [
+        {
+          "id": "eu-enlargement-assessment-reference",
+          "role": "reference",
+          "headline": "Montenegro could sign accession treaty with EU in June 2027, European Commission says",
+          "url": "https://cyprus-mail.com/2026/11/04/montenegro-could-sign-accession-treaty-with-eu-in-june-2027-european-commission-says",
+          "publishedAt": "2026-11-04",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "cyprus-mail.com",
+            "country": "United Kingdom",
+            "ownership": "Original reporting credited to Reuters. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Accession milestones and outstanding reforms",
+            "rationale": "Sets out the leading candidate's timetable and the conditions attached to it."
+          },
+          "summary": "Reuters reports the Commission's possible timetable for Montenegro, with continuing reforms and ratification still required. It also describes Albania's reform tasks.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Complete Reuters News Service article read on Cyprus Mail."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original Reuters report and host publication are November 4; host displays 17:23 without a timezone, so date precision is retained. Later sidebar news is excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "eu-enlargement-assessment-a",
+          "role": "contrast_a",
+          "headline": "EU offers Serbia fresh hope for membership talks, says more countries could join soon",
+          "url": "https://abcnews.com/International/wireStory/eu-offers-serbia-fresh-hope-membership-talks-countries-137844800",
+          "publishedAt": "2026-11-04",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "abcnews.com",
+            "country": "United States",
+            "ownership": "Original reporting credited to Associated Press. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Serbia's conditional political opening",
+            "rationale": "Examines how government formation and democratic reforms could affect accession."
+          },
+          "summary": "Lorne Cook focuses on an opening after Serbia's student movement won elections. A new government, political will and stronger institutions remain prerequisites rather than accomplished reforms.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full AP report, byline and contribution credit read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 4 publication; ABC displays 08:54 without a timezone. AP's original metadata also places publication that day. Conditional membership forecasts are not presented as decisions. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "eu-enlargement-assessment-b",
+          "role": "contrast_b",
+          "headline": "‘Everything is on the table’: EU to discuss new measures against Georgia in January, Kallas says",
+          "url": "https://www.euronews.com/2026/11/04/everything-is-on-the-table-eu-to-discuss-new-measures-against-georgia-in-january-kallas-sa",
+          "publishedAt": "2026-11-04T15:39:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Euronews",
+            "domain": "euronews.com",
+            "country": "France",
+            "ownership": "Euronews identifies Alpac Capital as its controlling shareholder.",
+            "ownershipGroup": "alpac-capital",
+            "ownershipSource": "https://www.euronews.com/about"
+          },
+          "lens": {
+            "label": "Democratic backsliding and diplomatic pressure",
+            "rationale": "Contrasts accession optimism with deteriorating relations with another candidate."
+          },
+          "summary": "Luca Bertuzzi reports Kaja Kallas's response to Euronews about possible measures against Georgia. She describes further discussion in January without announcing a new sanctions decision.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full signed report and direct-question attribution read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Published November 4 at 16:39 GMT+1. The article also references the outlet's own summit; this does not supply independent corroboration of official allegations. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The Commission published its annual assessment of candidate countries on November 4.",
+          "sourceIds": [
+            "eu-enlargement-assessment-reference",
+            "eu-enlargement-assessment-a",
+            "eu-enlargement-assessment-b"
+          ]
+        },
+        {
+          "text": "The assessment identified Montenegro as a leading candidate while retaining reform and approval conditions.",
+          "sourceIds": [
+            "eu-enlargement-assessment-reference",
+            "eu-enlargement-assessment-a"
+          ]
+        },
+        {
+          "text": "AP and Euronews reported that Georgia's accession path was stalled amid EU concerns over democratic standards.",
+          "sourceIds": [
+            "eu-enlargement-assessment-a",
+            "eu-enlargement-assessment-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters stresses Montenegro's milestones; AP examines Serbia's opportunity and unresolved political conditions.",
+          "sourceIds": [
+            "eu-enlargement-assessment-reference",
+            "eu-enlargement-assessment-a"
+          ]
+        },
+        {
+          "text": "Euronews highlights the limits of enlargement incentives through Georgia and possible diplomatic pressure.",
+          "sourceIds": [
+            "eu-enlargement-assessment-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "A possible treaty date is not a guaranteed accession date.",
+        "Future measures against Georgia had not been agreed at cutoff."
+      ],
+      "unverifiedClaims": []
+    },
+    {
+      "id": "bangladesh-pay-timetable",
+      "eventId": "as-bangladesh-garment-wage-protests-2026",
+      "title": "Bangladesh sets a garment-pay timetable as protests continue",
+      "summary": "The wage board announced a revised structure effective from December, with first payments in January. The amount remained unsettled as workers' protests and factory closures continued.",
+      "whyItMatters": "The dispute affects millions of workers and production for international clothing supply chains.",
+      "region": "Asia",
+      "tags": [
+        "Bangladesh",
+        "labour",
+        "garments"
+      ],
+      "selectionRationale": "A concrete new wage-board timetable, distinct from its earlier creation, amid continuing disruption.",
+      "evidenceNote": "Reuters interviews, AP's protest report and the Daily Star's board coverage are independently authored. Board statements establish the announced timetable, not delivery of a pay rise.",
+      "articles": [
+        {
+          "id": "bangladesh-pay-timetable-reference",
+          "role": "reference",
+          "headline": "Bangladesh agrees new garment pay scale from December amid protests",
+          "url": "https://www.arnnewscentre.ae/en/news/international/bangladesh-agrees-new-garment-pay-scale-from-december-amid-protests/",
+          "publishedAt": "2026-11-04",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "arnnewscentre.ae",
+            "country": "United Kingdom",
+            "ownership": "Original reporting credited to Reuters. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Pay negotiations and export competitiveness",
+            "rationale": "Connects workers' purchasing power with productivity, buyer practices and delivery risks."
+          },
+          "summary": "Reuters reports that the board set a timetable without deciding the increase. Worker testimony and an economist's analysis challenge reliance on cheap labour as the industry's long-term strategy.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full Reuters-credited report read on ARN, including worker and economist interviews."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original Reuters and host publication November 4; ARN displays 15:00 without a timezone. Date precision retained; later related stories excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "bangladesh-pay-timetable-a",
+          "role": "contrast_a",
+          "headline": "Bangladesh garment factories close as workers clash with police in pay protests",
+          "url": "https://abcnews.com/International/wireStory/bangladesh-garment-factories-close-workers-clash-police-pay-137843912",
+          "publishedAt": "2026-11-04",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "abcnews.com",
+            "country": "United States",
+            "ownership": "Original reporting credited to Associated Press. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Street confrontation and factory disruption",
+            "rationale": "Foregrounds workers, policing and the immediate effects on production."
+          },
+          "summary": "AP reports tear gas, road blockades and factory closures. Police deployment figures and injury reports are attributed; the account also records the wage board's January-payment promise.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Complete AP dispatch and photo/report credits read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 4 publication; ABC displays 08:35 without a timezone. AP's original metadata places the report that day. No final casualty total is adopted. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "bangladesh-pay-timetable-b",
+          "role": "contrast_b",
+          "headline": "New garment workers’ pay scale to take effect in December",
+          "url": "https://www.thedailystar.net/business/news/new-garment-workers-pay-scale-take-effect-december-4315341",
+          "publishedAt": "2026-11-04",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "The Daily Star",
+            "domain": "thedailystar.net",
+            "country": "Bangladesh",
+            "ownership": "Original reporting credited to The Daily Star. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "mediaworld-daily-star",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Implementation timetable and board process",
+            "rationale": "Separates the effective month from the first salary payment and identifies the board's role."
+          },
+          "summary": "Star Business Report records the chairman's announcement after the first meeting. It places the timetable alongside workers' demands and inflation without reporting that the demanded amount was accepted.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full Star Business Report article read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Published November 4, updated 14:02 the same day. Date precision retained because the displayed timezone is unstated. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The board announced that the revised structure would apply from December, with first salaries paid in January.",
+          "sourceIds": [
+            "bangladesh-pay-timetable-reference",
+            "bangladesh-pay-timetable-b"
+          ]
+        },
+        {
+          "text": "Workers demanded a monthly minimum of 30,000 taka.",
+          "sourceIds": [
+            "bangladesh-pay-timetable-reference",
+            "bangladesh-pay-timetable-a",
+            "bangladesh-pay-timetable-b"
+          ]
+        },
+        {
+          "text": "Protests had disrupted garment production and closed factories.",
+          "sourceIds": [
+            "bangladesh-pay-timetable-reference",
+            "bangladesh-pay-timetable-a",
+            "bangladesh-pay-timetable-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters examines economic trade-offs and buyer responsibility; AP emphasises clashes and immediate disruption.",
+          "sourceIds": [
+            "bangladesh-pay-timetable-reference",
+            "bangladesh-pay-timetable-a"
+          ]
+        },
+        {
+          "text": "The Daily Star focuses on the board's administrative timetable, which leaves the eventual wage level unresolved.",
+          "sourceIds": [
+            "bangladesh-pay-timetable-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The size of the increase had not been decided.",
+        "Implementation, acceptance by workers and the duration of disruption remained uncertain."
+      ],
+      "unverifiedClaims": []
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-06T19:21:02Z",
+    "author": "ChatGPT",
+    "reason": "First edition: recovery of the missing 2026-11-04 Paris calendar day, researched on 2026-11-06."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent review only. Checked nine substantive articles, original publication metadata within 72 hours before cutoff, originating newsroom credits, three ownership groups per story, source-specific lenses and at least two selected citations per common fact. Distinguished reporting from official claims, forecasts and estimates. Disclosed visible later edits and date precision; excluded post-cutoff developments and unrelated live widgets. Current retrieval cannot prove text was identical at cutoff. No historical capture, fingerprint or human review is claimed. Honest preparation timestamps and the applicable retrospective label are used. Structural validation is performed separately before commit."
+  }
+}

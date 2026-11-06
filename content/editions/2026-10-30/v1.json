@@ -1,0 +1,542 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-30",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-10-30T22:59:59Z",
+  "recordedAt": "2026-11-06T19:21:02Z",
+  "kind": "retrospective",
+  "selectionSummary": "Recovery edition covering a record-scale cryptocurrency theft, deeper Canada–EU cooperation, and divisions at the opening of the G20 foreign ministers' meeting. Selection is editorial judgment, not an objective ranking.",
+  "snapshot": {
+    "summary": "Binance faced a major breach and promised to cover losses. Canada and the EU announced a closer partnership. G20 diplomats gathered with sharp disagreements over war, representation and economic priorities.",
+    "connections": [
+      "Editorial connection: each story exposed the difficulty of building trust across borders, whether in financial custody, trade partnerships or diplomatic institutions."
+    ],
+    "uncertainties": [
+      "Recovery of stolen assets, the scope of Canada–EU association and the G20 meeting's final outcome were unresolved."
+    ]
+  },
+  "stories": [
+    {
+      "id": "binance-hack-losses",
+      "eventId": "global-binance-crypto-theft-2026",
+      "title": "Binance confronts a reported $6.3 billion theft as asset recovery begins",
+      "summary": "Binance reported a major theft and promised to cover customer losses. Independent reporting examined frozen assets, falling prices and weaknesses under investigation; frozen funds were not equivalent to recovered funds.",
+      "whyItMatters": "A breach at a major global exchange affects confidence in custody, liquidity and the infrastructure connecting digital assets to regulated finance.",
+      "region": "Global / digital finance",
+      "tags": [
+        "Cybersecurity",
+        "Cryptocurrency",
+        "Binance"
+      ],
+      "selectionRationale": "An unusually large cross-border financial theft, examined through general financial reporting and two specialist newsrooms.",
+      "evidenceNote": "Reuters, CoinDesk and Cointelegraph originate the accounts. Company reserve and reimbursement statements remain claims. CoinDesk discloses ownership by exchange operator Bullish; Cointelegraph describes a separate newsroom but does not disclose detailed shareholding on its inspected About page. No blockchain audit was performed.",
+      "articles": [
+        {
+          "id": "binance-hack-losses-reference",
+          "role": "reference",
+          "headline": "Gone in 20 minutes: How the biggest heist in crypto history unfolded",
+          "url": "https://www.irishexaminer.com/business/economy/arid-41931042.html",
+          "publishedAt": "2026-10-30",
+          "publishedPrecision": "date",
+          "genre": "Original Reuters explanatory reporting, syndicated",
+          "outlet": {
+            "name": "Reuters via Irish Examiner",
+            "domain": "irishexaminer.com",
+            "country": "United Kingdom / international",
+            "ownership": "Reuters, part of Thomson Reuters; matching agency report by Ankur Banerjee and Rae Wee.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Mechanism and recovery limits",
+            "rationale": "Distinguishes freezing assets from returning them and explains investigators' preliminary findings."
+          },
+          "summary": "Explains the reported breach and why different assets present different recovery obstacles.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. October 30 at 11:48 displayed without timezone; full substantive explainer accessible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Reporter bylines match the original Reuters report. Technical explanations are attributed to named investigators and analysts; no operational exploit instructions are reproduced. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "binance-hack-losses-a",
+          "role": "contrast_a",
+          "headline": "Binance loses over $6 billion in 'biggest crypto hack in history'",
+          "url": "https://www.coindesk.com/business/2026/10/29/potential-multi-billion-binance-hack-hitting-crypto-markets",
+          "publishedAt": "2026-10-29T21:12:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original specialist reporting",
+          "outlet": {
+            "name": "CoinDesk",
+            "domain": "coindesk.com",
+            "country": "United States / global newsroom",
+            "ownership": "Part of Bullish, which operates a cryptocurrency exchange; the outlet states that its newsroom has editorial independence.",
+            "ownershipGroup": "bullish",
+            "ownershipSource": "https://www.coindesk.com/ethics"
+          },
+          "lens": {
+            "label": "Market confidence and contagion",
+            "rationale": "Pairs transaction tracking with market reaction and customer reassurance."
+          },
+          "summary": "Tracks the initial market shock, frozen stablecoins and Binance's promise to cover losses.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Published October 29, 5:12 PM EDT; updated October 30, 12:16 AM EDT. Named reporters Krisztian Sandor and Stephen Alpher."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Article body read separately from live price widgets and later related links. Ownership presents an industry interest that is disclosed, not ignored. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "binance-hack-losses-b",
+          "role": "contrast_b",
+          "headline": "As it happened: Binance’s record $6.3B crypto hack",
+          "url": "https://cointelegraph.com/news/live-updates-binance-63b-hack-linked-to-north-koreas-tradertraitor",
+          "publishedAt": "2026-10-30",
+          "publishedPrecision": "date",
+          "genre": "Original live reporting with timestamped updates",
+          "outlet": {
+            "name": "Cointelegraph",
+            "domain": "cointelegraph.com",
+            "country": "International distributed newsroom",
+            "ownership": "Separate Cointelegraph newsroom; About page describes editorial independence. Detailed current shareholding was not established.",
+            "ownershipGroup": "cointelegraph",
+            "ownershipSource": "https://cointelegraph.com/about"
+          },
+          "lens": {
+            "label": "Operational response and verification gaps",
+            "rationale": "Follows reopening plans and questions about replacement assets and disclosure."
+          },
+          "summary": "Reports the exchange's response, including an interview about replacement tokens whose wallet addresses were not disclosed.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Original October 30 date; Felix Ng byline. Selected updates individually timestamped October 30, no later than 14:34 UTC."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Only October 30 updates were used. The spokesperson's refusal to disclose wallet addresses limits verification of the reserve claim. Later reopening and attribution outcomes are excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Binance estimated that the breach affected about $6.3 billion in assets.",
+          "sourceIds": [
+            "binance-hack-losses-reference",
+            "binance-hack-losses-a",
+            "binance-hack-losses-b"
+          ]
+        },
+        {
+          "text": "The exchange said it would use its own resources to cover losses, while issuers had frozen part of the stolen assets.",
+          "sourceIds": [
+            "binance-hack-losses-reference",
+            "binance-hack-losses-a",
+            "binance-hack-losses-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters explains recovery constraints; CoinDesk emphasizes market reaction and confidence in exchange custody.",
+          "sourceIds": [
+            "binance-hack-losses-reference",
+            "binance-hack-losses-a"
+          ]
+        },
+        {
+          "text": "Cointelegraph scrutinizes the operational response and undisclosed reserve details, complementing Reuters' distinction between freezing and recovery.",
+          "sourceIds": [
+            "binance-hack-losses-reference",
+            "binance-hack-losses-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "How much could be recovered and when would customers regain normal access?",
+        "What combination of compromised systems enabled the breach?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Analysts linked the attack to North Korean actors.",
+          "sourceIds": [
+            "binance-hack-losses-reference",
+            "binance-hack-losses-a",
+            "binance-hack-losses-b"
+          ],
+          "reason": "Attribution was an assessment under investigation, not independently established by this archive."
+        },
+        {
+          "text": "Binance said it could cover the losses.",
+          "sourceIds": [
+            "binance-hack-losses-reference",
+            "binance-hack-losses-a",
+            "binance-hack-losses-b"
+          ],
+          "reason": "A company assurance, not an independently audited demonstration of reserves or completed reimbursement."
+        }
+      ]
+    },
+    {
+      "id": "canada-eu-future-alliance",
+      "eventId": "global-canada-eu-partnership-2026",
+      "title": "Canada and EU announce a closer partnership while energy and membership questions remain",
+      "summary": "The Montreal summit produced a broad cooperation initiative. Canadian reporting examined practical agreements, DW questioned Carney about dependence on the US, and Euronews examined the energy proposal's climate and infrastructure trade-offs.",
+      "whyItMatters": "Closer links between Canada and Europe could reshape trade, research, energy supply and economic security, although an association label does not establish EU membership.",
+      "region": "Canada / European Union",
+      "tags": [
+        "Trade",
+        "Energy",
+        "Canada",
+        "European Union"
+      ],
+      "selectionRationale": "A cross-border strategic partnership with concrete commercial initiatives and unresolved environmental and institutional questions.",
+      "evidenceNote": "The Canadian Press, DW and Euronews originate these reports. The Euronews article predates the summit and examines a draft, not a signed LNG supply contract. CP contains an inconsistent EU membership count that is not repeated.",
+      "articles": [
+        {
+          "id": "canada-eu-future-alliance-reference",
+          "role": "reference",
+          "headline": "Canada, European Union close Montreal summit with ‘alliance for the future’ pact",
+          "url": "https://edmonton.citynews.ca/2026/10/30/canada-european-union-summit-in-montreal-concludes-today-with-digital-trade-on-agenda/",
+          "publishedAt": "2026-10-30",
+          "publishedPrecision": "date",
+          "genre": "Original Canadian Press reporting, syndicated",
+          "outlet": {
+            "name": "The Canadian Press via CityNews",
+            "domain": "edmonton.citynews.ca",
+            "country": "Canada",
+            "ownership": "The Canadian Press originating newsroom; credited report by David Baxter. CityNews is the syndication host.",
+            "ownershipGroup": "canadian-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Practical agreements and domestic delivery",
+            "rationale": "Examines trade facilitation, research and exchanges alongside unresolved irritants."
+          },
+          "summary": "Describes the summit's announced cooperation and the work still needed on regulatory and institutional details.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Posted October 30, 2:00 am; updated 1:41 pm that day, without a labeled timezone."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Canadian Press origin and first-publication date explicitly credited. Announced benefits are political expectations, not measured outcomes. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "canada-eu-future-alliance-a",
+          "role": "contrast_a",
+          "headline": "Mark Carney: Canada has 'learned we are overdependent on the US'",
+          "url": "https://amp.dw.com/en/mark-carney-canada-has-learned-we-are-overdependent-on-the-us/a-79811469",
+          "publishedAt": "2026-10-30",
+          "publishedPrecision": "date",
+          "genre": "Original interview-based reporting",
+          "outlet": {
+            "name": "Deutsche Welle",
+            "domain": "amp.dw.com",
+            "country": "Germany",
+            "ownership": "Germany's public international broadcaster; article by Mark Hallam based on Katharina Kroll's DW interview.",
+            "ownershipGroup": "deutsche-welle",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Diversification and US relations",
+            "rationale": "Questions whether closer European ties mean excluding the United States."
+          },
+          "summary": "Carney presents the initiative as diversification while acknowledging durable US ties and disagreement over the association label.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Original October 30 date; substantive interview-based text accessible without needing to play the video."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. The interview establishes Carney's position, not acceptance of all proposals by EU member states. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "canada-eu-future-alliance-b",
+          "role": "contrast_b",
+          "headline": "EU and Canada explore LNG deal as Europe grapples with gas crisis",
+          "url": "https://www.euronews.com/2026/10/28/eu-and-canada-explore-lng-deal-as-europe-grapples-with-gas-crisis",
+          "publishedAt": "2026-10-28T14:57:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Euronews",
+            "domain": "euronews.com",
+            "country": "France / European newsroom",
+            "ownership": "Euronews SA lists Alpac Capital as its 97.6% shareholder; original report by Marta Pacheco.",
+            "ownershipGroup": "alpac-capital",
+            "ownershipSource": "https://www.euronews.com/about"
+          },
+          "lens": {
+            "label": "Energy security versus fossil-fuel dependence",
+            "rationale": "Tests the proposed LNG study against infrastructure costs and climate objections."
+          },
+          "summary": "Reports a draft feasibility-study proposal and a climate group's warning against long-lived gas infrastructure.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Published October 28, 15:57 GMT+1; no later update shown. Within the edition's 72-hour source window."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Euronews says it saw the draft and reports a named campaigner's response. This contextual article does not establish a finalized gas-export agreement. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Canada and EU leaders met in Montreal to pursue deeper cooperation across the Atlantic.",
+          "sourceIds": [
+            "canada-eu-future-alliance-reference",
+            "canada-eu-future-alliance-a",
+            "canada-eu-future-alliance-b"
+          ]
+        },
+        {
+          "text": "The proposed relationship involved expanded economic and research links, while the meaning of an association short of membership remained unsettled.",
+          "sourceIds": [
+            "canada-eu-future-alliance-reference",
+            "canada-eu-future-alliance-a"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "The Canadian Press examines concrete announcements and delivery; DW probes the strategic goal of reducing dependence on the United States.",
+          "sourceIds": [
+            "canada-eu-future-alliance-reference",
+            "canada-eu-future-alliance-a"
+          ]
+        },
+        {
+          "text": "Euronews brings climate and infrastructure objections to the energy agenda, adding a trade-off to the leaders' partnership narrative.",
+          "sourceIds": [
+            "canada-eu-future-alliance-reference",
+            "canada-eu-future-alliance-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "What formal status would the closer association have, and would member states accept it?",
+        "Could LNG cooperation be commercially viable without undermining climate objectives?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Leaders said the agreements would create opportunities and improve affordability.",
+          "sourceIds": [
+            "canada-eu-future-alliance-reference",
+            "canada-eu-future-alliance-a"
+          ],
+          "reason": "Forecast benefits had not been demonstrated at cutoff."
+        }
+      ]
+    },
+    {
+      "id": "g20-atlanta-opening-divisions",
+      "eventId": "global-g20-atlanta-diplomacy-2026",
+      "title": "G20 talks open amid divisions over Russia and South Africa's exclusion",
+      "summary": "Foreign ministers gathered in Atlanta with war and representation disputes complicating the economic agenda. European objections led to cancellation of the group photograph; the meeting's final outcome was still ahead.",
+      "whyItMatters": "The forum's ability to coordinate on energy, trade and security depends on cooperation among governments with sharply conflicting interests.",
+      "region": "Global / United States",
+      "tags": [
+        "G20",
+        "Diplomacy",
+        "Ukraine",
+        "South Africa"
+      ],
+      "selectionRationale": "A major multilateral meeting exposing divisions over participation, war and global economic coordination.",
+      "evidenceNote": "Reuters, RFE/RL and AP originate these reports. Early previews and a later October 30 report describe different stages. The edition excludes October 31's final statement. RFE/RL's compressed explanation of invitations must not imply South Africa is not a G20 member.",
+      "articles": [
+        {
+          "id": "g20-atlanta-opening-divisions-reference",
+          "role": "reference",
+          "headline": "Rifts over wars in Ukraine, Middle East loom over G20 meeting in US",
+          "url": "https://www.investing.com/news/economy-news/rifts-over-wars-in-ukraine-middle-east-loom-over-g20-meeting-in-us-4986508",
+          "publishedAt": "2026-10-30",
+          "publishedPrecision": "date",
+          "genre": "Original Reuters reporting, syndicated",
+          "outlet": {
+            "name": "Reuters via Investing.com",
+            "domain": "investing.com",
+            "country": "United Kingdom / international",
+            "ownership": "Reuters, part of Thomson Reuters; original Atlanta report by Andrea Shalal.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Economic coordination under geopolitical strain",
+            "rationale": "Examines whether smaller coalitions can advance priorities when full consensus is unlikely."
+          },
+          "summary": "Contrasts Washington's trade and minerals agenda with war-related disagreements and diverging economic conditions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Published October 30, 6:07 AM; updated 6:13 AM, no explicit timezone."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. This morning preview's predictions about consensus are not presented as the meeting's eventual result. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "g20-atlanta-opening-divisions-a",
+          "role": "contrast_a",
+          "headline": "G20 Diplomats Meet In Atlanta Amid Divisions Over Russia, Ukraine",
+          "url": "https://www.rferl.org/a/g20-meeting-atlanta-us-ukraine-russia/33887200.html",
+          "publishedAt": "2026-10-30T10:16:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Radio Free Europe/Radio Liberty",
+            "domain": "rferl.org",
+            "country": "United States / European reporting",
+            "ownership": "RFE/RL newsroom funded through US congressional grants; original report by Alex Raufoglu.",
+            "ownershipGroup": "rfe-rl",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Engagement versus normalization of Russia",
+            "rationale": "Examines whether diplomatic inclusion signals acceptance of Moscow's conduct and stresses Kyiv's absence."
+          },
+          "summary": "Uses interviews to explore the tension between dialogue and legitimacy while Ukraine is unrepresented.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. October 30, 11:16 CET; named reporter and substantial original interviews visible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Source wording on formal-member invitations is incomplete regarding South Africa; AP's explicit identification of it as a member prevents that error entering this edition. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "g20-atlanta-opening-divisions-b",
+          "role": "contrast_b",
+          "headline": "Consensus looks elusive at G20 talks after European objections to Russia cancel group photo",
+          "url": "https://www.kiro7.com/news/politics/g20-diplomats/W2ACEVNIFE4ZRFPDH3DL3GJ2FU/?outputType=amp",
+          "publishedAt": "2026-10-30",
+          "publishedPrecision": "date",
+          "genre": "Original AP reporting, syndicated",
+          "outlet": {
+            "name": "Associated Press via KIRO 7",
+            "domain": "kiro7.com",
+            "country": "United States / international",
+            "ownership": "AP not-for-profit news cooperative; report by Matthew Lee with international contributors.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Participation, exclusion and diplomatic limits",
+            "rationale": "Includes South Africa's objection that its absence is involuntary and contrasts calls for unity with actual divisions."
+          },
+          "summary": "Reports the canceled photograph and opening-session disagreements while examining excluded countries' positions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. October 30 report; inspected version timestamped 21:05 UTC, before cutoff. Date precision avoids confusing an evolving wire timestamp with its first release."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. The October 31 outcome is excluded. Anonymous diplomats' expectations about a communique remain expectations, and an inconsistent relative month reference is not repeated. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "G20 foreign ministers met in Atlanta on October 30–31 under US chairmanship, with Lavrov attending.",
+          "sourceIds": [
+            "g20-atlanta-opening-divisions-reference",
+            "g20-atlanta-opening-divisions-a",
+            "g20-atlanta-opening-divisions-b"
+          ]
+        },
+        {
+          "text": "South Africa was not invited to the meeting.",
+          "sourceIds": [
+            "g20-atlanta-opening-divisions-reference",
+            "g20-atlanta-opening-divisions-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters asks how economic cooperation can proceed despite division; RFE/RL centers the legitimacy implications of engagement with Russia.",
+          "sourceIds": [
+            "g20-atlanta-opening-divisions-reference",
+            "g20-atlanta-opening-divisions-a"
+          ]
+        },
+        {
+          "text": "AP gives space to South Africa's involuntary exclusion, broadening the participation question beyond the Russia–Ukraine dispute.",
+          "sourceIds": [
+            "g20-atlanta-opening-divisions-a",
+            "g20-atlanta-opening-divisions-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Could participants produce substantive common positions by the meeting's close?",
+        "Would exclusions and disputes further weaken the forum's legitimacy?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Participants expected serious difficulty agreeing a joint communique.",
+          "sourceIds": [
+            "g20-atlanta-opening-divisions-reference",
+            "g20-atlanta-opening-divisions-b"
+          ],
+          "reason": "A forecast at October 30 cutoff, not a statement of the next day's outcome."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-06T19:21:02Z",
+    "author": "ChatGPT",
+    "reason": "First edition: recovery of the missing 2026-10-30 Paris calendar day, researched on 2026-11-06."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent review only. Checked nine substantive articles, original publication metadata within 72 hours before cutoff, originating newsroom credits, three ownership groups per story, source-specific lenses and at least two selected citations per common fact. Distinguished reporting from official claims, forecasts and estimates. Disclosed visible later edits and date precision; excluded post-cutoff developments and unrelated live widgets. Current retrieval cannot prove text was identical at cutoff. No historical capture, fingerprint or human review is claimed. Honest preparation timestamps and the applicable retrospective label are used. Structural validation is performed separately before commit."
+  }
+}

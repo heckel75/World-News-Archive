@@ -1,0 +1,540 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-03",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-03T22:59:59Z",
+  "recordedAt": "2026-11-06T19:21:02Z",
+  "kind": "retrospective",
+  "selectionSummary": "Selected developments are US midterm voting, Spain's transport minister's resignation, and renewed Russian attacks on Ukrainian infrastructure. Selection is editorial judgment, not an objective ranking.",
+  "snapshot": {
+    "summary": "Voters were still casting ballots in the United States at the Paris cutoff. In Europe, a minister announced his departure after a rail disaster while attacks on Ukraine's energy system deepened winter concerns.",
+    "connections": [
+      "Accountability takes different forms in elections, ministerial responsibility and demands to protect civilians.",
+      "A declared resignation, a scheduled poll closing and a proposed peace meeting must be distinguished from their eventual outcomes."
+    ],
+    "uncertainties": [
+      "The cutoff is 22:59:59 UTC, one second before the first scheduled US poll closings at 18:00 Eastern standard time; no results belong in this edition.",
+      "Damage and casualty information from Ukraine remained provisional."
+    ]
+  },
+  "stories": [
+    {
+      "id": "us-midterm-voting",
+      "eventId": "am-us-midterm-elections-2026",
+      "title": "Americans vote in midterms with control of Congress unresolved at the Paris cutoff",
+      "summary": "Voting took place across the United States. The first scheduled poll closings fell just after this edition's cutoff, so the record concerns the stakes, counting timetable and competing expectations rather than winners.",
+      "whyItMatters": "Congressional control would influence legislation, oversight and appointments during the rest of Trump's term.",
+      "region": "Americas",
+      "tags": [
+        "United States",
+        "elections",
+        "Congress"
+      ],
+      "selectionRationale": "A major national election, recorded without borrowing results from the following Paris day.",
+      "evidenceNote": "AP's counting guide, NPR's demographic analysis and Euronews's race analysis are independent editorial products. Forecasts remain forecasts. The cutoff conversion is an editorial calculation from AP's Eastern-time schedule.",
+      "articles": [
+        {
+          "id": "us-midterm-voting-reference",
+          "role": "reference",
+          "headline": "Election night agenda: When polls close and when to expect results",
+          "url": "https://www.clickorlando.com/news/politics/2026/11/03/election-night-agenda-when-polls-close-and-when-to-expect-results/",
+          "publishedAt": "2026-11-03",
+          "publishedPrecision": "date",
+          "genre": "Original explanatory reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "clickorlando.com",
+            "country": "United States",
+            "ownership": "Independent news cooperative; ClickOrlando hosts the dispatch.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Counting timetable and patience",
+            "rationale": "Explains staggered poll closings and differences in counting speed."
+          },
+          "summary": "Robert Yoon maps the election-night schedule. The guide shows why early returns cannot immediately settle every race and why statewide calls wait for relevant polls to close.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Substantive AP guide and named byline opened."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 3 at 07:02 on the Orlando host; date precision retained. The guide explicitly labels its schedule Eastern standard time. Historical 2024 examples are not treated as 2026 results. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "us-midterm-voting-a",
+          "role": "contrast_a",
+          "headline": "6 things to watch for on election night",
+          "url": "https://www.kgou.org/politics-and-government/2026-11-02/6-things-to-watch-for-on-election-night",
+          "publishedAt": "2026-11-02T10:00:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original political analysis",
+          "outlet": {
+            "name": "NPR",
+            "domain": "kgou.org",
+            "country": "United States",
+            "ownership": "Original reporting credited to NPR. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "npr",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Turnout and coalition tests",
+            "rationale": "Identifies demographic and local indicators that could confirm or challenge expectations."
+          },
+          "summary": "Domenico Montanaro examines turnout, independents, younger voters and split-ticket possibilities. The analysis offers conditions to watch rather than predetermined winners.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full credited NPR analysis opened on KGOU."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Published November 2 at 04:00 CST, within the 72-hour window. The article remains a pre-election analysis in the inspected text. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "us-midterm-voting-b",
+          "role": "contrast_b",
+          "headline": "The Senate on a razor’s edge: The races that will decide America's midterms",
+          "url": "https://www.euronews.com/2026/11/03/the-senate-on-a-razors-edge-the-races-that-will-decide-americas-midterms",
+          "publishedAt": "2026-11-03T16:11:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original political analysis",
+          "outlet": {
+            "name": "Euronews",
+            "domain": "euronews.com",
+            "country": "France",
+            "ownership": "Euronews identifies Alpac Capital as its controlling shareholder.",
+            "ownershipGroup": "alpac-capital",
+            "ownershipSource": "https://www.euronews.com/about"
+          },
+          "lens": {
+            "label": "Competitive Senate paths",
+            "rationale": "Uses race-level polling and political vulnerabilities to assess possible routes to a majority."
+          },
+          "summary": "Boyd Wagner gives Democrats favourable prospects but discusses polling errors and turnout uncertainty. His confidence is an analytical judgment, not an election call.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full signed analysis and publication metadata read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Published November 3 at 17:11 GMT+1, updated 21:06 the same day, both before cutoff. Later related-article links are excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The election involved House and Senate contests with congressional control at stake.",
+          "sourceIds": [
+            "us-midterm-voting-reference",
+            "us-midterm-voting-a",
+            "us-midterm-voting-b"
+          ]
+        },
+        {
+          "text": "The first scheduled poll closings were at 18:00 Eastern standard time in parts of Indiana and Kentucky.",
+          "sourceIds": [
+            "us-midterm-voting-reference",
+            "us-midterm-voting-a"
+          ]
+        },
+        {
+          "text": "Competitive Senate races included Michigan and Texas.",
+          "sourceIds": [
+            "us-midterm-voting-reference",
+            "us-midterm-voting-a",
+            "us-midterm-voting-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "AP stresses counting procedures; NPR emphasises the voter coalitions needed for either party to outperform expectations.",
+          "sourceIds": [
+            "us-midterm-voting-reference",
+            "us-midterm-voting-a"
+          ]
+        },
+        {
+          "text": "Euronews concentrates on paths through competitive Senate races and expresses stronger expectations while retaining caveats.",
+          "sourceIds": [
+            "us-midterm-voting-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "No winner or chamber-control result is asserted at this cutoff.",
+        "Polls, prediction markets and historical turnout patterns can be wrong."
+      ],
+      "unverifiedClaims": []
+    },
+    {
+      "id": "spain-transport-resignation",
+      "eventId": "eu-spain-urda-rail-disaster-2026",
+      "title": "Spain's transport minister announces his resignation after the Urda crash",
+      "summary": "Óscar Puente announced he would step down after the collision that killed 69 people. He also presented safety measures and aid for victims, while lawmakers pressed for political responsibility.",
+      "whyItMatters": "The decision affects confidence in a major rail network and government accountability ahead of an election.",
+      "region": "Europe",
+      "tags": [
+        "Spain",
+        "rail safety",
+        "accountability"
+      ],
+      "selectionRationale": "A significant new political consequence of the October 28 disaster.",
+      "evidenceNote": "Three original newsrooms corroborate the announcement. The crash sequence is attributed to the minister's account; final investigative responsibility is not established here.",
+      "articles": [
+        {
+          "id": "spain-transport-resignation-reference",
+          "role": "reference",
+          "headline": "Spain’s transport minister resigns over deadly train crash",
+          "url": "https://www.investing.com/news/world-news/spains-transport-minister-resigns-over-deadly-train-crash-4996622",
+          "publishedAt": "2026-11-03",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "investing.com",
+            "country": "United Kingdom",
+            "ownership": "Original reporting credited to Reuters. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Safety measures and compensation",
+            "rationale": "Connects the resignation with announced operational changes and victim support."
+          },
+          "summary": "Victoria Waldersee and Mireia Merino report the resignation, service reductions and safety proposals. The account distinguishes announced safeguards from demonstrated effectiveness.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Complete Reuters dispatch and byline read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Published November 3, updated the same day. Displayed clock lacks an explicit timezone; the announcement is independently corroborated before cutoff by RTVE and AP. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "spain-transport-resignation-a",
+          "role": "contrast_a",
+          "headline": "Spain's transport minister steps down 6 days after fatal high-speed rail crash",
+          "url": "https://abcnews.com/International/wireStory/spains-transport-minister-steps-6-days-after-fatal-137823144",
+          "publishedAt": "2026-11-03",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "abcnews.com",
+            "country": "United States",
+            "ownership": "Independent news cooperative; ABC News hosts the dispatch.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Public confidence in the rail network",
+            "rationale": "Places the second deadly collision against Spain's high-speed rail record."
+          },
+          "summary": "Suman Naishadham reports Puente's announcement and the concerns raised by two major crashes. The report situates the decision before the forthcoming national election.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Substantive AP article and byline opened."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 3 at 16:21 displayed; AP's original news record identifies 21:21 UTC, before cutoff. Date precision retained on this host. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "spain-transport-resignation-b",
+          "role": "contrast_b",
+          "headline": "Óscar Puente dimite por \"dignidad política\": \"Un ministro no puede estar en el cargo con dos accidentes de esta gravedad\"",
+          "url": "https://www.rtve.es/noticias/20261103/oscar-puente-diputacion-permanente-congreso-accidente-tren-cronica/17298150.shtml",
+          "publishedAt": "2026-11-03",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "RTVE",
+            "domain": "rtve.es",
+            "country": "Spain",
+            "ownership": "Spain's public broadcaster.",
+            "ownershipGroup": "rtve",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Parliamentary responsibility and coalition pressure",
+            "rationale": "Details criticism from government partners as well as opposition parties."
+          },
+          "summary": "RTVE's Spanish-language account follows the parliamentary exchanges and Puente's explanation of political responsibility. It also reports his decision not to lead his party's Valladolid election list.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Substantive original Spanish-language parliamentary report read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Published November 3 at 16:33 and updated at 22:18, before the Paris cutoff. Date precision retained; the page evolved during the hearing. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Puente announced on November 3 that he would step down after the Urda disaster.",
+          "sourceIds": [
+            "spain-transport-resignation-reference",
+            "spain-transport-resignation-a",
+            "spain-transport-resignation-b"
+          ]
+        },
+        {
+          "text": "The reports put the October 28 death toll at 69.",
+          "sourceIds": [
+            "spain-transport-resignation-reference",
+            "spain-transport-resignation-a",
+            "spain-transport-resignation-b"
+          ]
+        },
+        {
+          "text": "Safety measures were announced alongside the political response.",
+          "sourceIds": [
+            "spain-transport-resignation-reference",
+            "spain-transport-resignation-a",
+            "spain-transport-resignation-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters foregrounds operational safeguards and compensation; AP places the resignation in the network's safety history.",
+          "sourceIds": [
+            "spain-transport-resignation-reference",
+            "spain-transport-resignation-a"
+          ]
+        },
+        {
+          "text": "RTVE shows the parliamentary pressure, including criticism from government allies.",
+          "sourceIds": [
+            "spain-transport-resignation-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Announced safety changes had not yet demonstrated their effectiveness.",
+        "Political responsibility does not determine legal liability or the final technical cause."
+      ],
+      "unverifiedClaims": []
+    },
+    {
+      "id": "ukraine-energy-attacks",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Russian attacks disrupt Ukraine's power system as renewed talks approach",
+      "summary": "Waves of attacks damaged energy infrastructure and disrupted electricity, water and transport. Ukrainian operators reported major generation losses, while diplomatic efforts and competing military claims continued.",
+      "whyItMatters": "Damage to essential infrastructure increases civilian hardship as winter approaches.",
+      "region": "Europe",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "energy"
+      ],
+      "selectionRationale": "A large new attack with immediate effects on essential services and implications for diplomacy.",
+      "evidenceNote": "Reuters, the Kyiv Independent and AFP provide distinct reporting. Operator figures, military claims and provisional casualty estimates are attributed; the AFP dispatch is an earlier account than the two energy-focused reports.",
+      "articles": [
+        {
+          "id": "ukraine-energy-attacks-reference",
+          "role": "reference",
+          "headline": "Russia bombards Ukraine power grid before Abu Dhabi talks; Merz urges Moscow to engage",
+          "url": "https://www.investing.com/news/commodities-news/russia-bombards-ukraine-power-grid-before-abu-dhabi-talks-merz-urges-moscow-to-engage-4996122",
+          "publishedAt": "2026-11-03",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "investing.com",
+            "country": "United Kingdom",
+            "ownership": "Original reporting credited to Reuters. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Infrastructure damage and diplomacy",
+            "rationale": "Connects service disruption and civilian testimony with the planned talks."
+          },
+          "summary": "Reuters reports widespread outages and the Berlin meeting between Zelensky and Merz. It includes Russia's stated military rationale without treating it as independently proved.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full Reuters report opened."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 3 publication and same-day update displayed. Future meetings are described as planned; later casualties and negotiations are excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukraine-energy-attacks-a",
+          "role": "contrast_a",
+          "headline": "Russia hits substation critical for nuclear power plant in biggest mass attack on Ukraine's energy this year",
+          "url": "https://kyivindependent.com/russia-unleashes-biggest-mass-attack-on-ukraines-energy-this-year-2/",
+          "publishedAt": "2026-11-03",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "The Kyiv Independent",
+            "domain": "kyivindependent.com",
+            "country": "Ukraine",
+            "ownership": "Founded by journalists and Jnomics; independently operated Ukrainian newsroom.",
+            "ownershipGroup": "kyiv-independent",
+            "ownershipSource": "https://kyivindependent.com/about/"
+          },
+          "lens": {
+            "label": "Grid vulnerability and operator evidence",
+            "rationale": "Adds an original grid-operator interview and details of the affected energy system."
+          },
+          "summary": "Dominic Culverwell reports Ukrenergo's assessment and DTEK's account of halted generation. Officials warn about a substation serving a nuclear plant; the article does not establish a nuclear accident.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full signed report and original interview attribution read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Published November 3 at 13:06, updated 20:45. Displayed timezone is unstated; both local evening times precede the Paris cutoff. Scale claims are attributed to operators and officials. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukraine-energy-attacks-b",
+          "role": "contrast_b",
+          "headline": "Russia downs hundreds of drones after Ukraine truce ends",
+          "url": "https://www.ewn.co.za/2026/11/03/russia-downs-hundreds-of-drones-after-ukraine-truce-ends",
+          "publishedAt": "2026-11-03",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "AFP",
+            "domain": "ewn.co.za",
+            "country": "France",
+            "ownership": "Statutorily independent French news agency; EWN hosts this dispatch.",
+            "ownershipGroup": "afp",
+            "ownershipSource": "https://www.afp.com/en/about-us"
+          },
+          "lens": {
+            "label": "Wider escalation after the local truce",
+            "rationale": "Places the attack wave alongside Russian air-defence claims and the narrow humanitarian pause."
+          },
+          "summary": "AFP reports fresh strikes, evacuations from a Kharkiv medical facility and Moscow's claims about intercepted drones. The contrasting accounts show the escalation beyond the earlier local ceasefire.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Complete AFP-credited dispatch read on EWN."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 3 at 09:16 displayed; date precision retained. Early casualty numbers are not presented as final or combined with later counts. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Russian attacks struck Ukraine overnight into November 3, including critical infrastructure.",
+          "sourceIds": [
+            "ukraine-energy-attacks-reference",
+            "ukraine-energy-attacks-a",
+            "ukraine-energy-attacks-b"
+          ]
+        },
+        {
+          "text": "DTEK said three thermal power plants had stopped generating after the attacks.",
+          "sourceIds": [
+            "ukraine-energy-attacks-reference",
+            "ukraine-energy-attacks-a"
+          ]
+        },
+        {
+          "text": "Further US-mediated talks were planned for the following week.",
+          "sourceIds": [
+            "ukraine-energy-attacks-reference",
+            "ukraine-energy-attacks-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters connects civilian disruption with diplomacy; the Kyiv Independent examines grid vulnerabilities through operator reporting.",
+          "sourceIds": [
+            "ukraine-energy-attacks-reference",
+            "ukraine-energy-attacks-a"
+          ]
+        },
+        {
+          "text": "AFP emphasises the wider escalation following the limited humanitarian pause and includes Russian air-defence claims.",
+          "sourceIds": [
+            "ukraine-energy-attacks-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The full damage and repair timetable remained unclear.",
+        "Military claims about targets and interceptions were not independently verified."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Moscow said its strikes targeted electricity facilities serving military production and forces.",
+          "sourceIds": [
+            "ukraine-energy-attacks-reference"
+          ],
+          "reason": "The asserted military purpose is Russia's account, not independently established by the report."
+        },
+        {
+          "text": "Moscow's mayor claimed nearly 500 drones heading toward the capital were downed.",
+          "sourceIds": [
+            "ukraine-energy-attacks-b"
+          ],
+          "reason": "AFP attributes the figure to the mayor; this edition has no independent verification of the count."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-06T19:21:02Z",
+    "author": "ChatGPT",
+    "reason": "First edition: recovery of the missing 2026-11-03 Paris calendar day, researched on 2026-11-06."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent review only. Checked nine substantive articles, original publication metadata within 72 hours before cutoff, originating newsroom credits, three ownership groups per story, source-specific lenses and at least two selected citations per common fact. Distinguished reporting from official claims, forecasts and estimates. Disclosed visible later edits and date precision; excluded post-cutoff developments and unrelated live widgets. Current retrieval cannot prove text was identical at cutoff. No historical capture, fingerprint or human review is claimed. Honest preparation timestamps and the applicable retrospective label are used. Structural validation is performed separately before commit."
+  }
+}

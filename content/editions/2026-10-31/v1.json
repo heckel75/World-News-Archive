@@ -1,0 +1,523 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-31",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-10-31T22:59:59Z",
+  "recordedAt": "2026-11-06T19:21:02Z",
+  "kind": "retrospective",
+  "selectionSummary": "Chosen developments are France's third protest weekend, the arrival of civilians evacuated from occupied Oleshky, and the conclusion of the G20 foreign ministers' meeting. Selection is editorial judgment, not an objective ranking.",
+  "snapshot": {
+    "summary": "Domestic grievances mobilised French protesters while a narrow humanitarian arrangement helped Ukrainians leave occupation. At the G20, practical cooperation remained possible despite deep political divisions.",
+    "connections": [
+      "Limited agreements can have practical value even when wider political settlements remain distant.",
+      "Protest participation and evacuation totals require careful attribution to the authorities or reporters who supplied them."
+    ],
+    "uncertainties": [
+      "Same-day reports evolved; the historical text at cutoff was not captured.",
+      "Neither a local evacuation truce nor a maritime proposal establishes a general peace agreement."
+    ]
+  },
+  "stories": [
+    {
+      "id": "france-third-protest-weekend",
+      "eventId": "eu-france-social-protests-2026",
+      "title": "France's third protest weekend combines peaceful marches with clashes",
+      "summary": "Large demonstrations continued over living costs and education. Authorities reported lower participation than the previous weekend; clashes in several cities complicated an otherwise largely peaceful daytime mobilisation.",
+      "whyItMatters": "The protests put public services, policing and fiscal choices under simultaneous pressure.",
+      "region": "Europe",
+      "tags": [
+        "France",
+        "protests",
+        "cost of living"
+      ],
+      "selectionRationale": "A sustained national movement with consequences for public order and government policy.",
+      "evidenceNote": "Participation figures are official estimates, not an independent census. AP's evolving Saturday account has no clear final update time; overnight totals are excluded.",
+      "articles": [
+        {
+          "id": "france-third-protest-weekend-reference",
+          "role": "reference",
+          "headline": "Isolated clashes in France after peaceful marches, as police brace for Halloween night violence",
+          "url": "https://www.investing.com/news/economy-news/france-braces-for-fresh-unrest-government-vows-tough-response-4989212",
+          "publishedAt": "2026-10-31",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "investing.com",
+            "country": "United Kingdom",
+            "ownership": "Original reporting credited to Reuters. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Public order and fiscal pressure",
+            "rationale": "Connects the security response with the government's constrained budget choices."
+          },
+          "summary": "Michel Rose and Clotaire Achi report peaceful marches followed by clashes, official turnout estimates and ministers' warnings. Their account links the unrest to economic pressure and political constraints.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Complete Reuters report and named byline inspected on Investing.com."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original October 31 date and same-day update displayed; the page does not label its clock's timezone, so date precision is retained. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "france-third-protest-weekend-a",
+          "role": "contrast_a",
+          "headline": "France's third weekend of social protests sees lower turnout and early clashes in major cities",
+          "url": "https://www.euronews.com/2026/10/31/frances-third-weekend-of-social-protests-sees-lower-turnout-and-early-clashes-in-major-cit",
+          "publishedAt": "2026-10-31T17:08:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Euronews",
+            "domain": "euronews.com",
+            "country": "France",
+            "ownership": "Euronews identifies Alpac Capital as its controlling shareholder.",
+            "ownershipGroup": "alpac-capital",
+            "ownershipSource": "https://www.euronews.com/about"
+          },
+          "lens": {
+            "label": "Street reporting and freedom of movement",
+            "rationale": "Pairs reporting from Lyon with transport restrictions and legal challenges to curfews."
+          },
+          "summary": "The report examines police tactics, disrupted transport and the wider spread of youth demonstrations. Its local reporting gives the security measures a concrete effect on movement through cities.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Named reporters and substantive article body read; includes Euronews reporting from Lyon."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Published 18:08 GMT+1 and updated 18:12 GMT+1 on October 31, both before cutoff. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "france-third-protest-weekend-b",
+          "role": "contrast_b",
+          "headline": "A third weekend of protests in France as youth-led rallies sweep Europe",
+          "url": "https://abcnews.com/amp/Business/wireStory/weekend-protests-france-youth-led-rallies-sweep-europe-137735678",
+          "publishedAt": "2026-10-31T06:08:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "abcnews.com",
+            "country": "United States",
+            "ownership": "Independent news cooperative; ABC News is the syndication host.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Participants' living conditions",
+            "rationale": "Interviews protesters about housing and family finances rather than treating the marches only as a policing problem."
+          },
+          "summary": "Tom Nouvian and Kirsten Grieshaber connect student complaints about accommodation and university conditions with wider household insecurity. They place the French mobilisation alongside youth protests elsewhere in Europe.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full credited AP report opened on ABC News."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original 02:08 Eastern time on October 31. The current body includes later Saturday material without a clear update time; only corroborated daytime developments and participant testimony are used. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "France experienced a third consecutive weekend of demonstrations rooted in education and living-cost grievances.",
+          "sourceIds": [
+            "france-third-protest-weekend-reference",
+            "france-third-protest-weekend-a",
+            "france-third-protest-weekend-b"
+          ]
+        },
+        {
+          "text": "The Interior Ministry estimated about 320,000 participants nationally, below its estimate for the previous weekend.",
+          "sourceIds": [
+            "france-third-protest-weekend-reference",
+            "france-third-protest-weekend-a"
+          ]
+        },
+        {
+          "text": "Largely peaceful marches were accompanied by clashes in several cities.",
+          "sourceIds": [
+            "france-third-protest-weekend-reference",
+            "france-third-protest-weekend-a",
+            "france-third-protest-weekend-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters emphasises the government's security response and fiscal constraints.",
+          "sourceIds": [
+            "france-third-protest-weekend-reference"
+          ]
+        },
+        {
+          "text": "Euronews examines movement restrictions and street-level policing, while AP foregrounds participants' material grievances.",
+          "sourceIds": [
+            "france-third-protest-weekend-a",
+            "france-third-protest-weekend-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Official turnout estimates do not establish an independently measured crowd size.",
+        "The edition excludes overnight arrest totals and later developments whose timing cannot be bounded confidently."
+      ],
+      "unverifiedClaims": []
+    },
+    {
+      "id": "oleshky-evacuees-arrive",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Evacuees from occupied Oleshky reach Ukrainian-held territory",
+      "summary": "Residents reached Ukrainian-controlled territory after a local ceasefire enabled evacuation and aid deliveries. Their accounts described severe deprivation; the operation's full scale remained uncertain.",
+      "whyItMatters": "The arrivals demonstrate a concrete humanitarian opening within a continuing war.",
+      "region": "Europe",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "humanitarian access"
+      ],
+      "selectionRationale": "A consequential completed evacuation, distinct from earlier negotiations over whether it could proceed.",
+      "evidenceNote": "Eyewitness reporting supports the arrivals. Personal accounts and official statements remain attributed; no final evacuation total is asserted.",
+      "articles": [
+        {
+          "id": "oleshky-evacuees-arrive-reference",
+          "role": "reference",
+          "headline": "Starved residents of Russian-occupied Oleshky return to Ukraine during a rare local ceasefire",
+          "url": "https://www.investing.com/news/world-news/starved-residents-of-russianoccupied-oleshky-return-to-ukraine-during-a-rare-local-ceasefire-4989296",
+          "publishedAt": "2026-10-31",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "investing.com",
+            "country": "United Kingdom",
+            "ownership": "Original reporting credited to Reuters. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Humanitarian operation and diplomatic limits",
+            "rationale": "Combines arrival-site interviews with the narrow scope of the agreement."
+          },
+          "summary": "Olena Harmash and Anna Voitenko report residents arriving through a circuitous route via Russia and Belarus. Interviews describe food shortages, while officials distinguish this operation from a general settlement.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full Reuters report with named byline opened."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original October 31 publication and same-day update displayed with no explicit clock timezone; date precision used. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "oleshky-evacuees-arrive-a",
+          "role": "contrast_a",
+          "headline": "'It's a miracle' — Oleshky residents reach Ukrainian-controlled territory after escaping Russian occupation",
+          "url": "https://kyivindependent.com/oleshky-residents-reach-ukrainian-controlled-territory-after-escaping-russian-occupation/",
+          "publishedAt": "2026-10-31",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "The Kyiv Independent",
+            "domain": "kyivindependent.com",
+            "country": "Ukraine",
+            "ownership": "Founded by journalists and Jnomics; independently operated Ukrainian newsroom.",
+            "ownershipGroup": "kyiv-independent",
+            "ownershipSource": "https://kyivindependent.com/about/"
+          },
+          "lens": {
+            "label": "Family reunification and life under occupation",
+            "rationale": "On-site interviews focus on personal decisions, fear and the needs of arriving families."
+          },
+          "summary": "Its reporting team follows evacuees and relatives at the reception point. Their testimony describes dangers under occupation and the emotional and medical demands of returning.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Named reporting team, publication metadata and substantive on-site reporting read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. October 31 publication at 15:04 with no explicit timezone in the inspected display; date precision retained. Reporters' accounts are not a final official census. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "oleshky-evacuees-arrive-b",
+          "role": "contrast_b",
+          "headline": "Evacuation, humanitarian aid distribution begin in Russian-occupied Oleshky",
+          "url": "https://meduza.io/en/news/2026/10/30/evacuation-humanitarian-aid-distribution-begin-in-russian-occupied-oleshky",
+          "publishedAt": "2026-10-30",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Meduza",
+            "domain": "meduza.io",
+            "country": "Latvia",
+            "ownership": "Independent Riga-based newsroom founded by Galina Timchenko.",
+            "ownershipGroup": "meduza",
+            "ownershipSource": "https://meduza.io/en/pages/about"
+          },
+          "lens": {
+            "label": "Implementation and competing official accounts",
+            "rationale": "Pairs Russian and Ukrainian officials' descriptions of destinations, aid and the local truce."
+          },
+          "summary": "Meduza reports the start of departures and aid distribution. Its account distinguishes those seeking Ukrainian-held territory from people travelling toward Russia or remaining in the town.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Complete English article opened; site identifies it as an edited translation of human reporting."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. October 30 original date displayed. This is an account of the operation's start, not independent confirmation of the next day's final arrivals. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Residents evacuated from Oleshky arrived in Ukrainian-controlled territory on October 31.",
+          "sourceIds": [
+            "oleshky-evacuees-arrive-reference",
+            "oleshky-evacuees-arrive-a"
+          ]
+        },
+        {
+          "text": "A local ceasefire enabled evacuation and humanitarian assistance in Oleshky.",
+          "sourceIds": [
+            "oleshky-evacuees-arrive-reference",
+            "oleshky-evacuees-arrive-b"
+          ]
+        },
+        {
+          "text": "Residents described serious shortages and hardship under occupation.",
+          "sourceIds": [
+            "oleshky-evacuees-arrive-reference",
+            "oleshky-evacuees-arrive-a"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters places the humanitarian opening alongside its diplomatic limits; the Kyiv Independent centres families' experiences.",
+          "sourceIds": [
+            "oleshky-evacuees-arrive-reference",
+            "oleshky-evacuees-arrive-a"
+          ]
+        },
+        {
+          "text": "Meduza compares official accounts of the operation and the different destinations available to residents.",
+          "sourceIds": [
+            "oleshky-evacuees-arrive-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "A final independently verified total of evacuees was unavailable in these reports.",
+        "A temporary local arrangement does not establish prospects for a wider ceasefire."
+      ],
+      "unverifiedClaims": []
+    },
+    {
+      "id": "g20-atlanta-closes",
+      "eventId": "global-g20-atlanta-diplomacy-2026",
+      "title": "G20 ministers close Atlanta talks without a joint agreement",
+      "summary": "Foreign ministers ended their meeting without a common statement. Washington discussed narrower maritime cooperation while European officials challenged Russia's account of the war.",
+      "whyItMatters": "Divisions among major economies complicate efforts to protect shipping, energy supplies and diplomatic cooperation.",
+      "region": "Global",
+      "tags": [
+        "G20",
+        "diplomacy",
+        "shipping"
+      ],
+      "selectionRationale": "The meeting's actual outcome replaces the preceding day's expectations with a record of what was and was not agreed.",
+      "evidenceNote": "AP, Reuters and AFP-origin reporting are three independent newsrooms. Euronews's Kallas article explicitly credits AFP; it is counted as AFP-origin reporting, not a fourth independent confirmation.",
+      "articles": [
+        {
+          "id": "g20-atlanta-closes-reference",
+          "role": "reference",
+          "headline": "G20 foreign ministers end Atlanta meeting without consensus on key issues",
+          "url": "https://www.wabe.org/g20-foreign-ministers-end-atlanta-meeting-without-consensus-on-key-issues/",
+          "publishedAt": "2026-10-31",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "wabe.org",
+            "country": "United States",
+            "ownership": "Independent news cooperative; WABE is the syndication host.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Institutional outcome",
+            "rationale": "Measures the meeting against its failure to produce a shared communique and the limited cooperation officials described."
+          },
+          "summary": "AP reports the absence of consensus and Rubio's plan for a chair's summary. It also covers supply-chain discussions and the disagreement over Russia's participation.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Complete AP-credited report opened on WABE."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original October 31 date displayed without a publication clock. A promised chair's statement is not represented as already issued. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "g20-atlanta-closes-a",
+          "role": "contrast_a",
+          "headline": "US, Canada see growing interest in limited ceasefire in Black Sea",
+          "url": "https://whtc.com/2026/10/31/us-sees-growing-interest-in-limited-ceasefire-in-black-sea/",
+          "publishedAt": "2026-10-31",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "whtc.com",
+            "country": "United Kingdom",
+            "ownership": "Original reporting credited to Reuters. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Pragmatic maritime cooperation",
+            "rationale": "Explores a limited shipping arrangement and Canada's objections through an original interview."
+          },
+          "summary": "Andrea Shalal reports Rubio's discussion of Turkish and Indian proposals and interviews Anita Anand. The article separates interest in protecting food and energy flows from an agreed ceasefire.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full Reuters report and byline opened on WHTC; syndication counted as Reuters."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original October 31 13:38 display lacks a timezone; date precision retained. Current extended version includes same-day interviews; no cutoff-time version verified. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "g20-atlanta-closes-b",
+          "role": "contrast_b",
+          "headline": "'A lot of lies': Kaja Kallas criticises Russian FM Lavrov following G20 meetings",
+          "url": "https://www.euronews.com/2026/10/31/a-lot-of-lies-kaja-kallas-criticises-russian-fm-lavrov-following-g20-meetings",
+          "publishedAt": "2026-10-31T15:19:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "AFP via Euronews",
+            "domain": "euronews.com",
+            "country": "France",
+            "ownership": "AFP is a statutorily independent news agency; Euronews publishes Nathan Rennolds's adaptation with explicit AFP attribution.",
+            "ownershipGroup": "afp",
+            "ownershipSource": "https://www.afp.com/en/about-us"
+          },
+          "lens": {
+            "label": "European accountability demands",
+            "rationale": "Foregrounds European criticism of Russian statements rather than the US emphasis on limited cooperation."
+          },
+          "summary": "The AFP-based account reports Kallas's criticism, European pressure over the Black Sea and Lavrov's response. These are attributed diplomatic positions, not an independent adjudication of every allegation.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Substantive article and explicit AFP sourcing read on Euronews."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Published October 31 at 16:19 GMT+1. Kallas's interview and diplomatic sourcing are attributed to AFP; this dependence is disclosed. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The two-day Atlanta meeting concluded without a joint statement.",
+          "sourceIds": [
+            "g20-atlanta-closes-reference",
+            "g20-atlanta-closes-a"
+          ]
+        },
+        {
+          "text": "European and Canadian officials objected to Russia's conduct and challenged its participation or positions at the talks.",
+          "sourceIds": [
+            "g20-atlanta-closes-reference",
+            "g20-atlanta-closes-a",
+            "g20-atlanta-closes-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "AP evaluates institutional consensus; Reuters examines the practical case for a limited maritime arrangement.",
+          "sourceIds": [
+            "g20-atlanta-closes-reference",
+            "g20-atlanta-closes-a"
+          ]
+        },
+        {
+          "text": "AFP-origin reporting centres European challenges to Russia's narrative.",
+          "sourceIds": [
+            "g20-atlanta-closes-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "A Black Sea ceasefire remained a proposal, not an agreement.",
+        "Statements about private sessions cannot be independently reconstructed from the public reports."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Kallas said Lavrov advanced false accounts of the war.",
+          "sourceIds": [
+            "g20-atlanta-closes-b"
+          ],
+          "reason": "An attributed diplomatic accusation; the article does not independently test every statement exchanged behind closed doors."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-06T19:21:02Z",
+    "author": "ChatGPT",
+    "reason": "First edition: recovery of the missing 2026-10-31 Paris calendar day, researched on 2026-11-06."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent review only. Checked nine substantive articles, original publication metadata within 72 hours before cutoff, originating newsroom credits, three ownership groups per story, source-specific lenses and at least two selected citations per common fact. Distinguished reporting from official claims, forecasts and estimates. Disclosed visible later edits and date precision; excluded post-cutoff developments and unrelated live widgets. Current retrieval cannot prove text was identical at cutoff. No historical capture, fingerprint or human review is claimed. Honest preparation timestamps and the applicable retrospective label are used. Structural validation is performed separately before commit."
+  }
+}

@@ -1,0 +1,531 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-28",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-10-28T22:59:59Z",
+  "recordedAt": "2026-11-06T19:21:02Z",
+  "kind": "retrospective",
+  "selectionSummary": "Recovery edition covering a major European transport disaster, US monetary policy with global financing consequences, and the next stage of Israel's election. Selection is editorial judgment, not an objective ranking.",
+  "snapshot": {
+    "summary": "Spain investigated a deadly high-speed collision; the Fed paused after September's increase; Israel's partial vote count left government formation unresolved.",
+    "connections": [
+      "Editorial connection: public confidence in institutions depended on credible safety inquiries, monetary policy explanations and transparent electoral counting."
+    ],
+    "uncertainties": [
+      "The rail crash's cause, the Fed's next decision and Israel's governing coalition remained unresolved at cutoff."
+    ]
+  },
+  "stories": [
+    {
+      "id": "spain-urda-train-collision",
+      "eventId": "eu-spain-urda-rail-disaster-2026",
+      "title": "Spain investigates a high-speed collision as the reported death toll reaches 68",
+      "summary": "Authorities reported at least 68 deaths after two trains collided near Urda. Reporting combined rescue work and survivor testimony with the transport minister's preliminary account of a control-centre decision.",
+      "whyItMatters": "A second fatal high-speed disaster in one year raised questions about infrastructure safety, public accountability and confidence in a major European transport network.",
+      "region": "Spain / Europe",
+      "tags": [
+        "Rail safety",
+        "Disaster",
+        "Spain"
+      ],
+      "selectionRationale": "High loss of life and international transport implications, documented through national, European and international reporting.",
+      "evidenceNote": "Reuters, RTVE and Euronews originate these reports. The minister's explanation is an attributed preliminary account, not an established investigative finding. Same-day injury counts describe different categories and are not combined.",
+      "articles": [
+        {
+          "id": "spain-urda-train-collision-reference",
+          "role": "reference",
+          "headline": "At least 68 people dead in Spain’s second major train crash this year",
+          "url": "https://theprint.in/world/at-least-68-people-dead-in-spains-second-major-train-crash-this-year/3084557/",
+          "publishedAt": "2026-10-28T17:00:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original Reuters reporting, syndicated",
+          "outlet": {
+            "name": "Reuters via ThePrint",
+            "domain": "theprint.in",
+            "country": "United Kingdom / international",
+            "ownership": "Reuters, part of Thomson Reuters; credited report by David Latona, Guillermo Martinez and Michael Francis Gore.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Rescue and national accountability",
+            "rationale": "Combines the rescue operation with government promises to investigate."
+          },
+          "summary": "Reports the regional death toll and the government's response while rescuers search the wreckage.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Published October 28 at 10:30 pm IST; Reuters credit and named bylines visible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. ThePrint is the syndication host. An Investing.com copy first displayed October 29 was excluded from this edition. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "spain-urda-train-collision-a",
+          "role": "contrast_a",
+          "headline": "Supervivientes del accidente de tren en Toledo: \"Fue muy rápido, estábamos durmiendo y despertamos volando\"",
+          "url": "https://www.rtve.es/noticias/20261028/supervivientes-accidente-tren-toledo-rapido-estabamos-durmiendo-despertamos-volando/17287346.shtml",
+          "publishedAt": "2026-10-28",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "RTVE Noticias",
+            "domain": "rtve.es",
+            "country": "Spain",
+            "ownership": "Spain's public-service broadcaster; original on-scene reporting by Àlex Cabrera.",
+            "ownershipGroup": "rtve",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Survivors and local mutual aid",
+            "rationale": "Centers passengers, volunteer clinicians and interpreters helping international travelers."
+          },
+          "summary": "Describes injured passengers receiving care in Urda and residents organizing immediate practical help.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Original October 28, 18:25; updated that day at 22:10. No explicit timezone, so date precision retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Spanish headline retained; English summary based on reporter's interviews. Testimony does not establish technical causation. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "spain-urda-train-collision-b",
+          "role": "contrast_b",
+          "headline": "‘Inexplicable’ order by control centre investigated after Spain train crash",
+          "url": "https://www.euronews.com/2026/10/28/inexplicable-order-by-control-centre-investigated-after-spain-train-crash",
+          "publishedAt": "2026-10-28T16:53:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Euronews",
+            "domain": "euronews.com",
+            "country": "France / European newsroom",
+            "ownership": "Euronews SA lists Alpac Capital as its 97.6% shareholder; report by Marina Neila.",
+            "ownershipGroup": "alpac-capital",
+            "ownershipSource": "https://www.euronews.com/about"
+          },
+          "lens": {
+            "label": "Operational safeguards and responsibility",
+            "rationale": "Details the minister's account of signalling failure and control-centre instructions."
+          },
+          "summary": "Explains the safety procedure the minister said should have applied after the automated system failed.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Published October 28, 17:53 GMT+1; named reporter, with no later modification displayed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. AP photograph credit is not a wire-text credit. The operational sequence remains the minister's account. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Two high-speed trains collided near Urda on October 28, causing deaths and injuries.",
+          "sourceIds": [
+            "spain-urda-train-collision-reference",
+            "spain-urda-train-collision-a",
+            "spain-urda-train-collision-b"
+          ]
+        },
+        {
+          "text": "Regional authorities reported at least 68 deaths while the rescue and investigation continued.",
+          "sourceIds": [
+            "spain-urda-train-collision-reference",
+            "spain-urda-train-collision-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters emphasizes rescue and national accountability; RTVE follows survivors and the local care response.",
+          "sourceIds": [
+            "spain-urda-train-collision-reference",
+            "spain-urda-train-collision-a"
+          ]
+        },
+        {
+          "text": "Euronews closely examines the minister's operational explanation, while RTVE's testimony describes the human experience of the collision.",
+          "sourceIds": [
+            "spain-urda-train-collision-a",
+            "spain-urda-train-collision-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "What sequence of technical and human decisions caused the collision?",
+        "Would further searches change the casualty toll?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The minister said a control-centre instruction allowed a train to resume despite the signal problem.",
+          "sourceIds": [
+            "spain-urda-train-collision-reference",
+            "spain-urda-train-collision-b"
+          ],
+          "reason": "Two reports establish that this explanation was given; they do not independently prove the crash's cause."
+        }
+      ]
+    },
+    {
+      "id": "fed-october-rate-pause",
+      "eventId": "am-us-federal-reserve-policy-2026",
+      "title": "Fed holds rates as inflation and borrowing costs remain in focus",
+      "summary": "The Federal Reserve kept its benchmark range at 3.75–4%, with two officials favoring an increase. Reports examined the balance between inflation control, economic growth and the uneven burden of high borrowing costs.",
+      "whyItMatters": "US rates influence global financing conditions, currencies and household credit, with energy and investment demand complicating inflation policy.",
+      "region": "United States / global economy",
+      "tags": [
+        "Federal Reserve",
+        "Interest rates",
+        "Inflation"
+      ],
+      "selectionRationale": "A globally consequential policy decision, compared through macroeconomic, household-credit and distributional reporting.",
+      "evidenceNote": "Reuters, AP and NPR are independent originating newsrooms. Their accounts share the Fed decision as primary evidence. The Reuters page includes a Thursday comment added after cutoff; that comment is excluded, and the Wednesday decision and press-conference points used here are corroborated by AP and NPR.",
+      "articles": [
+        {
+          "id": "fed-october-rate-pause-reference",
+          "role": "reference",
+          "headline": "Fed leaves rates unchanged as it awaits 'accumulation of more information'",
+          "url": "https://www.streetinsider.com/Reuters/Fed%2Bleaves%2Brates%2Bunchanged%2Bas%2Bit%2Bawaits%2Baccumulation%2Bof%2Bmore%2Binformation/27248284.html",
+          "publishedAt": "2026-10-28T18:03:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original Reuters reporting, syndicated",
+          "outlet": {
+            "name": "Reuters via StreetInsider",
+            "domain": "streetinsider.com",
+            "country": "United Kingdom / international",
+            "ownership": "Reuters, part of Thomson Reuters; original report by Howard Schneider and Ann Saphir.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Policy and economic growth",
+            "rationale": "Explores the central bank's growth assessment and the case for waiting."
+          },
+          "summary": "Sets the pause against continued inflation pressure and Warsh's view that price stability need not require a sharp economic slowdown.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Original October 28, 2:03 PM EDT displayed; complete substantive text accessible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Body contains a Thursday Bessent comment despite the original date. Later commentary and market developments are excluded; used Wednesday facts are independently corroborated. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "fed-october-rate-pause-a",
+          "role": "contrast_a",
+          "headline": "Federal Reserve keeps interest rates unchanged ahead of midterms despite elevated inflation",
+          "url": "https://www.wcax.com/2026/10/28/federal-reserve-keeps-interest-rates-unchanged-ahead-midterms-despite-elevated-inflation/?outputType=amp",
+          "publishedAt": "2026-10-28T18:20:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original AP reporting, syndicated",
+          "outlet": {
+            "name": "Associated Press via WCAX",
+            "domain": "wcax.com",
+            "country": "United States",
+            "ownership": "AP is a not-for-profit news cooperative; report by Christopher Rugaber.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Credit transmission and affordability",
+            "rationale": "Examines whether tighter credit reaches AI investment and household purchases."
+          },
+          "summary": "Connects the decision to mortgages, affordability and debate over whether policy is already restraining demand.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Published October 28, 2:20 PM EDT; updated 4:18 PM EDT, both before cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. WCAX hosts AP's credited report. Predictions about the next meeting remain forecasts. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "fed-october-rate-pause-b",
+          "role": "contrast_b",
+          "headline": "Fed holds interest rates steady even as inflation remains stubborn",
+          "url": "https://www.wvxu.org/news-from-npr/2026-10-28/fed-holds-interest-rates-steady-even-as-inflation-remains-stubborn",
+          "publishedAt": "2026-10-28T18:04:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original NPR reporting, syndicated",
+          "outlet": {
+            "name": "NPR via WVXU",
+            "domain": "wvxu.org",
+            "country": "United States",
+            "ownership": "NPR public-radio newsroom; credited original report by Scott Horsley.",
+            "ownershipGroup": "npr",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Unequal economic pressures",
+            "rationale": "Contrasts AI investment and affluent spending with the purchasing-power squeeze on poorer households."
+          },
+          "summary": "Explains why resilient investment can coexist with a difficult household economy and housing slump.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Published October 28 at 2:04 PM EDT; NPR byline and copyright visible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. WVXU is the host, not a separate originating newsroom. Analyst views on political timing are attributed, not adopted as proven motivation. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The Fed left its benchmark interest-rate range at 3.75–4% on October 28.",
+          "sourceIds": [
+            "fed-october-rate-pause-reference",
+            "fed-october-rate-pause-b"
+          ]
+        },
+        {
+          "text": "Lisa Cook and Beth Hammack dissented in favor of a quarter-point increase.",
+          "sourceIds": [
+            "fed-october-rate-pause-reference",
+            "fed-october-rate-pause-a",
+            "fed-october-rate-pause-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters foregrounds the policy trade-off and growth outlook; AP examines how rates affect borrowing and affordability.",
+          "sourceIds": [
+            "fed-october-rate-pause-reference",
+            "fed-october-rate-pause-a"
+          ]
+        },
+        {
+          "text": "NPR contrasts stronger investment and wealthy consumers with pressure on lower-income households, making distribution central to its account.",
+          "sourceIds": [
+            "fed-october-rate-pause-a",
+            "fed-october-rate-pause-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Would incoming data lead to a December increase?",
+        "How much would higher rates restrain AI-related demand and energy-driven price pressure?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Some analysts linked caution to the approaching midterms, while Warsh denied political influence.",
+          "sourceIds": [
+            "fed-october-rate-pause-a",
+            "fed-october-rate-pause-b"
+          ],
+          "reason": "The reports establish competing interpretations, not the decision-makers' undisclosed motivations."
+        }
+      ]
+    },
+    {
+      "id": "israel-count-coalition-options",
+      "eventId": "me-israel-parliamentary-election-2026",
+      "title": "Israel's partial count leaves both main blocs short of a majority",
+      "summary": "Successive provisional tallies left neither main bloc with a majority. Arab parties' potential leverage faced political barriers, while outstanding special ballots could still change seat allocations.",
+      "whyItMatters": "Coalition choices could shape regional security and Palestinian political representation. A partial count cannot establish who will govern.",
+      "region": "Israel / Palestine / Middle East",
+      "tags": [
+        "Israel elections",
+        "Coalitions",
+        "Palestinian citizens"
+      ],
+      "selectionRationale": "A consequential follow-up to election night, balancing counting procedure with interviews about political participation.",
+      "evidenceNote": "The Times of Israel, Reuters and The New Arab originate the selected accounts. They report different stages of an incomplete count; no single exact seat total is treated as final. A New Arab analysis updated October 29 was replaced with its October 28 ballot explainer.",
+      "articles": [
+        {
+          "id": "israel-count-coalition-options-reference",
+          "role": "reference",
+          "headline": "With 84% of ballots counted, pro-Netanyahu bloc at 54 seats, Eisenkot-led bloc at 49, Arab parties at 17",
+          "url": "https://www.timesofisrael.com/liveblog_entry/with-84-of-ballots-counted-pro-netanyahu-bloc-at-54-seats-eisenkot-led-bloc-at-49-arab-parties-at-17/",
+          "publishedAt": "2026-10-28",
+          "publishedPrecision": "date",
+          "genre": "Original timestamped election dispatch",
+          "outlet": {
+            "name": "The Times of Israel",
+            "domain": "timesofisrael.com",
+            "country": "Israel",
+            "ownership": "Established by David Horovitz and capital partner Seth Klarman; newsroom election dispatch.",
+            "ownershipGroup": "times-of-israel",
+            "ownershipSource": "https://www.timesofisrael.com/about/"
+          },
+          "lens": {
+            "label": "Provisional seat arithmetic",
+            "rationale": "Reports a specific midday counting stage and parties near the threshold."
+          },
+          "summary": "Records a midday tally that left both main blocs below a majority, with special ballots still outstanding.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. October 28 at 12:39pm shown without an explicit timezone; date precision retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Standalone entry inspected instead of the later liveblog. Its midday numbers are historical provisional figures, not the final or end-of-day tally. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "israel-count-coalition-options-a",
+          "role": "contrast_a",
+          "headline": "For Israel’s Arabs, record turnout may bring political clout",
+          "url": "https://theprint.in/world/for-israels-arabs-record-turnout-may-bring-political-clout/3084535/",
+          "publishedAt": "2026-10-28T16:30:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original Reuters interview-based reporting, syndicated",
+          "outlet": {
+            "name": "Reuters via ThePrint",
+            "domain": "theprint.in",
+            "country": "United Kingdom / international",
+            "ownership": "Reuters, part of Thomson Reuters; original Nazareth report by Pesha Magid.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Arab voters and bargaining power",
+            "rationale": "Uses interviews with party figures and voters to explore representation and exclusion."
+          },
+          "summary": "Examines how electoral gains could increase leverage without guaranteeing acceptance as governing partners.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. October 28 at 10:00 pm IST; named reporter and Reuters service credit visible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original interviews distinguish this report from a simple count update. Projected seats and possible alliances remain provisional. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "israel-count-coalition-options-b",
+          "role": "contrast_b",
+          "headline": "How could double-envelope votes change Israel's election results?",
+          "url": "https://www.newarab.com/analysis/how-could-double-envelope-votes-change-israeli-election-results",
+          "publishedAt": "2026-10-28",
+          "publishedPrecision": "date",
+          "genre": "Original explanatory journalism",
+          "outlet": {
+            "name": "The New Arab",
+            "domain": "newarab.com",
+            "country": "United Kingdom / Middle East newsroom",
+            "ownership": "Published by Fadaat Media Ltd; credited staff explainer.",
+            "ownershipGroup": "fadaat-media",
+            "ownershipSource": "https://www.newarab.com/aboutus"
+          },
+          "lens": {
+            "label": "Ballot procedure and representation",
+            "rationale": "Explains why special-ballot demographics can affect Arab parties' projected gains."
+          },
+          "summary": "Describes additional verification and counting of special ballots and their potential effect on the balance of seats.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Original October 28 date displayed; no explicit clock or later-update notice on the inspected explainer."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Use is limited to procedure and provisional implications, excluding subsequent results. The explanatory text is staff-originated, not labeled as an agency copy. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Provisional results left both main blocs short of the 61 seats required for a Knesset majority.",
+          "sourceIds": [
+            "israel-count-coalition-options-reference",
+            "israel-count-coalition-options-a",
+            "israel-count-coalition-options-b"
+          ]
+        },
+        {
+          "text": "Arab-led parties were projected to hold a substantial bloc of seats, while the final distribution remained unsettled.",
+          "sourceIds": [
+            "israel-count-coalition-options-reference",
+            "israel-count-coalition-options-a",
+            "israel-count-coalition-options-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "The Times of Israel tracks counting arithmetic; Reuters examines whether Arab electoral gains translate into political power.",
+          "sourceIds": [
+            "israel-count-coalition-options-reference",
+            "israel-count-coalition-options-a"
+          ]
+        },
+        {
+          "text": "The New Arab explains ballot mechanics and their representation effects, complementing Reuters' interviews about coalition barriers.",
+          "sourceIds": [
+            "israel-count-coalition-options-a",
+            "israel-count-coalition-options-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "How would outstanding ballots change seat allocations?",
+        "Would opposition leaders accept Arab-party support or would government formation remain blocked?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Reported seat allocations implied possible Arab-party leverage.",
+          "sourceIds": [
+            "israel-count-coalition-options-reference",
+            "israel-count-coalition-options-a",
+            "israel-count-coalition-options-b"
+          ],
+          "reason": "Projections at different counting stages do not establish certified seats or an agreed governing coalition."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-06T19:21:02Z",
+    "author": "ChatGPT",
+    "reason": "First edition: recovery of the missing 2026-10-28 Paris calendar day, researched on 2026-11-06."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent review only. Checked nine substantive articles, original publication metadata within 72 hours before cutoff, originating newsroom credits, three ownership groups per story, source-specific lenses and at least two selected citations per common fact. Distinguished reporting from official claims, forecasts and estimates. Disclosed visible later edits and date precision; excluded post-cutoff developments and unrelated live widgets. Current retrieval cannot prove text was identical at cutoff. No historical capture, fingerprint or human review is claimed. Honest preparation timestamps and the applicable retrospective label are used. Structural validation is performed separately before commit."
+  }
+}

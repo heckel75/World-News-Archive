@@ -1,0 +1,527 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-01",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-01T22:59:59Z",
+  "recordedAt": "2026-11-06T19:21:02Z",
+  "kind": "retrospective",
+  "selectionSummary": "Selected developments are Qatar-mediated efforts to avert renewed war, Serbia's second Novi Sad anniversary after an electoral change, and Bangladesh's response to garment-worker unrest. Selection is editorial judgment, not an objective ranking.",
+  "snapshot": {
+    "summary": "Mediation and institutional responses faced tests of credibility: Gulf states sought to avoid escalation, Serbian mourners demanded accountability, and Bangladeshi workers pressed for wages that matched living costs.",
+    "connections": [
+      "Announcements and procedures do not by themselves establish an agreement, accountability or a pay increase.",
+      "The economic effects of conflict and inflation shaped both diplomacy and workplace grievances."
+    ],
+    "uncertainties": [
+      "Negotiating positions and police allegations remain attributed, not established facts.",
+      "No cutoff-time copies were captured; disclosed later updates are handled conservatively."
+    ]
+  },
+  "stories": [
+    {
+      "id": "iran-doha-mediation",
+      "eventId": "me-us-israel-iran-war-2026",
+      "title": "Qatar mediation continues as Gulf officials warn against renewed war",
+      "summary": "Iranian negotiators continued discussions through Qatar. The UAE urged diplomacy, while Iran said a possible Hormuz arrangement still depended on answers from Washington.",
+      "whyItMatters": "Renewed fighting would threaten people across the Gulf and a major energy shipping route.",
+      "region": "Middle East",
+      "tags": [
+        "Iran",
+        "Qatar",
+        "diplomacy"
+      ],
+      "selectionRationale": "An active diplomatic effort with major regional and economic consequences.",
+      "evidenceNote": "Reuters provides its own briefed source, AP reports the Manama forum, and Doha News explains Iranian statements. Doha News's reliance on ICANA and Al Jazeera is disclosed; it is not an additional independent interview.",
+      "articles": [
+        {
+          "id": "iran-doha-mediation-reference",
+          "role": "reference",
+          "headline": "Iranian negotiators in Doha to continue talks to end the US-Iran war, official says",
+          "url": "https://www.investing.com/news/commodities-news/iranian-negotiators-in-doha-to-continue-talks-to-end-the-usiran-war-official-says-4989743",
+          "publishedAt": "2026-11-01",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "investing.com",
+            "country": "United Kingdom",
+            "ownership": "Original reporting credited to Reuters. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Negotiations and escalation risk",
+            "rationale": "Places an official's account of the talks alongside the absence of a settled US decision on further strikes."
+          },
+          "summary": "Reuters reports continuing mediation and contacts with Washington, while both sides retain military options. It does not report a final agreement.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Substantive Reuters text and credit opened on Investing.com."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 1 date and same-day update shown; timezone of the displayed clock is unstated. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "iran-doha-mediation-a",
+          "role": "contrast_a",
+          "headline": "United Arab Emirates says military solutions offer no quick off-ramps to crisis with Iran",
+          "url": "https://abcnews.com/amp/International/wireStory/united-arab-emirates-military-solutions-offer-quick-off-137752713",
+          "publishedAt": "2026-11-01T18:43:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "abcnews.com",
+            "country": "United States",
+            "ownership": "Independent news cooperative; ABC News hosts this dispatch.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Gulf security and collective defence",
+            "rationale": "Reports regional officials' concern about another war and shortcomings in joint defence."
+          },
+          "summary": "Sarah El Deeb reports from the Manama Dialogue. Anwar Gargash advocates diplomacy while acknowledging the gap between the parties and weaknesses in the Gulf's collective response.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Complete AP report and named byline read."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 1 at 13:43 Eastern standard time, converted to UTC. No later-dated development used. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "iran-doha-mediation-b",
+          "role": "contrast_b",
+          "headline": "Iran awaits U.S. response on Strait of Hormuz plan amid ongoing Qatari mediation",
+          "url": "https://dohanews.co/iran-awaits-u-s-response-on-strait-of-hormuz-plan-amid-ongoing-qatari-mediation/",
+          "publishedAt": "2026-11-01",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Doha News",
+            "domain": "dohanews.co",
+            "country": "Qatar",
+            "ownership": "Original reporting credited to Doha News. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "doha-news",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Iranian conditions and Qatar's intermediary role",
+            "rationale": "Explains what Tehran says must happen before a shipping proposal can proceed."
+          },
+          "summary": "Eman Hawi synthesises Araghchi's comments to ICANA and Al Jazeera. The account stresses unanswered questions and conditional implementation rather than presenting reopening as agreed.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Complete named article opened without payment."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. November 1 original publication date displayed. This is a separately authored report drawing on openly credited interviews by other outlets, not firsthand access to negotiations. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Iranian negotiators were engaged in Qatar-mediated discussions aimed at avoiding renewed conflict.",
+          "sourceIds": [
+            "iran-doha-mediation-reference",
+            "iran-doha-mediation-a",
+            "iran-doha-mediation-b"
+          ]
+        },
+        {
+          "text": "Diplomacy continued alongside warnings that military escalation remained possible.",
+          "sourceIds": [
+            "iran-doha-mediation-reference",
+            "iran-doha-mediation-a",
+            "iran-doha-mediation-b"
+          ]
+        },
+        {
+          "text": "Iran described a possible Hormuz arrangement as conditional rather than final.",
+          "sourceIds": [
+            "iran-doha-mediation-a",
+            "iran-doha-mediation-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters tracks negotiations; AP foregrounds the security concerns of neighbouring states.",
+          "sourceIds": [
+            "iran-doha-mediation-reference",
+            "iran-doha-mediation-a"
+          ]
+        },
+        {
+          "text": "Doha News centres Tehran's stated conditions and the intermediary's role.",
+          "sourceIds": [
+            "iran-doha-mediation-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The contents of private negotiations were not independently established.",
+        "An Iranian description of a proposal does not prove US acceptance."
+      ],
+      "unverifiedClaims": []
+    },
+    {
+      "id": "novi-sad-second-anniversary",
+      "eventId": "eu-serbia-political-transition-2026",
+      "title": "Novi Sad mourners seek accountability after Serbia's electoral change",
+      "summary": "Thousands marked two years since the station canopy collapse killed 16 people. The commemoration followed a student-led electoral victory, but justice for the disaster remained unfinished.",
+      "whyItMatters": "The anniversary tests whether political change can translate into institutional accountability.",
+      "region": "Europe",
+      "tags": [
+        "Serbia",
+        "accountability",
+        "elections"
+      ],
+      "selectionRationale": "The memorial connects an unresolved disaster with a significant political transition.",
+      "evidenceNote": "Three newsrooms report the commemoration. Preliminary election figures remain preliminary; accusations of criminal responsibility are not treated as convictions.",
+      "articles": [
+        {
+          "id": "novi-sad-second-anniversary-reference",
+          "role": "reference",
+          "headline": "Serbians mark railway disaster that led to rise of victorious student movement",
+          "url": "https://www.investing.com/news/commodities-news/serbians-mark-railway-disaster-that-led-to-rise-of-victorious-student-movement-4989758",
+          "publishedAt": "2026-11-01",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "investing.com",
+            "country": "United Kingdom",
+            "ownership": "Original reporting credited to Reuters. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Political transition and unresolved proceedings",
+            "rationale": "Connects the memorial with electoral change while noting stalled proceedings and defendants' denials."
+          },
+          "summary": "Fedja Grulovic reports mourning and hopes for recovery. The report distinguishes the student bloc's preliminary parliamentary result from a final tally.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full Reuters body and byline read on Investing.com."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 1 publication; page shows a November 2 update without an explicit clock timezone. Memorial facts are corroborated by same-day AP and N1 reporting; later certified results are excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "novi-sad-second-anniversary-a",
+          "role": "contrast_a",
+          "headline": "Serbia marks the second anniversary of a train station tragedy that fueled student protests",
+          "url": "https://gmg-ksat-prod.cdn.arcpublishing.com/news/2026/11/01/serbia-marks-the-second-anniversary-of-a-train-station-tragedy-that-fueled-student-protests/",
+          "publishedAt": "2026-11-01",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "gmg-ksat-prod.cdn.arcpublishing.com",
+            "country": "United States",
+            "ownership": "Independent news cooperative; KSAT is the syndication host.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "Rule of law after an election",
+            "rationale": "Examines demands to reopen investigations and changes in state institutions."
+          },
+          "summary": "Marko Drobnjakovic and Jovana Gec report mourners' hope that responsibility will finally be addressed. Their account puts the commemoration within the movement's broader rule-of-law demands.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full credited AP dispatch read on KSAT's publishing host."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Published November 1, updated the same morning. Host clock does not explicitly identify a timezone; date precision retained. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "novi-sad-second-anniversary-b",
+          "role": "contrast_b",
+          "headline": "Second anniversary of Novi Sad railway station canopy collapse marked",
+          "url": "https://n1info.rs/english/news/second-anniversary-of-novi-sad-railway-station-canopy-collapse-marked/",
+          "publishedAt": "2026-11-01",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "N1",
+            "domain": "n1info.rs",
+            "country": "Serbia",
+            "ownership": "Original reporting credited to N1. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "united-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Remembrance and responsibility",
+            "rationale": "Foregrounds the memorial ritual and speakers' refusal to describe the deaths as mere accident."
+          },
+          "summary": "N1 describes the silence, flowers and speeches at the station. Speakers demand responsibility; the report's presentation of those demands is distinct from a judicial finding.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Original N1 TV report and substantive body opened."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. November 1 at 15:57 displayed without an explicit timezone. Later crowd estimates and related-news widgets excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "People gathered in Novi Sad on November 1 to mark the second anniversary of the canopy collapse.",
+          "sourceIds": [
+            "novi-sad-second-anniversary-reference",
+            "novi-sad-second-anniversary-a",
+            "novi-sad-second-anniversary-b"
+          ]
+        },
+        {
+          "text": "The collapse killed 16 people and helped trigger the student-led protest movement.",
+          "sourceIds": [
+            "novi-sad-second-anniversary-reference",
+            "novi-sad-second-anniversary-a",
+            "novi-sad-second-anniversary-b"
+          ]
+        },
+        {
+          "text": "Participants demanded accountability despite the movement's recent electoral victory.",
+          "sourceIds": [
+            "novi-sad-second-anniversary-reference",
+            "novi-sad-second-anniversary-a",
+            "novi-sad-second-anniversary-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters links mourning to electoral change; AP asks what institutional accountability will follow.",
+          "sourceIds": [
+            "novi-sad-second-anniversary-reference",
+            "novi-sad-second-anniversary-a"
+          ]
+        },
+        {
+          "text": "N1 centres remembrance and the language of responsibility used by speakers.",
+          "sourceIds": [
+            "novi-sad-second-anniversary-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Election figures in the selected report were still preliminary.",
+        "Charges and speakers' accusations do not establish individual guilt."
+      ],
+      "unverifiedClaims": []
+    },
+    {
+      "id": "bangladesh-garment-wages",
+      "eventId": "as-bangladesh-garment-wage-protests-2026",
+      "title": "Bangladesh forms a wage board as garment protests disrupt production",
+      "summary": "The government established a wage board amid protests for higher pay and factory disruption. Workers' purchasing power, manufacturers' costs and the policing of demonstrations produced competing accounts of the crisis.",
+      "whyItMatters": "The dispute affects millions of workers and a major global clothing supply chain.",
+      "region": "Asia",
+      "tags": [
+        "Bangladesh",
+        "labour",
+        "wages"
+      ],
+      "selectionRationale": "A material policy response to unrest in the country's central export industry.",
+      "evidenceNote": "Reuters, the Daily Star and Dhaka Tribune are separately credited newsrooms. The Star piece is explicitly analysis. Police claims in the Tribune are not accepted as an exhaustive account of force or arrests.",
+      "articles": [
+        {
+          "id": "bangladesh-garment-wages-reference",
+          "role": "reference",
+          "headline": "Bangladesh sets up wage board as garment workers' unrest shuts factories",
+          "url": "https://www.brecorder.com/news/40446893/bangladesh-sets-up-wage-board-as-garment-workers-unrest-shuts-factories",
+          "publishedAt": "2026-11-01",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "brecorder.com",
+            "country": "United Kingdom",
+            "ownership": "Original reporting credited to Reuters. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Workers, manufacturers and exports",
+            "rationale": "Presents household pressures alongside employers' cost arguments and supply-chain disruption."
+          },
+          "summary": "Reuters reports the board's formation and interviews on both sides of the wage dispute. Factory-closure totals are attributed to the industry association.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Complete Reuters report read on Business Recorder; automated summary box excluded."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 1 date and same-day update at 20:51 shown. Date precision retained; later wage-board decisions excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "bangladesh-garment-wages-a",
+          "role": "contrast_a",
+          "headline": "A garment wage board that could have come sooner",
+          "url": "https://www.thedailystar.net/news-analysis/news/garment-wage-board-could-have-come-sooner-4312776",
+          "publishedAt": "2026-11-01",
+          "publishedPrecision": "date",
+          "genre": "Original news analysis",
+          "outlet": {
+            "name": "The Daily Star",
+            "domain": "thedailystar.net",
+            "country": "Bangladesh",
+            "ownership": "Original reporting credited to The Daily Star. Detailed current shareholding was not independently audited.",
+            "ownershipGroup": "mediaworld-daily-star",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Delayed intervention and real wages",
+            "rationale": "Evaluates the government's timing and workers' purchasing-power losses."
+          },
+          "summary": "Tanim Ahmed argues that earlier intervention could have reduced disruption. He also recognises that weak exports and energy costs complicate negotiations; that causal assessment is analysis, not a proven counterfactual.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Full signed analysis opened without subscription."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Original November 1 publication, updated that evening at 20:36. No later date appears in the article metadata. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "bangladesh-garment-wages-b",
+          "role": "contrast_b",
+          "headline": "Police: Workers dispersed, traffic returns to normal in Mirpur",
+          "url": "https://www.dhakatribune.com/bangladesh/dhaka/423430/police-workers-dispersed-traffic-returns-to",
+          "publishedAt": "2026-11-01",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Dhaka Tribune",
+            "domain": "dhakatribune.com",
+            "country": "Bangladesh",
+            "ownership": "Published by 2A Media Limited, as identified in the inspected footer.",
+            "ownershipGroup": "2a-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Police justification and scrutiny of tactics",
+            "rationale": "Reports police explanations while recording questions about treatment of journalists."
+          },
+          "summary": "The Tribune reports a police briefing on clearing blocked roads, including the official's denial of baton charges and allegations of outside involvement. It also records questions about journalists' phones and access.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T19:21:02Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened without login or payment. Substantive original report and publisher footer opened."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T19:21:02Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged after inspection during this session, not a historical capture or exact HTTP-fetch time. Published and updated November 1 at 15:28; date precision used because the displayed timezone is not explicit. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The government formed a wage board to review garment workers' pay.",
+          "sourceIds": [
+            "bangladesh-garment-wages-reference",
+            "bangladesh-garment-wages-a",
+            "bangladesh-garment-wages-b"
+          ]
+        },
+        {
+          "text": "Workers demanded a minimum monthly wage of 30,000 taka amid protests and road disruption.",
+          "sourceIds": [
+            "bangladesh-garment-wages-reference",
+            "bangladesh-garment-wages-a",
+            "bangladesh-garment-wages-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters balances labour and manufacturing pressures; the Daily Star analysis criticises delayed government action.",
+          "sourceIds": [
+            "bangladesh-garment-wages-reference",
+            "bangladesh-garment-wages-a"
+          ]
+        },
+        {
+          "text": "The Tribune foregrounds the police account and questions about the handling of journalists.",
+          "sourceIds": [
+            "bangladesh-garment-wages-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The board had not yet established a new wage amount in these reports.",
+        "Official and witness descriptions of policing differed; the selected briefing is not a comprehensive incident record."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Police alleged that anti-government groups had joined the protests to worsen disorder.",
+          "sourceIds": [
+            "bangladesh-garment-wages-b"
+          ],
+          "reason": "The report attributes the allegation to police but supplies no independently tested evidence establishing it."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-06T19:21:02Z",
+    "author": "ChatGPT",
+    "reason": "First edition: recovery of the missing 2026-11-01 Paris calendar day, researched on 2026-11-06."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent review only. Checked nine substantive articles, original publication metadata within 72 hours before cutoff, originating newsroom credits, three ownership groups per story, source-specific lenses and at least two selected citations per common fact. Distinguished reporting from official claims, forecasts and estimates. Disclosed visible later edits and date precision; excluded post-cutoff developments and unrelated live widgets. Current retrieval cannot prove text was identical at cutoff. No historical capture, fingerprint or human review is claimed. Honest preparation timestamps and the applicable retrospective label are used. Structural validation is performed separately before commit."
+  }
+}
