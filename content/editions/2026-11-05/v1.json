@@ -1,0 +1,533 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-05",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-05T22:59:59Z",
+  "recordedAt": "2026-11-06T14:36:08Z",
+  "kind": "daily",
+  "selectionSummary": "One recovery edition for November 5, prepared on November 6 within 48 hours of cutoff. Selected for institutional scale, cross-border consequences and lasting significance: the US congressional transition, reported wartime infrastructure damage, and developing-country financing pressures. This is an editorial selection, not an objective ranking.",
+  "snapshot": {
+    "summary": "A coming change in US congressional control raised questions about foreign policy; reports described fresh infrastructure damage in the Russia–Ukraine war; and new debt data highlighted financing pressures across developing economies.",
+    "connections": [
+      "Editorial connection: political oversight, wartime infrastructure vulnerability and borrowing costs can each shape governments' room to act."
+    ],
+    "uncertainties": [
+      "Election-driven policy changes, refinery damage and the development effects of new borrowing remained uncertain at cutoff."
+    ]
+  },
+  "stories": [
+    {
+      "id": "us-midterms-congress-foreign-policy",
+      "eventId": "am-us-midterm-elections-2026",
+      "title": "US election aftermath shifts attention to congressional power and foreign policy",
+      "summary": "Democrats had won both chambers, with the new Congress due in January. November 5 coverage examined domestic political changes and possible constraints on presidential foreign policy.",
+      "whyItMatters": "Changes in US spending and oversight could affect allies, military commitments and diplomacy far beyond Washington; electoral victory alone does not establish a policy outcome.",
+      "region": "United States / international",
+      "tags": [
+        "US midterms",
+        "Congress",
+        "Foreign policy",
+        "Iran",
+        "Israel",
+        "Ukraine"
+      ],
+      "selectionRationale": "A major institutional change in a globally influential state, examined through congressional reporting and two distinct international-policy lenses.",
+      "evidenceNote": "Three originating newsrooms: Roll Call, NPR and The Times of Israel. NPR's original interview-based digital report is carried by its Connecticut Public member-station host and is counted only as NPR, not as an additional newsroom. Analysis and predictions remain attributed. Current pages are not historical snapshots.",
+      "articles": [
+        {
+          "id": "midterms-reference",
+          "role": "reference",
+          "headline": "At the Races: After the deluge",
+          "url": "https://rollcall.com/2026/11/05/at-the-races-deluge-midterm-elections/",
+          "publishedAt": "2026-11-05",
+          "publishedPrecision": "date",
+          "genre": "Congressional newsletter: reporting and analysis",
+          "outlet": {
+            "name": "Roll Call",
+            "domain": "rollcall.com",
+            "country": "United States",
+            "ownership": "CQ Roll Call is owned and operated by FiscalNote; original campaign-team bylines on the inspected article.",
+            "ownershipGroup": "fiscalnote",
+            "ownershipSource": "https://rollcall.com/about/"
+          },
+          "lens": {
+            "label": "Congressional composition and party organization",
+            "rationale": "Emphasizes representation, recruitment and the consequences for congressional parties."
+          },
+          "summary": "Reviews the Democratic sweep, representation of women and the implications for party organization.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:36:08Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Shows an original November 5 posting at 5:05pm, without an explicit timezone; date precision retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:36:08Z",
+            "contentHash": null,
+            "evidenceNote": "Timestamp records this session's evidence-review logging after page inspection, not a claimed exact HTTP-fetch second. Bylines identify Mary Ellen McIntire, Daniela Altimari and Niels Lesniewski. No later modification timestamp was exposed; exclude linked articles and subsequent race calls. No cutoff-time capture or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "midterms-a",
+          "role": "contrast_a",
+          "headline": "Three ways Democrats could reshape U.S. foreign policy after the midterms",
+          "url": "https://www.ctpublic.org/2026-11-05/three-ways-democrats-could-reshape-u-s-foreign-policy-after-the-midterms",
+          "publishedAt": "2026-11-05T09:50:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original NPR interview-based explanatory report",
+          "outlet": {
+            "name": "NPR via Connecticut Public",
+            "domain": "ctpublic.org",
+            "country": "United States",
+            "ownership": "NPR originating newsroom; member-station syndication host Connecticut Public. NPR bylines and copyright explicitly identify origin.",
+            "ownershipGroup": "npr",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Democratic oversight and executive constraints",
+            "rationale": "Uses an interview with Anne Applebaum to examine investigations, war funding and presidential resistance."
+          },
+          "summary": "Applebaum describes avenues for congressional scrutiny while warning that the president retains substantial power.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:36:08Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Original publication is November 5, 4:50 AM EST; updated 5:37 PM EST (22:37 UTC), before cutoff. The inspected page redirects from its earlier headline to this title."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:36:08Z",
+            "contentHash": null,
+            "evidenceNote": "Timestamp records this session's evidence-review logging after page inspection, not a claimed exact HTTP-fetch second. Leila Fadel and Majd Al-Waheidi are credited; NPR copyright and editorial credit are visible. This is one original NPR report on an authorized affiliate, not independent reporting by the host. Use the updated version whose displayed timestamp precedes cutoff. No cutoff-time capture or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "midterms-b",
+          "role": "contrast_b",
+          "headline": "Democrats’ sweep triggers countdown to end Iran war, and dooms US-Israel ties under Netanyahu",
+          "url": "https://www.timesofisrael.com/democrats-sweep-triggers-countdown-to-end-iran-war-and-dooms-us-israel-ties-under-netanyahu",
+          "publishedAt": "2026-11-05",
+          "publishedPrecision": "date",
+          "genre": "Original analysis",
+          "outlet": {
+            "name": "The Times of Israel",
+            "domain": "timesofisrael.com",
+            "country": "Israel",
+            "ownership": "Founded by editor David Horovitz with capital partner Seth Klarman; original analysis by US bureau chief Jacob Magid.",
+            "ownershipGroup": "times-of-israel",
+            "ownershipSource": "https://www.timesofisrael.com/about/"
+          },
+          "lens": {
+            "label": "Israel's strategic relationship with Washington",
+            "rationale": "Assesses consequences for Israeli policy and bilateral support, rather than treating the result only as US party competition."
+          },
+          "summary": "Magid argues that the result increases pressure on Israel's government and could strengthen efforts to end the Iran war.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:36:08Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Article displays November 5, 2:42pm without a labeled timezone; date precision retained. Full analysis is public."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:36:08Z",
+            "contentHash": null,
+            "evidenceNote": "Timestamp records this session's evidence-review logging after page inspection, not a claimed exact HTTP-fetch second. The page labels the piece Analysis. Its predictions about war termination and bilateral relations are judgments, not accomplished outcomes. No modification time was exposed. No cutoff-time capture or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Democrats won control of both the House and Senate in the November 3 elections; their new congressional majority would take office in January.",
+          "sourceIds": [
+            "midterms-reference",
+            "midterms-a",
+            "midterms-b"
+          ]
+        },
+        {
+          "text": "The president retains a veto, while Congress can seek restrictions through federal spending legislation.",
+          "sourceIds": [
+            "midterms-a",
+            "midterms-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Roll Call emphasizes membership and party organization; NPR emphasizes oversight of presidential decision-making.",
+          "sourceIds": [
+            "midterms-reference",
+            "midterms-a"
+          ]
+        },
+        {
+          "text": "NPR stresses constraints on forcing policy changes; Magid emphasizes potential damage to Israel's relationship with Washington.",
+          "sourceIds": [
+            "midterms-a",
+            "midterms-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Which proposals would become law, and could Congress secure sufficient support to overcome presidential resistance?",
+        "Would the anticipated congressional transition change the course of the Iran war or US policy toward Israel and Ukraine?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Magid's analysis anticipates pressure to wind down the Iran war before the congressional transition.",
+          "sourceIds": [
+            "midterms-b"
+          ],
+          "reason": "A forecast, not evidence that an end date or enforceable agreement existed."
+        }
+      ]
+    },
+    {
+      "id": "ryazan-infrastructure-drone-reports",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Reports of drone damage in Ryazan highlight infrastructure risks in the Russia–Ukraine war",
+      "summary": "Reports described fires and power disruption in Ryazan. Claims identifying the refinery and a warehouse were less certain than the governor's public account of industrial damage.",
+      "whyItMatters": "Damage to energy and logistics infrastructure can affect civilian services and the resources available to sustain the war. The extent of production disruption was unestablished.",
+      "region": "Russia / Ukraine",
+      "tags": [
+        "Russia",
+        "Ukraine",
+        "Drones",
+        "Energy",
+        "Civilian infrastructure"
+      ],
+      "selectionRationale": "Cross-border warfare affecting important infrastructure, with potential civilian and economic consequences. The archive's continuing Russia–Ukraine event ID is preserved.",
+      "evidenceNote": "Anadolu, the Kyiv Independent and Meduza are separate originating newsrooms, but all quote the same governor for key local claims. Agreement establishes what he reported, not three independent eyewitness confirmations. Monitoring-channel footage is not treated as verified damage evidence. No later attack is included.",
+      "articles": [
+        {
+          "id": "ryazan-reference",
+          "role": "reference",
+          "headline": "Russia, Ukraine report overnight strikes, 5 injured",
+          "url": "https://aa.com.tr/en/europe/russia-ukraine-report-overnight-strikes-5-injured/4112242",
+          "publishedAt": "2026-11-05",
+          "publishedPrecision": "date",
+          "genre": "Original agency news report",
+          "outlet": {
+            "name": "Anadolu",
+            "domain": "aa.com.tr",
+            "country": "Türkiye",
+            "ownership": "Anadolu Agency Corporation; original agency reporting. Corporate history checked; current detailed shareholding not independently audited.",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": "https://aa.com.tr/en/p/history"
+          },
+          "lens": {
+            "label": "Cross-border civilian impact",
+            "rationale": "Places Russian and Ukrainian officials' accounts alongside each other and flags verification limits."
+          },
+          "summary": "Surveys reported injuries and infrastructure damage on both sides, distinguishing official accounts from independently established findings.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:36:08Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Original publication and update both show November 5; no publication clock or timezone exposed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:36:08Z",
+            "contentHash": null,
+            "evidenceNote": "Timestamp records this session's evidence-review logging after page inspection, not a claimed exact HTTP-fetch second. Kanyshai Butun is credited. The article attributes casualty and interception figures to authorities and explicitly cautions that independent verification is difficult. No cutoff-time capture or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ryazan-a",
+          "role": "contrast_a",
+          "headline": "Drone attack sparks fires at industrial facilities in Russia's Ryazan, oil refinery reportedly targeted",
+          "url": "https://kyivindependent.com/russian-oil-refinery-in-ryazan-reportedly-targeted-in-drone-attack/",
+          "publishedAt": "2026-11-05",
+          "publishedPrecision": "date",
+          "genre": "Original news report",
+          "outlet": {
+            "name": "The Kyiv Independent",
+            "domain": "kyivindependent.com",
+            "country": "Ukraine",
+            "ownership": "Publication founded by journalists and Jnomics; at least partly journalist-owned, according to its inspected About page.",
+            "ownershipGroup": "kyiv-independent",
+            "ownershipSource": "https://kyivindependent.com/about/"
+          },
+          "lens": {
+            "label": "Fuel supply and Ukraine's war strategy",
+            "rationale": "Connects the suspected refinery target to efforts to disrupt Russian fuel supplies."
+          },
+          "summary": "Examines the reported refinery attack while explicitly withholding confirmation of footage and refinery damage.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:36:08Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Page displays November 5, 2026 at 4:05am; timezone is unlabeled, so date precision is used."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:36:08Z",
+            "contentHash": null,
+            "evidenceNote": "Timestamp records this session's evidence-review logging after page inspection, not a claimed exact HTTP-fetch second. Olena Goncharova is credited. The inspected headline differs from the shorter indexed headline. No reliable modification timestamp was exposed. Exclude any inference of confirmed refinery shutdown. No cutoff-time capture or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ryazan-b",
+          "role": "contrast_b",
+          "headline": "Ukrainian drones strike Russia’s Ryazan region, with fires reported at oil refinery and Wildberries warehouse",
+          "url": "https://meduza.io/en/news/2026/11/05/ukrainian-drones-strike-russia-s-ryazan-region-with-fires-reported-at-oil-refinery-and-wildberries-warehouse",
+          "publishedAt": "2026-11-05",
+          "publishedPrecision": "date",
+          "genre": "Original newsroom report; translated edition",
+          "outlet": {
+            "name": "Meduza",
+            "domain": "meduza.io",
+            "country": "Latvia / Russian-language newsroom in exile",
+            "ownership": "Independent newsroom founded in Riga by journalists led by Galina Timchenko; detailed current shareholding not independently audited.",
+            "ownershipGroup": "meduza",
+            "ownershipSource": "https://meduza.io/en/pages/about"
+          },
+          "lens": {
+            "label": "Local disruption and competing evidence",
+            "rationale": "Separates the governor's unnamed industrial sites from monitoring channels' specific identifications."
+          },
+          "summary": "Traces reports of local damage and a warehouse fire to their sources, noting the company's lack of comment.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:36:08Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Original article displays November 5, 2026, 12:56pm; timezone unlabeled. Date precision retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:36:08Z",
+            "contentHash": null,
+            "evidenceNote": "Timestamp records this session's evidence-review logging after page inspection, not a claimed exact HTTP-fetch second. Meduza discloses a journalist-written Russian original translated with AI and reviewed by an editor. No named byline or later update timestamp is exposed; this is not an independent verification of the cited videos. No cutoff-time capture or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Governor Pavel Malkov reported industrial fires and damaged power lines in Ryazan following an overnight drone attack.",
+          "sourceIds": [
+            "ryazan-reference",
+            "ryazan-a",
+            "ryazan-b"
+          ]
+        },
+        {
+          "text": "Malkov also reported one injury and a damaged school whose classes were canceled.",
+          "sourceIds": [
+            "ryazan-reference",
+            "ryazan-a",
+            "ryazan-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Anadolu compares reported harm across the border; the Kyiv Independent explains the suspected target's wartime fuel role.",
+          "sourceIds": [
+            "ryazan-reference",
+            "ryazan-a"
+          ]
+        },
+        {
+          "text": "Meduza foregrounds local disruption and source attribution; the Kyiv Independent adds strategic context while explicitly disclaiming verification of refinery damage.",
+          "sourceIds": [
+            "ryazan-a",
+            "ryazan-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Which facilities were hit, and how extensive or lasting was the damage?",
+        "Could the footage, casualty accounts and military interception figures be independently verified?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Monitoring channels identified the refinery and Wildberries facilities as affected.",
+          "sourceIds": [
+            "ryazan-a",
+            "ryazan-b"
+          ],
+          "reason": "The selected reports rely on overlapping channels and do not establish independently verified damage assessments."
+        },
+        {
+          "text": "Russia's defense ministry claimed 496 Ukrainian drones were intercepted or destroyed.",
+          "sourceIds": [
+            "ryazan-reference"
+          ],
+          "reason": "A belligerent's aggregate claim, not independently confirmed by these articles."
+        }
+      ]
+    },
+    {
+      "id": "developing-country-debt-report",
+      "eventId": "global-developing-country-debt-2026",
+      "title": "World Bank report puts developing-country external debt at a record $9.4 trillion",
+      "summary": "A new World Bank report described a rebound in borrowing alongside increasing financing pressure. Its figures cover 2025, not debt newly incurred on November 5.",
+      "whyItMatters": "Financing terms influence the resources governments can devote to services and investment. Aggregate debt growth alone does not establish that every borrower faces the same risk.",
+      "region": "Global / developing economies / Nigeria",
+      "tags": [
+        "Debt",
+        "World Bank",
+        "Development",
+        "Nigeria",
+        "Public finance"
+      ],
+      "selectionRationale": "A global financing development affecting many economies and their long-term investment capacity, considered through aggregate, national and reform-oriented lenses.",
+      "evidenceNote": "Anadolu, Nairametrics and The Guardian are independent originating newsrooms. They share the World Bank as an underlying data source, so the common facts concern what its report says, not three independent audits. The Bank's original release was additionally inspected for consistency, not counted as a fourth article. Apparent numerical inconsistencies in ancillary source passages are omitted.",
+      "articles": [
+        {
+          "id": "debt-reference",
+          "role": "reference",
+          "headline": "Developing countries' external debt climbs to record $9.4T in 2025: World Bank",
+          "url": "https://www.aa.com.tr/en/economy/developing-countries-external-debt-climbs-to-record-94t-in-2025-world-bank/4113231",
+          "publishedAt": "2026-11-05",
+          "publishedPrecision": "date",
+          "genre": "Original agency economic report",
+          "outlet": {
+            "name": "Anadolu",
+            "domain": "aa.com.tr",
+            "country": "Türkiye",
+            "ownership": "Anadolu Agency Corporation; original agency reporting. Corporate history checked; current detailed shareholding not independently audited.",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": "https://aa.com.tr/en/p/history"
+          },
+          "lens": {
+            "label": "Aggregate financing and creditor flows",
+            "rationale": "Explains the report through debt stocks, market access and differences in borrowing terms."
+          },
+          "summary": "Summarizes the World Bank's new debt statistics and the tension between renewed financing and its cost.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:36:08Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Original publication and update both show November 5; clock and timezone are not exposed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:36:08Z",
+            "contentHash": null,
+            "evidenceNote": "Timestamp records this session's evidence-review logging after page inspection, not a claimed exact HTTP-fetch second. Gökhan Ergöçün is credited. Avoid the article's internally inconsistent comparison between 5.5% growth and a 0.5% historical average; no calculation is inferred from it. No cutoff-time capture or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "debt-a",
+          "role": "contrast_a",
+          "headline": "World Bank raises alarm as developing countries’ external debt hit record $9.4 trillion",
+          "url": "https://nairametrics.com/2026/11/05/world-bank-raises-alarm-as-developing-countries-external-debt-hit-record-9-4-trillion/",
+          "publishedAt": "2026-11-05",
+          "publishedPrecision": "date",
+          "genre": "Original economic reporting and national analysis",
+          "outlet": {
+            "name": "Nairametrics",
+            "domain": "nairametrics.com",
+            "country": "Nigeria",
+            "ownership": "Owned by Nairametrics Financial Advocates Limited, Lagos; original article by Samson Akintaro.",
+            "ownershipGroup": "nairametrics-financial-advocates",
+            "ownershipSource": "https://nairametrics.com/about-nairametrics/"
+          },
+          "lens": {
+            "label": "Nigeria's fiscal exposure",
+            "rationale": "Connects the global release with Nigerian borrowing and debt-service pressures."
+          },
+          "summary": "Uses the international report to examine Nigeria's financing position and the cost of refinancing.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:36:08Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Page displays November 5, 2026 as its publication date; no clock or explicit update stamp is shown."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:36:08Z",
+            "contentHash": null,
+            "evidenceNote": "Timestamp records this session's evidence-review logging after page inspection, not a claimed exact HTTP-fetch second. Samson Akintaro is credited. Separate Nigerian statistics use different reference periods; inconsistent ancillary debt-service percentages are not reproduced. No cutoff-time capture or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "debt-b",
+          "role": "contrast_b",
+          "headline": "Debt of poorest countries at record $9.4tn high, World Bank data shows",
+          "url": "https://www.theguardian.com/business/2026/nov/05/developing-country-debt-record-94tn-high-world-bank-data",
+          "publishedAt": "2026-11-05T14:30:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "News",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Scott Trust owns Guardian Media Group.",
+            "ownershipGroup": "scott-trust",
+            "ownershipSource": "https://www.theguardian.com/about/history"
+          },
+          "lens": {
+            "label": "Reform",
+            "rationale": "Policy remedies."
+          },
+          "summary": "Examines debt relief.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:36:08Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Original publication 09:30 EST; modification 09:31 EST, both November 5 and before cutoff. Annotation kept exceptionally brief to respect this source's usage limit."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:36:08Z",
+            "contentHash": null,
+            "evidenceNote": "Timestamp records this session's evidence-review logging after page inspection, not a claimed exact HTTP-fetch second. The displayed original publication is distinct from the modification stamp. Only the page's editorial focus is summarized; other selected sources support the common facts. No cutoff-time capture or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The World Bank reported developing-country external debt of $9.4 trillion in 2025, up 5.5%.",
+          "sourceIds": [
+            "debt-reference",
+            "debt-a"
+          ]
+        },
+        {
+          "text": "It reported debt of $1.3 trillion for IDA-eligible countries, up 8.1%.",
+          "sourceIds": [
+            "debt-reference",
+            "debt-a"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Anadolu emphasizes worldwide financing patterns; Nairametrics applies the release to Nigeria's fiscal exposure.",
+          "sourceIds": [
+            "debt-reference",
+            "debt-a"
+          ]
+        },
+        {
+          "text": "Guardian prioritizes reform; Nairametrics prioritizes national fiscal pressures.",
+          "sourceIds": [
+            "debt-a",
+            "debt-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Would renewed access to borrowing finance productive investment or mainly refinance existing obligations?",
+        "How would different borrowers respond to future shocks and financing costs?"
+      ],
+      "unverifiedClaims": []
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-06T14:36:08Z",
+    "author": "ChatGPT",
+    "reason": "First edition: recovery of the missing November 5 Paris calendar day, prepared at the actual November 6 research time."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent review only. Read all nine substantive article pages, checked original dates and disclosed update precision, identified three originating newsroom groups per story, compared article-specific lenses and audited claim citations. Shared official statements and shared World Bank data remain attributed; predictions and unconfirmed damage are flagged. NPR origin is explicit on its affiliate-hosted article. No human review, historical capture or content hash is claimed. Research occurred within 48 hours after cutoff, so kind=daily is accurate despite recovery publication. TASS and inaccessible candidate pages were excluded. Structural checks are run separately before commit."
+  }
+}
