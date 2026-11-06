@@ -1,0 +1,542 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-27",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-10-27T22:59:59Z",
+  "recordedAt": "2026-11-06T14:51:09Z",
+  "kind": "retrospective",
+  "selectionSummary": "One retrospective recovery edition for October 27, researched on November 6. Three developments selected for regional security, civilian protection and long-term global consequences: Israel's election, the UN inquiry into Russia's wartime conduct, and the WMO greenhouse-gas bulletin. Selection is an editorial judgment, not an objective ranking.",
+  "snapshot": {
+    "summary": "Israeli election-night projections left coalition formation uncertain. A UN inquiry's findings focused attention on civilian energy deprivation and coerced recruitment in Russia's war against Ukraine. The WMO reported new atmospheric greenhouse-gas records.",
+    "connections": [
+      "Editorial connection: political leadership, protection of essential services and the cumulative consequences of energy choices each shape security beyond national borders."
+    ],
+    "uncertainties": [
+      "The Israeli government to emerge from the vote, accountability for the inquiry's findings and the future pace of atmospheric change were unresolved at cutoff."
+    ]
+  },
+  "stories": [
+    {
+      "id": "israel-election-coalition-uncertainty",
+      "eventId": "me-israel-parliamentary-election-2026",
+      "title": "Israeli election exit polls point to coalition deadlock",
+      "summary": "Election-night projections suggested neither main Jewish-led bloc had a majority. Arab parties' expected gains complicated coalition arithmetic, while reporting examined both Israeli security concerns and Palestinian citizens' reasons for voting.",
+      "whyItMatters": "The next government's composition could affect regional military decisions, Palestinian rights and Israel's international relationships. Exit polls did not establish the final result.",
+      "region": "Israel / Palestine / Middle East",
+      "tags": [
+        "Israel elections",
+        "Coalitions",
+        "Palestinian citizens",
+        "Regional security"
+      ],
+      "selectionRationale": "A consequential national vote with cross-border security implications, examined through election arithmetic, an Israeli security interview and Palestinian voter reporting.",
+      "evidenceNote": "Three originating newsrooms: The Times of Israel, Euronews and The New Arab. The reference is a separately timestamped election-night dispatch; the other pieces supply contextual lenses, not independent confirmation of its exit-poll numbers. Later results, coalition negotiations and related-story widgets are excluded.",
+      "articles": [
+        {
+          "id": "israel-reference",
+          "role": "reference",
+          "headline": "Exit polls show no clear victor, or path to government, as Arab parties get historic vote",
+          "url": "https://www.timesofisrael.com/liveblog_entry/exit-polls-show-no-clear-victor-or-path-to-government-as-arab-parties-get-historic-vote/",
+          "publishedAt": "2026-10-27",
+          "publishedPrecision": "date",
+          "genre": "Original election-night report and analysis",
+          "outlet": {
+            "name": "The Times of Israel",
+            "domain": "timesofisrael.com",
+            "country": "Israel",
+            "ownership": "Established by David Horovitz and capital partner Seth Klarman; original dispatch by Ben Sales.",
+            "ownershipGroup": "times-of-israel",
+            "ownershipSource": "https://www.timesofisrael.com/about/"
+          },
+          "lens": {
+            "label": "Coalition arithmetic",
+            "rationale": "Examines projected seats, Arab-party leverage and obstacles to assembling a majority."
+          },
+          "summary": "Explains why exit-poll gains for opponents of Netanyahu might still fail to produce a governing coalition.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:51:09Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Standalone liveblog entry displays October 27 at 10:44pm; timezone not labeled, so date precision is retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:51:09Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged during this session after inspection; not a historical capture or an exact HTTP-fetch timestamp. Read this dispatch's body, not the later liveblog. Its projections are provisional and differing broadcasters' estimates are acknowledged. No modification timestamp was exposed. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "israel-a",
+          "role": "contrast_a",
+          "headline": "'Yes Bibi or No Bibi': Netanyahu's political future overshadows Israel's election",
+          "url": "https://www.euronews.com/2026/10/26/yes-bibi-or-no-bibi-netanyahus-political-future-overshadows-israels-election",
+          "publishedAt": "2026-10-26T14:23:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original interview-based report",
+          "outlet": {
+            "name": "Euronews",
+            "domain": "euronews.com",
+            "country": "France / European newsroom",
+            "ownership": "Euronews SA lists Alpac Capital as its 97.6% shareholder; original report by Sasha Vakulina.",
+            "ownershipGroup": "alpac-capital",
+            "ownershipSource": "https://www.euronews.com/about"
+          },
+          "lens": {
+            "label": "Israeli leadership and security",
+            "rationale": "Former government spokesperson Eylon Levy frames the contest around leadership, accountability and regional threats."
+          },
+          "summary": "Levy argues that Netanyahu's future dominates party divisions and forecasts possible renewed hostilities with Iran.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:51:09Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Published October 26, 15:23 GMT+1; updated October 27, 08:37 GMT+1. Both displayed timestamps precede cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:51:09Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged during this session after inspection; not a historical capture or an exact HTTP-fetch timestamp. A reported interview, not a wire copy. Levy's forecasts are attributed opinions. A separate Euronews article updated in November was not selected. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "israel-b",
+          "role": "contrast_b",
+          "headline": "As Israel's elections get underway, high Arab turnout seeks to punish Netanyahu's government",
+          "url": "https://www.newarab.com/news/israel-elections-high-arab-turnout-seeks-punish-netanyahu",
+          "publishedAt": "2026-10-27",
+          "publishedPrecision": "date",
+          "genre": "Original reporting with interviews",
+          "outlet": {
+            "name": "The New Arab",
+            "domain": "newarab.com",
+            "country": "United Kingdom / Middle East newsroom",
+            "ownership": "Published by Fadaat Media Ltd; original report by Rabeea Eid.",
+            "ownershipGroup": "fadaat-media",
+            "ownershipSource": "https://www.newarab.com/aboutus"
+          },
+          "lens": {
+            "label": "Palestinian political participation",
+            "rationale": "Centers voters resisting marginalization and interviewees' doubts about policy change."
+          },
+          "summary": "Reports Arab voter mobilization and concerns that a different prime minister might leave underlying policies toward Palestinians intact.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:51:09Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Original date October 27; last update October 27, 11:16 AM, without a labeled timezone. Original displayed headline retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:51:09Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged during this session after inspection; not a historical capture or an exact HTTP-fetch timestamp. Named interviews identify original reporting. Turnout scenarios are predictions, not certified results. An internally inconsistent electorate percentage/count is not repeated. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Israel held a parliamentary election on October 27 with Netanyahu's continued premiership at stake.",
+          "sourceIds": [
+            "israel-reference",
+            "israel-a",
+            "israel-b"
+          ]
+        },
+        {
+          "text": "Arab-led parties opposed another Netanyahu term, while barriers to their participation in a governing coalition remained.",
+          "sourceIds": [
+            "israel-reference",
+            "israel-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "The Times of Israel concentrates on coalition arithmetic; Euronews presents Levy's leadership and security interpretation.",
+          "sourceIds": [
+            "israel-reference",
+            "israel-a"
+          ]
+        },
+        {
+          "text": "Euronews emphasizes Israeli political realignment; The New Arab foregrounds Palestinian agency and doubts about substantive policy change.",
+          "sourceIds": [
+            "israel-a",
+            "israel-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "How would the final count differ from exit polls, and could any bloc assemble a majority?",
+        "Would a leadership change alter policy toward Palestinians or the risk of renewed regional hostilities?"
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The election-night seat projections indicated no straightforward governing majority.",
+          "sourceIds": [
+            "israel-reference"
+          ],
+          "reason": "Exit polls were estimates, not certified results; later counts are deliberately excluded."
+        },
+        {
+          "text": "Levy predicted renewed war with Iran after the US midterms.",
+          "sourceIds": [
+            "israel-a"
+          ],
+          "reason": "An interviewee's forecast, not an established military decision or outcome."
+        }
+      ]
+    },
+    {
+      "id": "un-inquiry-ukraine-energy-civilians",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "UN inquiry finds international crimes in attacks on Ukraine's energy system",
+      "summary": "Coverage of the inquiry described its findings that deliberate energy attacks inflicted civilian suffering and constituted international crimes. It also examined deceptive recruitment of foreign men. Russia rejected the commission's mandate and findings.",
+      "whyItMatters": "The inquiry connects wartime infrastructure damage with civilian survival and potential accountability, while examining exploitation that reaches well beyond Ukraine.",
+      "region": "Ukraine / Russia / international",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "United Nations",
+        "Civilian infrastructure",
+        "Accountability",
+        "Human trafficking"
+      ],
+      "selectionRationale": "A major investigation with implications for civilian protection and cross-border recruitment, receiving fresh October 27 coverage after its October 26 release.",
+      "evidenceNote": "AP, the Kyiv Independent and Current Time are three originating newsrooms. All draw on one UN inquiry: corroboration establishes its reported findings, not three independent investigations. AP is read on ABC's credited syndication page. The inquiry's conclusions are not presented as a criminal conviction.",
+      "articles": [
+        {
+          "id": "inquiry-reference",
+          "role": "reference",
+          "headline": "Russia committed war crimes in Ukraine by attacking its energy grid, UN-backed inquiry says",
+          "url": "https://abcnews.com/amp/US/wireStory/russia-committed-war-crimes-ukraine-attacking-energy-grid-137586628",
+          "publishedAt": "2026-10-26T22:48:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original AP agency reporting, syndicated",
+          "outlet": {
+            "name": "Associated Press via ABC News",
+            "domain": "abcnews.com",
+            "country": "United States / international",
+            "ownership": "AP is a not-for-profit news cooperative; Edith M. Lederer's report is explicitly credited to AP on ABC.",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": "https://www.ap.org/about/our-people/"
+          },
+          "lens": {
+            "label": "International findings and response",
+            "rationale": "Reports the commission's evidentiary basis alongside Russia's rejection."
+          },
+          "summary": "Summarizes the findings, witness base and foreign-recruitment evidence, with the Russian mission's response clearly attributed.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:51:09Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Original publication October 26, 6:48 PM ET, converted using Eastern daylight time. Full credited wire report is publicly readable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:51:09Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged during this session after inspection; not a historical capture or an exact HTTP-fetch timestamp. AP's own URL was inaccessible through the research tool; ABC's article has the author, agency credit and original timestamp. Counted solely as AP. No later update was shown. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "inquiry-a",
+          "role": "contrast_a",
+          "headline": "Russia's assault on Ukraine's energy grid is a war crime, UN says",
+          "url": "https://kyivindependent.com/russias-assault-on-ukraines-energy-grid-is-a-war-crime-un-says/",
+          "publishedAt": "2026-10-27",
+          "publishedPrecision": "date",
+          "genre": "Original newsroom report",
+          "outlet": {
+            "name": "The Kyiv Independent",
+            "domain": "kyivindependent.com",
+            "country": "Ukraine",
+            "ownership": "Co-founded by journalists and Jnomics; at least partly journalist-owned, according to its About page.",
+            "ownershipGroup": "kyiv-independent",
+            "ownershipSource": "https://kyivindependent.com/about/"
+          },
+          "lens": {
+            "label": "Civilian winter survival",
+            "rationale": "Emphasizes the lived consequences of losing heat and power as winter approaches."
+          },
+          "summary": "Highlights civilian testimony and the report's account of deliberate deprivation amid renewed attacks on energy infrastructure.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:51:09Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Publication October 27, 8:05am; no explicit timezone or modification stamp. Date precision retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:51:09Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged during this session after inspection; not a historical capture or an exact HTTP-fetch timestamp. Rebecka Pieder is credited. Only the article body is used; the dynamically updated news feed contains later events and is excluded. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "inquiry-b",
+          "role": "contrast_b",
+          "headline": "Комиссия ООН обвинила РФ в преступлениях против человечности и торговле людьми из-за ударов по энергетике Украины и вербовке наемников",
+          "url": "https://www.currenttime.tv/a/komissiya-oon-obvinila-rf-v-prestupleniyah-protiv-chelovechnosti-i-torgovle-lyudmi/33884411.html",
+          "publishedAt": "2026-10-26T14:05:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original Russian-language report",
+          "outlet": {
+            "name": "Current Time / Настоящее Время",
+            "domain": "currenttime.tv",
+            "country": "Czech Republic / Russian-language newsroom",
+            "ownership": "Created by RFE/RL with VOA participation; RFE/RL describes US congressional grant funding via USAGM.",
+            "ownershipGroup": "rfe-rl",
+            "ownershipSource": "https://www.currenttime.tv/about"
+          },
+          "lens": {
+            "label": "Recruitment exploitation and investigative limits",
+            "rationale": "Explores coercive recruitment and limits on examining Ukrainian attacks in Russian-controlled areas."
+          },
+          "summary": "Details the inquiry's account of recruitment deception and restricted access, connecting it with the newsroom's earlier reporting.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:51:09Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. October 26, 17:05 Moscow time, explicitly labeled мск; converted to UTC. Russian article fully readable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:51:09Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged during this session after inspection; not a historical capture or an exact HTTP-fetch timestamp. Original headline retained in Russian; summaries are in English. Newsroom credit and possession of the report are explicit. Linked older investigations are not counted as additional articles. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The commission concluded that deliberate Russian attacks on civilian energy infrastructure constituted war crimes and crimes against humanity.",
+          "sourceIds": [
+            "inquiry-reference",
+            "inquiry-a",
+            "inquiry-b"
+          ]
+        },
+        {
+          "text": "The inquiry also found evidence of deceptive or coerced recruitment of men from 29 countries into Russia's armed forces.",
+          "sourceIds": [
+            "inquiry-reference",
+            "inquiry-a",
+            "inquiry-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "AP foregrounds institutional findings and Russia's response; the Kyiv Independent foregrounds Ukrainians' exposure to cold and outages.",
+          "sourceIds": [
+            "inquiry-reference",
+            "inquiry-a"
+          ]
+        },
+        {
+          "text": "Current Time gives extended attention to recruitment mechanisms and investigative access limits; the Kyiv Independent centers the energy campaign's civilian impact.",
+          "sourceIds": [
+            "inquiry-a",
+            "inquiry-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "What accountability or protection measures would follow the inquiry?",
+        "The commission reported that denied access prevented fuller investigation of Ukrainian energy strikes in Russian-controlled areas."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Russia's UN mission alleged that the commission relied on falsified data.",
+          "sourceIds": [
+            "inquiry-reference"
+          ],
+          "reason": "An attributed denial; the selected reports do not establish that allegation. It is not equivalent evidentiary support to the inquiry's documented findings."
+        }
+      ]
+    },
+    {
+      "id": "wmo-greenhouse-gas-records-2025",
+      "eventId": "global-wmo-greenhouse-gases-2026",
+      "title": "WMO reports record greenhouse-gas concentrations ahead of climate talks",
+      "summary": "The WMO's October 27 bulletin reported new 2025 atmospheric records. Coverage distinguished accumulated gas concentrations from annual emissions, while examining long-lived warming, El Niño risks and gases associated with electricity systems.",
+      "whyItMatters": "Atmospheric accumulation affects climate for decades or longer. The findings inform negotiations and the design of energy systems, without determining a specific future temperature outcome.",
+      "region": "Global / South Korea",
+      "tags": [
+        "Climate",
+        "WMO",
+        "Greenhouse gases",
+        "COP31",
+        "Energy transition",
+        "South Korea"
+      ],
+      "selectionRationale": "A global observational assessment with durable consequences, complemented by a Korean report on domestic exposure and energy-transition engineering.",
+      "evidenceNote": "Reuters, AFP and Yonhap are three independent originating agencies. Reuters is hosted by WKZO and AFP by Phys.org; hosts are not counted as separate newsrooms. They share WMO data rather than conducting independent atmospheric measurements. The original WMO release was additionally checked, not counted as a fourth article.",
+      "articles": [
+        {
+          "id": "climate-reference",
+          "role": "reference",
+          "headline": "Greenhouse gases hit record highs, further rise expected with El Niño, UN weather agency says",
+          "url": "https://wkzo.com/2026/10/27/greenhouse-gases-hit-record-highs-further-rise-expected-with-el-nino-un-weather-agency-says/",
+          "publishedAt": "2026-10-27",
+          "publishedPrecision": "date",
+          "genre": "Original Reuters agency reporting, syndicated",
+          "outlet": {
+            "name": "Reuters via WKZO",
+            "domain": "wkzo.com",
+            "country": "United Kingdom / international",
+            "ownership": "Thomson Reuters originating newsroom; WKZO explicitly credits Thomson Reuters and reporter Olivia Le Poidevin.",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Global measurements and near-term risks",
+            "rationale": "Explains concentrations, carbon sinks and potential further increases."
+          },
+          "summary": "Reports record concentrations and the WMO's expectation that fossil-fuel emissions and El Niño could drive further increases.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:51:09Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. October 27, 9:49 AM displayed without a timezone; date precision retained. Reuters byline and editing credit are visible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:51:09Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged during this session after inspection; not a historical capture or an exact HTTP-fetch timestamp. Reuters' own URL was inaccessible through the research tool. WKZO carries the complete credited report. No modification timestamp was shown; forecasts remain forecasts. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "climate-a",
+          "role": "contrast_a",
+          "headline": "Greenhouse gas levels hit new record highs in 2025: UN",
+          "url": "https://phys.org/news/2026-10-greenhouse-gas-highs.html",
+          "publishedAt": "2026-10-27",
+          "publishedPrecision": "date",
+          "genre": "Original AFP agency reporting, syndicated",
+          "outlet": {
+            "name": "AFP via Phys.org",
+            "domain": "phys.org",
+            "country": "France / international",
+            "ownership": "AFP has no shareholders under its statute and receives client revenue and public-interest compensation; AFP copyright identifies origin.",
+            "ownershipGroup": "afp",
+            "ownershipSource": "https://www.afp.com/en/about-us"
+          },
+          "lens": {
+            "label": "Long-term accumulation",
+            "rationale": "Emphasizes persistent warming and the lifetimes of different gases."
+          },
+          "summary": "Places the records in a longer time horizon and explains why a slower annual increase still adds to atmospheric warming.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:51:09Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. October 27 publication date; Robin Millard byline and AFP copyright. Full story is public; no clock or update stamp exposed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:51:09Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged during this session after inspection; not a historical capture or an exact HTTP-fetch timestamp. Phys.org is the host, not a fourth agency. Its automatically generated retrieval-date citation is not used as the archive's retrieval time. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "climate-b",
+          "role": "contrast_b",
+          "headline": "탄소감축의 역설…전기화·재생e 확대로 온실효과 큰 가스 급증",
+          "url": "https://www.yna.co.kr/view/AKR20261027099400530",
+          "publishedAt": "2026-10-27",
+          "publishedPrecision": "date",
+          "genre": "Original Korean-language agency reporting and analysis",
+          "outlet": {
+            "name": "Yonhap News Agency",
+            "domain": "yna.co.kr",
+            "country": "South Korea",
+            "ownership": "Yonhap's own newsroom; original Seoul-datelined report by Lee Jae-young. Detailed current shareholding was not independently established.",
+            "ownershipGroup": "yonhap",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Transition design and Korean exposure",
+            "rationale": "Emphasizes electrical-equipment gases and Korea's atmospheric measurements."
+          },
+          "summary": "Examines SF6, hydrogen leakage and Korean data as challenges for implementing an effective energy transition.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-06T14:51:09Z",
+            "method": "research-tool",
+            "note": "Substantive article text opened and read without login or payment. Original Korean article displays October 27 at 18:00 without an explicit timezone. Full body read; date precision retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-06T14:51:09Z",
+            "contentHash": null,
+            "evidenceNote": "Evidence-review timestamp logged during this session after inspection; not a historical capture or an exact HTTP-fetch timestamp. Original headline retained; summary in English. Automated three-line synopsis excluded. Ancillary numerical discrepancies and any implication that hydrogen is itself a greenhouse gas are not adopted. No cutoff-time archive or content fingerprint was verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The WMO reported that average atmospheric CO2 reached 426.8 parts per million in 2025, a new record.",
+          "sourceIds": [
+            "climate-reference",
+            "climate-a",
+            "climate-b"
+          ]
+        },
+        {
+          "text": "Methane and nitrous oxide concentrations also reached record levels in 2025.",
+          "sourceIds": [
+            "climate-reference",
+            "climate-a",
+            "climate-b"
+          ]
+        },
+        {
+          "text": "The reported CO2 increase from 2024 to 2025 was 2.8 parts per million.",
+          "sourceIds": [
+            "climate-reference",
+            "climate-a",
+            "climate-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters emphasizes near-term El Niño risks; AFP emphasizes the long-lived consequences of atmospheric accumulation.",
+          "sourceIds": [
+            "climate-reference",
+            "climate-a"
+          ]
+        },
+        {
+          "text": "Yonhap foregrounds transition-related gases and Korean conditions; Reuters places them within a global monitoring and policy account.",
+          "sourceIds": [
+            "climate-reference",
+            "climate-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "How strongly would El Niño affect carbon uptake and concentrations during 2026?",
+        "How effectively would energy-system operators limit SF6 emissions and hydrogen leakage while decarbonizing?"
+      ],
+      "unverifiedClaims": []
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-06T14:51:09Z",
+    "author": "ChatGPT",
+    "reason": "First edition: retrospective recovery of the missing October 27 Paris calendar day, researched and recorded on November 6."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent review only. Read nine substantive article bodies; checked original publication dates, update notices, source credits, ownership disclosures and article-specific lenses. Confirmed three originating newsroom groups per story and at least two selected citations per common fact. Distinguished shared underlying evidence, inquiry findings, official denials, forecasts and provisional election projections. Current retrieval is not proof of identical cutoff-time text; no historical capture or fingerprint is claimed. All original dates are within 72 hours before cutoff. Retrospective label and actual preparation timestamps are used. Automated synopsis, later widgets and post-cutoff developments were excluded. Structural validation is performed separately before commit."
+  }
+}
