@@ -1,0 +1,573 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-06",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-06T22:59:59Z",
+  "recordedAt": "2026-11-07T07:43:31.917Z",
+  "kind": "daily",
+  "selectionSummary": "Selected for scale of cross-border effects, lasting institutional or economic significance, independent source coverage and contemporaneous November 6 developments: global AI-linked market losses, European threats against aviation and broadcasters, and EU platform-regulation action. This is an editorial judgment, not an objective top-three ranking.",
+  "snapshot": {
+    "summary": "A reassessment of AI capital spending spread through international stock markets; European aviation and media faced new anonymous security threats; and Brussels challenged TikTok's feed design in a preliminary regulatory case.",
+    "connections": [
+      "All three events exposed vulnerabilities in transnational systems—capital markets, transport and information platforms—and the difficulty of weighing credible risk against premature conclusions.",
+      "Policy expectations and public confidence were consequential across financial, security and technology sectors, but reported fears did not establish their worst-case predictions."
+    ],
+    "uncertainties": [
+      "The medium-term consequences for AI investment and world markets were not yet clear.",
+      "The authorship and coordination of Europe's threats were unverified.",
+      "The TikTok proceedings remained preliminary and contested at cutoff."
+    ]
+  },
+  "stories": [
+    {
+      "id": "global-ai-stocks-selloff-spreads-to-asia-europe",
+      "eventId": "global-ai-market-repricing-2026",
+      "title": "AI-linked stock losses spread from Wall Street to Asian and European markets",
+      "summary": "Technology-share selling after Tuesday's US midterm elections spread across stock exchanges on Friday, with Japan's Nikkei falling almost 6% and South Korea's Kospi closing down 6.02% after an intraday circuit breaker. European stock indexes also weakened. Analysts tied the volatility partly to fears that a Democrat-controlled Congress and opposition to data-centre construction could restrain AI investment, while other observers considered the reaction excessive; US technology shares partially recovered Friday.",
+      "whyItMatters": "The repricing crosses borders through chip supply chains, pension investments and the financing of AI infrastructure. It tests whether exceptional capital spending on data centres can withstand political regulation and doubts about projected financial returns.",
+      "region": "Global / United States, East Asia and Europe",
+      "tags": [
+        "Global markets",
+        "Artificial intelligence",
+        "US midterms",
+        "Semiconductors",
+        "South Korea",
+        "Japan",
+        "Data centres"
+      ],
+      "selectionRationale": "Sharp multi-continent asset moves, Asian circuit breakers, financing implications for a global technology industry and independently reported market data give the event unusually broad immediate economic reach. It is the stock-market aftermath of the US midterms, distinct from the election's institutional outcome.",
+      "evidenceNote": "Independent originating teams: Reuters Korean market reporters, Guardian UK business reporters and UOL's São Paulo newsroom. Reuters and UOL give matching Kospi close and circuit-breaker detail; Guardian independently documents the international spread. Causal attribution to election results reflects reported investor expectations, not proof that future legislation will curtail AI spending. Reuters original timestamp precedes its described close, indicating later updates without a visible precise update stamp.",
+      "articles": [
+        {
+          "id": "market-reference-reuters",
+          "role": "reference",
+          "headline": "South Korea stocks plunge as US midterm results spark AI selloff",
+          "url": "https://www.reuters.com/world/asia-pacific/south-korea-stocks-plunge-8-circuit-breaker-triggered-chip-shares-tumble-2026-11-06/",
+          "publishedAt": "2026-11-06T01:01:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom / international",
+            "ownership": "Thomson Reuters original Seoul newsroom; named reporting by Cynthia Kim, Heejin Kim, Jihoon Lee, Yena Park and Moonyoung Tae",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "South Korean first-hand market data and policy response",
+            "rationale": "Reports exchange close, intraday pause, foreign selling and the emergency response, and quotes analysts disputing the scale of the decline."
+          },
+          "summary": "Documents the Kospi's 6.02% loss, intraday circuit breaker and chipmaker falls; records analysts' concern that election-related selling could be overdone.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-07T07:43:31.917Z",
+            "method": "research-tool",
+            "note": "Publisher's substantive article text, headline and newsroom attribution were opened without login or payment. Historical as-of-cutoff page snapshot unavailable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-07T07:43:31.917Z",
+            "contentHash": null,
+            "evidenceNote": "Reuters page displays first date/time Nov 6 01:01 UTC, but article contains later close figures and no independently verifiable final update time. The timestamp records completion of this direct page-review session, not a reconstructed initial HTTP download or an earlier snapshot."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "market-contrast-a-guardian",
+          "role": "contrast_a",
+          "headline": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+          "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+          "publishedAt": "2026-11-06T08:58:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian News & Media original business report by Mark Sweney and Graeme Wearden",
+            "ownershipGroup": "guardian-news-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Cross-market losses and sustainability of AI valuations",
+            "rationale": "Puts simultaneous Asian, European and US market moves in the context of spending expectations, investor nerves and opposing analyst judgments."
+          },
+          "summary": "Tracks Asian and European declines, Thursday's Nasdaq sell-off and a partial Friday US recovery; discusses investment risk and reasons not to infer an enduring collapse.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-07T07:43:31.917Z",
+            "method": "research-tool",
+            "note": "Publisher's substantive article text, headline and newsroom attribution were opened without login or payment. Historical as-of-cutoff page snapshot unavailable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-07T07:43:31.917Z",
+            "contentHash": null,
+            "evidenceNote": "Page explicitly lists first publication Fri Nov 6 03:58 EST (08:58 UTC) and a later same-day update. The timestamp records completion of this direct page-review session, not a reconstructed initial HTTP download or an earlier snapshot."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "market-contrast-b-uol",
+          "role": "contrast_b",
+          "headline": "Bolsas globais despencam após forte tombo das ações de tecnologia",
+          "url": "https://economia.uol.com.br/cotacoes/noticias/redacao/2026/11/06/bolsas-globais-6-de-novembro-de-2026.ghtm",
+          "publishedAt": "2026-11-06",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "UOL Economia",
+            "domain": "economia.uol.com.br",
+            "country": "Brazil",
+            "ownership": "UOL's original São Paulo editorial desk (Do UOL), not a Reuters-syndicated article; Reuters is credited for a photo only",
+            "ownershipGroup": "uol-redacao",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Brazilian vantage point on foreign indexes and central-bank concerns",
+            "rationale": "Highlights the international market contagion, index changes and how expected US policy and rates shape investor expectations from Brazil."
+          },
+          "summary": "Summarises Nikkei and Kospi losses, European share weakness and concern about AI spending and Federal Reserve policy.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-07T07:43:31.917Z",
+            "method": "research-tool",
+            "note": "Publisher's substantive article text, headline and newsroom attribution were opened without login or payment. Historical as-of-cutoff page snapshot unavailable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-07T07:43:31.917Z",
+            "contentHash": null,
+            "evidenceNote": "Page credits 'Do UOL, em São Paulo' and shows Nov 6 at 07h25 without an unambiguous original-time timezone; date precision used, no guessed UTC instant. The timestamp records completion of this direct page-review session, not a reconstructed initial HTTP download or an earlier snapshot."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "US technology-share losses on November 5 preceded substantial declines in Asian and European markets on November 6.",
+          "sourceIds": [
+            "market-reference-reuters",
+            "market-contrast-a-guardian",
+            "market-contrast-b-uol"
+          ]
+        },
+        {
+          "text": "South Korea's Kospi finished November 6 down 6.02% after a steeper intraday fall triggered a temporary trading halt.",
+          "sourceIds": [
+            "market-reference-reuters",
+            "market-contrast-b-uol"
+          ]
+        },
+        {
+          "text": "Investors and analysts cited possible tighter US controls on AI and data-centre expansion after the midterms as a significant uncertainty; the actual policy outcome was not yet established.",
+          "sourceIds": [
+            "market-reference-reuters",
+            "market-contrast-a-guardian",
+            "market-contrast-b-uol"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters foregrounds Korean share prices, emergency steps and skepticism from local analysts about an overreaction; the Guardian weighs global valuation and data-centre investment risks.",
+          "sourceIds": [
+            "market-reference-reuters",
+            "market-contrast-a-guardian"
+          ]
+        },
+        {
+          "text": "UOL gives a Brazilian-market reader a geographically broad index-and-rates snapshot, while Reuters focuses on South Korean investors and domestic stabilisation measures.",
+          "sourceIds": [
+            "market-contrast-b-uol",
+            "market-reference-reuters"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether congressional action will materially slow AI construction, and on what timetable, was unknown at November 6 cutoff.",
+        "No reliable cutoff-time prediction established whether the correction would continue; US technology prices had rebounded partly on Friday."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The midterm result will cause wholesale cancellation of US AI data-centre projects.",
+          "sourceIds": [
+            "market-reference-reuters",
+            "market-contrast-a-guardian"
+          ],
+          "reason": "Reported market fear and hypothetical future policy, not a known enacted outcome."
+        }
+      ]
+    },
+    {
+      "id": "europe-flight-newsroom-bomb-hoax-wave",
+      "eventId": "eu-aviation-newsroom-bomb-threats-nov-2026",
+      "title": "Another wave of threats disrupts European flights and broadcasters; culprits remain unidentified",
+      "summary": "New bomb warnings on November 6 affected passenger flights across Europe and forced security responses at Irish, British and Bulgarian broadcasters. One plane diverted to Venice and Hungarian jets escorted threatened commercial flights; Ireland's RTÉ evacuated its offices. Searches found no explosives, and no injuries were reported. Officials spoke of possible coordinated or hybrid disruption, but investigators had not established any perpetrator or government link.",
+      "whyItMatters": "False alarms can force diversions, air escorts and evacuations across multiple borders at modest cost to perpetrators. The episode exposes the difficulty of protecting transportation and media operations without overreacting to anonymous threats, amid concern about European infrastructure resilience.",
+      "region": "Europe / Transport and media",
+      "tags": [
+        "Aviation",
+        "Europe",
+        "Bomb threats",
+        "Civil infrastructure",
+        "Media",
+        "Hybrid threats",
+        "Security"
+      ],
+      "selectionRationale": "Multi-country flight safety operations and threats to civilian broadcasters extend the consequences well beyond one jurisdiction; three direct and separately reported news accounts distinguish observed disruption from unconfirmed attribution.",
+      "evidenceNote": "AP original multi-country reporting, Reuters original cross-European bureau reporting and Guardian reporting from Dublin and elsewhere are separate originating newsrooms. AP's figure of 11 Friday threats versus Guardian's at least 18 affected flights reflect different counting units/updates; neither is silently merged into a single confirmed total. First publication of AP original is confirmed as Nov 6 by its dated independent distribution; AP site text itself omits a clear clock. The reported Russian and group associations are unproven.",
+      "articles": [
+        {
+          "id": "threat-reference-ap",
+          "role": "reference",
+          "headline": "European flights and broadcasters are targeted with another wave of bomb threats",
+          "url": "https://apnews.com/article/europe-airports-planes-threats-31e26bfeb744b9ce8b81b73dbac6a4b8",
+          "publishedAt": "2026-11-06",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States / international",
+            "ownership": "AP original report by Stanislav Hodina, Karel Janicek, Geir Moulson and contributing staff",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Aviation safety operations and limits of evidence",
+            "rationale": "Counts threats attributed to officials, details affected flights and explains that disruption was limited relative to total air traffic."
+          },
+          "summary": "Covers flight escorts, diversions and broadcaster evacuations; explicitly says no state or group responsibility had been established.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-07T07:43:31.917Z",
+            "method": "research-tool",
+            "note": "Publisher's substantive article text, headline and newsroom attribution were opened without login or payment. Historical as-of-cutoff page snapshot unavailable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-07T07:43:31.917Z",
+            "contentHash": null,
+            "evidenceNote": "Full AP canonical publisher page opened; AP date supported by dated independent AP distribution Nov 6, while publisher text did not show an exact first-publication time. The timestamp records completion of this direct page-review session, not a reconstructed initial HTTP download or an earlier snapshot."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "threat-contrast-a-reuters",
+          "role": "contrast_a",
+          "headline": "Newsroom bomb threats follow escalating European flight hoaxes",
+          "url": "https://www.reuters.com/business/aerospace-defense/danish-police-investigate-renewed-threats-copenhagen-airport-2026-11-06/",
+          "publishedAt": "2026-11-06T10:00:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom / international",
+            "ownership": "Thomson Reuters original reporting by European bureaux; written by Kevin Liffey",
+            "ownershipGroup": "reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Cross-border security and possible hybrid-operation motive",
+            "rationale": "Explores statements alleging psychological warfare and possible Russia-related context but repeatedly cautions that attribution remains unproven."
+          },
+          "summary": "Reports the threats against RTÉ and Nova, safe aircraft outcomes, and European officials' competing explanations of their origin.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-07T07:43:31.917Z",
+            "method": "research-tool",
+            "note": "Publisher's substantive article text, headline and newsroom attribution were opened without login or payment. Historical as-of-cutoff page snapshot unavailable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-07T07:43:31.917Z",
+            "contentHash": null,
+            "evidenceNote": "Publisher shows Nov 6 10:00 UTC as the article timestamp; subsequent day's developments appear in same-day updates whose clock times are not displayed. The timestamp records completion of this direct page-review session, not a reconstructed initial HTTP download or an earlier snapshot."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "threat-contrast-b-guardian",
+          "role": "contrast_b",
+          "headline": "Further bomb threats disrupt at least another 18 flights across Europe",
+          "url": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+          "publishedAt": "2026-11-06T13:34:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian News & Media original report by Rory Carroll and Jakub Krupa",
+            "ownershipGroup": "guardian-news-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Civilian disruption and proportional response",
+            "rationale": "Emphasizes travellers, broadcaster workers and European public anxiety while contextualising the small fraction of scheduled flights affected and warning against premature attribution."
+          },
+          "summary": "Records multiple Friday flight threats, temporary media disruption and official uncertainty about whether incidents were coordinated.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-07T07:43:31.917Z",
+            "method": "research-tool",
+            "note": "Publisher's substantive article text, headline and newsroom attribution were opened without login or payment. Historical as-of-cutoff page snapshot unavailable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-07T07:43:31.917Z",
+            "contentHash": null,
+            "evidenceNote": "Publisher explicitly displays first publication Fri Nov 6 08:34 EST (13:34 UTC), with a later same-day edit. The timestamp records completion of this direct page-review session, not a reconstructed initial HTTP download or an earlier snapshot."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Friday's warnings affected flights in several European countries, and searches found no explosive devices.",
+          "sourceIds": [
+            "threat-reference-ap",
+            "threat-contrast-a-reuters",
+            "threat-contrast-b-guardian"
+          ]
+        },
+        {
+          "text": "Ireland's public broadcaster RTÉ evacuated or suspended normal operations following a threat, and other broadcasters reported warnings.",
+          "sourceIds": [
+            "threat-reference-ap",
+            "threat-contrast-a-reuters",
+            "threat-contrast-b-guardian"
+          ]
+        },
+        {
+          "text": "The threats' authorship, motive and any state sponsorship had not been independently established.",
+          "sourceIds": [
+            "threat-reference-ap",
+            "threat-contrast-a-reuters",
+            "threat-contrast-b-guardian"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters presents the episode against officials' worries about hybrid attacks and Russian involvement, with explicit uncertainty; AP stresses routine aviation-safety procedures and the lack of evidence identifying perpetrators.",
+          "sourceIds": [
+            "threat-contrast-a-reuters",
+            "threat-reference-ap"
+          ]
+        },
+        {
+          "text": "The Guardian gives an at-least-18-flight operational tally and the minuscule share of scheduled flights affected, while Reuters foregrounds anonymous threatening emails and investigation of possible motives.",
+          "sourceIds": [
+            "threat-contrast-b-guardian",
+            "threat-contrast-a-reuters"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The identity, origin and coordination of messages to airlines and media outlets were unknown at cutoff.",
+        "Whether any of the aviation threats and unrelated cyber incidents shared an operator remained unresolved.",
+        "Counts differed by threatened flights, disruptions and time of reporting; they should not be reconciled as a single definitive figure."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Russia or a named far-right group directed the November 6 threats.",
+          "sourceIds": [
+            "threat-reference-ap",
+            "threat-contrast-a-reuters",
+            "threat-contrast-b-guardian"
+          ],
+          "reason": "Investigators had not verified a state or group connection; threatening emails used identities that could be forged."
+        }
+      ]
+    },
+    {
+      "id": "eu-tiktok-rabbit-hole-dsa-preliminary-findings",
+      "eventId": "eu-tiktok-dsa-algorithm-review-2024-2026",
+      "title": "EU issues new preliminary TikTok findings over recommendation-system 'rabbit holes'",
+      "summary": "The European Commission on November 6 set out preliminary concerns under the Digital Services Act that TikTok's For You recommendations may repeatedly expose users, including minors, to harmful themes despite existing controls. Regulators demanded changes emphasizing stated user preferences and easier opt-outs; TikTok rejected the analysis as inaccurate and defended its safety measures. The proceedings were not a final finding of non-compliance, and possible penalties remained conditional.",
+      "whyItMatters": "The case targets the design of a major global recommendation engine rather than only individual videos. A final decision could affect how platforms rank material for millions of users and shape regulation, technical design choices and child-protection policies beyond Europe.",
+      "region": "European Union / Global technology",
+      "tags": [
+        "European Union",
+        "TikTok",
+        "Digital Services Act",
+        "Recommendation algorithms",
+        "Online safety",
+        "Youth",
+        "Regulation"
+      ],
+      "selectionRationale": "The EU is seeking potential redesign of an influential global recommendation system, with worldwide financial implications and direct child-safety impact. Three originating newsrooms independently describe the new regulatory step and the company's response.",
+      "evidenceNote": "AP original technology reporting by Kelvin Chan, Guardian original Brussels reporting by Jennifer Rankin and Euronews original signed reporting by Greta Ruffino (which cites AFP as an additional source, and obtained a company response directly) are independent originating stories. The Commission's assessment is described as preliminary and contested, not established harm or a final violation. AP exact original time is unavailable on its public publisher page; dated distribution confirms November 6.",
+      "articles": [
+        {
+          "id": "tiktok-reference-ap",
+          "role": "reference",
+          "headline": "EU says 'rabbit hole' video feeds on TikTok violate its digital rules",
+          "url": "https://apnews.com/article/tiktok-european-union-brussels-social-media-regulation-f59bbe2045ab842c0a4beef4e9a050e2",
+          "publishedAt": "2026-11-06",
+          "publishedPrecision": "date",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States / international",
+            "ownership": "AP original report by Kelvin Chan",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Preliminary legal process and response rights",
+            "rationale": "Explains regulators' assertions, the existing legal framework and TikTok's opportunity to respond before any penalty."
+          },
+          "summary": "Separates an EU preliminary accusation from a final ruling and reports TikTok's rejection and the proposed user-preference changes.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-07T07:43:31.917Z",
+            "method": "research-tool",
+            "note": "Publisher's substantive article text, headline and newsroom attribution were opened without login or payment. Historical as-of-cutoff page snapshot unavailable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-07T07:43:31.917Z",
+            "contentHash": null,
+            "evidenceNote": "Substantive AP publisher page opened; original Nov 6 date cross-checked against its dated AP distribution, but publisher page supplies no original clock time. The timestamp records completion of this direct page-review session, not a reconstructed initial HTTP download or an earlier snapshot."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "tiktok-contrast-a-guardian",
+          "role": "contrast_a",
+          "headline": "EU charges TikTok with failing to protect users’ mental health",
+          "url": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+          "publishedAt": "2026-11-06T13:49:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian News & Media original Brussels report by Jennifer Rankin",
+            "ownershipGroup": "guardian-news-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Mental-health risks and civil-society reaction",
+            "rationale": "Explores the EU's stated risks to minors and vulnerable users, the possible effects on TikTok's business model and the response of a child-safety foundation."
+          },
+          "summary": "Describes claimed cumulative harms from repetitive content, TikTok's safety defence and the preliminary nature of the enforcement step.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-07T07:43:31.917Z",
+            "method": "research-tool",
+            "note": "Publisher's substantive article text, headline and newsroom attribution were opened without login or payment. Historical as-of-cutoff page snapshot unavailable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-07T07:43:31.917Z",
+            "contentHash": null,
+            "evidenceNote": "Publisher displays first publication Fri Nov 6 08:49 EST (13:49 UTC), with a later same-day update. The timestamp records completion of this direct page-review session, not a reconstructed initial HTTP download or an earlier snapshot."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "tiktok-contrast-b-euronews",
+          "role": "contrast_b",
+          "headline": "EU tells TikTok to change 'harmful' For You feed over 'rabbit hole effect'",
+          "url": "https://www.euronews.com/2026/11/06/eu-tells-tiktok-to-change-harmful-for-you-feed-over-rabbit-hole-effect",
+          "publishedAt": "2026-11-06T13:48:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original news reporting",
+          "outlet": {
+            "name": "Euronews",
+            "domain": "euronews.com",
+            "country": "France / European Union",
+            "ownership": "Euronews signed report by Greta Ruffino with direct TikTok spokesperson response; AFP listed as additional background source, not a syndicated AFP article",
+            "ownershipGroup": "euronews",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Product-design remedies and TikTok's technical rebuttal",
+            "rationale": "Describes specific recommender-system changes sought by Brussels and directly records TikTok disputing the Commission's characterization."
+          },
+          "summary": "Lists proposed limits on viewing-time signals and more prominent opt-outs, alongside the company's denial and open case status.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-07T07:43:31.917Z",
+            "method": "research-tool",
+            "note": "Publisher's substantive article text, headline and newsroom attribution were opened without login or payment. Historical as-of-cutoff page snapshot unavailable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-07T07:43:31.917Z",
+            "contentHash": null,
+            "evidenceNote": "Publisher displays Nov 6 14:48 GMT+1 (13:48 UTC), updated 15:47 GMT+1, both before cutoff; reporter named and direct company quote; AFP identified as additional source. The timestamp records completion of this direct page-review session, not a reconstructed initial HTTP download or an earlier snapshot."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "On November 6 the European Commission set out new preliminary concerns under the Digital Services Act about TikTok's repetitive recommendation feed.",
+          "sourceIds": [
+            "tiktok-reference-ap",
+            "tiktok-contrast-a-guardian",
+            "tiktok-contrast-b-euronews"
+          ]
+        },
+        {
+          "text": "The Commission sought changes giving more weight to user preferences and more effective user controls over recommendations.",
+          "sourceIds": [
+            "tiktok-reference-ap",
+            "tiktok-contrast-a-guardian",
+            "tiktok-contrast-b-euronews"
+          ]
+        },
+        {
+          "text": "TikTok rejected the Commission's characterization, and the process had not yet produced a final non-compliance decision.",
+          "sourceIds": [
+            "tiktok-reference-ap",
+            "tiktok-contrast-a-guardian",
+            "tiktok-contrast-b-euronews"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "The Guardian concentrates on vulnerable viewers, campaigners and risks to the engagement-based business model; Euronews emphasizes concrete feed redesign options and the firm's direct rebuttal.",
+          "sourceIds": [
+            "tiktok-contrast-a-guardian",
+            "tiktok-contrast-b-euronews"
+          ]
+        },
+        {
+          "text": "AP emphasizes the procedural distinction between the preliminary charge and final sanctions; the Guardian explores the broader social and mental-health implications alleged by regulators.",
+          "sourceIds": [
+            "tiktok-reference-ap",
+            "tiktok-contrast-a-guardian"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether the Commission's preliminary findings would survive TikTok's response and lead to a fine or commitments was undecided on November 6.",
+        "The exact prevalence and causal magnitude of any mental-health harm from TikTok's recommendations were not independently established by these three reports."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "TikTok's algorithm had definitively caused the specific mental-health harms described in the Commission's case.",
+          "sourceIds": [
+            "tiktok-reference-ap",
+            "tiktok-contrast-a-guardian",
+            "tiktok-contrast-b-euronews"
+          ],
+          "reason": "The Commission made preliminary risk findings that TikTok disputed; this edition does not convert disputed regulatory allegations into adjudicated scientific causation."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-07T07:43:31.917Z",
+    "author": "ChatGPT",
+    "reason": "Original November 6 edition, researched and reviewed on November 7, preserving the complete Paris-day cutoff."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Nine publicly readable article pages opened at their originating publishers and reviewed for headlines, first-publication dates or honest date-only precision, ownership, role and original text. Dates are checked against the Nov 6 Paris 23:59:59 cutoff; where publishers show updated content without a precise update clock or no as-of-cutoff snapshot, this limitation is disclosed. AP dates cross-checked via dated independent distribution. No archive captures or hashes claimed; no human review claimed."
+  }
+}
