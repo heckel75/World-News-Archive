@@ -1,0 +1,631 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-07",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-07T22:59:59Z",
+  "recordedAt": "2026-11-08T07:32:26.092Z",
+  "kind": "daily",
+  "selectionSummary": "Consistent selection: weigh international consequences, civilian and institutional stakes, breadth of independent coverage and possible lasting impact. Three separate events across Europe, the Middle East and Oceania were selected; their relative impact is an editorial judgment.",
+  "snapshot": {
+    "summary": "Ukraine's energy and transport links were hit ahead of peace talks; Israel's president made the first nomination in a deadlocked coalition contest; and New Zealand's vote offered no settled governing majority.",
+    "connections": [
+      "Each story turns on resilience and control of essential systems: electricity and infrastructure, parliamentary coalitions and election procedures.",
+      "International diplomacy could be shaped by Ukraine's wartime pressure, Israel's future government and New Zealand's Pacific policy direction, but those downstream effects were not settled."
+    ],
+    "uncertainties": [
+      "Kyiv's final repair timetable and next week's diplomatic consequences were unknown.",
+      "Israel's nominee had not yet built or formally received his governing mandate.",
+      "New Zealand's final ballots and coalition agreements remained outstanding."
+    ]
+  },
+  "stories": [
+    {
+      "id": "russian-kyiv-energy-bridge-strikes-nov7",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Russian attacks disrupt Kyiv energy links and damage its Northern Bridge",
+      "summary": "Russian strikes on November 6–7 damaged power infrastructure linked to Kyiv and the Northern Bridge; officials reported heating, power and water disruption. Ukrainian authorities described a large ballistic missile and drone attack. Russia characterized its targets as supporting Ukrainian military capabilities. A new round of US-brokered negotiations was scheduled for the following week.",
+      "whyItMatters": "Attacks on a European capital's grid and transport links threaten civilian survival during colder weather and could complicate negotiations in an ongoing cross-border war.",
+      "region": "Europe / Ukraine–Russia",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "war",
+        "energy",
+        "transport",
+        "diplomacy"
+      ],
+      "selectionRationale": "Severe attack on a major city's critical infrastructure with humanitarian, energy-security and negotiation implications; reported by independent international and domestic newsrooms.",
+      "evidenceNote": "Reuters and Guardian report the effects; Interfax independently reports Russia's official target justification, which is attributed rather than verified. No historical captures.",
+      "articles": [
+        {
+          "id": "u-reuters-nov7",
+          "role": "reference",
+          "headline": "Russia pounds power facilities around Kyiv, damages major bridge",
+          "url": "https://www.reuters.com/world/russian-forces-launch-missile-attack-ukrainian-capital-kyiv-mayor-says-2026-11-07/",
+          "publishedAt": "2026-11-07T01:23:00Z",
+          "genre": "news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Cross-border wire account",
+            "rationale": "Reports Kyiv power and bridge damage together with Russian and Ukrainian claims and upcoming Abu Dhabi diplomacy."
+          },
+          "summary": "Reports Russian missile and drone strikes damaged Kyiv-region energy connections and the Northern Bridge. It attributes Ukrainian missile counts to Kyiv and the account of military targets to Russia.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-08T07:32:26.092Z",
+            "method": "research-tool",
+            "note": "Opened original publisher article and read substantive content without payment or account. Dateline November 7; publisher clock 01:23 UTC."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-08T07:32:26.092Z",
+            "contentHash": null,
+            "evidenceNote": "Read publisher page on November 8, 2026, checked title, original date, attribution, genre and cutoff relevance. No capture or fingerprint obtained."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "u-guardian-nov7",
+          "role": "contrast_a",
+          "headline": "Blackouts and water shortages in Kyiv after Russia strikes Ukraine’s energy grid",
+          "url": "https://www.theguardian.com/world/2026/nov/07/blackout-water-shortage-kyiv-russia-strike-ukraine-energy-grid",
+          "publishedAt": "2026-11-07T13:03:00Z",
+          "genre": "news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group, held by Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Kyiv civilian infrastructure and peace skepticism",
+            "rationale": "Emphasizes how attacks affect heat, water, electricity and transport, and explains Kyiv's concerns about the pending negotiations."
+          },
+          "summary": "Describes pressure on Kyiv's utilities and bridge after the overnight barrage, with Ukrainian claims about a strategy to inflict civilian hardship before talks.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-08T07:32:26.092Z",
+            "method": "research-tool",
+            "note": "Opened original publisher article and read substantive content without payment or account. First published November 7 14:03 CET; modified 14:19 CET, before the cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-08T07:32:26.092Z",
+            "contentHash": null,
+            "evidenceNote": "Read publisher page on November 8, 2026, checked title, original date, attribution, genre and cutoff relevance. No capture or fingerprint obtained."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "u-interfax-nov7",
+          "role": "contrast_b",
+          "headline": "ВС РФ нанесли ночью удар по объектам ВПК, энергетики и транспорта в Киеве",
+          "url": "https://www.interfax.ru/russia/1127534",
+          "publishedAt": "2026-11-07T05:44:00Z",
+          "genre": "short wire brief of an official statement",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Interfax",
+            "domain": "interfax.ru",
+            "country": "Russia",
+            "ownership": "Interfax Information Services Group",
+            "ownershipGroup": "interfax",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Russian Defence Ministry military-target framing",
+            "rationale": "Short independently published Moscow newsroom brief relays the ministry's claim that struck infrastructure supported Ukraine's military, without independent verification."
+          },
+          "summary": "Reports Russia's Defence Ministry statement that it hit energy, transport and military-industrial sites in and around Kyiv. The asserted military use of these sites remains a claim.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-08T07:32:26.092Z",
+            "method": "research-tool",
+            "note": "Opened original publisher article and read substantive content without payment or account. Russian-language article timed 08:44 Moscow time, Nov 7; substantive text public."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-08T07:32:26.092Z",
+            "contentHash": null,
+            "evidenceNote": "Read publisher page on November 8, 2026, checked title, original date, attribution, genre and cutoff relevance. No capture or fingerprint obtained."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Russia conducted a large overnight strike on energy, transport and industrial infrastructure in Kyiv and its region.",
+          "sourceIds": [
+            "u-reuters-nov7",
+            "u-guardian-nov7",
+            "u-interfax-nov7"
+          ]
+        },
+        {
+          "text": "Kyiv's Northern Bridge was hit or damaged during the assault.",
+          "sourceIds": [
+            "u-reuters-nov7",
+            "u-guardian-nov7"
+          ]
+        },
+        {
+          "text": "Ukrainian officials reported major disruption to electricity, water or heating services in Kyiv.",
+          "sourceIds": [
+            "u-reuters-nov7",
+            "u-guardian-nov7"
+          ]
+        },
+        {
+          "text": "Moscow's Defence Ministry said its targets supported Ukrainian military activity; multiple newsrooms reported that statement, not independent confirmation of military use.",
+          "sourceIds": [
+            "u-reuters-nov7",
+            "u-interfax-nov7"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Interfax foregrounds Russia's claimed military-target rationale, whereas the Guardian foregrounds the effect on civilians and services.",
+          "sourceIds": [
+            "u-interfax-nov7",
+            "u-guardian-nov7"
+          ]
+        },
+        {
+          "text": "Reuters reports both belligerents' statements within a context of impending talks, while Interfax's short brief covers primarily the Russian ministry statement.",
+          "sourceIds": [
+            "u-reuters-nov7",
+            "u-interfax-nov7"
+          ]
+        },
+        {
+          "text": "The Guardian discusses Ukrainian officials' skepticism about negotiations; Reuters emphasizes military developments and the stated schedule of talks.",
+          "sourceIds": [
+            "u-guardian-nov7",
+            "u-reuters-nov7"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Exact physical damage, casualty toll and duration of utility outages were still being assessed.",
+        "The military use of the alleged targets and both sides' strategic intent remained unverified.",
+        "Effects on the proposed Abu Dhabi talks could not yet be known."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Moscow's Defence Ministry asserted that struck industrial, energy and transport facilities were supporting Ukrainian forces.",
+          "sourceIds": [
+            "u-interfax-nov7",
+            "u-reuters-nov7"
+          ],
+          "reason": "An interested party's operational justification, not an independently verified characterization of the sites."
+        },
+        {
+          "text": "Ukrainian officials argued Moscow sought to freeze or pressure civilians ahead of talks.",
+          "sourceIds": [
+            "u-guardian-nov7",
+            "u-reuters-nov7"
+          ],
+          "reason": "An attributed assessment of motivation, not a demonstrable fact from damage reports alone."
+        }
+      ]
+    },
+    {
+      "id": "israel-herzog-eisenkot-nomination-nov7",
+      "eventId": "me-israel-parliamentary-election-2026",
+      "title": "Herzog chooses Eisenkot for Israel's first post-election government-forming attempt",
+      "summary": "President Isaac Herzog announced November 7 that he would formally give Gadi Eisenkot the first chance to form a government on Sunday. Parties representing 67 lawmakers recommended Eisenkot and 46 Netanyahu, but neither electoral bloc held a 61-seat majority. Arab-led parties' recommendations mattered despite disagreements about partnership.",
+      "whyItMatters": "The nomination could reshape Israeli leadership and regional diplomacy, but does not itself create a government or transfer power from caretaker Prime Minister Netanyahu.",
+      "region": "Middle East / Israel",
+      "tags": [
+        "Israel",
+        "elections",
+        "coalition",
+        "parliament",
+        "Palestinian-citizens",
+        "security"
+      ],
+      "selectionRationale": "Potential leadership change in a state with extensive international security and regional diplomacy implications; first substantial formal step after a deadlocked election.",
+      "evidenceNote": "Reuters, Al Jazeera and an original Times of Israel Saturday liveblog update were opened; the Saturday announcement must not be conflated with the planned Sunday formal mandate.",
+      "articles": [
+        {
+          "id": "i-reuters-nov7",
+          "role": "reference",
+          "headline": "Israeli president picks Gadi Eisenkot, Netanyahu rival, to try to form government",
+          "url": "https://www.reuters.com/world/middle-east/israeli-president-picks-gadi-eisenkot-netanyahu-rival-form-government-2026-11-07/",
+          "publishedAt": "2026-11-07T19:32:00Z",
+          "genre": "news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Coalition possibilities and political biography",
+            "rationale": "Places the mandate decision amid the deadlocked October election, competing parliamentary blocs and regional policy implications."
+          },
+          "summary": "Reuters reports Herzog's choice of Eisenkot and examines several difficult routes to majority government, including arrangements with Arab or ultra-Orthodox parties.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-08T07:32:26.092Z",
+            "method": "research-tool",
+            "note": "Opened original publisher article and read substantive content without payment or account. November 7 19:32 UTC explicitly shown."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-08T07:32:26.092Z",
+            "contentHash": null,
+            "evidenceNote": "Read publisher page on November 8, 2026, checked title, original date, attribution, genre and cutoff relevance. No capture or fingerprint obtained."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "i-aljazeera-nov7",
+          "role": "contrast_a",
+          "headline": "Israel’s president picks Eisenkot over Netanyahu to form next government",
+          "url": "https://www.aljazeera.com/news/2026/11/7/israels-president-picks-eisenkot-over-netanyahu-to-form-next-government",
+          "publishedAt": "2026-11-07",
+          "genre": "news report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Al Jazeera",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network, Qatar-funded",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Palestinian citizens' representation and Arab-party leverage",
+            "rationale": "Highlights the record 19 Arab-led lawmakers, endorsements despite coalition exclusion, and views from a Joint List member."
+          },
+          "summary": "Al Jazeera explains why Arab-led party support helped Eisenkot obtain the nomination and why these groups' possible participation remains contested.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-08T07:32:26.092Z",
+            "method": "research-tool",
+            "note": "Opened original publisher article and read substantive content without payment or account. Publisher shows Nov 7 as original date but no verifiable clock time."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-08T07:32:26.092Z",
+            "contentHash": null,
+            "evidenceNote": "Read publisher page on November 8, 2026, checked title, original date, attribution, genre and cutoff relevance. No capture or fingerprint obtained."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "i-toi-nov7",
+          "role": "contrast_b",
+          "headline": "Herzog announces he will task Eisenkot tomorrow with forming new government",
+          "url": "https://www.timesofisrael.com/liveblog_entry/herzog-announces-he-will-task-eisenkot-tomorrow-with-forming-new-government-after-meeting-him-and-netanyahu/",
+          "publishedAt": "2026-11-07T19:49:00Z",
+          "genre": "dated reported liveblog entry",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Times of Israel",
+            "domain": "timesofisrael.com",
+            "country": "Israel",
+            "ownership": "Privately operated Times of Israel publishing company",
+            "ownershipGroup": "times-of-israel",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Local procedural and presidential announcement",
+            "rationale": "Original Israeli newsroom report concentrates on the 67-to-46 consultations and the next-day formal ceremony."
+          },
+          "summary": "The Times of Israel reports that Herzog notified Eisenkot and Netanyahu on Saturday, but planned to grant the mandate formally on Sunday at 5 p.m.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-08T07:32:26.092Z",
+            "method": "research-tool",
+            "note": "Opened original publisher article and read substantive content without payment or account. Original entry dated Nov 7 21:49 Israel time (19:49 UTC); text readable without account."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-08T07:32:26.092Z",
+            "contentHash": null,
+            "evidenceNote": "Read publisher page on November 8, 2026, checked title, original date, attribution, genre and cutoff relevance. No capture or fingerprint obtained."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Herzog announced on November 7 that he had selected Eisenkot to try to form the next government, with the formal ceremony set for November 8.",
+          "sourceIds": [
+            "i-reuters-nov7",
+            "i-aljazeera-nov7",
+            "i-toi-nov7"
+          ]
+        },
+        {
+          "text": "Eisenkot received the backing of parties representing 67 lawmakers compared with 46 for Netanyahu.",
+          "sourceIds": [
+            "i-aljazeera-nov7",
+            "i-toi-nov7"
+          ]
+        },
+        {
+          "text": "Neither the Eisenkot nor Netanyahu electoral bloc alone had 61 seats in the 120-seat parliament.",
+          "sourceIds": [
+            "i-reuters-nov7",
+            "i-aljazeera-nov7"
+          ]
+        },
+        {
+          "text": "The government-forming candidate would have 28 days to secure a government, with a possible 14-day extension.",
+          "sourceIds": [
+            "i-reuters-nov7",
+            "i-toi-nov7",
+            "i-aljazeera-nov7"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Al Jazeera puts Arab-led lawmakers' electoral gains and possible coalition leverage at the center; The Times of Israel emphasizes legal procedure and party recommendations.",
+          "sourceIds": [
+            "i-aljazeera-nov7",
+            "i-toi-nov7"
+          ]
+        },
+        {
+          "text": "Reuters explores alternatives such as minority or unity government, while Al Jazeera reports Arab-party arguments for ending Netanyahu's government.",
+          "sourceIds": [
+            "i-reuters-nov7",
+            "i-aljazeera-nov7"
+          ]
+        },
+        {
+          "text": "The Times of Israel carefully distinguishes the November 7 choice from a November 8 formal handover; some wider headlines use shorthand that could imply the mandate had already been delivered.",
+          "sourceIds": [
+            "i-toi-nov7",
+            "i-aljazeera-nov7"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The formal mandate had not been handed over at the November 7 cutoff.",
+        "It was unknown whether Eisenkot could form a majority with any of the available blocs or external support.",
+        "Coalition negotiations could fail, potentially triggering further attempts or an election."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Netanyahu warned an opposition government dependent on Arab-led parties would bring the country's collapse.",
+          "sourceIds": [
+            "i-aljazeera-nov7"
+          ],
+          "reason": "Rhetorical partisan prediction, not substantiated by independent evidence."
+        },
+        {
+          "text": "Eisenkot pledged to create a national emergency government.",
+          "sourceIds": [
+            "i-reuters-nov7"
+          ],
+          "reason": "Reported intention, not proof that a viable agreement existed."
+        }
+      ]
+    },
+    {
+      "id": "nz-inconclusive-election-special-ballots-nov7",
+      "eventId": "oc-new-zealand-general-election-2026",
+      "title": "New Zealand's tight election leaves government formation uncertain",
+      "summary": "Election-night returns on November 7 provisionally put the National-ACT-New Zealand First bloc on 67 seats, a razor-thin lead that could shift once special votes were counted. Neither Prime Minister Christopher Luxon nor Labour leader Chris Hipkins claimed a decisive victory. The new Opportunity Party was projected to enter parliament and might influence negotiations.",
+      "whyItMatters": "The result shapes Pacific diplomatic, trade, climate and domestic economic policy in a regional democracy, with small parties potentially deciding the government.",
+      "region": "Oceania / New Zealand",
+      "tags": [
+        "New-Zealand",
+        "election",
+        "parliament",
+        "Pacific",
+        "coalition",
+        "economy"
+      ],
+      "selectionRationale": "Major national election with exceptionally thin provisional governing margin, fragmented party support and prolonged uncertainty about regional policy direction.",
+      "evidenceNote": "Three originating newsrooms: Reuters, The Guardian and AP. Guardian revised its report after cutoff; only election-night points corroborated in independent contemporaneous reporting are used. AP first-publication clock not available.",
+      "articles": [
+        {
+          "id": "n-reuters-nov7",
+          "role": "reference",
+          "headline": "After close vote, New Zealand must wait weeks for new government",
+          "url": "https://www.reuters.com/world/asia-pacific/new-zealand-vote-leaves-national-labour-nearly-deadlocked-2026-11-07/",
+          "publishedAt": "2026-11-07T18:05:00Z",
+          "genre": "news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Coalition arithmetic, economy and caretaker government",
+            "rationale": "Emphasizes the projected one-seat majority, final vote timetable and limited ability of major parties to form a stable government."
+          },
+          "summary": "Reuters reports a tentative 67-seat incumbent bloc in a projected 131-seat chamber; final results and a significant pool of special votes remain outstanding.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-08T07:32:26.092Z",
+            "method": "research-tool",
+            "note": "Opened original publisher article and read substantive content without payment or account. Publisher clock November 7 18:05 UTC; dateline says Nov 8 in New Zealand local time."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-08T07:32:26.092Z",
+            "contentHash": null,
+            "evidenceNote": "Read publisher page on November 8, 2026, checked title, original date, attribution, genre and cutoff relevance. No capture or fingerprint obtained."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "n-guardian-nov7",
+          "role": "contrast_a",
+          "headline": "New Zealand faces weeks of uncertainty with election ‘too close to call’",
+          "url": "https://www.theguardian.com/world/2026/nov/07/new-zealand-election-too-close-to-call-vote-count",
+          "publishedAt": "2026-11-07T13:48:00Z",
+          "genre": "news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group, held by Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "MMP overhangs and opposition opportunities",
+            "rationale": "Explains minority-party gains, extra electorate seats and why later-counted votes could shift the apparent conservative edge."
+          },
+          "summary": "The Guardian examines how New Zealand's proportional system and special votes could change the provisional 67-seat coalition lead, noting losses among National's senior list MPs.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-08T07:32:26.092Z",
+            "method": "research-tool",
+            "note": "Opened original publisher article and read substantive content without payment or account. First published Nov 8 00:48 AEDT = Nov 7 13:48 UTC; current page modified Nov 8 12:00 AEDT after cutoff. No as-of-cutoff capture; use only independently corroborated election-night facts."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-08T07:32:26.092Z",
+            "contentHash": null,
+            "evidenceNote": "Read publisher page on November 8, 2026, checked title, original date, attribution, genre and cutoff relevance. No capture or fingerprint obtained."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "n-ap-nov7",
+          "role": "contrast_b",
+          "headline": "Conservative bloc takes a slim lead in New Zealand election that’s still too close to call",
+          "url": "https://apnews.com/article/new-zealand-election-results-luxon-hipkins-voting-8c1728ae2533201f68d5a5e75fc9e907",
+          "publishedAt": "2026-11-07",
+          "genre": "news report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Not-for-profit news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Smaller-party breakthrough and electorate reactions",
+            "rationale": "Centers Opportunity's apparent parliamentary entry, voting-system consequences and neither major leader claiming victory."
+          },
+          "summary": "AP reports a wafer-thin tentative conservative lead, rising minor-party influence and uncertainty from pending special votes, with original New Zealand reporting.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-08T07:32:26.092Z",
+            "method": "research-tool",
+            "note": "Opened original publisher article and read substantive content without payment or account. AP original article by Charlotte Graham-McLay, dated Nov 7 in search indexing; original publisher page does not show verifiable time, so date-only."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-08T07:32:26.092Z",
+            "contentHash": null,
+            "evidenceNote": "Read publisher page on November 8, 2026, checked title, original date, attribution, genre and cutoff relevance. No capture or fingerprint obtained."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Election-night calculations tentatively put the incumbent National-led grouping on approximately 67 parliamentary seats without a reliable final majority.",
+          "sourceIds": [
+            "n-reuters-nov7",
+            "n-guardian-nov7",
+            "n-ap-nov7"
+          ]
+        },
+        {
+          "text": "Special votes had not all been counted, and official results were expected on November 27.",
+          "sourceIds": [
+            "n-reuters-nov7",
+            "n-guardian-nov7",
+            "n-ap-nov7"
+          ]
+        },
+        {
+          "text": "Both National and Labour had party-vote support below roughly 30%, increasing smaller parties' importance.",
+          "sourceIds": [
+            "n-reuters-nov7",
+            "n-ap-nov7"
+          ]
+        },
+        {
+          "text": "The Opportunity Party was projected to enter parliament with seven seats, potentially altering coalition options.",
+          "sourceIds": [
+            "n-guardian-nov7",
+            "n-ap-nov7"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters stresses caretaker arrangements, economic dissatisfaction and the coalition timetable, while The Guardian explains proportional voting and special-vote shifts.",
+          "sourceIds": [
+            "n-reuters-nov7",
+            "n-guardian-nov7"
+          ]
+        },
+        {
+          "text": "AP foregrounds the new Opportunity Party and its leader Qiulae Wong, whereas Reuters focuses on the competing major-party leaders and coalition arithmetic.",
+          "sourceIds": [
+            "n-ap-nov7",
+            "n-reuters-nov7"
+          ]
+        },
+        {
+          "text": "Newsrooms projected parliament sizes near 130 or 131 as returns evolved, making a one-seat discrepancy in the majority threshold provisional, not a settled contradiction.",
+          "sourceIds": [
+            "n-guardian-nov7",
+            "n-reuters-nov7",
+            "n-ap-nov7"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Final number of seats, size of parliament and governing margin could change with hundreds of thousands of special votes.",
+        "No definitive coalition agreement existed by cutoff.",
+        "Opportunity's eventual leverage and timing of coalition negotiations were unsettled."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Luxon said National had a path toward governing again.",
+          "sourceIds": [
+            "n-guardian-nov7",
+            "n-ap-nov7"
+          ],
+          "reason": "Political forecast based on provisional numbers, not certified election results or a signed agreement."
+        },
+        {
+          "text": "Opportunity's leader indicated openness to talks with either bloc.",
+          "sourceIds": [
+            "n-ap-nov7"
+          ],
+          "reason": "Attributed expressed openness, not an actual negotiated coalition."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-08T07:32:26.092Z",
+    "author": "ChatGPT",
+    "reason": "First original November 7 edition, researched on November 8 after the completed Paris day cutoff."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent-only review. Opened nine original, freely readable publisher pages, checked headlines, publication dates or explicitly date-only precision, ownership, genre and as-of-cutoff claims. Reuters time zones, Interfax Moscow clock, Times of Israel local clock, and the Guardian AEDT original publication were converted to UTC. Guardian's New Zealand article was modified after cutoff and AP/Al Jazeera lack verifiable first-publication clock; uncertainties disclosed, not represented as preserved historical snapshots. No human review, archived URLs or content hashes claimed. Statements by governments and politicians remain attributed."
+  }
+}
