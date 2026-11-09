@@ -1,0 +1,638 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-08",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-08T22:59:59Z",
+  "recordedAt": "2026-11-09T07:35:20.468Z",
+  "kind": "daily",
+  "selectionSummary": "Selection consistently weighs international and demographic reach, cross-border environmental, security and governance consequences, breadth of independent newsroom reporting, and potential lasting effects. The three distinct November 8 events are pre-opening COP31 negotiations, formal Israeli coalition assignment and Houthi-claimed strikes affecting Saudi energy infrastructure.",
+  "snapshot": {
+    "summary": "On the eve of COP31, governments differed on how to turn emissions and adaptation promises into action; Israel's president gave Eisenkot a formal, still-unsolved coalition mandate; and missile attacks attributed to the Houthis damaged an Aramco office in Riyadh amid regional fighting.",
+    "connections": [
+      "Global energy security binds the climate debate on fossil-fuel reliance to the physical vulnerability of Saudi oil-sector infrastructure.",
+      "All three stories show political bargaining and contested narratives influencing decisions with transnational consequences.",
+      "Announcement or claim is not the same as outcome: summit pledges, coalition composition and military responsibility remained open."
+    ],
+    "uncertainties": [
+      "COP31 had not opened by the November 8 Paris cutoff and no summit outcome was known.",
+      "Israel had no new majority governing coalition and Netanyahu remained caretaker prime minister.",
+      "Saudi building damage was reported, but individual projectile responsibility and claimed deaths in Yemen were not fully verified."
+    ]
+  },
+  "stories": [
+    {
+      "id": "cop31-antalya-preopening-nov8",
+      "eventId": "gl-cop31-climate-antalya-2026",
+      "title": "COP31 eve exposes gap between climate finance demands and implementation priorities",
+      "summary": "As COP31 prepared to open in Antalya on November 9, Singapore's environment minister suggested that implementing existing commitments was more likely than setting stronger emissions targets. Australian negotiating president Chris Bowen sought practical outcomes and vulnerable states pressed for reliable climate finance. UN chief António Guterres, interviewed by AP in advance, urged political leaders to accelerate action.",
+      "whyItMatters": "The negotiations involve close to 200 nations whose climate, electricity and adaptation decisions will influence investment, emissions trajectories and resilience for vulnerable populations.",
+      "region": "Global / Turkey / Australia / Singapore",
+      "tags": [
+        "climate",
+        "COP31",
+        "emissions",
+        "energy",
+        "finance",
+        "adaptation",
+        "diplomacy"
+      ],
+      "selectionRationale": "Highest global breadth and long-term stakes: international emissions and adaptation policy, with cross-border consequences for energy markets and climate-vulnerable populations. This is pre-opening positioning, not a claim that COP31 had started on the eighth.",
+      "evidenceNote": "Three originating newsrooms, all free on their own pages. Reuters and Guardian provide exact publisher times on November 8. AP first published its exclusive November 6 per dated AP syndication, though its original AP site lacks a visible first-posted clock; date-only precision is used.",
+      "articles": [
+        {
+          "id": "c-reuters-cop31-implementation-nov8",
+          "role": "reference",
+          "headline": "Climate talks should focus on implementation, not new targets, Singapore says",
+          "url": "https://www.reuters.com/sustainability/cop/climate-talks-should-focus-implementation-not-new-targets-singapore-says-2026-11-08/",
+          "publishedAt": "2026-11-08T21:02:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "reported government interview",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Negotiating practicality",
+            "rationale": "Focuses on Singapore's assessment that existing commitments offer immediate work despite reduced leadership and geopolitical tensions."
+          },
+          "summary": "Reuters reports that Grace Fu saw little likelihood of stronger mitigation targets but scope for adaptation agreements and practical measures.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-09T07:31:50.027Z",
+            "method": "research-tool",
+            "note": "Read original by David Stanway, published Nov 8 21:02 UTC; subsequent revisions not preserved."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-09T07:31:50.027Z",
+            "contentHash": null,
+            "evidenceNote": "Opened original publisher page on November 9, verified story body, byline, article type and publication date, subject to stated precision. No archived historical snapshot or checksum obtained."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "c-guardian-cop31-finance-nov8",
+          "role": "contrast_a",
+          "headline": "Cop31 must deliver climate progress that people can see is real, host says",
+          "url": "https://www.theguardian.com/environment/2026/nov/08/cop31-climate-summit-deliver-progress-real-host-says",
+          "publishedAt": "2026-11-08T13:24:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "multi-reporter summit advance",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group, Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Vulnerable countries and accountability",
+            "rationale": "Focuses on climate finance and consequences for vulnerable states, while questioning fossil-fuel reliance by the hosts."
+          },
+          "summary": "The Guardian reports Chris Bowen's call for tangible implementation, Pacific states' funding concerns and pressure to address emissions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-09T07:31:50.027Z",
+            "method": "research-tool",
+            "note": "Read original multi-correspondent report, first Nov 8 13:24 GMT, modified Nov 8 16:20 GMT; both before cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-09T07:31:50.027Z",
+            "contentHash": null,
+            "evidenceNote": "Opened original publisher page on November 9, verified story body, byline, article type and publication date, subject to stated precision. No archived historical snapshot or checksum obtained."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "c-ap-guterres-exclusive-nov6",
+          "role": "contrast_b",
+          "headline": "AP Exclusive: Departing UN chief calls this ‘a moment of truth’ in fight to curb global warming",
+          "url": "https://apnews.com/article/un-climate-change-guterres-fossil-fuels-cop31-e5ae99093b025f6fdd44c425602b93d1",
+          "publishedAt": "2026-11-06",
+          "publishedPrecision": "date",
+          "genre": "original exclusive interview",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Non-profit news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "UN moral urgency and fossil-fuel costs",
+            "rationale": "In a direct AP interview Guterres stresses the costs of delay, political responsibility and aid for countries harmed by climate change."
+          },
+          "summary": "AP journalist Seth Borenstein interviews the outgoing UN leader on warming and renewable power ahead of COP31.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-09T07:31:50.027Z",
+            "method": "research-tool",
+            "note": "Full AP original freely read; publisher lacks an exact first-posted clock. Nov 6 original day cross-checked via dated AP byline syndication; no timestamp asserted."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-09T07:31:50.027Z",
+            "contentHash": null,
+            "evidenceNote": "Opened original publisher page on November 9, verified story body, byline, article type and publication date, subject to stated precision. No archived historical snapshot or checksum obtained."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The COP31 UN climate summit was scheduled to begin in Antalya, Turkey, on November 9, after the November 8 Paris cutoff.",
+          "sourceIds": [
+            "c-reuters-cop31-implementation-nov8",
+            "c-guardian-cop31-finance-nov8",
+            "c-ap-guterres-exclusive-nov6"
+          ]
+        },
+        {
+          "text": "Implementation of emissions commitments and action to help climate-vulnerable communities were significant pre-summit themes.",
+          "sourceIds": [
+            "c-reuters-cop31-implementation-nov8",
+            "c-guardian-cop31-finance-nov8",
+            "c-ap-guterres-exclusive-nov6"
+          ]
+        },
+        {
+          "text": "Climate participants discussed how fossil-fuel dependence interacts with global energy-security shocks.",
+          "sourceIds": [
+            "c-reuters-cop31-implementation-nov8",
+            "c-guardian-cop31-finance-nov8",
+            "c-ap-guterres-exclusive-nov6"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters emphasizes limited near-term negotiating ambition through a Singapore minister's remarks; The Guardian emphasizes vulnerable countries' demands and tangible delivery.",
+          "sourceIds": [
+            "c-reuters-cop31-implementation-nov8",
+            "c-guardian-cop31-finance-nov8"
+          ]
+        },
+        {
+          "text": "AP foregrounds the UN chief's urgent moral case for deeper action, while Reuters highlights feasible implementation of prior agreements.",
+          "sourceIds": [
+            "c-ap-guterres-exclusive-nov6",
+            "c-reuters-cop31-implementation-nov8"
+          ]
+        },
+        {
+          "text": "The Guardian scrutinizes host-country fossil-fuel policy, whereas AP centers a world-level institutional warning from Guterres.",
+          "sourceIds": [
+            "c-guardian-cop31-finance-nov8",
+            "c-ap-guterres-exclusive-nov6"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "COP31 had not opened by the historical cutoff, so its results, funds and targets were not settled.",
+        "The extent to which any proposed electrification pledge would require low-carbon energy remained disputed.",
+        "Climate-damage and negotiating-outcome projections were not observed end-of-day results."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Singapore's minister expected no major new mitigation-target upgrade.",
+          "reason": "Forecast by a participant, not the subsequent COP outcome.",
+          "sourceIds": [
+            "c-reuters-cop31-implementation-nov8"
+          ]
+        },
+        {
+          "text": "Guterres judged political leadership to have failed on climate action.",
+          "reason": "Attributed assessment and moral framing, not a separately measured causal conclusion.",
+          "sourceIds": [
+            "c-ap-guterres-exclusive-nov6"
+          ]
+        },
+        {
+          "text": "Advocates alleged continued fossil-fuel investments undermined hosts' climate leadership.",
+          "reason": "Attributed advocacy assessment, not independently proven summit failure.",
+          "sourceIds": [
+            "c-guardian-cop31-finance-nov8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "israel-eisenkot-formal-mandate-nov8",
+      "eventId": "me-israel-parliamentary-election-2026",
+      "title": "Israel's president formally entrusts Eisenkot with assembling a government",
+      "summary": "On November 8, President Isaac Herzog formally gave centrist Yashar leader Gadi Eisenkot the first mandate to try to form a coalition after an election that gave neither bloc a majority. Eisenkot urged compromise and appealed to legislators from Likud and Religious Zionism. Arab-led parties backed his nomination, yet disagreements about their role, ultra-Orthodox conscription and Netanyahu's continued leadership left the result uncertain.",
+      "whyItMatters": "The coalition outcome could shape Israel's approach to Gaza, the West Bank, Lebanon, Iran, domestic democratic institutions and relations with Washington; the nomination was significant but not a transfer of power.",
+      "region": "Middle East / Israel / occupied Palestinian territories",
+      "tags": [
+        "Israel",
+        "government",
+        "parliament",
+        "coalition",
+        "election",
+        "Palestinians",
+        "security"
+      ],
+      "selectionRationale": "A formal leadership and coalition milestone in a militarily and diplomatically consequential state; its direction can affect regional conflict and international alliances.",
+      "evidenceNote": "Original AP field reporting by two journalists, original Times of Israel ceremony coverage and Al Jazeera Staff reporting with Ramallah correspondent analysis. AP first publication day is corroborated by dated AP distribution though an exact time is absent on its publisher page.",
+      "articles": [
+        {
+          "id": "i-ap-eisenkot-mandate-nov8",
+          "role": "reference",
+          "headline": "Israel’s president gives Eisenkot the first chance to form the next government",
+          "url": "https://apnews.com/article/israel-elections-netanyahu-eisenkot-bec07675825bee5895315e2ea1cb5751",
+          "publishedAt": "2026-11-08",
+          "publishedPrecision": "date",
+          "genre": "original bylined political news",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Not-for-profit news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Procedural government formation",
+            "rationale": "Explains the presidential mandate and competing possible coalitions without portraying a future government as already achieved."
+          },
+          "summary": "AP reporters describe the formal November 8 ceremony, parliamentary deadlock and difficult choices about Arab and ultra-Orthodox political parties.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-09T07:32:43.199Z",
+            "method": "research-tool",
+            "note": "Read original full AP text by Giovanna Dell'Orto and Melanie Lidman freely. November 8 publication day cross-checked with AP syndication; publisher page has no visible first-publication clock."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-09T07:32:43.199Z",
+            "contentHash": null,
+            "evidenceNote": "Opened substantive original publisher text and reviewed date, genre, byline and newsroom on Nov 9. No archived capture or article hash was checked."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "i-toi-eisenkot-compromise-nov8",
+          "role": "contrast_a",
+          "headline": "Eisenkot tasked with forming government, vows ‘creative and unconventional’ path to ‘emergency’ coalition",
+          "url": "https://www.timesofisrael.com/eisenkot-gets-nod-to-form-government-vows-unconventional-acts-in-time-of-emergency/",
+          "publishedAt": "2026-11-08T21:09:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original local political reporting",
+          "outlet": {
+            "name": "The Times of Israel",
+            "domain": "timesofisrael.com",
+            "country": "Israel",
+            "ownership": "Privately operated Times of Israel company",
+            "ownershipGroup": "times-of-israel",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Israeli party maneuvering and constitutional process",
+            "rationale": "Uses direct local coverage of Eisenkot's words and procedural details, distinguishing outreach to Likud members from direct outreach to Netanyahu."
+          },
+          "summary": "The Times of Israel reports Eisenkot's ceremony, pledge to form an emergency government and obstacles involving former Netanyahu allies and conscription.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-09T07:32:43.199Z",
+            "method": "research-tool",
+            "note": "Read full Times of Israel original by Ariela Karmel and staff without paywall; publisher 8 Nov 23:09 Israel time = 21:09 UTC."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-09T07:32:43.199Z",
+            "contentHash": null,
+            "evidenceNote": "Opened substantive original publisher text and reviewed date, genre, byline and newsroom on Nov 9. No archived capture or article hash was checked."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "i-aljazeera-eisenkot-parties-nov8",
+          "role": "contrast_b",
+          "headline": "Eisenkot open to Netanyahu joining Israel’s next government",
+          "url": "https://www.aljazeera.com/news/2026/11/8/israels-president-tasks-eisenkot-to-form-new-coalition-government",
+          "publishedAt": "2026-11-08",
+          "publishedPrecision": "date",
+          "genre": "staff news report with correspondent perspective",
+          "outlet": {
+            "name": "Al Jazeera",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network, Qatar-funded",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Arab-party leverage and Palestinian representation",
+            "rationale": "Asks whether opponents can displace Netanyahu without relying on Arab-led parties and highlights views from a Ramallah correspondent."
+          },
+          "summary": "Al Jazeera reports the new mandate and Arab-led parties' leverage, with its own commentary on Netanyahu's caretaker position.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-09T07:32:43.199Z",
+            "method": "research-tool",
+            "note": "Read free original Al Jazeera Staff article dated Nov 8, including own correspondent Nour Odeh. Its headline arguably implies more personal openness to Netanyahu than the recorded speech proves."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-09T07:32:43.199Z",
+            "contentHash": null,
+            "evidenceNote": "Opened substantive original publisher text and reviewed date, genre, byline and newsroom on Nov 9. No archived capture or article hash was checked."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "On November 8, Herzog formally gave Eisenkot the first opportunity to form a government; no new coalition existed at the time.",
+          "sourceIds": [
+            "i-ap-eisenkot-mandate-nov8",
+            "i-toi-eisenkot-compromise-nov8",
+            "i-aljazeera-eisenkot-parties-nov8"
+          ]
+        },
+        {
+          "text": "Neither the Eisenkot-aligned parties nor Netanyahu's bloc held a majority of the 120-seat Knesset from the October election.",
+          "sourceIds": [
+            "i-ap-eisenkot-mandate-nov8",
+            "i-toi-eisenkot-compromise-nov8",
+            "i-aljazeera-eisenkot-parties-nov8"
+          ]
+        },
+        {
+          "text": "Eisenkot had 28 days to seek a cabinet, with a possible 14-day extension under the relevant process.",
+          "sourceIds": [
+            "i-ap-eisenkot-mandate-nov8",
+            "i-toi-eisenkot-compromise-nov8",
+            "i-aljazeera-eisenkot-parties-nov8"
+          ]
+        },
+        {
+          "text": "Arab-led parties supported Eisenkot's nomination while prospective coalition partners disagreed about relying on them to govern.",
+          "sourceIds": [
+            "i-ap-eisenkot-mandate-nov8",
+            "i-toi-eisenkot-compromise-nov8",
+            "i-aljazeera-eisenkot-parties-nov8"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "AP centers the procedural handover and routes to a majority; The Times of Israel provides detailed speeches, factional negotiations and conscription trade-offs.",
+          "sourceIds": [
+            "i-ap-eisenkot-mandate-nov8",
+            "i-toi-eisenkot-compromise-nov8"
+          ]
+        },
+        {
+          "text": "Al Jazeera emphasizes Palestinian citizens' representation and Netanyahu's caretaker leverage, while the Times of Israel emphasizes mainstream bloc compromises.",
+          "sourceIds": [
+            "i-aljazeera-eisenkot-parties-nov8",
+            "i-toi-eisenkot-compromise-nov8"
+          ]
+        },
+        {
+          "text": "Al Jazeera's headline suggests possible inclusion of Netanyahu personally, while The Times of Israel stresses that Eisenkot specifically appealed to Likud lawmakers and not Netanyahu; the quoted speech favors the narrower reading.",
+          "sourceIds": [
+            "i-aljazeera-eisenkot-parties-nov8",
+            "i-toi-eisenkot-compromise-nov8"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Eisenkot had not secured a coalition or replaced Netanyahu as prime minister by cutoff.",
+        "Whether Arab-led parties would support a minority government, or ultra-Orthodox parties would accept conscription compromises, was unknown.",
+        "The eventual government's approach to Israeli and regional conflicts remained speculative."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Netanyahu asserted that Arab-led parties stole the election.",
+          "reason": "AP reported the accusation without supporting evidence; electoral authorities said the election was valid.",
+          "sourceIds": [
+            "i-ap-eisenkot-mandate-nov8"
+          ]
+        },
+        {
+          "text": "Eisenkot pledged that creative compromises could bring a national emergency government into being.",
+          "reason": "A campaign-to-governing intention, not proof that the parties would agree.",
+          "sourceIds": [
+            "i-toi-eisenkot-compromise-nov8",
+            "i-aljazeera-eisenkot-parties-nov8"
+          ]
+        },
+        {
+          "text": "Commentators suggested Netanyahu could strategically prolong caretaker rule if Eisenkot failed.",
+          "reason": "Attributed political interpretation, not independently established intent.",
+          "sourceIds": [
+            "i-aljazeera-eisenkot-parties-nov8"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "saudi-aramco-riyadh-missile-debris-nov8",
+      "eventId": "me-saudi-houthi-escalation-2026",
+      "title": "Aramco office in Riyadh damaged amid Houthi-claimed missile attacks",
+      "summary": "Saudi Arabia's energy ministry said falling debris from an attempted November 8 attack caused limited damage at an Aramco administrative building in Riyadh and no casualties there. Saudi-led coalition officials said missiles attributed to the Houthis had been intercepted, and the Houthis claimed attacks on Saudi targets. Reciprocal allegations of strikes and casualties in Yemen intensified concern about regional escalation.",
+      "whyItMatters": "Threats involving the world's largest crude exporter, Saudi aviation and Yemen's route toward the Bab el-Mandeb shipping chokepoint affect regional security and international energy and commerce; further fighting heightens civilian risks.",
+      "region": "Middle East / Saudi Arabia / Yemen",
+      "tags": [
+        "Saudi-Arabia",
+        "Yemen",
+        "Houthis",
+        "Aramco",
+        "energy",
+        "missiles",
+        "security"
+      ],
+      "selectionRationale": "Immediate cross-border military events affecting major Gulf energy infrastructure in a broader war with global shipping and oil-market consequences.",
+      "evidenceNote": "Three distinct originating newsrooms: Reuters reporters on the ground, Saudi Gazette staff carrying the domestic ministry announcement and Al Jazeera staff presenting broader conflict reporting. Al Jazeera page bears an update after November 8; only corroborated same-day official claims and context are used as common facts.",
+      "articles": [
+        {
+          "id": "s-reuters-aramco-nov8",
+          "role": "reference",
+          "headline": "Houthi attack damages Aramco building in Riyadh's financial district",
+          "url": "https://www.reuters.com/world/middle-east/loud-booms-heard-saudi-capital-riyadh-after-early-warning-alert-issued-2026-11-08/",
+          "publishedAt": "2026-11-08T05:24:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original reported international news",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Security event and international oil exposure",
+            "rationale": "Separates the physical damage, Saudi official reports and Houthi claims while connecting the strike to oil supply, airports and regional routes."
+          },
+          "summary": "Reuters reports damage to a Saudi Aramco office in Riyadh and a Saudi coalition report of interceptions, while attributing claims of responsibility to the Houthis.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-09T07:33:33.206Z",
+            "method": "research-tool",
+            "note": "Direct Reuters original by Timour Azhari and Jana Choukeir opened and read free. Publisher displays Nov 8 05:24 UTC but later text updates cannot be individually dated."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-09T07:33:33.206Z",
+            "contentHash": null,
+            "evidenceNote": "Original publisher page opened and substantive text read November 9, with original date, genre and attribution checked. No archived as-of-cutoff snapshot or hash obtained."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "s-saudi-gazette-aramco-nov8",
+          "role": "contrast_a",
+          "headline": "Saudi Aramco facility targeted in attempted attack in Riyadh; no casualties reported",
+          "url": "https://saudigazette.com.sa/article/666080/saudi-arabia/saudi-aramco-facility-targeted-in-attempted-attack-in-riyadh-no-casualties-reported",
+          "publishedAt": "2026-11-08T09:03:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original local brief from identified ministry source",
+          "outlet": {
+            "name": "Saudi Gazette",
+            "domain": "saudigazette.com.sa",
+            "country": "Saudi Arabia",
+            "ownership": "Saudi Gazette / Okaz media publishing group",
+            "ownershipGroup": "saudi-gazette-okaz",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Saudi state-source incident and safety response",
+            "rationale": "Narrowly reports the energy ministry's account of limited administrative damage, zero reported casualties and emergency handling."
+          },
+          "summary": "Saudi Gazette reports the ministry's statement that debris struck an office building and that authorities responded to the incident.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-09T07:33:33.206Z",
+            "method": "research-tool",
+            "note": "Original free Saudi Gazette article opened and read. Publisher dates publication and last update Nov 8 12:03 PM Saudi local time, 09:03 UTC."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-09T07:33:33.206Z",
+            "contentHash": null,
+            "evidenceNote": "Original publisher page opened and substantive text read November 9, with original date, genre and attribution checked. No archived as-of-cutoff snapshot or hash obtained."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "s-aljazeera-aramco-yemen-nov8",
+          "role": "contrast_b",
+          "headline": "Saudi Aramco building in Riyadh damaged in ‘attempted’ attack",
+          "url": "https://www.aljazeera.com/news/2026/11/8/saudi-arabia-intercepts-houthi-missiles-targeting-riyadh-eastern-province",
+          "publishedAt": "2026-11-08",
+          "publishedPrecision": "date",
+          "genre": "staff news account with regional conflict reporting",
+          "outlet": {
+            "name": "Al Jazeera",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network, Qatar-funded",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Yemen hostilities and civilian-harm allegations",
+            "rationale": "Includes the Saudi incident within a regional account of mutual military claims and civilian casualties in Yemen, with explicit limits on verification."
+          },
+          "summary": "Al Jazeera covers the damage and coalition interceptions together with claims by the Houthis and accounts of casualties in Yemen.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-09T07:33:33.206Z",
+            "method": "research-tool",
+            "note": "Original Al Jazeera Staff article published Nov 8, fully readable without login. Page updated relative to Nov 9, after historical cutoff; later additions are not used as cutoff-verified facts."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-09T07:33:33.206Z",
+            "contentHash": null,
+            "evidenceNote": "Original publisher page opened and substantive text read November 9, with original date, genre and attribution checked. No archived as-of-cutoff snapshot or hash obtained."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The Saudi energy ministry said a Riyadh Aramco administration building suffered limited debris damage on November 8 during an attempted attack; it reported no casualties at that building.",
+          "sourceIds": [
+            "s-reuters-aramco-nov8",
+            "s-saudi-gazette-aramco-nov8",
+            "s-aljazeera-aramco-yemen-nov8"
+          ]
+        },
+        {
+          "text": "Saudi coalition officials reported missile interceptions in or toward Riyadh and other Saudi areas and attributed the projectiles to Yemen's Houthis; these are attributed government reports.",
+          "sourceIds": [
+            "s-reuters-aramco-nov8",
+            "s-aljazeera-aramco-yemen-nov8"
+          ]
+        },
+        {
+          "text": "The attack occurred amid renewed conflict between Yemen's Houthis and the Saudi-led coalition.",
+          "sourceIds": [
+            "s-reuters-aramco-nov8",
+            "s-aljazeera-aramco-yemen-nov8"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Saudi Gazette concentrates on the ministry's limited-damage and no-casualty statements; Reuters also reports Houthi claims and potential energy-sector consequences.",
+          "sourceIds": [
+            "s-saudi-gazette-aramco-nov8",
+            "s-reuters-aramco-nov8"
+          ]
+        },
+        {
+          "text": "Al Jazeera gives space to reports of casualties from conflict inside Yemen and reciprocal allegations, whereas the Saudi Gazette account focuses narrowly on the Riyadh office.",
+          "sourceIds": [
+            "s-aljazeera-aramco-yemen-nov8",
+            "s-saudi-gazette-aramco-nov8"
+          ]
+        },
+        {
+          "text": "Reuters foregrounds the Gulf oil and transportation security context; Al Jazeera more extensively describes the conflict's humanitarian costs and contested attribution.",
+          "sourceIds": [
+            "s-reuters-aramco-nov8",
+            "s-aljazeera-aramco-yemen-nov8"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The full origin, exact intended targets and impact of all reported projectiles were not independently established by cutoff.",
+        "The no-casualties ministry statement applies specifically to the Aramco office, not the entire regional fighting.",
+        "Reports of deaths in Yemen attributed to Saudi-led strikes were supplied by a party to the conflict, not independently verified.",
+        "Al Jazeera's current page was updated after the November 8 cutoff; no preserved contemporaneous version is available."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The Houthis claimed attacks on Aramco energy targets and the Riyadh airport.",
+          "reason": "The claims come from a belligerent; Saudi authorities had not confirmed every intended target or claimed effect.",
+          "sourceIds": [
+            "s-reuters-aramco-nov8",
+            "s-aljazeera-aramco-yemen-nov8"
+          ]
+        },
+        {
+          "text": "A Houthi-run health ministry said Saudi air strikes near Sanaa killed dozens of people.",
+          "reason": "Casualty totals shifted between reports, responsibility remains attributed, and Reuters and Al Jazeera could not independently verify the numbers.",
+          "sourceIds": [
+            "s-reuters-aramco-nov8",
+            "s-aljazeera-aramco-yemen-nov8"
+          ]
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-09T07:35:20.468Z",
+    "author": "ChatGPT",
+    "reason": "Original November 8 daily edition, first publication after the completed Paris day; no prior version overwritten."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent-only review. Nine directly opened, freely readable originating newsroom articles, exactly three per event: Reuters, Guardian, AP; AP, Times of Israel, Al Jazeera; Reuters, Saudi Gazette, Al Jazeera. Verified exact headlines, full links, bylines, report genres and publication dates. Reuters and Guardian dated UTC clocks, and Times of Israel and Saudi Gazette local times were converted to UTC. AP publisher pages omitted an exact first-posted clock; dated AP syndication supported Nov 6 and Nov 8 dates only. Al Jazeera's Aramco article was later updated and Reuters pages can change; historical as-of-cutoff copies were not available. Unsupported claims remain attributed. No human review, article fingerprint or archived captures claimed."
+  }
+}
