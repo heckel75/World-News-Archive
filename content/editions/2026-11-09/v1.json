@@ -1,0 +1,631 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-09",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-09T22:59:59Z",
+  "recordedAt": "2026-11-10T07:39:19.604Z",
+  "kind": "daily",
+  "selectionSummary": "Applied consistent world-impact criteria: population and geographical reach, cross-border environmental/economic/security consequences, likely lasting effects and independently reported significance. Three distinct November 9 stories were COP31's opening in Turkey, preparations for renewed Russia–Ukraine–US talks, and Iranian-US negotiations and Gulf maritime risks.",
+  "snapshot": {
+    "summary": "COP31 opened with contested climate-finance and electrification priorities; the US, Ukraine and Russia prepared for talks amid sharply different expectations and terms; and Iran and Washington continued to disagree over conditions to end their war and restore secure Hormuz shipping.",
+    "connections": [
+      "COP31's clean-energy policy debate intersects with fuel-price shocks and shipping risks caused by the US–Iran war and Russia's invasion of Ukraine.",
+      "Each of the three processes involved an announcement of intentions rather than a guaranteed result: electrification plans, security frameworks and peace terms remained disputed.",
+      "The consequences extend beyond the negotiating countries through climate adaptation funding, Europe's security and global fuel commerce."
+    ],
+    "uncertainties": [
+      "No new final COP31 emissions, energy or climate-finance deal existed by the November 9 cutoff.",
+      "November 10–11 Abu Dhabi negotiations had not yet begun and had produced no documented new peace agreement.",
+      "Iran–US peace and reopening of Hormuz were unsettled. A selected original Guardian article was edited after the cutoff without a verified historical capture."
+    ]
+  },
+  "stories": [
+    {
+      "id": "cop31-antalya-opening-finance-nov9",
+      "eventId": "gl-cop31-climate-antalya-2026",
+      "title": "COP31 opens in Antalya with climate-finance dispute and a push for electrification",
+      "summary": "COP31 opened in Antalya on November 9 under Turkey's presidency, with Australia directing formal negotiations. Leaders emphasized implementation of climate pledges and a proposed voluntary goal to increase electricity's share of global energy demand to about 35% by 2035. Delegates also disputed how adaptation funding for vulnerable countries would be addressed.",
+      "whyItMatters": "The nearly global summit influences investment, energy systems, emissions and funding for communities exposed to warming, with consequences beyond the negotiating states.",
+      "region": "Global / Turkey / Australia",
+      "tags": [
+        "climate",
+        "COP31",
+        "climate-finance",
+        "adaptation",
+        "electrification",
+        "energy-transition"
+      ],
+      "selectionRationale": "Chosen for global population reach, long-lasting environmental and economic stakes, international financing and opening-day developments corroborated by distinct international and Turkish original newsrooms.",
+      "evidenceNote": "Reuters original article stamped November 9 at 01:04 UTC; AFP English report hosted at afp.com displays November 9 10:49 without verified timezone; DHA Turkish original photo-news feature shows first published November 9 at 10:08 and last updated that day 23:40 without timezone explicitly labeled. All opened without login; no archived snapshot.",
+      "articles": [
+        {
+          "id": "cop31-reuters-opening-nov9",
+          "role": "reference",
+          "headline": "COP31 summit leaders urge crisis-wracked world to move faster on climate",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-open-turkey-with-climate-goals-under-pressure-war-ai-2026-11-09/",
+          "publishedAt": "2026-11-09T01:04:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "international news report",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Global policy and energy context",
+            "rationale": "Frames opening appeals through emissions, clean electricity, fossil-fuel dependence, AI demand and geopolitical energy prices."
+          },
+          "summary": "Reuters reports UN climate chief Stiell urging faster action, Turkey's voluntary electrification initiative and criticism that electricity growth without clean generation may not cut emissions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-10T07:36:49.545Z",
+            "method": "research-tool",
+            "note": "Original Reuters text, bylines and publication time visible; no payment or login."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-10T07:36:49.545Z",
+            "contentHash": null,
+            "evidenceNote": "Direct publisher page inspected with bylines Simon Jessop and Tuvan Gumrukcu and a November 9 UTC first-published clock."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop31-afp-finance-nov9",
+          "role": "contrast_a",
+          "headline": "COP31 opens with leaders under pressure to tackle climate crisis",
+          "url": "https://www.afp.com/de/node/3851971",
+          "publishedAt": "2026-11-09",
+          "publishedPrecision": "date",
+          "genre": "original agency dispatch",
+          "outlet": {
+            "name": "Agence France-Presse",
+            "domain": "afp.com",
+            "country": "France",
+            "ownership": "Agence France-Presse news agency, independent under French statute",
+            "ownershipGroup": "agence-france-presse",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Climate finance and poorer countries' demands",
+            "rationale": "Emphasizes developed/developing-country differences over agenda wording, finance, adaptation support and a just energy transition."
+          },
+          "summary": "AFP describes the opening dispute about financing, competing priorities of wealthier and vulnerable countries, and the unusual Turkish-Australian chairing arrangement.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-10T07:36:49.545Z",
+            "method": "research-tool",
+            "note": "English publisher article read without payment; AFP is the originating newsroom, not a syndicated copy."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-10T07:36:49.545Z",
+            "contentHash": null,
+            "evidenceNote": "Original AFP article directly opened; displayed 'Published on November 9, 2026 at 10:49' but timezone not verified, so original date is stored without an inferred UTC clock."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop31-dha-host-nov9",
+          "role": "contrast_b",
+          "headline": "Dünyanın iklim gündemi Antalya'da; COP31 başladı",
+          "url": "https://www.dha.com.tr/foto-galeri/dunyanin-iklim-gundemi-antalyada-cop31-basladi-2977756",
+          "publishedAt": "2026-11-09",
+          "publishedPrecision": "date",
+          "genre": "original on-site photo report with written article",
+          "outlet": {
+            "name": "Demirören News Agency (DHA)",
+            "domain": "dha.com.tr",
+            "country": "Turkey",
+            "ownership": "Demirören Haber Ajansı / Demirören Group",
+            "ownershipGroup": "demiroren-haber-ajansi",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Host-country programme and local implementation",
+            "rationale": "Centers Antalya's venue, Turkish COP presidency, Australian negotiator leadership, and sessions about agriculture, public health, methane and water."
+          },
+          "summary": "DHA's Antalya team covers opening-day organizers and practical programming, including food systems, health and climate adaptation.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-10T07:36:49.545Z",
+            "method": "research-tool",
+            "note": "Text readable on DHA without login; photographs remain on publisher website and are not republished."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-10T07:36:49.545Z",
+            "contentHash": null,
+            "evidenceNote": "Original Turkish report by Mehmet Çınar, Tolga Yıldırım and colleagues opened, showing '09 Kasım 2026 - 10:08' and last update Nov 9 23:40, neither with explicit timezone."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "COP31 formally opened on November 9 in Antalya, with Turkey hosting and Australia leading the negotiations.",
+          "sourceIds": [
+            "cop31-reuters-opening-nov9",
+            "cop31-afp-finance-nov9",
+            "cop31-dha-host-nov9"
+          ]
+        },
+        {
+          "text": "Implementation of existing climate commitments was a stated opening priority, not evidence that emissions or finance targets had been met.",
+          "sourceIds": [
+            "cop31-reuters-opening-nov9",
+            "cop31-afp-finance-nov9",
+            "cop31-dha-host-nov9"
+          ]
+        },
+        {
+          "text": "Turkey's presidency proposed a voluntary expansion in electrification toward around 35% of global energy demand by 2035, not a binding agreement already reached.",
+          "sourceIds": [
+            "cop31-reuters-opening-nov9",
+            "cop31-afp-finance-nov9"
+          ]
+        },
+        {
+          "text": "Climate-finance and adaptation needs of developing countries were under discussion as COP31 opened.",
+          "sourceIds": [
+            "cop31-afp-finance-nov9",
+            "cop31-dha-host-nov9"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "AFP foregrounds differences over rich-country finance, while DHA presents the host country's opening-day programme and local climate-health agenda.",
+          "sourceIds": [
+            "cop31-afp-finance-nov9",
+            "cop31-dha-host-nov9"
+          ]
+        },
+        {
+          "text": "Reuters scrutinizes electrification without necessarily clean power, while DHA stresses applied sectors and conference activity rather than projected carbon reductions.",
+          "sourceIds": [
+            "cop31-reuters-opening-nov9",
+            "cop31-dha-host-nov9"
+          ]
+        },
+        {
+          "text": "AFP describes a contentious negotiating start; Reuters situates it among global fuel and geopolitical shocks.",
+          "sourceIds": [
+            "cop31-afp-finance-nov9",
+            "cop31-reuters-opening-nov9"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The final COP31 decisions on adaptation finance and emissions were not known at the November 9 Paris cutoff.",
+        "Whether signatories would use low-carbon power to meet a voluntary electrification pledge, or whether enough countries would sign, remained open.",
+        "No historical copies of the selected article texts at the cutoff were available."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "COP leaders argued that electrification would produce material climate benefits.",
+          "sourceIds": [
+            "cop31-reuters-opening-nov9",
+            "cop31-afp-finance-nov9"
+          ],
+          "reason": "A proposal whose effects depend on future adoption and the carbon intensity of generation."
+        },
+        {
+          "text": "A negotiating source told AFP a finance work programme would be placed on the formal agenda.",
+          "sourceIds": [
+            "cop31-afp-finance-nov9"
+          ],
+          "reason": "This remained a single attributed source's account; a final agreed agenda was not independently inspected."
+        }
+      ]
+    },
+    {
+      "id": "abu-dhabi-trilateral-peace-preparations-nov9",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Russia–Ukraine peace talks approach as security guarantees and Europe's role remain contested",
+      "summary": "The United States prepared to mediate November 10–11 talks between Ukraine and Russia in Abu Dhabi. US officials expressed optimism about potential compromises, whereas Kyiv's representative cautioned that the first round would probably not deliver a breakthrough. The Kremlin insisted on a direct trilateral format and emphasized its own preferred security framework.",
+      "whyItMatters": "Any terms involving sovereignty, territorial control or postwar guarantees could affect Ukraine's people and long-term European security, even before an agreement is achieved.",
+      "region": "Europe / Ukraine–Russia / United States / UAE",
+      "tags": [
+        "Russia-Ukraine-war",
+        "peace-talks",
+        "security-guarantees",
+        "European-security",
+        "United-States",
+        "Abu-Dhabi"
+      ],
+      "selectionRationale": "Selected for human and geopolitical reach, consequences for European territorial security and the approaching high-level diplomacy, not because a peace agreement was already achieved. Persistent event ID from earlier war reporting reused.",
+      "evidenceNote": "Three original pages opened: Reuters Washington dispatch by Steve Holland, Humeyra Pamuk and Kanishka Singh (Nov 9 18:42 UTC); TASS Russian agency digest datelined Moscow November 9; Ukrainska Pravda bylined local report Nov 9 18:58 (timezone unspecified) quoting a DW interview with attribution. The Ukrainian article is an original editorial write-up, not a direct DW interview or syndicated Reuters wire.",
+      "articles": [
+        {
+          "id": "abu-dhabi-reuters-trump-nov9",
+          "role": "reference",
+          "headline": "Trump says US seeing 'strong inclination' to end Russia's war in Ukraine",
+          "url": "https://www.reuters.com/world/europe/russia-ukraine-showing-flexibility-territory-us-official-says-2026-11-09/",
+          "publishedAt": "2026-11-09T18:42:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original diplomatic reporting",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "US mediation and possible compromise",
+            "rationale": "Balances Trump's optimism and an unnamed US official's territorial-flexibility assertion against still-opposed positions on sovereignty and security guarantees."
+          },
+          "summary": "Reuters reports the forthcoming Abu Dhabi talks, a US proposal to consider NATO-style security guarantees and Trump's positive assessment; no concession is independently confirmed.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-10T07:37:35.503Z",
+            "method": "research-tool",
+            "note": "Full readable article without login; official interpretations presented as claims, not independently confirmed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-10T07:37:35.503Z",
+            "contentHash": null,
+            "evidenceNote": "Opened original Reuters publisher article; three reporter bylines and original Nov 9 18:42 UTC stamp verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "abu-dhabi-tass-kremlin-nov9",
+          "role": "contrast_a",
+          "headline": "Kremlin spokesman addresses European security architecture, Ukraine talks in Abu Dhabi",
+          "url": "https://tass.com/politics/2214779",
+          "publishedAt": "2026-11-09",
+          "publishedPrecision": "date",
+          "genre": "Russian state agency briefing digest",
+          "outlet": {
+            "name": "TASS",
+            "domain": "tass.com",
+            "country": "Russia",
+            "ownership": "Russian state-owned news agency",
+            "ownershipGroup": "tass-russia",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Russian official territorial and format framing",
+            "rationale": "Reports the Kremlin's argument that direct talks must remain trilateral and gives Peskov's claims about Russian-controlled Ukrainian land and wider Europe talks."
+          },
+          "summary": "TASS summarizes Dmitry Peskov's November 9 briefing that the talks will be trilateral and Moscow would not publicly discuss proposals for a Russia-NATO security forum.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-10T07:37:35.503Z",
+            "method": "research-tool",
+            "note": "Full original TASS report is free; Peskov's claims are explicitly attributed to the Russian state, not independently adopted."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-10T07:37:35.503Z",
+            "contentHash": null,
+            "evidenceNote": "Original TASS English article opened with 'MOSCOW, November 9' dateline and TASS newsroom origin; no confirmed timezone-qualified publication clock, so date-only."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "abu-dhabi-ukrpravda-caution-nov9",
+          "role": "contrast_b",
+          "headline": "Ukrainian representative says breakthrough unlikely in first round of trilateral talks, hopes pinned on second round",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/09/8062017/",
+          "publishedAt": "2026-11-09",
+          "publishedPrecision": "date",
+          "genre": "original Ukrainian newsroom diplomatic update",
+          "outlet": {
+            "name": "Ukrainska Pravda",
+            "domain": "pravda.com.ua",
+            "country": "Ukraine",
+            "ownership": "Ukrainska Pravda independent editorial newsroom",
+            "ownershipGroup": "ukrainska-pravda",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Ukraine's cautious expectations",
+            "rationale": "Highlights a Ukrainian negotiator's warning that resuming talks is not synonymous with an imminent breakthrough and describes separate European preparations."
+          },
+          "summary": "Ukrainska Pravda reports negotiator Davyd Arakhamiia's cautious view, naming DW as the original interviewer, and describes the Ukrainian delegation and European consultation plans.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-10T07:37:35.503Z",
+            "method": "research-tool",
+            "note": "Publisher article body readable without registration; its quoted interview is not claimed as conducted by the UP newsroom."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-10T07:37:35.503Z",
+            "contentHash": null,
+            "evidenceNote": "Original bylined Ukrainska Pravda English article by Oleksandr Shumilin opened, Nov 9 18:58 display without explicit timezone; quote correctly attributed to DW interview."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Negotiators from Russia, Ukraine and the United States were preparing for November 10–11 talks in Abu Dhabi, which had not taken place by the November 9 cutoff.",
+          "sourceIds": [
+            "abu-dhabi-reuters-trump-nov9",
+            "abu-dhabi-tass-kremlin-nov9",
+            "abu-dhabi-ukrpravda-caution-nov9"
+          ]
+        },
+        {
+          "text": "Postwar security guarantees formed a key announced subject of the prospective talks.",
+          "sourceIds": [
+            "abu-dhabi-reuters-trump-nov9",
+            "abu-dhabi-tass-kremlin-nov9"
+          ]
+        },
+        {
+          "text": "Russian officials insisted on a trilateral main negotiating format even as Ukrainian reporting described consultations with European representatives around the summit.",
+          "sourceIds": [
+            "abu-dhabi-tass-kremlin-nov9",
+            "abu-dhabi-ukrpravda-caution-nov9"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters foregrounds US optimism about diplomacy while the Ukrainian newsroom highlights its negotiator's modest expectations for the first round.",
+          "sourceIds": [
+            "abu-dhabi-reuters-trump-nov9",
+            "abu-dhabi-ukrpravda-caution-nov9"
+          ]
+        },
+        {
+          "text": "TASS focuses on the Kremlin's rules for participation and territorial rhetoric; Ukrainska Pravda covers Ukrainian bargaining constraints and Europe's intended consultations.",
+          "sourceIds": [
+            "abu-dhabi-tass-kremlin-nov9",
+            "abu-dhabi-ukrpravda-caution-nov9"
+          ]
+        },
+        {
+          "text": "Reuters treats the potential NATO-style guarantees as a key US discussion item, whereas TASS portrays security talks through the Kremlin spokesman's negotiating terms.",
+          "sourceIds": [
+            "abu-dhabi-reuters-trump-nov9",
+            "abu-dhabi-tass-kremlin-nov9"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The November 10–11 round had not begun by cutoff and had achieved no verifiable new ceasefire, prisoner exchange or peace agreement.",
+        "No agreed terms existed for territorial control or enforceable postwar security guarantees.",
+        "The extent of European participation directly at the table versus separate coordination remained contested."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "An unnamed US official said Russia and Ukraine had privately shown flexibility over exchanging territory.",
+          "sourceIds": [
+            "abu-dhabi-reuters-trump-nov9"
+          ],
+          "reason": "Not independently confirmed by public Ukrainian or Russian commitments; one interested unnamed source."
+        },
+        {
+          "text": "Peskov described territorial changes in Ukraine as indisputable realities.",
+          "sourceIds": [
+            "abu-dhabi-tass-kremlin-nov9"
+          ],
+          "reason": "Russian government position on internationally disputed territory, not an independently accepted legal claim."
+        },
+        {
+          "text": "Trump said both sides were strongly inclined toward peace.",
+          "sourceIds": [
+            "abu-dhabi-reuters-trump-nov9"
+          ],
+          "reason": "Political assessment, not evidence of a signed agreement or ceased hostilities."
+        }
+      ]
+    },
+    {
+      "id": "iran-us-war-terms-hormuz-nov9",
+      "eventId": "me-iran-us-israel-war-hormuz-2026",
+      "title": "Iran and US remain divided on war-ending terms despite Trump's late-day optimism",
+      "summary": "On November 9 Iran defended an offer to resume talks within two days only if the US first lifted its naval blockade and sanctions and ended hostilities. Washington rejected key preconditions. Reporting from Tehran described further alleged attacks around the Strait of Hormuz, while after meeting Qatar's prime minister, President Trump said broader US attacks seemed unnecessary. No final agreement or verified return to unrestricted shipping followed.",
+      "whyItMatters": "The war and blockade affect fuel prices and shipping through a strategically important Gulf corridor and threaten further strikes across Middle Eastern countries.",
+      "region": "Middle East / Iran / United States / Gulf",
+      "tags": [
+        "Iran-war",
+        "Strait-of-Hormuz",
+        "shipping",
+        "diplomacy",
+        "sanctions",
+        "energy-security",
+        "Qatar"
+      ],
+      "selectionRationale": "Major global oil and gas trade disruption, regional military escalation and same-day competing diplomatic positions. Distinguished from the separate Ukraine war talks and UN climate negotiations.",
+      "evidenceNote": "Directly opened original Reuters Dubai newsroom account (November 9 09:15 UTC), Al Jazeera's report by Tehran-based Maziar Motamedi (Nov 9 date only), and Guardian Washington article by Andrew Roth, originally published Nov 9 22:58 GMT and modified Nov 9 23:12 GMT, after historical Paris cutoff of 22:59:59Z. No pre-modification snapshot: no later wording is represented as a cutoff-time capture.",
+      "articles": [
+        {
+          "id": "iran-reuters-two-day-terms-nov9",
+          "role": "reference",
+          "headline": "Iran defends two-day proposal for peace talks after US rejects conditions",
+          "url": "https://www.reuters.com/world/iran-defends-two-day-proposal-peace-talks-after-us-rejects-conditions-2026-11-09/",
+          "publishedAt": "2026-11-09T09:15:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original diplomatic wire report",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "US–Iran conditions for resuming talks",
+            "rationale": "Contrasts Iranian spokesman's proposed time frame and sanctions conditions with Rubio's public objections."
+          },
+          "summary": "Reuters reports that Tehran offered to shorten the interval before talks but demanded prior relief from the US naval blockade, sanctions and military attacks.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-10T07:38:21.349Z",
+            "method": "research-tool",
+            "note": "Full publisher page was readable without login or payment."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-10T07:38:21.349Z",
+            "contentHash": null,
+            "evidenceNote": "Original Reuters article read, Dubai Newsroom credit and November 9 09:15 UTC publication stamp visible."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "iran-aljazeera-tehran-hormuz-nov9",
+          "role": "contrast_a",
+          "headline": "Iran stands by demands to end the war as US ramps up military pressure",
+          "url": "https://www.aljazeera.com/news/2026/11/9/iran-stands-by-demands-to-end-the-war-as-us-ramps-up-military-pressure",
+          "publishedAt": "2026-11-09",
+          "publishedPrecision": "date",
+          "genre": "original Tehran diplomatic and security report",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network, funded by Qatar",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Tehran perspective on military pressure and transit",
+            "rationale": "Describes Iranian officials' claimed attacks on Qeshm and maritime-navigation restrictions, amid mediators' efforts to avoid renewed full-scale war."
+          },
+          "summary": "Al Jazeera's own Tehran correspondent covers Iran's conditions, Washington's objections, reported pressure on Gulf shipping and competing interpretations of the dispute.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-10T07:38:21.349Z",
+            "method": "research-tool",
+            "note": "Open article text and byline; the article is not a syndicated Reuters copy."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-10T07:38:21.349Z",
+            "contentHash": null,
+            "evidenceNote": "Directly opened original report by Maziar Motamedi dated November 9, with first-posted clock unavailable. Iran state media's shipping counts are explicitly attributed."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "iran-guardian-trump-statement-nov9",
+          "role": "contrast_b",
+          "headline": "Trump says US war in Iran ‘effectively over’ as he plays down escalation concerns",
+          "url": "https://www.theguardian.com/us-news/2026/nov/09/trump-iran-war",
+          "publishedAt": "2026-11-09T22:58:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "original Washington political report",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian News & Media, owned by Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "US administration confidence and political costs",
+            "rationale": "Centers Trump's statements after meeting the Qatari prime minister and considers the US political context rather than treating his optimism as proof of peace."
+          },
+          "summary": "The Guardian reports Trump's claim that wider US military strikes were presently unnecessary while US forces and the blockade remained in place, and notes earlier optimistic remarks that had not delivered a deal.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-10T07:38:21.349Z",
+            "method": "research-tool",
+            "note": "Text free and readable; transparent post-cutoff edit caveat, with only the dated public statements used as historical claims."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-10T07:38:21.349Z",
+            "contentHash": null,
+            "evidenceNote": "Opened original report by Andrew Roth; first-posted Mon 9 Nov 22:58 GMT; last modified Mon 9 Nov 23:12 GMT, 12 minutes after cutoff. No archived original 22:58 version: later edits cannot be asserted to have existed by cutoff."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Iran's negotiating position demanded lifting US sanctions and a naval blockade before new peace talks, and Secretary of State Rubio rejected some of the conditions.",
+          "sourceIds": [
+            "iran-reuters-two-day-terms-nov9",
+            "iran-aljazeera-tehran-hormuz-nov9"
+          ]
+        },
+        {
+          "text": "Mediation continued while military and economic pressure persisted; neither side reported a final agreed end to the war on November 9.",
+          "sourceIds": [
+            "iran-reuters-two-day-terms-nov9",
+            "iran-aljazeera-tehran-hormuz-nov9",
+            "iran-guardian-trump-statement-nov9"
+          ]
+        },
+        {
+          "text": "The safety and control of Strait of Hormuz transit remained a central disputed issue, not a settled maritime regime.",
+          "sourceIds": [
+            "iran-reuters-two-day-terms-nov9",
+            "iran-aljazeera-tehran-hormuz-nov9",
+            "iran-guardian-trump-statement-nov9"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Al Jazeera's Tehran report emphasizes Iranian demands and claimed US pressure, while the Guardian's Washington report emphasizes Trump's peace rhetoric and political consequences.",
+          "sourceIds": [
+            "iran-aljazeera-tehran-hormuz-nov9",
+            "iran-guardian-trump-statement-nov9"
+          ]
+        },
+        {
+          "text": "Reuters concentrates on official timing and preconditions; Al Jazeera adds field reporting and disputed accounts of attacks on shipping infrastructure.",
+          "sourceIds": [
+            "iran-reuters-two-day-terms-nov9",
+            "iran-aljazeera-tehran-hormuz-nov9"
+          ]
+        },
+        {
+          "text": "The Guardian questions repeated White House optimism while Reuters details Rubio's continued objections to Iranian conditions.",
+          "sourceIds": [
+            "iran-guardian-trump-statement-nov9",
+            "iran-reuters-two-day-terms-nov9"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The US–Iran conflict had not ended by a verifiable agreement at the November 9 Paris cutoff.",
+        "Iranian reports of overnight attacks on navigation equipment, tanker incidents and the extent of Qeshm damage were not independently corroborated by the chosen accounts.",
+        "Whether Qatar's mediation could resolve nuclear, sanctions and blockade sequencing remained unknown.",
+        "The Guardian's article was updated after the historical cutoff; no pre-edit snapshot was verified."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Iranian state media claimed eleven tankers were attacked over the preceding ten days.",
+          "sourceIds": [
+            "iran-aljazeera-tehran-hormuz-nov9"
+          ],
+          "reason": "A broadcaster's count repeated in an attributed report; no vessel-by-vessel independent confirmation in the selected articles."
+        },
+        {
+          "text": "President Trump asserted the Iran war was 'effectively over' and further military attacks were unlikely.",
+          "sourceIds": [
+            "iran-guardian-trump-statement-nov9"
+          ],
+          "reason": "Claim is a leader's assessment, not an independently documented ceasefire or settlement; later article modification is disclosed."
+        },
+        {
+          "text": "An Iranian regional official said US strikes hit Qeshm but caused no damage to essential infrastructure.",
+          "sourceIds": [
+            "iran-aljazeera-tehran-hormuz-nov9"
+          ],
+          "reason": "Iranian official's account, not an independently surveyed damage assessment."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-10T07:39:19.604Z",
+    "author": "ChatGPT",
+    "reason": "First agent-reviewed edition of the completed November 9 Paris day, compiled from nine inspected originating-newsroom reports."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Checked original headlines, publisher bodies, author or newsroom credit, original publication dates and clock precision, free readability, URLs and independent ownership groups on all nine source pages. Compared reporting and attributed official claims separately from independently verified facts. No archived copies or article fingerprints were obtained, and no human review is claimed. AFP/DHA/TASS/Ukrainska Pravda/Al Jazeera dates lacking verified UTC clock are date-only. Original Guardian Iran article was posted Nov 9 at 22:58 GMT, then edited at 23:12 GMT after historical cutoff; its current text is not falsely represented as the original pre-cutoff copy. Historical uncertainties exclude known later developments."
+  }
+}
