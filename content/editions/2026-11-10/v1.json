@@ -1,0 +1,647 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-10",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-10T22:59:59Z",
+  "recordedAt": "2026-11-11T07:25:11.314Z",
+  "kind": "daily",
+  "selectionSummary": "Used consistent world-impact criteria: lives and regions affected, international economic/security consequences, long-term environmental effects and independent coverage. The distinct November 10 developments were first-day US-mediated Ukraine–Russia talks, the newly presented Global Carbon Budget during COP31, and G7 deliberations on Iran and Hormuz. Followed prior archive event IDs.",
+  "snapshot": {
+    "summary": "New negotiations tried to narrow the Russia–Ukraine security divide, COP31 scientists cautioned that a small fossil emissions forecast dip could mask increasing overall carbon releases, and G7 ministers faced a maritime security and Iran nuclear diplomacy deadlock.",
+    "connections": [
+      "Both the Ukraine talks and G7 Iran discussions addressed bargaining over cessation of hostilities versus future security terms, without a settlement on November 10.",
+      "Iran-war fuel-price shocks also influenced fossil-emissions projections, connecting security decisions and climate/energy transitions."
+    ],
+    "uncertainties": [
+      "Abu Dhabi negotiations were due to continue November 11 and had achieved no confirmed ceasefire by cutoff.",
+      "The 2026 fossil-fuel decline was projected, not a confirmed durable global emissions peak.",
+      "The G7 had announced no new immediate Hormuz naval protection coalition or Iran agreement."
+    ]
+  },
+  "stories": [
+    {
+      "id": "abu-dhabi-first-day-peace-talks-nov10",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "US-mediated Russia–Ukraine negotiations resume in Abu Dhabi without a settlement",
+      "summary": "Delegations from Ukraine, Russia and the United States met in Abu Dhabi on November 10 for their first talks since February. US and Ukrainian officials described a constructive first day, while fundamental disagreement persisted about territories and the order of ceasefire and future European-security negotiations. Russian coverage emphasized a continent-wide security framework; Ukrainian reporting focused on ending hostilities before designing that framework.",
+      "whyItMatters": "War, prisoners, civilian safety, territorial sovereignty and durable European security guarantees are at stake. The meeting represents an opening, not a ceasefire.",
+      "region": "Europe / Russia / Ukraine / UAE / United States",
+      "tags": [
+        "Russia-Ukraine-war",
+        "peace-talks",
+        "Abu-Dhabi",
+        "security-guarantees",
+        "ceasefire",
+        "European-security"
+      ],
+      "selectionRationale": "High human and transnational security impact, a distinct new first day of dialogue, and independent reporting from Ukrainian, Russian and international newsrooms. Reused the established war event ID.",
+      "evidenceNote": "Read original reports from Reuters, TASS and Ukrainska Pravda. Distinct original reporting is verified, but attributed statements and unnamed-source agenda claims are not independently treated as agreed negotiating text. TASS original-page path redirected to its canonical page.",
+      "articles": [
+        {
+          "id": "ua-reuters-negotiations-nov10",
+          "role": "reference",
+          "headline": "US attempts new peace push at first Russia-Ukraine talks in nine months",
+          "url": "https://www.reuters.com/world/europe/russia-ukraine-meet-us-backed-talks-after-trump-says-broad-deal-possible-2026-11-10/",
+          "publishedAt": "2026-11-10T00:03:00Z",
+          "genre": "original diplomatic reporting",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Public assessments and negotiating divides",
+            "rationale": "Balances publicly positive remarks about the first day with Moscow–Kyiv differences over territory and ordering security talks."
+          },
+          "summary": "Reuters describes the talks opening, European consultations, Russian security-first demands and Ukrainian ceasefire-first arguments.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-11T07:25:11.314Z",
+            "method": "research-tool",
+            "note": "Original publisher story was opened and its readable article body inspected without login or payment during this run."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-11T07:25:11.314Z",
+            "contentHash": null,
+            "evidenceNote": "Original Reuters report by Roula Rouhana opened; first-publication Nov 10 00:03 UTC displayed. Later edits lack a verified revision clock; no historical snapshot captured."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ua-tass-continental-security-nov10",
+          "role": "contrast_a",
+          "headline": "Russia, US, Ukraine begin talks in Abu Dhabi — source",
+          "url": "https://tass.com/politics/2215287",
+          "publishedAt": "2026-11-10",
+          "genre": "original Russian agency reporting",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "TASS",
+            "domain": "tass.com",
+            "country": "Russia",
+            "ownership": "Russian state-owned news agency",
+            "ownershipGroup": "tass-russia",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Russian security-first agenda",
+            "rationale": "An unnamed source prioritizes a new European continental-security system rather than an immediate Ukraine-specific arrangement."
+          },
+          "summary": "TASS reports a closed trilateral meeting and names the Russian and Ukrainian delegation leaders, framing post-conflict security architecture as central.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-11T07:25:11.314Z",
+            "method": "research-tool",
+            "note": "Original publisher story was opened and its readable article body inspected without login or payment during this run."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-11T07:25:11.314Z",
+            "contentHash": null,
+            "evidenceNote": "TASS original article inspected at its canonical URL after redirect from /politics/2215301. ABU DHABI November 10 dateline verified; exact UTC publication clock unavailable."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ua-up-ceasefire-first-nov10",
+          "role": "contrast_b",
+          "headline": "Security guarantees, including for Russia, discussed at Abu Dhabi talks – source",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/10/8062135/",
+          "publishedAt": "2026-11-10",
+          "genre": "original Ukrainian newsroom reporting",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Ukrainska Pravda",
+            "domain": "pravda.com.ua",
+            "country": "Ukraine",
+            "ownership": "UP Media Plus newsroom",
+            "ownershipGroup": "ukrainska-pravda",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Ukraine's ceasefire-first priority",
+            "rationale": "A Ukrainian delegation-adjacent source stresses ending the war before redesigning European security, while acknowledging Russian demands."
+          },
+          "summary": "Ukrainska Pravda covers Ukraine's security guarantees, rebuilding and Moscow's demands through a single quoted source.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-11T07:25:11.314Z",
+            "method": "research-tool",
+            "note": "Original publisher story was opened and its readable article body inspected without login or payment during this run."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-11T07:25:11.314Z",
+            "contentHash": null,
+            "evidenceNote": "Original article by Valentyna Romanenko opened and byline checked; 10 November 13:14 local display without explicit timezone, stored date-only."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Trilateral talks involving Ukraine, Russia and the United States began in Abu Dhabi on November 10.",
+          "sourceIds": [
+            "ua-reuters-negotiations-nov10",
+            "ua-tass-continental-security-nov10",
+            "ua-up-ceasefire-first-nov10"
+          ]
+        },
+        {
+          "text": "A new European security framework and security guarantees were on the public or reportedly discussed agenda.",
+          "sourceIds": [
+            "ua-reuters-negotiations-nov10",
+            "ua-tass-continental-security-nov10",
+            "ua-up-ceasefire-first-nov10"
+          ]
+        },
+        {
+          "text": "No signed peace or ceasefire arrangement was established on the reported first day.",
+          "sourceIds": [
+            "ua-reuters-negotiations-nov10",
+            "ua-up-ceasefire-first-nov10"
+          ]
+        },
+        {
+          "text": "The reported negotiations were closed-door discussions whose detailed conditions could not be independently verified.",
+          "sourceIds": [
+            "ua-tass-continental-security-nov10",
+            "ua-up-ceasefire-first-nov10"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "TASS's anonymous source foregrounds reordering wider European security; the Ukrainian source argues ending the war must come first.",
+          "sourceIds": [
+            "ua-tass-continental-security-nov10",
+            "ua-up-ceasefire-first-nov10"
+          ]
+        },
+        {
+          "text": "Reuters emphasizes both public optimism and continuing disputes, while TASS emphasizes the delegation-level security agenda.",
+          "sourceIds": [
+            "ua-reuters-negotiations-nov10",
+            "ua-tass-continental-security-nov10"
+          ]
+        },
+        {
+          "text": "Ukrainska Pravda highlights Ukraine's reconstruction and ceasefire sequence; Reuters additionally highlights Europeans seeking a stronger diplomatic role.",
+          "sourceIds": [
+            "ua-up-ceasefire-first-nov10",
+            "ua-reuters-negotiations-nov10"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether talks continuing November 11 would agree a ceasefire, prisoner exchange or enforcement mechanisms was not known.",
+        "Territorial disputes and the order of continental-security talks remained unresolved.",
+        "Current publisher texts are not verified cutoff-time captures and Reuters records an unspecified later update."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "A TASS source said the Ukrainian settlement was only one of a wider agenda's components.",
+          "reason": "Single anonymous delegation source; not a validated agenda document.",
+          "sourceIds": [
+            "ua-tass-continental-security-nov10"
+          ]
+        },
+        {
+          "text": "A source close to Ukraine's delegation said Russian security demands and postwar reconstruction were discussed.",
+          "reason": "Single anonymous Ukrainian source; no verified minutes.",
+          "sourceIds": [
+            "ua-up-ceasefire-first-nov10"
+          ]
+        },
+        {
+          "text": "US and Ukrainian officials characterized the first day's talks as constructive.",
+          "reason": "Official assessments, not independently verified evidence of concessions or a peace agreement.",
+          "sourceIds": [
+            "ua-reuters-negotiations-nov10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "carbon-budget-cop31-nov10",
+      "eventId": "gl-cop31-climate-antalya-2026",
+      "title": "Global Carbon Budget shows projected fossil emissions easing, while overall CO2 rises",
+      "summary": "A Global Carbon Project assessment presented during COP31 projected global fossil CO2 emissions would dip about 0.4% in 2026 to 38.2 billion metric tonnes. A war-driven increase in oil prices and clean-energy growth contributed, but higher emissions from deforestation and land use could raise total human CO2 output to around 43.3 billion tonnes. Scientists warned that a small forecast annual decline is not evidence of a permanent peak.",
+      "whyItMatters": "Long-run emissions drive global heating and climate damage; COP31 decisions on energy and forests will matter far more than a temporary reduction in fuel use.",
+      "region": "Global / Turkey / COP31",
+      "tags": [
+        "COP31",
+        "carbon-budget",
+        "emissions",
+        "climate-change",
+        "energy",
+        "deforestation",
+        "renewables"
+      ],
+      "selectionRationale": "A globally consequential quantitative scientific release, timed to COP31 and reported independently in three newsrooms. Kept the established COP31 event ID.",
+      "evidenceNote": "Three original free publisher reports on the same international scientific assessment: Reuters by Sarah McFarlane, Guardian by Fiona Harvey in Antalya, Euronews by Angela Symons. Their newsroom independence does not make their shared underlying data three independent studies.",
+      "articles": [
+        {
+          "id": "co2-reuters-global-budget-nov10",
+          "role": "reference",
+          "headline": "Scientists expect global fossil fuel emissions to ease this year",
+          "url": "https://www.reuters.com/sustainability/cop/scientists-expect-global-fossil-fuel-emissions-ease-this-year-2026-11-10/",
+          "publishedAt": "2026-11-10T01:02:00Z",
+          "genre": "original scientific news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Sector and country baseline",
+            "rationale": "Quantifies fossil-fuel sector and national changes, emphasizing that one year's fall alone cannot establish a peak."
+          },
+          "summary": "Reuters reports the projected 0.4% dip to 38.2 billion tonnes, a 1.9% oil decrease, and a 0.6% coal rise.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-11T07:25:11.314Z",
+            "method": "research-tool",
+            "note": "Original publisher story was opened and its readable article body inspected without login or payment during this run."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-11T07:25:11.314Z",
+            "contentHash": null,
+            "evidenceNote": "Original Reuters article opened: reported by Sarah McFarlane; original Nov 10 01:02 UTC on publisher page."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "co2-guardian-landuse-nov10",
+          "role": "contrast_a",
+          "headline": "Slight fall in carbon emissions from fossil fuels as Iran war drives renewables push",
+          "url": "https://www.theguardian.com/environment/2026/nov/10/slight-fall-in-carbon-emissions-from-fossil-fuels-as-iran-war-drives-renewables-push",
+          "publishedAt": "2026-11-10T01:00:00Z",
+          "genre": "on-site original climate reporting",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Land-use and remaining carbon-budget risks",
+            "rationale": "Foregrounds increased deforestation emissions, global total rising despite fossil declines, and insufficient progress toward 1.5°C."
+          },
+          "summary": "The Guardian contrasts an energy-related dip with increasing land-use emissions and the short remaining climate budget.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-11T07:25:11.314Z",
+            "method": "research-tool",
+            "note": "Original publisher story was opened and its readable article body inspected without login or payment during this run."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-11T07:25:11.314Z",
+            "contentHash": null,
+            "evidenceNote": "Original Fiona Harvey report opened; explicit first published Mon Nov 9 20:00 EST (= Nov 10 01:00 UTC). Shown updated Tue Nov 10 06:55 EST; no earlier page snapshot."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "co2-euronews-climate-transition-nov10",
+          "role": "contrast_b",
+          "headline": "Fossil fuel emissions are expected to fall in 2026. Why aren’t climate experts celebrating?",
+          "url": "https://www.euronews.com/2026/11/10/fossil-fuel-emissions-are-expected-to-fall-in-2026-why-arent-climate-experts-celebrating",
+          "publishedAt": "2026-11-10T06:02:00Z",
+          "genre": "original energy transition explainer",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Euronews",
+            "domain": "euronews.com",
+            "country": "France",
+            "ownership": "Euronews SA / Alpac Capital",
+            "ownershipGroup": "euronews-sa",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Structural decarbonization versus one-off price shock",
+            "rationale": "Asks whether an apparently encouraging decline can survive without quicker investment in clean power and electrification."
+          },
+          "summary": "Euronews discusses the science and why conflict-related oil-demand suppression cannot substitute for durable policy changes.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-11T07:25:11.314Z",
+            "method": "research-tool",
+            "note": "Original publisher story was opened and its readable article body inspected without login or payment during this run."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-11T07:25:11.314Z",
+            "contentHash": null,
+            "evidenceNote": "Original article opened; reporter Angela Symons and 10 Nov 07:02 GMT+1 (=06:02 UTC) verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The 2026 Global Carbon Budget projected an approximately 0.4% decline in fossil-fuel CO2 to about 38.2 billion tonnes.",
+          "sourceIds": [
+            "co2-reuters-global-budget-nov10",
+            "co2-guardian-landuse-nov10",
+            "co2-euronews-climate-transition-nov10"
+          ]
+        },
+        {
+          "text": "Higher fuel prices connected with the Iran conflict and accelerated renewable energy contributed to the expected fossil emissions decline.",
+          "sourceIds": [
+            "co2-reuters-global-budget-nov10",
+            "co2-guardian-landuse-nov10",
+            "co2-euronews-climate-transition-nov10"
+          ]
+        },
+        {
+          "text": "Land-use releases could more than offset the fossil dip, with total carbon emissions estimated around 43.3 billion tonnes.",
+          "sourceIds": [
+            "co2-guardian-landuse-nov10",
+            "co2-euronews-climate-transition-nov10"
+          ]
+        },
+        {
+          "text": "The scientists said a temporary single-year drop is not proof of lasting global decarbonization.",
+          "sourceIds": [
+            "co2-reuters-global-budget-nov10",
+            "co2-guardian-landuse-nov10",
+            "co2-euronews-climate-transition-nov10"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters emphasizes estimates by fossil fuel and major emitter; the Guardian emphasizes land-use emissions and the climate budget.",
+          "sourceIds": [
+            "co2-reuters-global-budget-nov10",
+            "co2-guardian-landuse-nov10"
+          ]
+        },
+        {
+          "text": "The Guardian emphasizes policy inadequacy and remaining warming risk; Euronews tests whether a price-shock-driven improvement can last.",
+          "sourceIds": [
+            "co2-guardian-landuse-nov10",
+            "co2-euronews-climate-transition-nov10"
+          ]
+        },
+        {
+          "text": "Euronews links the data to COP31's electrification agenda; Reuters emphasizes uncertainty over whether the emissions trend has peaked.",
+          "sourceIds": [
+            "co2-euronews-climate-transition-nov10",
+            "co2-reuters-global-budget-nov10"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The full 2026 annual CO2 totals and next year's trend were still forecasts at cutoff.",
+        "War-related fuel-demand reductions might reverse with energy prices.",
+        "The three reports are independent articles but assess a shared underlying scientific study."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The slight expected fossil emissions fall proves the world has reached peak CO2 emissions.",
+          "reason": "A forecast of a single year does not establish a durable trend; authors explicitly caution against the inference.",
+          "sourceIds": [
+            "co2-reuters-global-budget-nov10",
+            "co2-guardian-landuse-nov10"
+          ]
+        },
+        {
+          "text": "COP31 electrification pledges will deliver enduring emissions reductions.",
+          "reason": "Forward-looking effects depend on clean power sources, investment and follow-through.",
+          "sourceIds": [
+            "co2-euronews-climate-transition-nov10",
+            "co2-guardian-landuse-nov10"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g7-iran-hormuz-nuclear-standoff-nov10",
+      "eventId": "me-iran-us-israel-war-hormuz-2026",
+      "title": "G7 grapples with US pressure on Iran, Hormuz shipping risk and unverified nuclear safeguards",
+      "summary": "At the Paris G7 meeting, Secretary of State Marco Rubio described US plans to maintain economic pressure on Iran and urged allies to defend commercial shipping in the Strait of Hormuz. He said no G7 partner had responded with a commitment to his request. Qatar sought to mediate while Tehran publicly maintained NPT commitments but continued restricting IAEA inspections at sensitive sites. No new naval coalition, nuclear verification breakthrough or settlement was announced.",
+      "whyItMatters": "The war affects civilian safety and globally important energy shipping, while restricted nuclear inspections increase the need for reliable verification and diplomatic compromise.",
+      "region": "Middle East / Iran / United States / Gulf / France / G7",
+      "tags": [
+        "Iran-US-war",
+        "Strait-of-Hormuz",
+        "G7",
+        "sanctions",
+        "shipping",
+        "nonproliferation",
+        "Qatar"
+      ],
+      "selectionRationale": "Major cross-border effects on maritime trade, energy costs and nonproliferation. New November 10 G7 positions and Tehran reporting; persistent Iran-war ID maintained.",
+      "evidenceNote": "Original independent Reuters Paris report, AP Paris diplomatic report and Al Jazeera Tehran on-site analysis opened. Reuters' closed-meeting quotations rely on anonymous diplomats; AP's lack of a returned publication clock is disclosed. Al Jazeera attributes Iranian comments made Nov 9 within its original Nov 10 article.",
+      "articles": [
+        {
+          "id": "iran-reuters-g7-sanctions-nov10",
+          "role": "reference",
+          "headline": "Rubio tells G7 US will keep imposing 'devastating' costs on Iran, diplomats say",
+          "url": "https://www.reuters.com/world/middle-east/qatari-pm-makes-unscheduled-stop-g7-brief-europeans-post-trump-talks-2026-11-10/",
+          "publishedAt": "2026-11-10T08:29:00Z",
+          "genre": "original G7 diplomatic dispatch",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "US sanctions pressure and Qatari mediation",
+            "rationale": "Relays closed-door descriptions of Rubio's policy and Qatar's caution about an escalation risk."
+          },
+          "summary": "Reuters reports the US plan to sustain sanctions and its blockade amid a pause in broader attacks; Qatar's prime minister met European ministers.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-11T07:25:11.314Z",
+            "method": "research-tool",
+            "note": "Original publisher story was opened and its readable article body inspected without login or payment during this run."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-11T07:25:11.314Z",
+            "contentHash": null,
+            "evidenceNote": "Original Reuters report by John Irish and Simon Lewis opened; original Nov 10 08:29 UTC verified. Closed-door quotes attributed to four unnamed diplomats."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "iran-ap-hormuz-request-nov10",
+          "role": "contrast_a",
+          "headline": "Rubio urges nations to ‘step up’ on Strait of Hormuz security",
+          "url": "https://apnews.com/article/us-g7-ukraine-russia-rubio-49f273e626ca4bab0e5a2d32e4943014",
+          "publishedAt": "2026-11-10",
+          "genre": "original G7 field reporting",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Not-for-profit news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Coalition and maritime protection feasibility",
+            "rationale": "Focuses on the gap between Washington's request for escorts and European caution about sending forces before active fighting stops."
+          },
+          "summary": "AP reports Rubio's admission that no G7 counterparts committed to the requested protection operation and a continued shipping threat.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-11T07:25:11.314Z",
+            "method": "research-tool",
+            "note": "Original publisher story was opened and its readable article body inspected without login or payment during this run."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-11T07:25:11.314Z",
+            "contentHash": null,
+            "evidenceNote": "Original AP article by Matthew Lee opened at canonical URL after redirect; Paris November 10 event dateline and images, but publication clock unavailable, so date-only."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "iran-aj-npt-conditions-nov10",
+          "role": "contrast_b",
+          "headline": "Iran backs nuclear treaty even as hardliners raise prospect of bomb",
+          "url": "https://www.aljazeera.com/news/2026/11/10/iran-backs-nuclear-treaty-even-as-hardliners-raise-prospect-of-bomb",
+          "publishedAt": "2026-11-10",
+          "genre": "original Tehran field explainer",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Iran's stated treaty position and inspection constraints",
+            "rationale": "Explains Tehran's claimed continuing NPT commitments against restricted site access and hardline calls for nuclear-doctrine change."
+          },
+          "summary": "Maziar Motamedi reports on Iran's statement of compliance, limited Bushehr access and the absence of verified access at bombed nuclear facilities.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-11T07:25:11.314Z",
+            "method": "research-tool",
+            "note": "Original publisher story was opened and its readable article body inspected without login or payment during this run."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-11T07:25:11.314Z",
+            "contentHash": null,
+            "evidenceNote": "Original bylined Al Jazeera Tehran report opened, Nov 10 date shown but no clock. The quoted foreign-ministry briefing was Nov 9 and is not misdated."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "G7 foreign ministers met in Paris on November 10 and discussed the US-Iran crisis.",
+          "sourceIds": [
+            "iran-reuters-g7-sanctions-nov10",
+            "iran-ap-hormuz-request-nov10"
+          ]
+        },
+        {
+          "text": "US officials described continuing pressure on Iran rather than announcing a concluded peace deal.",
+          "sourceIds": [
+            "iran-reuters-g7-sanctions-nov10",
+            "iran-ap-hormuz-request-nov10"
+          ]
+        },
+        {
+          "text": "Security in the Strait of Hormuz remained contested, with US efforts and Iranian positions unresolved.",
+          "sourceIds": [
+            "iran-reuters-g7-sanctions-nov10",
+            "iran-ap-hormuz-request-nov10",
+            "iran-aj-npt-conditions-nov10"
+          ]
+        },
+        {
+          "text": "Diplomatic efforts remained constrained by disagreements about Iran's nuclear program, sanctions and broader terms.",
+          "sourceIds": [
+            "iran-reuters-g7-sanctions-nov10",
+            "iran-aj-npt-conditions-nov10"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters focuses on sanctions and Qatari mediation; AP foregrounds allied refusal to commit ships during open hostilities.",
+          "sourceIds": [
+            "iran-reuters-g7-sanctions-nov10",
+            "iran-ap-hormuz-request-nov10"
+          ]
+        },
+        {
+          "text": "AP frames the crisis as an immediate protection challenge for global shipping; Al Jazeera foregrounds Iran's security arguments and nuclear inspection dispute.",
+          "sourceIds": [
+            "iran-ap-hormuz-request-nov10",
+            "iran-aj-npt-conditions-nov10"
+          ]
+        },
+        {
+          "text": "Reuters relays anonymous G7 diplomats on US coercive strategy; Al Jazeera interviews named nuclear analysts about treaty obligations and Iranian concerns.",
+          "sourceIds": [
+            "iran-reuters-g7-sanctions-nov10",
+            "iran-aj-npt-conditions-nov10"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "No G7 ally's firm new maritime deployment commitment was verified by cutoff.",
+        "Qatari mediation had not produced an agreed, implemented US-Iran settlement.",
+        "The status of nuclear material and the conditions for renewed IAEA inspections at bombed sites were not independently verified.",
+        "Reuters' report of private Rubio remarks relies on anonymous diplomats."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Rubio reportedly called Iranian leaders 'lunatics' and claimed sanctions were imposing devastating economic costs.",
+          "reason": "Reuters attributed this to unnamed diplomats at closed-door meetings; exact wording and effects were not independently documented.",
+          "sourceIds": [
+            "iran-reuters-g7-sanctions-nov10"
+          ]
+        },
+        {
+          "text": "Rubio suggested some governments might yet join Hormuz ship protection.",
+          "reason": "Potential future action rather than confirmed fleet contributions.",
+          "sourceIds": [
+            "iran-ap-hormuz-request-nov10"
+          ]
+        },
+        {
+          "text": "Iran's government says it remains fully committed to the Nuclear Non-Proliferation Treaty despite sharply restricted IAEA access.",
+          "reason": "An official statement does not establish verified compliance or the state of the inaccessible nuclear material.",
+          "sourceIds": [
+            "iran-aj-npt-conditions-nov10"
+          ]
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-11T07:25:11.314Z",
+    "author": "ChatGPT",
+    "reason": "Original complete agent-reviewed edition for November 10, 2026."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Nine original publisher pages opened and read without login; verified complete URLs, bylines, dates, genres and distinct originating newsrooms. The scientific forecast is one underlying study independently covered by three media, not three scientific confirmations. Several pages showed date-only publication, and updated/current pages have no historical cutoff snapshots; no content hashes or archive URLs were invented. Sources are cited for official statements, not for independently proving those statements. Source verification timestamps record this session's final metadata check. Agent review only, no human approval claimed."
+  }
+}
