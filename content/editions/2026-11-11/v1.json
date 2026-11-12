@@ -1,0 +1,659 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-11",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-11T22:59:59Z",
+  "recordedAt": "2026-11-12T08:08:43.186Z",
+  "kind": "daily",
+  "selectionSummary": "Selected using consistent world-impact criteria: lives and countries affected, economic/security reach, lasting environmental consequences, and original multi-newsroom reporting. November 11's distinct developments were Abu Dhabi peace-talk outcomes, COP31 leaders' meeting and the G7's newly issued Paris declaration. Prior war and COP31 event IDs were retained.",
+  "snapshot": {
+    "summary": "US-mediated Ukraine–Russia talks produced only a prospective prisoner exchange, COP31 leaders advocated urgent emissions and finance action, and G7 ministers issued common demands on Ukraine, Iran and global shipping. None of these announcements alone resolved their fundamental policy and implementation disputes.",
+    "connections": [
+      "Ukraine's security guarantees connect Abu Dhabi negotiations with G7 calls for European participation in regional security talks.",
+      "G7 worries about Hormuz and the COP31 discussion both expose the intersection of conflict, energy security and climate policy.",
+      "The difference between public government statements and verifiable implementation runs through diplomacy, military claims and climate promises."
+    ],
+    "uncertainties": [
+      "The Abu Dhabi prisoner exchange was not completed and no war ceasefire was agreed by November 11 cutoff.",
+      "COP31's concluding finance and energy commitments were unsettled at cutoff.",
+      "G7 calls were not an implemented Hormuz coalition, independently verified attribution of contested attacks, or a nuclear settlement."
+    ]
+  },
+  "stories": [
+    {
+      "id": "abu-dhabi-talks-prisoner-exchange-nov11",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Abu Dhabi negotiations produce a proposed prisoner exchange but no Ukraine peace settlement",
+      "summary": "At the end of two days of US-mediated talks in Abu Dhabi, Ukraine and Russia agreed in principle to a substantial exchange of prisoners of war. No finalized list, timing or completed exchange was independently established by the November 11 cutoff. Envoys said talks could continue, but the sides had not agreed a ceasefire, territorial settlement or future European security framework.",
+      "whyItMatters": "Prisoner releases could have immediate human consequences while the unresolved war continues to threaten European security, sovereignty, civilians and international stability.",
+      "region": "Europe / Ukraine / Russia / United Arab Emirates / United States",
+      "tags": [
+        "Russia-Ukraine-war",
+        "prisoners-of-war",
+        "Abu-Dhabi",
+        "peace-talks",
+        "European-security",
+        "diplomacy"
+      ],
+      "selectionRationale": "Major cross-border military and humanitarian stakes; a discrete November 11 negotiating outcome and three independently originated reports; existing war event ID reused.",
+      "evidenceNote": "Independent Reuters, Guardian and Ukrainska Pravda reporting opened at original publisher sites. The Guardian page has post-cutoff modifications without an inspected archive snapshot. Official statements document intentions, not completion.",
+      "articles": [
+        {
+          "id": "ukr-reuters-swap-nov11",
+          "role": "reference",
+          "headline": "Russia, Ukraine reach deal on prisoner swap as US says lack of trust holds back talks",
+          "url": "https://www.reuters.com/world/europe/us-russia-ukraine-start-second-day-abu-dhabi-peace-talks-2026-11-11/",
+          "publishedAt": "2026-11-11",
+          "genre": "Original international diplomatic dispatch",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "International negotiation outcomes",
+            "rationale": "Outlines the stated prisoner-exchange understanding and outstanding trust, territory and security obstacles; an announcement is not implementation."
+          },
+          "summary": "Reuters covered agreement in principle on prisoner releases but no completed deal ending the war.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-12T08:08:43.186Z",
+            "method": "research-tool",
+            "note": "Original publisher story and its substantive body opened and read without login or payment."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-12T08:08:43.186Z",
+            "contentHash": null,
+            "evidenceNote": "Original Reuters publisher report by Roula Rouhana opened; Nov 11 dated story displays 10:12 UTC with an ambiguous update indicator, so date-only original publication precision is retained."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukr-guardian-europe-nov11",
+          "role": "contrast_a",
+          "headline": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
+          "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
+          "publishedAt": "2026-11-11T17:03:00Z",
+          "genre": "Original bylined international report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "European security and unresolved territorial terms",
+            "rationale": "Emphasizes the gulf between humanitarian progress, Russia's territorial terms, and the exclusion or inclusion of European participants."
+          },
+          "summary": "Pjotr Sauer reports an expected large swap but limited movement on peace and disagreement over European security architecture.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-12T08:08:43.186Z",
+            "method": "research-tool",
+            "note": "The complete article was readable, but the displayed page was edited after the historical cutoff; only separately supported Nov 11 developments are used."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-12T08:08:43.186Z",
+            "contentHash": null,
+            "evidenceNote": "First published Wed Nov 11 18:03 CET (=17:03 UTC). Page shows update Nov 12 06:11 CET, after cutoff; no historical cutoff capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukr-pravda-umerov-nov11",
+          "role": "contrast_b",
+          "headline": "Ukraine's chief negotiator sums up Abu Dhabi talks, says there are opportunities for further negotiations",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/11/8062337/index.amp",
+          "publishedAt": "2026-11-11",
+          "genre": "Original Ukrainian newsroom report of a negotiator's post",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Ukrainska Pravda",
+            "domain": "pravda.com.ua",
+            "country": "Ukraine",
+            "ownership": "Independent Ukrainian newsroom",
+            "ownershipGroup": "ukrainska-pravda",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Ukrainian humanitarian and negotiation priorities",
+            "rationale": "Centers negotiator Rustem Umierov's account, the proposed exchange and Ukraine's continued concerns, rather than US diplomatic optimism."
+          },
+          "summary": "Ukrainska Pravda quotes Ukraine's representative on a prisoner exchange, continuing differences and opportunities to meet again.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-12T08:08:43.186Z",
+            "method": "research-tool",
+            "note": "Original publisher story and its substantive body opened and read without login or payment."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-12T08:08:43.186Z",
+            "contentHash": null,
+            "evidenceNote": "By Valentyna Romanenko, Nov 11 at 15:08 on publisher page; timezone of displayed clock not confirmed; date-only recorded."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Russian and Ukrainian delegations concluded two days of US-mediated negotiations in Abu Dhabi on November 11.",
+          "sourceIds": [
+            "ukr-reuters-swap-nov11",
+            "ukr-guardian-europe-nov11",
+            "ukr-pravda-umerov-nov11"
+          ]
+        },
+        {
+          "text": "The sides announced a prospective prisoner-of-war exchange, without independently verified completion by the cutoff.",
+          "sourceIds": [
+            "ukr-reuters-swap-nov11",
+            "ukr-guardian-europe-nov11",
+            "ukr-pravda-umerov-nov11"
+          ]
+        },
+        {
+          "text": "Territorial disputes and wider security terms remained unresolved and no peace agreement was announced.",
+          "sourceIds": [
+            "ukr-reuters-swap-nov11",
+            "ukr-guardian-europe-nov11",
+            "ukr-pravda-umerov-nov11"
+          ]
+        },
+        {
+          "text": "Further talks were under consideration after the November 11 meetings.",
+          "sourceIds": [
+            "ukr-reuters-swap-nov11",
+            "ukr-pravda-umerov-nov11"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters prioritizes the exchange announcement and negotiating trust; the Guardian foregrounds Russia's demands and European security repercussions.",
+          "sourceIds": [
+            "ukr-reuters-swap-nov11",
+            "ukr-guardian-europe-nov11"
+          ]
+        },
+        {
+          "text": "Ukrainska Pravda foregrounds Ukraine's own negotiating chief and prisoner return; the Guardian emphasizes geopolitical terms of a possible peace.",
+          "sourceIds": [
+            "ukr-pravda-umerov-nov11",
+            "ukr-guardian-europe-nov11"
+          ]
+        },
+        {
+          "text": "Reuters characterizes the swap as an agreement in principle; the Ukrainian account emphasizes practical follow-through and continuing differences.",
+          "sourceIds": [
+            "ukr-reuters-swap-nov11",
+            "ukr-pravda-umerov-nov11"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Exact prisoner exchange numbers, identities and timetable remained unconfirmed.",
+        "No final ceasefire, security guarantees or territorial terms existed by the historical cutoff.",
+        "Whether any broader talks would formally include European countries remained open.",
+        "The Guardian source was updated after the cutoff; its exact historical version was not captured."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "A US envoy described the proposed exchange as potentially the largest prisoner release of the war.",
+          "reason": "The characterization is a US participant's forward-looking estimate, not an independently completed count.",
+          "sourceIds": [
+            "ukr-reuters-swap-nov11",
+            "ukr-guardian-europe-nov11"
+          ]
+        },
+        {
+          "text": "Some negotiators suggested an agreement to end the war could become possible before the new year.",
+          "reason": "A participant's forecast, not evidence of an achieved or enforceable settlement.",
+          "sourceIds": [
+            "ukr-guardian-europe-nov11"
+          ]
+        },
+        {
+          "text": "Ukraine's chief negotiator said that fresh negotiating opportunities existed despite substantial differences.",
+          "reason": "An official's subjective evaluation of diplomatic prospects.",
+          "sourceIds": [
+            "ukr-pravda-umerov-nov11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cop31-leaders-summit-antalya-nov11",
+      "eventId": "gl-cop31-climate-antalya-2026",
+      "title": "COP31 leaders press competing priorities on climate finance, fossil fuels and implementation",
+      "summary": "Heads of government and UN officials addressed COP31's leaders' gathering in Antalya. António Guterres urged faster steps away from fossil fuels; leaders from climate-vulnerable nations warned about damage and inadequate financial assistance. Host President Recep Tayyip Erdoğan called for cooperation, practical environmental work and zero-waste measures. These November 11 speeches did not themselves settle a new binding funding or emissions agreement.",
+      "whyItMatters": "Global emissions choices and adaptation aid affect agriculture, infrastructure, health and public budgets across decades. The divide between urgently sought support and implemented national policies is worldwide in scale.",
+      "region": "Global / Türkiye / Pacific Islands / United Nations",
+      "tags": [
+        "COP31",
+        "climate-change",
+        "climate-finance",
+        "adaptation",
+        "fossil-fuels",
+        "Türkiye",
+        "small-island-states"
+      ],
+      "selectionRationale": "Highest-order global environmental consequences and independently reported summit-day leadership speeches; continuing COP31 event ID preserved.",
+      "evidenceNote": "Original Reuters, Guardian and TRT Haber articles opened. TRT is a Turkish state public broadcaster and provides a documented host-government vantage. Guardian's next-day edit disclosed; statements are reported as appeals and claims, not implemented results.",
+      "articles": [
+        {
+          "id": "cop-reuters-leaders-nov11",
+          "role": "reference",
+          "headline": "World leaders speak at COP31 climate conference",
+          "url": "https://www.reuters.com/sustainability/cop/world-leaders-speak-cop31-climate-conference-2026-11-11/",
+          "publishedAt": "2026-11-11T17:24:00Z",
+          "genre": "Original newsroom compilation of public leaders' remarks",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "International speech and policy baseline",
+            "rationale": "Presents statements from a range of world leaders rather than assessing whether their pledges will be implemented."
+          },
+          "summary": "Reuters compiles speeches from UN Secretary-General António Guterres, Turkey's president and other COP31 leaders.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-12T08:08:43.186Z",
+            "method": "research-tool",
+            "note": "Original publisher story and its substantive body opened and read without login or payment."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-12T08:08:43.186Z",
+            "contentHash": null,
+            "evidenceNote": "Original Reuters reporting opened at publisher; Nov 11, 2026 17:24 UTC displayed; original global climate speeches coverage."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop-guardian-islands-nov11",
+          "role": "contrast_a",
+          "headline": "‘The world we know is over’ without urgent climate action, leaders tell Cop31",
+          "url": "https://www.theguardian.com/environment/2026/nov/11/the-world-we-know-is-over-marshall-islands-president-cop31",
+          "publishedAt": "2026-11-11T18:52:00Z",
+          "genre": "Original COP31 field and climate-policy reporting",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Climate vulnerability and finance justice",
+            "rationale": "Centers Pacific island leadership, climate adaptation funding and the gap between speeches and sufficient fossil-fuel reductions."
+          },
+          "summary": "The Guardian details warnings by leaders from vulnerable countries and scrutiny of wealthy-country climate commitments.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-12T08:08:43.186Z",
+            "method": "research-tool",
+            "note": "Full article readable but updated after historical cutoff; no independent archival copy of its Nov 11 text inspected."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-12T08:08:43.186Z",
+            "contentHash": null,
+            "evidenceNote": "By Oliver Milman, Fiona Harvey, Graham Readfearn and Ajit Niranjan; first published Nov 11 19:52 CET (=18:52 UTC); updated Nov 12 06:11 CET."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop-trt-erdogan-nov11",
+          "role": "contrast_b",
+          "headline": "Cumhurbaşkanı Erdoğan: İnsanlık tarihinin en derin varoluş krizlerinden birini yaşıyor",
+          "url": "https://www.trthaber.com/haber/gundem/cumhurbaskani-erdogan-insanlik-tarihinin-en-derin-varolus-krizlerinden-birini-yasiyor-962923.html",
+          "publishedAt": "2026-11-11T09:07:00Z",
+          "genre": "Original public-broadcaster coverage of presidential speech",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "TRT Haber",
+            "domain": "trthaber.com",
+            "country": "Türkiye",
+            "ownership": "Türkiye Radio and Television Corporation, state-owned public broadcaster",
+            "ownershipGroup": "trt",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Host-country practical implementation and zero waste",
+            "rationale": "Explains Turkey's presidency and Erdoğan's own remarks about environmental stewardship, national initiatives and global cooperation."
+          },
+          "summary": "TRT Haber reports Erdoğan's opening speech and advocacy of zero waste as a national contribution to climate action.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-12T08:08:43.186Z",
+            "method": "research-tool",
+            "note": "Original publisher story and its substantive body opened and read without login or payment."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-12T08:08:43.186Z",
+            "contentHash": null,
+            "evidenceNote": "Original Turkish-language TRT Haber article first 11 Nov 2026 12:07 Türkiye time (=09:07 UTC), updated 19:23 local; state public broadcaster origin made explicit."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "COP31's high-level leaders segment took place in Antalya on November 11.",
+          "sourceIds": [
+            "cop-reuters-leaders-nov11",
+            "cop-guardian-islands-nov11",
+            "cop-trt-erdogan-nov11"
+          ]
+        },
+        {
+          "text": "UN Secretary-General António Guterres called publicly for more urgent climate action.",
+          "sourceIds": [
+            "cop-reuters-leaders-nov11",
+            "cop-guardian-islands-nov11"
+          ]
+        },
+        {
+          "text": "Turkish President Erdoğan addressed COP31 delegates and stressed international cooperation.",
+          "sourceIds": [
+            "cop-reuters-leaders-nov11",
+            "cop-trt-erdogan-nov11"
+          ]
+        },
+        {
+          "text": "Leaders' speeches signaled ambitions and appeals but did not themselves constitute a finalized new global climate treaty.",
+          "sourceIds": [
+            "cop-reuters-leaders-nov11",
+            "cop-guardian-islands-nov11",
+            "cop-trt-erdogan-nov11"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters records statements from different countries; the Guardian leads with nations most exposed to climate harms.",
+          "sourceIds": [
+            "cop-reuters-leaders-nov11",
+            "cop-guardian-islands-nov11"
+          ]
+        },
+        {
+          "text": "TRT foregrounds the Turkish presidency's national initiatives and summit role; the Guardian foregrounds funding shortfalls and threats to low-lying countries.",
+          "sourceIds": [
+            "cop-trt-erdogan-nov11",
+            "cop-guardian-islands-nov11"
+          ]
+        },
+        {
+          "text": "Reuters gives comparative international context while TRT supplies extended details of Erdoğan's opening address.",
+          "sourceIds": [
+            "cop-reuters-leaders-nov11",
+            "cop-trt-erdogan-nov11"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "COP31 negotiations were still under way; final funding and phase-out terms were unsettled.",
+        "The effect of leaders' speeches on actual finance, policy and emissions remained unknowable at cutoff.",
+        "The first published Guardian page was subsequently edited, with no verified cutoff snapshot."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Some leaders cited global warming forecasts around 2.6–2.8°C under current policies or pledges.",
+          "reason": "The statements are recorded, but the underlying forecast methodology was not independently audited for this edition.",
+          "sourceIds": [
+            "cop-guardian-islands-nov11"
+          ]
+        },
+        {
+          "text": "Turkey presented its zero-waste program as evidence of effective climate leadership.",
+          "reason": "The speech is documented, but emissions impact and replicability are not established by reporting the speech.",
+          "sourceIds": [
+            "cop-trt-erdogan-nov11"
+          ]
+        },
+        {
+          "text": "Guterres said fossil-fuel expansion and lobbying were obstructing the 1.5°C pathway.",
+          "reason": "A recorded official characterization, not independent verification of motives of particular actors.",
+          "sourceIds": [
+            "cop-reuters-leaders-nov11",
+            "cop-guardian-islands-nov11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "g7-paris-joint-declaration-nov11",
+      "eventId": "gl-g7-paris-foreign-ministers-2026",
+      "title": "G7 declaration links Ukraine's sovereignty, Iran nuclear inspections and Hormuz shipping",
+      "summary": "G7 foreign ministers published a November 11 joint declaration after their Paris meeting. They reaffirmed support for Ukraine and European inclusion in future European security talks, urged a reciprocal ceasefire and demanded safe navigation through the Strait of Hormuz. They also pressed Iran to cooperate with the IAEA. These were diplomatic demands, not confirmation of a new ceasefire, naval mission or nuclear settlement.",
+      "whyItMatters": "The seven governments shape sanctions, aid, shipping security and economic policy. Implementation could affect European security, global energy flows and nuclear transparency.",
+      "region": "Global / G7 / France / Ukraine / Iran / Strait of Hormuz",
+      "tags": [
+        "G7",
+        "Ukraine",
+        "Iran",
+        "Strait-of-Hormuz",
+        "nuclear-safeguards",
+        "sanctions",
+        "diplomacy"
+      ],
+      "selectionRationale": "A discrete major-power joint statement on November 11 with direct implications for war, nonproliferation and trade, covered independently in three originating newsrooms.",
+      "evidenceNote": "Anadolu, Folha and Iran International reports all opened at original publisher domains. The publicly released G7 primary declaration separately inspected but not counted as independent newsroom reporting. Folha subscription messaging and Iranian counterclaims documented.",
+      "articles": [
+        {
+          "id": "g7-aa-joint-statement-nov11",
+          "role": "reference",
+          "headline": "G7 reaffirms support for Ukraine's 'sovereignty, territorial integrity'",
+          "url": "https://www.aa.com.tr/en/europe/g7-reaffirms-support-for-ukraines-sovereignty-territorial-integrity/4120669",
+          "publishedAt": "2026-11-11",
+          "genre": "Original news agency diplomatic reporting",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Anadolu Agency",
+            "domain": "aa.com.tr",
+            "country": "Türkiye",
+            "ownership": "State-owned Turkish news agency",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Published collective declaration",
+            "rationale": "Summarizes agreed policy language on Ukraine, European security, Hormuz and Iran, while treating accusations in the declaration as claims by ministers."
+          },
+          "summary": "Anadolu reports the G7's ceasefire appeal, European participation position, freedom of Hormuz passage and nuclear-inspection demands.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-12T08:08:43.186Z",
+            "method": "research-tool",
+            "note": "Original publisher story and its substantive body opened and read without login or payment."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-12T08:08:43.186Z",
+            "contentHash": null,
+            "evidenceNote": "Original Anadolu newsroom report by Seyma Erkul Dayanc, published and updated November 11. Exact first-publication clock unavailable; date-only used."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "g7-folha-negotiated-language-nov11",
+          "role": "contrast_a",
+          "headline": "G7 dribla impasse e divulga comunicado conjunto após série de encontros sem consenso",
+          "url": "https://www1.folha.uol.com.br/mundo/2026/11/g7-dribla-impasse-e-divulga-comunicado-conjunto-apos-serie-de-encontros-sem-consenso.shtml",
+          "publishedAt": "2026-11-11",
+          "genre": "Original Brazilian Paris-correspondent diplomatic report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Folha de S.Paulo",
+            "domain": "folha.uol.com.br",
+            "country": "Brazil",
+            "ownership": "Grupo Folha",
+            "ownershipGroup": "grupo-folha",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Limits of negotiated G7 consensus",
+            "rationale": "Examines the joint wording after previous diplomatic impasses and the reluctance to adopt uniformly strong terms on Russian military actions."
+          },
+          "summary": "Folha's Paris correspondent describes agreement on a statement but compromises and ambiguous language after earlier G7 disagreements.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-12T08:08:43.186Z",
+            "method": "research-tool",
+            "note": "Article body was readable in anonymous research browser but site advertises paid subscriptions and future access may vary."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-12T08:08:43.186Z",
+            "contentHash": null,
+            "evidenceNote": "By João Caminoto in Paris, original November 11 11:00 displayed without explicit timezone. Full substantive publisher article readable anonymously with subscription prompts visible."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "g7-iranintl-iran-pressure-nov11",
+          "role": "contrast_b",
+          "headline": "G7 warns Iran of continued pressure if diplomacy fails",
+          "url": "https://www.iranintl.com/en/202611111088",
+          "publishedAt": "2026-11-11T12:58:00Z",
+          "genre": "Original Iranian-affairs diplomatic news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Iran International",
+            "domain": "iranintl.com",
+            "country": "United Kingdom",
+            "ownership": "Volant Media UK Limited",
+            "ownershipGroup": "volant-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Iran-focused sanctions and nuclear safeguards",
+            "rationale": "Centers pressure on Tehran, IAEA inspection access and contested UK security allegations, including Iranian denials."
+          },
+          "summary": "Iran International reports the G7's Iran demands, maritime worries and dispute over accusations of attacks attributed to Iran.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-12T08:08:43.186Z",
+            "method": "research-tool",
+            "note": "Original publisher story and its substantive body opened and read without login or payment."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-12T08:08:43.186Z",
+            "contentHash": null,
+            "evidenceNote": "Original Iran International newsroom account, dated Nov 11 at 12:58 GMT, opened fully at original publisher; allegations are explicitly attributed."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "G7 foreign ministers issued a joint statement on November 11 after a Paris meeting held November 9–10.",
+          "sourceIds": [
+            "g7-aa-joint-statement-nov11",
+            "g7-folha-negotiated-language-nov11",
+            "g7-iranintl-iran-pressure-nov11"
+          ]
+        },
+        {
+          "text": "The G7 statement called for safe maritime passage through the Strait of Hormuz and condemned attacks on commercial shipping.",
+          "sourceIds": [
+            "g7-aa-joint-statement-nov11",
+            "g7-folha-negotiated-language-nov11",
+            "g7-iranintl-iran-pressure-nov11"
+          ]
+        },
+        {
+          "text": "G7 ministers urged Iran to restore nuclear-inspection cooperation with the International Atomic Energy Agency.",
+          "sourceIds": [
+            "g7-aa-joint-statement-nov11",
+            "g7-iranintl-iran-pressure-nov11"
+          ]
+        },
+        {
+          "text": "The declaration affirmed Ukraine's sovereignty and supported European participation in negotiations over continental security.",
+          "sourceIds": [
+            "g7-aa-joint-statement-nov11",
+            "g7-folha-negotiated-language-nov11"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Anadolu summarizes official consensus on Ukraine and Hormuz, while Folha scrutinizes the compromise language and unresolved diplomatic divides.",
+          "sourceIds": [
+            "g7-aa-joint-statement-nov11",
+            "g7-folha-negotiated-language-nov11"
+          ]
+        },
+        {
+          "text": "Folha emphasizes transatlantic bargaining; Iran International centers the potential consequences for Tehran, inspections and sanctions.",
+          "sourceIds": [
+            "g7-folha-negotiated-language-nov11",
+            "g7-iranintl-iran-pressure-nov11"
+          ]
+        },
+        {
+          "text": "Iran International includes Iranian denials of security allegations; Anadolu follows the declared G7 policy line more closely.",
+          "sourceIds": [
+            "g7-iranintl-iran-pressure-nov11",
+            "g7-aa-joint-statement-nov11"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "No Ukrainian ceasefire followed simply from the statement.",
+        "No operational G7 naval escort deployment was confirmed by publication.",
+        "The UK allegations of Iranian-linked activity remain disputed, and no criminal finding was established.",
+        "Folha's anonymously readable story also displays subscription prompts; later free access may differ."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The G7 accused Iran of blocking Hormuz navigation and attacking civilian vessels.",
+          "reason": "This establishes the ministers' attribution, not independent proof of each incident.",
+          "sourceIds": [
+            "g7-aa-joint-statement-nov11",
+            "g7-iranintl-iran-pressure-nov11"
+          ]
+        },
+        {
+          "text": "British officials connected an alleged incident at RAF Fairford to Iranian-linked actors.",
+          "reason": "A disputed official allegation, denied by Tehran; no independently confirmed legal finding.",
+          "sourceIds": [
+            "g7-iranintl-iran-pressure-nov11"
+          ]
+        },
+        {
+          "text": "G7 declarations of continued aid, sanctions and maritime pressure will produce additional operational action.",
+          "reason": "Future implementation requires separately verified commitments or deployment.",
+          "sourceIds": [
+            "g7-aa-joint-statement-nov11",
+            "g7-folha-negotiated-language-nov11"
+          ]
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-12T08:08:43.186Z",
+    "author": "ChatGPT",
+    "reason": "Original, complete November 11, 2026 edition, independently source-reviewed and prepared following the historical cutoff."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Nine originating newsroom articles opened and read on publisher pages for original headline, dates, body accessibility, genre and reporting ownership; original G7 declaration also inspected but not substituted for a newsroom. Both Guardian pages were modified the following morning: no cutoff snapshots, and the edition uses only independently confirmed pre-cutoff information. Folha body was readable anonymously with paid-subscription prompts; future access uncertain. Reuters Ukraine update clock was ambiguous, recorded date-only. No archive captures or hashes invented; official positions are attributed and do not establish truth of contested claims. ChatGPT-only agent review, no human reviewer."
+  }
+}
