@@ -1,0 +1,578 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-13",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-13T22:59:59Z",
+  "recordedAt": "2026-11-14T07:47:19.455Z",
+  "kind": "daily",
+  "selectionSummary": "Selected by cross-border reach, gravity of harm or dependence, institutional scale, prospective enduring impact, and breadth of independent reporting, not by a claim of objectively ranking world events: COP31 negotiations, Ukraine's civilian and energy infrastructure under attack, and the global Microsoft 365 disruption.",
+  "snapshot": {
+    "summary": "The UN chief pressed COP31 negotiators for deep emissions cuts amid fossil-fuel disagreements; Russian strikes compounded Ukraine's civilian and power-grid vulnerabilities as diplomacy remained unsettled; and Microsoft 365 users worldwide experienced continued disruptions with partial service restoration.",
+    "connections": [
+      "Energy security runs through climate negotiations and the wartime damage to Ukraine's electricity facilities, though the causes are unrelated.",
+      "The Microsoft outage and Ukraine's damaged power infrastructure illustrate different vulnerabilities of society-wide critical systems.",
+      "All three stories require separating official pledges, military assertions or company incident updates from independently established outcomes."
+    ],
+    "uncertainties": [
+      "Final COP31 obligations on fossil fuels, clean electricity and adaptation finance remained unsettled.",
+      "Full war-zone casualty and drone counts, Ukraine grid recovery, and European security talks remained unresolved.",
+      "Microsoft's independently established root cause, global affected user count and complete restoration time remained unknown."
+    ]
+  },
+  "stories": [
+    {
+      "id": "cop31-guterres-fossil-fuel-talks-nov13",
+      "eventId": "gl-cop31-climate-antalya-2026",
+      "title": "Guterres urges emissions cuts as COP31 remains divided over fossil fuels and electrification",
+      "summary": "In Antalya, UN Secretary-General António Guterres urged immediate emissions reductions while COP31 governments remained divided about fossil-fuel commitments. A proposed global electrification target did not necessarily require that additional power be renewable. Climate-vulnerable nations pressed for adaptation finance. The first week ended without agreement on these central questions.",
+      "whyItMatters": "Power-sector investment, emissions policy and adaptation finance have multi-decade consequences for climate risk, economic growth, and communities most exposed to extreme weather.",
+      "region": "Global / Turkey",
+      "tags": [
+        "COP31",
+        "climate-change",
+        "emissions",
+        "fossil-fuels",
+        "electrification",
+        "adaptation-finance"
+      ],
+      "selectionRationale": "A global intergovernmental summit governing the pace of emissions reductions and financing impacts populations, ecosystems and major economies across borders.",
+      "evidenceNote": "Reuters and AP independently report the secretary-general's November 13 intervention and disputed electrification terms; Guardian reports from the summit. Guardian was modified November 14 at 02:31 UTC, after cutoff: no authenticated historical snapshot exists and no unique later-only factual detail is treated as contemporaneous.",
+      "articles": [
+        {
+          "id": "cop-reuters-fossil-nov13",
+          "role": "reference",
+          "headline": "UN chief urges drastic emissions cuts as COP31 wrestles with fossil fuels",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-talks-face-early-friction-over-future-fossil-fuels-2026-11-13/",
+          "publishedAt": "2026-11-13",
+          "publishedPrecision": "date",
+          "genre": "Original bylined climate and diplomatic news report",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Government negotiating positions",
+            "rationale": "Focuses on the fossil fuel bargaining impasse and Turkish electrification proposal, distinguishing policy preferences from a final commitment."
+          },
+          "summary": "Reuters reports Guterres' call for steep emissions cuts, opposition among major energy producers and consumers, and unresolved COP31 negotiation details.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-14T07:47:19.455Z",
+            "method": "research-tool",
+            "note": "Original independently bylined report opened at publisher, substantive text readable anonymously without payment or login."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-14T07:47:19.455Z",
+            "contentHash": null,
+            "evidenceNote": "Sarah Mcfarlane and Valerie Volcovici. Publisher displays 13 Nov 2026 15:03 UTC with ambiguous 'updated' indicator; first-publication clock cannot be independently confirmed, so date-only."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop-ap-climate-nov13",
+          "role": "contrast_a",
+          "headline": "UN chief says ‘immediate and drastic’ emissions cuts needed to avert climate change catastrophe",
+          "url": "https://apnews.com/article/climate-cop31-un-turkey-9c3945f36e4445dd4427f490c40e4bf3",
+          "publishedAt": "2026-11-13",
+          "publishedPrecision": "date",
+          "genre": "Original bylined multi-reporter summit news report",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Independent news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Science and vulnerable countries",
+            "rationale": "Details how clean-power conditions and adaptation funding affect poorer states alongside the UN warning."
+          },
+          "summary": "AP documents Guterres' Friday remarks, a proposed rise to 35% electrification by 2035, and finance concerns from climate-exposed countries.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-14T07:47:19.455Z",
+            "method": "research-tool",
+            "note": "Original independently bylined report opened at publisher, substantive text readable anonymously without payment or login."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-14T07:47:19.455Z",
+            "contentHash": null,
+            "evidenceNote": "Suzan Fraser, Tammy Webber, Seth Borenstein and Anton L. Delgado. Original AP report published 13 Nov, independently dated by contemporaneous AP distribution; publisher page gives no verified initial clock."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop-guardian-address-nov13",
+          "role": "contrast_b",
+          "headline": "‘You cannot build peace on a burning planet,’ UN chief tells Cop31 in farewell speech",
+          "url": "https://www.theguardian.com/environment/2026/nov/13/cop31-antonio-guterres-united-nations-climate-action",
+          "publishedAt": "2026-11-13T17:00:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original on-site climate summit report",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust Limited",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Institutional responsibility and climate justice",
+            "rationale": "Emphasizes Guterres' argument that instability, poverty and displacement make climate policy central to international governance."
+          },
+          "summary": "Guardian correspondents cover the UN chief's final climate summit address and broader pressure for action from governments and fossil-fuel interests.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-14T07:47:19.455Z",
+            "method": "research-tool",
+            "note": "Opened full report for free, but it was modified after historical cutoff. Later-only unique details are excluded."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-14T07:47:19.455Z",
+            "contentHash": null,
+            "evidenceNote": "Fiona Harvey, Oliver Milman and Graham Readfearn. First published Fri 13 Nov 12:00 EST =17:00 UTC; last modified 21:31 EST = 14 Nov 02:31 UTC, after Paris cutoff. No archive snapshot."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "On November 13 at COP31 in Antalya, António Guterres publicly called for immediate and drastic emissions cuts.",
+          "sourceIds": [
+            "cop-reuters-fossil-nov13",
+            "cop-ap-climate-nov13",
+            "cop-guardian-address-nov13"
+          ]
+        },
+        {
+          "text": "The summit debated an electrification target whose text did not require all extra electricity to come from renewables.",
+          "sourceIds": [
+            "cop-reuters-fossil-nov13",
+            "cop-ap-climate-nov13"
+          ]
+        },
+        {
+          "text": "Delegations were divided over language restricting fossil fuels and had not concluded a final summit agreement.",
+          "sourceIds": [
+            "cop-reuters-fossil-nov13",
+            "cop-guardian-address-nov13"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters frames the issue around negotiating blocs and energy-policy constraints; AP centers scientific urgency, clean-power tradeoffs and vulnerable-country financing.",
+          "sourceIds": [
+            "cop-reuters-fossil-nov13",
+            "cop-ap-climate-nov13"
+          ]
+        },
+        {
+          "text": "Guardian stresses the UN's moral and political responsibility for climate justice, compared with Reuters' emphasis on the mechanics of state negotiations.",
+          "sourceIds": [
+            "cop-guardian-address-nov13",
+            "cop-reuters-fossil-nov13"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether an enforceable fossil-fuel transition clause would be agreed in the final summit text.",
+        "Whether electrification commitments would mandate low-carbon generation and what adaptation funding would be delivered.",
+        "Guardian's exact pre-cutoff text is not archived; the report was modified after cutoff."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Advocates alleged that fossil-fuel industry influence distorted governments' negotiations.",
+          "sourceIds": [
+            "cop-reuters-fossil-nov13",
+            "cop-guardian-address-nov13"
+          ],
+          "reason": "An attributed political assessment, not independently documented proof of particular misconduct."
+        }
+      ]
+    },
+    {
+      "id": "ukraine-attacks-winter-power-kyiv-hospital-nov13",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Russian attacks damage a Kyiv hospital as Ukraine struggles to restore power plants",
+      "summary": "Russian attacks damaged a hospital in Kyiv on November 13, while energy workers raced to repair power stations shattered in earlier strikes ahead of winter. Russia asserted it had downed almost 1,200 Ukrainian drones overnight, a claim reported but not independently established. US-led discussions about Ukraine and wider European security continued without a settlement.",
+      "whyItMatters": "Damage to electricity and heating systems threatens civilian survival in winter, while military escalation and unsettled European security diplomacy create significant regional and international risks.",
+      "region": "Ukraine / Russia / Europe",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "war",
+        "critical-infrastructure",
+        "energy-grid",
+        "civilian-safety",
+        "diplomacy"
+      ],
+      "selectionRationale": "Large-scale war, civilian casualties, winter energy security and negotiations touching NATO and wider Europe give the development major near-term and enduring consequences.",
+      "evidenceNote": "Reuters directly visited damaged DTEK power infrastructure; Guardian reported from a Kyiv hospital; AP independently covered cross-border raids and European diplomacy. The Russian nearly-1,200-drone tally and Ukrainian Starshield complaints are explicitly attributed. Guardian page was modified after historical cutoff without a retained snapshot.",
+      "articles": [
+        {
+          "id": "ukr-reuters-grid-nov13",
+          "role": "reference",
+          "headline": "Ukraine races to repair power plants wrecked by Russian missiles before winter",
+          "url": "https://www.reuters.com/business/energy/ukraine-races-repair-power-plants-wrecked-by-russian-missiles-before-winter-2026-11-13/",
+          "publishedAt": "2026-11-13",
+          "publishedPrecision": "date",
+          "genre": "Original field-reported energy and conflict news report",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Infrastructure damage and first-hand evidence",
+            "rationale": "Reporters inspected a DTEK plant and separately assessed recovery constraints in Ukraine's electricity sector."
+          },
+          "summary": "Reuters documents crews clearing wreckage and the risks that repeated attacks on generating facilities and transmission equipment pose to heating and power.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-14T07:47:19.455Z",
+            "method": "research-tool",
+            "note": "Original independently bylined report opened at publisher, substantive text readable anonymously without payment or login."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-14T07:47:19.455Z",
+            "contentHash": null,
+            "evidenceNote": "Pavel Polityuk and Olena Harmash. Publisher displays Nov 13 2026 14:05 UTC with unspecified update indicator; first-publication clock unconfirmed."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukr-guardian-hospital-nov13",
+          "role": "contrast_a",
+          "headline": "Russia strikes hospital in central Kyiv after SpaceX system falters again",
+          "url": "https://www.theguardian.com/world/2026/nov/13/russia-strikes-hospital-central-kyiv-spacex-starshield-system-fails",
+          "publishedAt": "2026-11-13T11:24:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original on-the-scene Kyiv news report",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust Limited",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Civilian consequences and military technology dependence",
+            "rationale": "Provides local observations at the damaged hospital and attributes Ukrainian satellite restrictions claims rather than treating them as independently verified."
+          },
+          "summary": "Guardian's correspondent describes a November 13 hospital strike and evacuations, and records Zelenskyy's complaints about Ukraine's Starshield service.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-14T07:47:19.455Z",
+            "method": "research-tool",
+            "note": "Original report freely readable, but modified after cutoff; only corroborated historical material is relied upon."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-14T07:47:19.455Z",
+            "contentHash": null,
+            "evidenceNote": "Luke Harding in Kyiv; first published Nov 13 06:24 EST (11:24 UTC). Modified Nov 13 21:31 EST, i.e. Nov 14 02:31 UTC, after cutoff. No historical snapshot."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukr-ap-cross-border-nov13",
+          "role": "contrast_b",
+          "headline": "Ukraine launches nearly 1,200 drones at Russia as US-led talks will consider wider European security",
+          "url": "https://apnews.com/article/russia-ukraine-war-putin-trump-zelenskyy-europe-157d168cb7ff9cae318cbf6cecb3988f",
+          "publishedAt": "2026-11-13",
+          "publishedPrecision": "date",
+          "genre": "Original multi-reporter war and diplomacy news report",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Independent news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Cross-border military and European security context",
+            "rationale": "Combines Ukrainian and Russian attacks with diplomatic unease about European security guarantees and negotiations."
+          },
+          "summary": "AP reports Russian and Ukrainian strikes, damage to Ukrainian cities and power systems, and the contested extension of US-led negotiations to broader European security.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-14T07:47:19.455Z",
+            "method": "research-tool",
+            "note": "Original independently bylined report opened at publisher, substantive text readable anonymously without payment or login."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-14T07:47:19.455Z",
+            "contentHash": null,
+            "evidenceNote": "Samya Kullab and Hanna Arhirova. AP original report Nov 13 established by contemporaneous AP distribution; initial publication clock unavailable from source."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Russian strikes damaged Ukrainian civilian and energy infrastructure, creating power-supply problems as winter approached.",
+          "sourceIds": [
+            "ukr-reuters-grid-nov13",
+            "ukr-guardian-hospital-nov13",
+            "ukr-ap-cross-border-nov13"
+          ]
+        },
+        {
+          "text": "A Russian drone strike damaged a Kyiv hospital on November 13.",
+          "sourceIds": [
+            "ukr-guardian-hospital-nov13",
+            "ukr-ap-cross-border-nov13"
+          ]
+        },
+        {
+          "text": "Russian authorities asserted that nearly 1,200 Ukrainian drones had attacked or been intercepted overnight; the articles establish the statement was made, not that the tally is accurate.",
+          "sourceIds": [
+            "ukr-guardian-hospital-nov13",
+            "ukr-ap-cross-border-nov13"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters foregrounds first-hand technical power-plant damage and restoration constraints, while Guardian centers the immediate civilian and medical impact in Kyiv.",
+          "sourceIds": [
+            "ukr-reuters-grid-nov13",
+            "ukr-guardian-hospital-nov13"
+          ]
+        },
+        {
+          "text": "AP connects attacks on both sides with European security diplomacy, while Guardian focuses on local civilian effects and the Ukrainian president's equipment complaints.",
+          "sourceIds": [
+            "ukr-ap-cross-border-nov13",
+            "ukr-guardian-hospital-nov13"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Independent casualty totals and drone interception counts were incomplete at cutoff.",
+        "The extent and timetable of restored Ukrainian electricity generation and heating remained uncertain.",
+        "Zelenskyy's claim that Starshield speed restrictions impaired Ukrainian drone interception was not independently verified.",
+        "No final Ukraine peace accord or broader European security agreement had been reached."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Russia said it intercepted almost 1,200 Ukrainian drones overnight.",
+          "sourceIds": [
+            "ukr-ap-cross-border-nov13",
+            "ukr-guardian-hospital-nov13"
+          ],
+          "reason": "Official Russian claim documented by independent reporters, but not independently counted."
+        },
+        {
+          "text": "Zelenskyy said SpaceX Starshield speed restrictions hampered Ukrainian defensive drones.",
+          "sourceIds": [
+            "ukr-ap-cross-border-nov13",
+            "ukr-guardian-hospital-nov13"
+          ],
+          "reason": "Public Ukrainian claim without independently verified performance or causal evidence."
+        }
+      ]
+    },
+    {
+      "id": "global-microsoft365-service-disruption-nov13",
+      "eventId": "gl-microsoft-365-cloud-outage-2026",
+      "title": "Global Microsoft 365 outage disrupts business and public services into a second day",
+      "summary": "Outlook, Teams, Copilot and other Microsoft 365 services experienced serious disruptions across countries on November 12 and 13. Reports from the user-driven Downdetector tracker came from 74 countries and territories, but did not measure the total number of people affected. Microsoft reported gradual recovery and said it had no indication of a cyberattack. Independent root-cause findings and global restoration timing remained unconfirmed by cutoff.",
+      "whyItMatters": "Communications, healthcare, government and commerce rely on a small set of cloud platforms, making systemic service failures transnational risks and raising questions about redundancy and digital sovereignty.",
+      "region": "Worldwide / US / Europe",
+      "tags": [
+        "Microsoft",
+        "cloud-outage",
+        "digital-resilience",
+        "Outlook",
+        "Teams",
+        "public-services",
+        "technology"
+      ],
+      "selectionRationale": "Documented disruption reports across 74 countries and effects on government, healthcare and businesses created exceptionally broad, direct economic and institutional exposure.",
+      "evidenceNote": "AP, Al Jazeera and Guardian publish separately bylined original reporting and explore different questions. Guardian article first appeared November 12 and was updated November 13 before cutoff. Downdetector reports are user submissions, not a census. Microsoft technical explanations are attributed, not independent root-cause proof.",
+      "articles": [
+        {
+          "id": "ms-ap-dependence-nov13",
+          "role": "reference",
+          "headline": "Microsoft outage shows the risks of relying on a single technology provider for essential services",
+          "url": "https://apnews.com/article/microsoft-outage-outlook-email-365-status-down-d92547a821930290db2964388016979a",
+          "publishedAt": "2026-11-13",
+          "publishedPrecision": "date",
+          "genre": "Original bylined international technology/business report",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Independent news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Service impacts and vendor concentration",
+            "rationale": "Collects firsthand and official accounts of effects while discussing the structural dependency on a few major cloud providers."
+          },
+          "summary": "AP reports disruption to Outlook, Teams and Copilot, Microsoft's partial restoration statements, and political scrutiny of digital resilience.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-14T07:47:19.455Z",
+            "method": "research-tool",
+            "note": "Original independently bylined report opened at publisher, substantive text readable anonymously without payment or login."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-14T07:47:19.455Z",
+            "contentHash": null,
+            "evidenceNote": "Chan Ho-Him, Kelvin Chan and Wyatte Grantham-Philips. Original AP dated Nov13 via contemporaneous AP wire record; first-publication time not shown on original page."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ms-aj-explainer-nov13",
+          "role": "contrast_a",
+          "headline": "Microsoft hit by global outages: What happened and why?",
+          "url": "https://www.aljazeera.com/news/2026/11/13/microsoft-hit-by-global-outages-what-happened-and-why",
+          "publishedAt": "2026-11-13",
+          "publishedPrecision": "date",
+          "genre": "Original bylined factual technology explainer",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "International timeline and uncertain technical mechanism",
+            "rationale": "Walks through Microsoft's shifting technical statements and limits of crowd-reported impacts without asserting an established cause."
+          },
+          "summary": "Al Jazeera traces service interruptions beginning Thursday and continuing Friday, Microsoft's repair attempts and the inability to count all affected users.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-14T07:47:19.455Z",
+            "method": "research-tool",
+            "note": "Original independently bylined report opened at publisher, substantive text readable anonymously without payment or login."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-14T07:47:19.455Z",
+            "contentHash": null,
+            "evidenceNote": "Heba Habib; article explicitly labeled EXPLAINER and dated 13 Nov 2026; first-publication clock not supplied."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ms-guardian-public-services-nov13",
+          "role": "contrast_b",
+          "headline": "Microsoft scrambles to fix global outage affecting Teams and Outlook",
+          "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-outlook-teams-word-excel-reports",
+          "publishedAt": "2026-11-12T20:46:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original independently bylined continuously updated technology news report",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust Limited",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Restoration and domestic institutions",
+            "rationale": "Examines disruption to hospitals, police, schools and government offices and Microsoft's technical recovery actions."
+          },
+          "summary": "Guardian reports partial restoration and effects on public services, attributing the preliminary server diagnosis and dismissal of cyberattack claims to Microsoft.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-14T07:47:19.455Z",
+            "method": "research-tool",
+            "note": "Original independently bylined report opened at publisher, substantive text readable anonymously without payment or login."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-14T07:47:19.455Z",
+            "contentHash": null,
+            "evidenceNote": "Mark Sweney, Josh Taylor, Aisha Down, Emma Elsworthy and Lauren Aratani; first published Thu Nov12 15:46 EST (20:46 UTC) and updated Fri Nov13 12:41 EST (17:41 UTC), both before historical cutoff."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Microsoft 365 platforms including Outlook and Teams experienced worldwide disruptions from November 12 continuing into November 13.",
+          "sourceIds": [
+            "ms-ap-dependence-nov13",
+            "ms-aj-explainer-nov13",
+            "ms-guardian-public-services-nov13"
+          ]
+        },
+        {
+          "text": "Downdetector had received self-reported service complaints from 74 countries or territories; that does not establish the number of customers affected.",
+          "sourceIds": [
+            "ms-ap-dependence-nov13",
+            "ms-aj-explainer-nov13",
+            "ms-guardian-public-services-nov13"
+          ]
+        },
+        {
+          "text": "On November 13 Microsoft announced that restoration was progressing while some customers were still experiencing problems.",
+          "sourceIds": [
+            "ms-ap-dependence-nov13",
+            "ms-guardian-public-services-nov13"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "AP stresses risks of dependence on a single technology provider; Al Jazeera focuses on explaining the multi-region outage and limited technical certainty.",
+          "sourceIds": [
+            "ms-ap-dependence-nov13",
+            "ms-aj-explainer-nov13"
+          ]
+        },
+        {
+          "text": "Guardian emphasizes disruption to British public services and recovery operations, compared with AP's broader concentration and sovereignty analysis.",
+          "sourceIds": [
+            "ms-guardian-public-services-nov13",
+            "ms-ap-dependence-nov13"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "An independently confirmed technical root cause was not available by cutoff.",
+        "Total affected user counts and the final worldwide service-restoration time were unknown.",
+        "Microsoft's denial of cyberattack involvement was a company assertion, not proof from an independent investigation."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Microsoft said the disruptions had no indication of cyberattack or AI agent involvement and were related to a technical infrastructure problem.",
+          "sourceIds": [
+            "ms-ap-dependence-nov13",
+            "ms-guardian-public-services-nov13"
+          ],
+          "reason": "Independent reporting establishes that Microsoft gave these explanations; no independent technical forensic finding was reviewed."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-14T07:47:19.455Z",
+    "author": "ChatGPT",
+    "reason": "First complete November 13, 2026 edition, researched after the Paris day cutoff and verified from nine independently originated readable articles."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "ChatGPT opened and read nine originating newsroom pages, checked headlines, dates, bylines, genres, full URLs and anonymous free access, independently corroborated AP original calendar dates from contemporary AP distribution, and checked each common fact against at least two selected sources. Two Guardian reports were modified after the cutoff without archived snapshots; later-only details were excluded and the limitation documented. Corporate and belligerent official claims remain attributed; no human review, content hashes, archive captures or publisher text/images are asserted or republished."
+  }
+}
