@@ -1,0 +1,598 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-14",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-14T22:59:59Z",
+  "recordedAt": "2026-11-15T07:57:15.000Z",
+  "kind": "daily",
+  "selectionSummary": "Selected for cross-border geographic reach, public safety, economic and humanitarian impact, institutional significance and enduring consequences: Hormuz tanker claims and maritime risk; US nationwide FAA disruption and continuing cancellations; COP31 climate negotiations at their midpoint. A reasoned editorial selection, not an absolute ranking.",
+  "snapshot": {
+    "summary": "Iran reported three fresh tanker mine incidents as the UN warned about civilian shipping in Hormuz; international and domestic air travel continued suffering from a nationwide FAA ground stop; and COP31 climate negotiators faced disputes over fossil fuels and finance while activists marched in Antalya.",
+    "connections": [
+      "Both the Hormuz maritime confrontation and US air-traffic outage jeopardized globally connected transport systems, through very different military and technical mechanisms.",
+      "War-driven energy insecurity affected worldwide transport and intersected with COP31 debates about electrification and energy investment without making the events causally identical.",
+      "Military, corporate and government statements across these stories require independent corroboration before they are accepted as proven outcomes."
+    ],
+    "uncertainties": [
+      "Vessel identities, mine causation and crew conditions in Saturday's reported Strait of Hormuz incidents were not verified.",
+      "The FAA's final technical root cause, full cancellation impact and actual Sunday restoration were unsettled.",
+      "COP31 had not resolved fossil-fuel transition terms, implementation mechanisms or adaptation-finance commitments."
+    ]
+  },
+  "stories": [
+    {
+      "id": "hormuz-tanker-mine-claims-un-seafarer-safety-nov14",
+      "eventId": "me-iran-us-israel-war-hormuz-2026",
+      "title": "Iran reports three tanker fires near Hormuz as UN warns of seafarer risks",
+      "summary": "Iranian state outlets reported that three oil tankers caught fire on November 14 after allegedly striking mines in or east of the Strait of Hormuz. Reuters could not independently verify the incidents, and the vessels and any casualties were unidentified. Separately, a UN official had told the Security Council that 25 seafarers died in maritime security incidents in the region since February.",
+      "whyItMatters": "A global oil-and-gas shipping corridor faces elevated danger during the US-Iran conflict. Risks to civilian crews, international shipping, freight, energy security and prices reach far beyond the Gulf.",
+      "region": "Strait of Hormuz / Iran / Persian Gulf",
+      "tags": [
+        "Hormuz",
+        "Iran",
+        "maritime-security",
+        "oil-tankers",
+        "energy-security",
+        "US-Iran-war",
+        "seafarers"
+      ],
+      "selectionRationale": "Commercial shipping risks at a globally important energy chokepoint, plus direct humanitarian exposure and geopolitical escalation, justify selection.",
+      "evidenceNote": "Three distinct original newsroom reports on Nov14 independently document the Iranian allegation; none independently proves that mines hit three actual vessels. AP is a same-day Middle East news roundup with a dedicated Hormuz section, disclosed instead of implying it is a standalone tanker report. Al Jazeera attributes 25 seafarer deaths to a UN Security Council briefing. Original initial clocks for AP and Al Jazeera were not verified; no archive capture exists.",
+      "articles": [
+        {
+          "id": "hormuz-reuters-three-tankers-nov14",
+          "role": "reference",
+          "headline": "Iran's navy says three tankers on fire after hitting mines in Hormuz",
+          "url": "https://www.reuters.com/world/middle-east/irans-navy-says-oil-tanker-fire-after-hitting-mine-hormuz-2026-11-14/",
+          "publishedAt": "2026-11-14",
+          "publishedPrecision": "date",
+          "genre": "Original wire report with Yasmine Ghania reporting credit",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Verification-first incident report",
+            "rationale": "Places the official Iranian account alongside explicit inability to independently verify it."
+          },
+          "summary": "Reuters reports the navy's claim of three tanker mine strikes and Tehran's contested route restrictions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-15T07:57:15.000Z",
+            "method": "research-tool",
+            "note": "Actual originating publisher article opened and read without payment or login; full article text not copied."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-15T07:57:15.000Z",
+            "contentHash": null,
+            "evidenceNote": "Reuters Nov14 publisher date, Yasmine Ghania reporting credit. Ambiguous publisher 'Updated' label; first-release clock not verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "hormuz-aj-un-risk-nov14",
+          "role": "contrast_a",
+          "headline": "UN says 25 seafarers killed in, around Hormuz since US-Israel war on Iran",
+          "url": "https://www.aljazeera.com/amp/news/2026/11/14/un-says-25-seafarers-killed-in-around-hormuz-since-february",
+          "publishedAt": "2026-11-14",
+          "publishedPrecision": "date",
+          "genre": "Original staff-written regional security report",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Seafarer safety and economic exposure",
+            "rationale": "Leads with UN monitoring of crew deaths and maritime incidents rather than solely Tehran's latest warnings."
+          },
+          "summary": "Al Jazeera reports UN figures and Saturday's tanker claims, noting disruption to freight, insurance and energy costs.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-15T07:57:15.000Z",
+            "method": "research-tool",
+            "note": "Actual originating publisher article opened and read without payment or login; full article text not copied."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-15T07:57:15.000Z",
+            "contentHash": null,
+            "evidenceNote": "By Al Jazeera Staff, original date Nov14; accessible on publisher AMP page. No verified original hour."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "hormuz-ap-mideast-roundup-nov14",
+          "role": "contrast_b",
+          "headline": "Israeli drone strike kills 2 Palestinians in Gaza, and other Mideast news",
+          "url": "https://apnews.com/article/mideast-news-israel-gaza-iran-november-14-ade76bebaf22135168aac6eb3016bc19",
+          "publishedAt": "2026-11-14",
+          "publishedPrecision": "date",
+          "genre": "Original AP Middle East multi-event news roundup with dedicated tanker section",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Independent news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Wider regional-war context",
+            "rationale": "Treats the alleged tanker strikes as part of wider Middle Eastern insecurity alongside Gaza and Jordan developments."
+          },
+          "summary": "AP staff independently report Iranian authorities' three-tanker allegations and state that identities and casualty details were absent.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-15T07:57:15.000Z",
+            "method": "research-tool",
+            "note": "Actual originating publisher article opened and read without payment or login; full article text not copied."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-15T07:57:15.000Z",
+            "contentHash": null,
+            "evidenceNote": "AP newsroom byline, Nov14 reporting and photos; initial publication hour not independently visible. Article says it was updated throughout the day."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "On November 14 Iranian officials claimed that three oil tankers caught fire after striking mines near the Strait of Hormuz; corroboration establishes only that authorities made the claim.",
+          "sourceIds": [
+            "hormuz-reuters-three-tankers-nov14",
+            "hormuz-aj-un-risk-nov14",
+            "hormuz-ap-mideast-roundup-nov14"
+          ]
+        },
+        {
+          "text": "Iranian naval officials linked the alleged incidents to routes they considered unauthorized and threatened further vessels using those routes.",
+          "sourceIds": [
+            "hormuz-reuters-three-tankers-nov14",
+            "hormuz-aj-un-risk-nov14",
+            "hormuz-ap-mideast-roundup-nov14"
+          ]
+        },
+        {
+          "text": "The available reports did not give independently verified identities, casualty information or damage assessments for all three purported vessels.",
+          "sourceIds": [
+            "hormuz-reuters-three-tankers-nov14",
+            "hormuz-ap-mideast-roundup-nov14"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters stresses the absence of independent evidence for the mine strikes; Al Jazeera emphasizes the humanitarian and commercial shipping risks described by the UN.",
+          "sourceIds": [
+            "hormuz-reuters-three-tankers-nov14",
+            "hormuz-aj-un-risk-nov14"
+          ]
+        },
+        {
+          "text": "AP's regional roundup situates the tanker claims amid other conflict and civilian-harm reports, unlike Al Jazeera's specialist maritime safety focus.",
+          "sourceIds": [
+            "hormuz-ap-mideast-roundup-nov14",
+            "hormuz-aj-un-risk-nov14"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether the mine strikes and tanker fires occurred as the Iranian military described.",
+        "Names, registration and destinations of vessels; crew injuries, rescue and actual physical damage.",
+        "Future vessel passage, security guarantees and repercussions for oil, insurance and freight prices."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Iran's Revolutionary Guards and navy said three vessels used prohibited routes and struck naval mines, causing fires.",
+          "sourceIds": [
+            "hormuz-reuters-three-tankers-nov14",
+            "hormuz-aj-un-risk-nov14",
+            "hormuz-ap-mideast-roundup-nov14"
+          ],
+          "reason": "A common official Iranian source underlies all three reports; mines, vessel identities and damage are not independently confirmed."
+        },
+        {
+          "text": "Iran and US officials asserted competing control and safety claims over routes through Hormuz.",
+          "sourceIds": [
+            "hormuz-reuters-three-tankers-nov14",
+            "hormuz-aj-un-risk-nov14"
+          ],
+          "reason": "Rival government assertions do not by themselves settle the waterway's physical safety or legal status."
+        }
+      ]
+    },
+    {
+      "id": "us-faa-ground-stop-saturday-recovery-nov14",
+      "eventId": "am-us-faa-ground-stop-2026",
+      "title": "US aviation recovery stalls after nationwide FAA communications disruption",
+      "summary": "Thousands of US flights remained canceled or delayed on November 14 as airlines recovered from a nearly five-hour nationwide FAA ground stop on Friday. Transport officials attributed the problem to equipment upgrades that overloaded aviation communications networks, but whether hardware fault or installation error was responsible remained under investigation. FAA chief Bryan Bedford expected recovery by late Sunday.",
+      "whyItMatters": "US airspace is central to international passenger, cargo and business travel. Cascading flight disruption and possible faults in aging control systems expose systemic operational and oversight risks.",
+      "region": "United States / international aviation",
+      "tags": [
+        "FAA",
+        "air-traffic-control",
+        "flight-cancellations",
+        "infrastructure",
+        "aviation-safety",
+        "transport",
+        "modernization"
+      ],
+      "selectionRationale": "An exceptionally rare national flight shutdown in a major global aviation hub triggered multi-day domestic and cross-border economic disruption.",
+      "evidenceNote": "Reuters, Associated Press and Guardian report independently from November 14. The Reuters live-updated page contains counts as of 9:35pm Eastern on Saturday, equal to 02:35 UTC November 15, AFTER the Paris cutoff; those post-cutoff figures are excluded, and only common pre-cutoff statements are used. Guardian was first published and updated Nov14 before the Paris cutoff. AP's first-release clock was not exposed.",
+      "articles": [
+        {
+          "id": "faa-reuters-recovery-forecast-nov14",
+          "role": "reference",
+          "headline": "US air travel disruptions to persist until late on Sunday, FAA head says",
+          "url": "https://www.reuters.com/business/aerospace-defense/thousands-us-flights-canceled-delayed-air-travel-system-recovers-shutdown-2026-11-14/",
+          "publishedAt": "2026-11-14",
+          "publishedPrecision": "date",
+          "genre": "Original bylined US aviation report",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Operational timetable and technical inquiry",
+            "rationale": "Emphasizes the FAA's expected recovery schedule and investigation into contractor router work."
+          },
+          "summary": "Reuters documents weekend disruption and FAA official explanations but not a concluded cause.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-15T07:57:15.000Z",
+            "method": "research-tool",
+            "note": "Originating article freely readable but rolling post-cutoff update is explicitly excluded."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-15T07:57:15.000Z",
+            "contentHash": null,
+            "evidenceNote": "By David Shepardson, publisher date Nov14. Page later added as-of Nov15 02:35 UTC counts; those numbers excluded."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "faa-ap-passenger-impact-nov14",
+          "role": "contrast_a",
+          "headline": "US air travel should normalize Sunday after ground stop triggers mass cancellations, FAA says",
+          "url": "https://apnews.com/article/ground-stop-flights-airlines-cancellations-faa-1fbf4992f0ddaa4c463b0e4990b6e291",
+          "publishedAt": "2026-11-14",
+          "publishedPrecision": "date",
+          "genre": "Original bylined air-transport report",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Independent news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Passengers, safety and technician perspective",
+            "rationale": "Combines passenger disruption with a technicians' union's reservations about upgrade consultation."
+          },
+          "summary": "AP describes the Saturday disruptions, FAA timetable and contractor-upgrade questions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-15T07:57:15.000Z",
+            "method": "research-tool",
+            "note": "Actual originating publisher article opened and read without payment or login; full article text not copied."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-15T07:57:15.000Z",
+            "contentHash": null,
+            "evidenceNote": "By Kimberlee Kruesi; AP original Nov14 date evident from Saturday reporting and images; exact first publication hour not displayed."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "faa-guardian-accountability-nov14",
+          "role": "contrast_b",
+          "headline": "US officials say flight stoppage stemmed from ‘routine maintenance’ as travel chaos continues",
+          "url": "https://www.theguardian.com/world/2026/nov/14/faa-ground-stop-flights-resume-airport-chaos",
+          "publishedAt": "2026-11-14T15:03:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original government-aviation news report",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust Limited",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Policy accountability and infrastructure age",
+            "rationale": "Examines explanations from officials and contractor alongside pressure for political accountability and more funding."
+          },
+          "summary": "Guardian documents the copper-to-fiber upgrade, Saturday cancellations and pending investigation.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-15T07:57:15.000Z",
+            "method": "research-tool",
+            "note": "Actual originating publisher article opened and read without payment or login; full article text not copied."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-15T07:57:15.000Z",
+            "contentHash": null,
+            "evidenceNote": "Anna Betts; first published Nov14 10:03 EST = 15:03 UTC, updated 12:11 EST = 17:11 UTC, both pre-cutoff."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Friday's nationwide FAA ground stop was followed by thousands of canceled or delayed US flights on Saturday, November 14.",
+          "sourceIds": [
+            "faa-reuters-recovery-forecast-nov14",
+            "faa-ap-passenger-impact-nov14",
+            "faa-guardian-accountability-nov14"
+          ]
+        },
+        {
+          "text": "Transport officials said the failure occurred amid contractor replacement or upgrade of communications equipment, while the final attribution was still under investigation.",
+          "sourceIds": [
+            "faa-reuters-recovery-forecast-nov14",
+            "faa-ap-passenger-impact-nov14",
+            "faa-guardian-accountability-nov14"
+          ]
+        },
+        {
+          "text": "FAA chief Bryan Bedford forecast that operations would approach normal schedules by late Sunday, November 15.",
+          "sourceIds": [
+            "faa-reuters-recovery-forecast-nov14",
+            "faa-ap-passenger-impact-nov14"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters centers the timing of recovery and technical investigation, while AP pays greater attention to stranded travelers and technicians' consultation concerns.",
+          "sourceIds": [
+            "faa-reuters-recovery-forecast-nov14",
+            "faa-ap-passenger-impact-nov14"
+          ]
+        },
+        {
+          "text": "Guardian examines political accountability and modernization funding more directly than AP's immediate operational and traveler narrative.",
+          "sourceIds": [
+            "faa-guardian-accountability-nov14",
+            "faa-ap-passenger-impact-nov14"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Specific faulty component or contractor process, and the independent engineering cause.",
+        "Final affected traveler and flight counts as of the Nov14 cutoff; tracker estimates differ by time and methodology.",
+        "Whether service would actually normalize on November 15.",
+        "Reuters' post-cutoff numerical update was not included as a historical fact."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "US officials preliminarily blamed an equipment-upgrade process, while considering installer error or a defective router.",
+          "sourceIds": [
+            "faa-reuters-recovery-forecast-nov14",
+            "faa-ap-passenger-impact-nov14",
+            "faa-guardian-accountability-nov14"
+          ],
+          "reason": "Several outlets report the government account, which is not a completed forensic finding."
+        },
+        {
+          "text": "US authorities said they found no indication the failure was caused by a cyberattack.",
+          "sourceIds": [
+            "faa-reuters-recovery-forecast-nov14",
+            "faa-guardian-accountability-nov14"
+          ],
+          "reason": "A preliminary government determination, not a conclusive independent investigation."
+        }
+      ]
+    },
+    {
+      "id": "cop31-midpoint-negotiations-civic-march-nov14",
+      "eventId": "gl-cop31-climate-antalya-2026",
+      "title": "COP31 enters final negotiating week with fossil-fuel disputes and climate protests",
+      "summary": "At COP31 in Antalya, UN climate chief Simon Stiell urged delegates on November 14 to avoid tactical delay as negotiators entered their second week. Australian lead negotiator Chris Bowen described constructive but unfinished work on finance, just transition and electrification. Climate demonstrators, including Turkish LGBTQ+ activists concerned about restrictions on public expression, marched in the host city. No final text was agreed.",
+      "whyItMatters": "An agreement among nearly all countries could shape emissions, energy investment and resilience funding globally; civil-society participation also matters to accountability and legitimacy.",
+      "region": "Global / Türkiye",
+      "tags": [
+        "COP31",
+        "climate-diplomacy",
+        "climate-finance",
+        "fossil-fuels",
+        "electrification",
+        "civil-society",
+        "human-rights"
+      ],
+      "selectionRationale": "A global multilateral summit addressing decade-scale climate and energy policy, finance and human welfare has enduring cross-border impacts.",
+      "evidenceNote": "Reuters and Anadolu published separate Nov14 reporting from negotiating briefings; Guardian's independently reported march broadens coverage beyond official positions. A stated need for compromise does not establish success or a final deal. Bowen's optimism and demonstrators' accounts are attributed. Reuters displays a possibly updated timestamp without a verified first release time. No archive captures.",
+      "articles": [
+        {
+          "id": "cop-reuters-stiell-midpoint-nov14",
+          "role": "reference",
+          "headline": "UN climate chief urges speed as COP31 confronts fossil fuel divide",
+          "url": "https://www.reuters.com/sustainability/cop/un-climate-chief-urges-speed-cop31-confronts-fossil-fuel-divide-2026-11-14/",
+          "publishedAt": "2026-11-14",
+          "publishedPrecision": "date",
+          "genre": "Original bylined climate negotiations report",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "State bargaining on emissions",
+            "rationale": "Highlights fossil-fuel disagreements, Stiell's request for compromise and limitations of proposed electrification language."
+          },
+          "summary": "Reuters reports the call for prompt negotiations and the remaining fossil-fuel and clean-power disputes.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-15T07:57:15.000Z",
+            "method": "research-tool",
+            "note": "Actual originating publisher article opened and read without payment or login; full article text not copied."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-15T07:57:15.000Z",
+            "contentHash": null,
+            "evidenceNote": "By Simon Jessop and William James. Reuters Nov14 label 'Updated ago'; verified original calendar date but not a distinct initial clock."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop-anadolu-bowen-nov14",
+          "role": "contrast_a",
+          "headline": "COP31 must show multilateralism works amid global 'polycrisis': Australian Minister Bowen",
+          "url": "https://www.aa.com.tr/en/politics/cop31-must-show-multilateralism-works-amid-global-polycrisis-australian-minister-bowen-/4125427",
+          "publishedAt": "2026-11-14",
+          "publishedPrecision": "date",
+          "genre": "Original bylined conference interview and press report",
+          "outlet": {
+            "name": "Anadolu Agency",
+            "domain": "aa.com.tr",
+            "country": "Türkiye",
+            "ownership": "Anadolu Agency (state-run)",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Government-led practical implementation",
+            "rationale": "Focuses on Bowen's argument for finance access, just-transition mechanisms and investment signals."
+          },
+          "summary": "Anadolu reports Australian negotiation leadership's priorities and unresolved fossil fuel language.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-15T07:57:15.000Z",
+            "method": "research-tool",
+            "note": "Actual originating publisher article opened and read without payment or login; full article text not copied."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-15T07:57:15.000Z",
+            "contentHash": null,
+            "evidenceNote": "By Fatma Zehra Solmaz. Nov14 original and updated dates shown by originating agency. Entire text freely readable."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop-guardian-civic-march-nov14",
+          "role": "contrast_b",
+          "headline": "LGBTQ+ protesters defy crackdown in Turkey to march with Cop31 activists",
+          "url": "https://www.theguardian.com/world/2026/nov/14/lgbtq-protesters-defy-crackdown-in-turkey-to-march-with-cop31-activists",
+          "publishedAt": "2026-11-14T16:13:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original on-the-ground civil society news report",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust Limited",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Climate justice and civic participation",
+            "rationale": "Reports demonstrators' goals, police controls and inclusion of Turkish LGBTQ+ groups, distinct from negotiating-room coverage."
+          },
+          "summary": "Guardian reporters document the climate march, activist concerns and unresolved conference negotiations.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-15T07:57:15.000Z",
+            "method": "research-tool",
+            "note": "Actual originating publisher article opened and read without payment or login; full article text not copied."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-15T07:57:15.000Z",
+            "contentHash": null,
+            "evidenceNote": "Damien Gayle, Graham Readfearn and Gabrielle Canon, Antalya; first published Nov14 17:13 CET = 16:13 UTC and updated 18:08 CET before cutoff."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "At COP31's November 14 midpoint in Antalya, negotiators were still discussing substantive measures and no final summit agreement had been reached.",
+          "sourceIds": [
+            "cop-reuters-stiell-midpoint-nov14",
+            "cop-anadolu-bowen-nov14",
+            "cop-guardian-civic-march-nov14"
+          ]
+        },
+        {
+          "text": "UN climate executive Simon Stiell publicly urged delegates to address difficult issues promptly and avoid tactical delays.",
+          "sourceIds": [
+            "cop-reuters-stiell-midpoint-nov14",
+            "cop-guardian-civic-march-nov14"
+          ]
+        },
+        {
+          "text": "Countries remained divided over fossil-fuel language and the form of electrification commitments.",
+          "sourceIds": [
+            "cop-reuters-stiell-midpoint-nov14",
+            "cop-anadolu-bowen-nov14"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters places the focus on unresolved fossil-fuel negotiations, while Anadolu emphasizes Bowen's cooperation, financing and green-investment rationale.",
+          "sourceIds": [
+            "cop-reuters-stiell-midpoint-nov14",
+            "cop-anadolu-bowen-nov14"
+          ]
+        },
+        {
+          "text": "Guardian gives prominence to grassroots climate and civil-rights activism rather than the negotiation-centered perspective of Reuters and Anadolu.",
+          "sourceIds": [
+            "cop-guardian-civic-march-nov14",
+            "cop-reuters-stiell-midpoint-nov14",
+            "cop-anadolu-bowen-nov14"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Final agreement language on fossil fuel transition, renewables and electrification.",
+        "Adequacy, delivery mechanisms and funding timetable for adaptation and a just transition.",
+        "Whether participation and justice concerns raised by campaigners would change negotiations."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Bowen characterized the first week as constructive and said a successful COP should signal confidence to renewable-energy investors.",
+          "sourceIds": [
+            "cop-anadolu-bowen-nov14",
+            "cop-reuters-stiell-midpoint-nov14"
+          ],
+          "reason": "These are an official participant's claims and expectations, not externally measured results."
+        },
+        {
+          "text": "Some Turkish and international demonstrators alleged harassment and constraints on civil society and LGBTQ+ expression.",
+          "sourceIds": [
+            "cop-guardian-civic-march-nov14"
+          ],
+          "reason": "Guardian documents testimony and visible protest controls, but the broader allegations are not an adjudicated legal finding."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-15T07:57:15.000Z",
+    "author": "ChatGPT",
+    "reason": "First complete edition of November 14, 2026, researched after Paris cutoff using nine independently authored originating newsroom articles; post-cutoff updated details excluded."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "ChatGPT opened all nine originating publisher reports, checked publication date and available clock precision, headline, byline or originating newsroom, genre and free anonymous access, and contrasted independent ownership groups and framing. Common facts have at least two selected citations. Reuters' aviation article includes a post-cutoff Nov15 statistic, deliberately excluded; AP original times and a Reuters initial-release clock were not verifiable. No historical page snapshots were claimed. Iranian mine strikes and government/activist interpretations remain attributed; no human review, fake archive links or copyrighted article bodies/images."
+  }
+}
