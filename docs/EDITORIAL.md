@@ -10,6 +10,12 @@ Open the actual articles without payment/login. Check original headline, publica
 
 Read and compare before writing. Keep summaries original and brief, respect source-specific usage limits, and never store publisher bodies or images. Identify article-specific framing without permanent extreme/moderate labels. A reference lens does not guarantee neutrality. At least two selected sources must support each common fact; multiple reports quoting one official establish the existence of that claim, not its truth.
 
+## Material divergence
+
+For each story, identify the central disputed question before choosing contrast_a and contrast_b. Select two independent articles expressing or reporting substantially different answers to that same question about facts, causes, responsibility, legitimacy or proposed action. State each position, whose position it is, and the supporting evidence. Differences in geography, topic emphasis or amount of detail alone do not qualify. Distinguish a newsroom's own analysis from positions attributed to quoted actors. Where sources converge, say so; never manufacture opposition or imply equal evidence.
+
+Use the existing framingDifferences entries to make the disputed question, position A, position B and what the evidence establishes explicit, citing the relevant selected article IDs. A factual discrepancy caused by different reporting times or definitions is not automatically an opposing interpretation. Keep the existing world-impact selection and source-eligibility requirements; if a qualifying comparison cannot be verified, continue research and apply the existing private-draft failure rule.
+
 ## As-of-day integrity
 
 Set timezone to Europe/Paris. cutoff is the UTC instant corresponding to 23:59:59 on the edition date in Europe/Paris (21:59:59Z in summer, 22:59:59Z in winter); recordedAt is the actual preparation time. The validator checks the timezone with daylight-saving rules. Older editions without a timezone field retain UTC interpretation. Do not backdate retrieval or recording. Every article must have original publication metadata within 72 hours before cutoff. Use YYYY-MM-DD when no timezone or clock time is verified. An updated-only date is permitted only in a reviewed retrospective edition, with an explicit limitation. Disclose later edits and avoid facts only learned after cutoff. Preserve uncertainties as they stood then.
