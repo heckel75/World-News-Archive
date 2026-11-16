@@ -1,0 +1,582 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-15",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-15T22:59:59Z",
+  "recordedAt": "2026-11-16T07:47:14.482Z",
+  "kind": "daily",
+  "selectionSummary": "Three distinct world-impact developments chosen consistently for cross-border reach, civilian and economic exposure, military escalation or institutional consequences and likely lasting significance: Iran-Bahrain attacks, stalled ASEAN-China maritime rules, and drones striking shipping near Romania. This is an editorial selection, not an absolute ranking.",
+  "snapshot": {
+    "summary": "Bahrain said it intercepted Iranian aerial attacks as Tehran claimed a US radar strike; ASEAN and China failed to complete a South China Sea conduct code at the Manila summit; and drone strikes on commercial vessels near Romania's Sulina approaches created safety and NATO concerns.",
+    "connections": [
+      "The Persian Gulf and Black Sea incidents each posed military risks to international shipping and civilians, though they occurred in separate conflicts.",
+      "ASEAN's unfinished maritime rules and Romania's requests for protection underscore difficulties securing busy sea corridors in contested regions.",
+      "Official assertions of damage, legal justification and responsibility across these stories must be distinguished from independently corroborated outcomes."
+    ],
+    "uncertainties": [
+      "Independent confirmation of Iranian-claimed radar damage in Bahrain and consequences for diplomacy was unavailable.",
+      "The final content and enforcement of any ASEAN-China South China Sea conduct code remained undetermined.",
+      "Attribution and exact ship-by-ship chronology of drone incidents near Romania remained unsettled."
+    ]
+  },
+  "stories": [
+    {
+      "id": "bahrain-iran-drones-radar-claims-nov15",
+      "eventId": "me-iran-us-israel-war-hormuz-2026",
+      "title": "Bahrain intercepts Iranian aerial attacks while Tehran claims a US radar strike",
+      "summary": "Bahrain issued public alerts on November 15 and said it intercepted Iranian aerial attacks. Iran's Revolutionary Guards claimed to have launched six drones against US military radar at a Bahrain base, but the alleged hit remained unverified. Bahrain condemned the attacks as violations of its sovereignty, while Iran defended retaliatory force and accused Gulf states of supporting US operations. The exchange threatened fragile efforts to prevent further regional escalation.",
+      "whyItMatters": "Bahrain hosts key US military facilities near vital Gulf shipping routes. Retaliation can endanger civilians, expand the US-Iran confrontation and undermine negotiations important to regional energy trade.",
+      "region": "Middle East / Persian Gulf",
+      "tags": [
+        "Bahrain",
+        "Iran",
+        "United States",
+        "drones",
+        "regional security",
+        "Hormuz"
+      ],
+      "selectionRationale": "Cross-border military action affecting civilian safety, US assets and major energy-shipping routes, with acute diplomatic and potential long-term regional consequences.",
+      "evidenceNote": "Reuters directly reports public security statements; Al Jazeera Staff contrasts rival sovereignty and self-defence explanations with reporting from Tehran; the Guardian's Rory Carroll-led synthesis (with credited agency contributions) examines broader escalation. They are separately authored originating-publisher reports, not syndicated copies. Claims of hits and legal rights are attributed.",
+      "articles": [
+        {
+          "id": "bahrain-reuters-nov15",
+          "role": "reference",
+          "headline": "Bahrain intercepts Iranian aerial attacks as Tehran says it attacked US base",
+          "url": "https://www.reuters.com/world/middle-east/bahrains-interior-ministry-issues-alerts-potential-threats-2026-11-15/",
+          "publishedAt": "2026-11-15T04:25:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "News report",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Official statements and verification limits",
+            "rationale": "Separates Bahrain's reported interceptions from Iran's unconfirmed assertion about hitting US radar."
+          },
+          "summary": "Reuters reports Bahrain's civilian warnings and assertion that it intercepted Iranian aerial attacks. It records the Revolutionary Guards' claimed operation and the lack of independent confirmation of a successful strike.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-16T07:47:14.482Z",
+            "method": "research-tool",
+            "note": "Originating publisher article opened and read without payment or login; source article text is not reproduced. "
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-16T07:47:14.482Z",
+            "contentHash": null,
+            "evidenceNote": "By Jana Choukeir and Yomna Ehab, original publisher time Nov15 04:25 UTC, full article readable."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "bahrain-aljazeera-nov15",
+          "role": "contrast_a",
+          "headline": "Bahrain accuses Iran of attacking its territory to ‘settle’ score with US",
+          "url": "https://www.aljazeera.com/news/2026/11/15/bahrain-accuses-iran-of-attacking-its-territory-to-settle-score-with-us",
+          "publishedAt": "2026-11-15",
+          "publishedPrecision": "date",
+          "genre": "News report",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Competing legal and Gulf sovereignty narratives",
+            "rationale": "Juxtaposes Bahrain's sovereignty objection with Iranian officials' claimed right to self-defence and Tehran reporting."
+          },
+          "summary": "Al Jazeera reports Bahrain's denunciation, the Iranian foreign ministry's justification, and reactions from other regional governments. The legal arguments are attributed to their speakers.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-16T07:47:14.482Z",
+            "method": "research-tool",
+            "note": "Originating publisher article opened and read without payment or login; source article text is not reproduced. "
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-16T07:47:14.482Z",
+            "contentHash": null,
+            "evidenceNote": "By Al Jazeera Staff with Tehran reporting from Resul Serdar. Publisher shows Nov15; original clock not visible."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "bahrain-guardian-nov15",
+          "role": "contrast_b",
+          "headline": "Iran launches drone attacks against US military base in Bahrain",
+          "url": "https://www.theguardian.com/world/2026/nov/15/iran-launches-drone-attacks-against-us-military-base-in-bahrain",
+          "publishedAt": "2026-11-15T17:36:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "News report",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust Limited",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Risk of wider regional escalation",
+            "rationale": "Places the Bahrain strikes within stalled US-Iran diplomacy, Houthi fighting in Yemen and maritime threats."
+          },
+          "summary": "The Guardian examines the feared escalation after renewed Iranian drone attacks, Bahrain's response and the wider conflict in Yemen. It labels claims about mined ships unverified.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-16T07:47:14.482Z",
+            "method": "research-tool",
+            "note": "Originating publisher article opened and read without payment or login; source article text is not reproduced. Original Guardian-written synthesis explicitly credits additional agency reporting; it is not a plain wire republication."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-16T07:47:14.482Z",
+            "contentHash": null,
+            "evidenceNote": "Rory Carroll and agencies; first published Nov15 18:36 CET = 17:36 UTC; updated 19:03 CET before cutoff."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Bahrain's authorities issued alerts to residents and stated that Iranian aerial attacks were intercepted on November 15; this corroborates their statements, not a separate forensic assessment.",
+          "sourceIds": [
+            "bahrain-reuters-nov15",
+            "bahrain-aljazeera-nov15",
+            "bahrain-guardian-nov15"
+          ]
+        },
+        {
+          "text": "The Iranian Revolutionary Guards asserted that drones targeted US assets in Bahrain during a renewed cycle of retaliatory action; their claim of a successful hit was unverified.",
+          "sourceIds": [
+            "bahrain-reuters-nov15",
+            "bahrain-guardian-nov15"
+          ]
+        },
+        {
+          "text": "Bahrain denounced the operation while Iranian representatives defended their position; the opposing legal interpretations were official claims.",
+          "sourceIds": [
+            "bahrain-aljazeera-nov15",
+            "bahrain-guardian-nov15"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters prioritises the clash between official military statements and unresolved proof of damage; Al Jazeera foregrounds Gulf sovereignty and Iran's asserted self-defence case.",
+          "sourceIds": [
+            "bahrain-reuters-nov15",
+            "bahrain-aljazeera-nov15"
+          ]
+        },
+        {
+          "text": "The Guardian extends the story to possible failure of diplomacy and related unrest in Yemen and Hormuz; those developments are not presented as proving the Iranian radar hit.",
+          "sourceIds": [
+            "bahrain-guardian-nov15",
+            "bahrain-reuters-nov15"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether US radar or other facilities sustained damage from the November 15 incident.",
+        "Whether the new attacks would lead to renewed US strikes or diplomacy.",
+        "Whether allegations of specific Gulf assistance to US military attacks could be independently verified."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The IRGC claimed that six drones struck a US radar site at the Al-Rifaa base.",
+          "sourceIds": [
+            "bahrain-reuters-nov15",
+            "bahrain-guardian-nov15"
+          ],
+          "reason": "Belligerent's reported statement; no independently corroborated damage assessment."
+        },
+        {
+          "text": "Iran said its attacks were lawful defensive acts and alleged regional governments facilitated US operations; Bahrain rejected the legality and motive.",
+          "sourceIds": [
+            "bahrain-aljazeera-nov15"
+          ],
+          "reason": "Competing governmental allegations and legal positions, not independent findings."
+        }
+      ]
+    },
+    {
+      "id": "asean-china-south-china-sea-code-unfinished-nov15",
+      "eventId": "as-asean-china-south-china-sea-code-2026",
+      "title": "ASEAN-China South China Sea code remains unfinished at Manila summit",
+      "summary": "On November 15, Philippine Foreign Secretary Theresa Lazaro said ASEAN and China had not finalised a long-negotiated South China Sea code of conduct. Approximately 77–80% of the draft was agreed, but the intended legal force and geographical scope remained contested. Manila's ambition to finish the code during its chairmanship was unmet, and Singapore would inherit the effort in 2027. The absence of agreement left maritime tensions without a new regional rulebook.",
+      "whyItMatters": "The South China Sea supports major shipping and fishing activities, and maritime confrontations involve several sovereign states. An effective code could help prevent dangerous incidents from escalating into wider conflict.",
+      "region": "Southeast Asia / South China Sea",
+      "tags": [
+        "ASEAN",
+        "China",
+        "Philippines",
+        "South China Sea",
+        "maritime security",
+        "diplomacy"
+      ],
+      "selectionRationale": "Broad maritime, security and commercial consequences across several states, and the enduring institutional impact of a missed agreement deadline.",
+      "evidenceNote": "Reuters reported the actual Nov15 announcement; Philippine bylined reporting describes its domestic diplomatic stakes; Al Jazeera's Barnaby Lo offered separately written earlier-day analysis of negotiating barriers, not purported confirmation of the later press conference. Three different editorial owners.",
+      "articles": [
+        {
+          "id": "asean-reuters-code-nov15",
+          "role": "reference",
+          "headline": "ASEAN, China fail to conclude South China Sea code of conduct",
+          "url": "https://www.reuters.com/world/china/asean-china-fail-conclude-south-china-sea-code-conduct-2026-11-15/",
+          "publishedAt": "2026-11-15T13:38:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "News report",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Negotiation outcome and regional maritime context",
+            "rationale": "Describes the actual no-deal declaration, disputes over legal force and ASEAN internal differences."
+          },
+          "summary": "Reuters records Lazaro's acknowledgement that no completed code exists, despite about 80% progress, and explains obstacles concerning legal status, geographic scope and competing claims.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-16T07:47:14.482Z",
+            "method": "research-tool",
+            "note": "Originating publisher article opened and read without payment or login; source article text is not reproduced. "
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-16T07:47:14.482Z",
+            "contentHash": null,
+            "evidenceNote": "By Mikhail Flores and Nestor Corrales; publisher first date/time Nov15 13:38 UTC."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "asean-philstar-code-nov15",
+          "role": "contrast_a",
+          "headline": "Philippines misses goal of South China Sea code during ASEAN chairship",
+          "url": "https://www.philstar.com/headlines/2026/11/15/2570309/philippines-misses-goal-south-china-sea-code-during-asean-chairship",
+          "publishedAt": "2026-11-15T09:52:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "News report",
+          "outlet": {
+            "name": "Philstar.com",
+            "domain": "philstar.com",
+            "country": "Philippines",
+            "ownership": "Philstar Global Corporation",
+            "ownershipGroup": "philstar-global",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Philippine public-policy accountability",
+            "rationale": "Centres Manila's failed chairmanship goal and responsibility for the handoff to Singapore."
+          },
+          "summary": "Philstar journalist Cristina Chi reports the Philippines' unmet target and contrasts the foreign minister's near-complete draft with the absence of a binding deal.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-16T07:47:14.482Z",
+            "method": "research-tool",
+            "note": "Originating publisher article opened and read without payment or login; source article text is not reproduced. "
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-16T07:47:14.482Z",
+            "contentHash": null,
+            "evidenceNote": "Cristina Chi, original Nov15 17:52 Philippines time (09:52 UTC), updated 18:43 local, all before cutoff."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "asean-aj-analysis-nov15",
+          "role": "contrast_b",
+          "headline": "Pact on South China Sea code of conduct unlikely, as ASEAN leaders gather",
+          "url": "https://www.aljazeera.com/amp/economy/2026/11/15/pact-on-south-china-sea-code-of-conduct-unlikely-as-asean-leaders-gather",
+          "publishedAt": "2026-11-15",
+          "publishedPrecision": "date",
+          "genre": "Reported analysis",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Structural geopolitical bargaining constraints",
+            "rationale": "Analyses differences among claimants, Beijing's position, outside-power involvement and the risks of a weak settlement."
+          },
+          "summary": "Barnaby Lo examines why a long-awaited maritime code was unlikely to be agreed and how sovereignty, enforcement and domestic expectations were complicating the process before the outcome was known.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-16T07:47:14.482Z",
+            "method": "research-tool",
+            "note": "Originating publisher article opened and read without payment or login; source article text is not reproduced. Published before the summit no-deal announcement; cite only for existing background and obstacles, not as confirmation of that later announcement."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-16T07:47:14.482Z",
+            "contentHash": null,
+            "evidenceNote": "By Barnaby Lo, Al Jazeera ANALYSIS, original Nov15 date visible but publication clock unverified. Readable on publisher AMP."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "ASEAN and China had not agreed a completed South China Sea code of conduct by the summit on November 15, after more than two decades of talks.",
+          "sourceIds": [
+            "asean-reuters-code-nov15",
+            "asean-philstar-code-nov15"
+          ]
+        },
+        {
+          "text": "The Philippine foreign minister described about 77–80% of the draft as complete but said significant provisions remained unresolved.",
+          "sourceIds": [
+            "asean-reuters-code-nov15",
+            "asean-philstar-code-nov15",
+            "asean-aj-analysis-nov15"
+          ]
+        },
+        {
+          "text": "The Philippines had sought to complete negotiations in 2026, while its missed goal left Singapore to pursue the deal in the next chairmanship.",
+          "sourceIds": [
+            "asean-reuters-code-nov15",
+            "asean-philstar-code-nov15"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Philstar reports the missed outcome as a Philippine diplomatic promise unfulfilled; Reuters emphasises multilateral legal hurdles and disagreements inside ASEAN as well as with China.",
+          "sourceIds": [
+            "asean-philstar-code-nov15",
+            "asean-reuters-code-nov15"
+          ]
+        },
+        {
+          "text": "Al Jazeera's separately reported analysis explains likely barriers before the news conference, whereas Reuters and Philstar confirm the actual November 15 no-deal outcome.",
+          "sourceIds": [
+            "asean-aj-analysis-nov15",
+            "asean-reuters-code-nov15"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "When negotiations might conclude and whether any code would be legally binding.",
+        "Which waters an eventual code would cover and whether it would include enforceable dispute procedures.",
+        "Whether China, the Philippines and other parties could reach concessions acceptable to their domestic constituencies."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Beijing maintains its maritime conduct was lawful, while the Philippines accuses Chinese ships of aggressive actions in claimed Philippine waters.",
+          "sourceIds": [
+            "asean-reuters-code-nov15",
+            "asean-aj-analysis-nov15"
+          ],
+          "reason": "Disputed descriptions of specific encounters are attributed; the separate 2016 arbitral ruling and China's rejection are established background."
+        }
+      ]
+    },
+    {
+      "id": "romania-black-sea-merchant-ships-drones-nov15",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Romania reports drone strikes on merchant vessels near the Danube's Black Sea exit",
+      "summary": "Romanian authorities reported multiple drone strikes on commercial vessels near the Sulina shipping approaches on November 13–14. The ships' crews reportedly extinguished fires without fatalities. Romanian fighter jets responded and the defence minister requested more allied maritime surveillance and counter-drone equipment. The drone operator was unidentified, and the reports differed in how they counted ships across the two nights.",
+      "whyItMatters": "Civilian shipping near the territorial waters of a NATO member is exposed to war-related dangers on a corridor used for Ukrainian exports. Continued attacks could threaten trade, crews and regional security.",
+      "region": "Romania / Black Sea / Eastern Europe",
+      "tags": [
+        "Romania",
+        "Ukraine",
+        "Black Sea",
+        "drones",
+        "merchant shipping",
+        "NATO"
+      ],
+      "selectionRationale": "Internationally flagged civilian ships near an alliance member and a Ukrainian trade corridor are a cross-border humanitarian, economic and escalation risk.",
+      "evidenceNote": "Reuters' original Romania reporting covers NATO implications; Digi24's Romanian report details local alerts and ships; Anadolu's bylined international report groups incidents across two dates differently. Neither attribution of drone operators nor a single consistent vessel count can be independently concluded from the three.",
+      "articles": [
+        {
+          "id": "blacksea-reuters-ships-nov15",
+          "role": "reference",
+          "headline": "Three ships struck by drones in Black Sea near Romanian shipping canal, PM says",
+          "url": "https://www.reuters.com/business/aerospace-defense/three-ships-struck-by-drones-black-sea-near-romanian-shipping-canal-pm-says-2026-11-15/",
+          "publishedAt": "2026-11-15T12:48:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "News report",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Regional NATO and trade-security stakes",
+            "rationale": "Reports maritime incidents and Romanian calls for counter-drone support without guessing the origin."
+          },
+          "summary": "Reuters records Romania's statement that drones hit ships near Sulina, crews extinguished fires with no reported casualties, and military aircraft were scrambled.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-16T07:47:14.482Z",
+            "method": "research-tool",
+            "note": "Originating publisher article opened and read without payment or login; source article text is not reproduced. "
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-16T07:47:14.482Z",
+            "contentHash": null,
+            "evidenceNote": "Luiza Ilie reporting, Nov15 12:48 UTC originating publisher timestamp; Romanian official accounts and no identified perpetrator."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "blacksea-digi24-alerts-nov15",
+          "role": "contrast_a",
+          "headline": "Trei nave comerciale, lovite de drone în apropierea gurilor Dunării. Ministrul Apărării cere sprijinul aliaților",
+          "url": "https://www.digi24.ro/amphtml/stiri/val-de-atacuri-in-marea-neagra-doua-nave-au-fost-lovite-de-drone-in-apropierea-gurilor-dunarii-4037041",
+          "publishedAt": "2026-11-15T10:34:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Romanian-language news report",
+          "outlet": {
+            "name": "Digi24",
+            "domain": "digi24.ro",
+            "country": "Romania",
+            "ownership": "Digi Communications / Digi24 newsroom",
+            "ownershipGroup": "digi24",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Local emergency response and public alerts",
+            "rationale": "Details Romanian coastal alerts, F-16 flights and the specific ship reports."
+          },
+          "summary": "Digi24 follows Romanian officials' accounts of merchant vessels, fires controlled by crews, air defence alerts and a proposal to discuss allied support.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-16T07:47:14.482Z",
+            "method": "research-tool",
+            "note": "Originating publisher article opened and read without payment or login; source article text is not reproduced. "
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-16T07:47:14.482Z",
+            "contentHash": null,
+            "evidenceNote": "Digi24 original Nov15 12:34 local EET=10:34 UTC; updated 12:50 local before cutoff. Original Romanian newsroom report, translated summary."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "blacksea-anadolu-dates-nov15",
+          "role": "contrast_b",
+          "headline": "Drone strikes reportedly hit 3 commercial ships near Romania's Black Sea coast",
+          "url": "https://www.aa.com.tr/en/middle-east/drone-strikes-reportedly-hit-3-commercial-ships-near-romanias-black-sea-coast/4125765",
+          "publishedAt": "2026-11-15",
+          "publishedPrecision": "date",
+          "genre": "News report",
+          "outlet": {
+            "name": "Anadolu Agency",
+            "domain": "aa.com.tr",
+            "country": "Turkey",
+            "ownership": "Anadolu Agency (state-operated)",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "International commercial and shipping safety",
+            "rationale": "Places a Friday ship incident and two Saturday reports in one cross-border shipping narrative."
+          },
+          "summary": "Anadolu's Aysu Bicer recounts the Larissa 1 cargo-ship damage on Friday and two reported Saturday strikes, noting a lack of official attribution.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-16T07:47:14.482Z",
+            "method": "research-tool",
+            "note": "Originating publisher article opened and read without payment or login; source article text is not reproduced. "
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-16T07:47:14.482Z",
+            "contentHash": null,
+            "evidenceNote": "Original authored Anadolu report by Aysu Bicer, Nov15 published and updated date; first publication clock not displayed. It references Romanian authorities and media, not a Reuters syndicated text."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Multiple merchant vessels near the Romanian Black Sea coast were reported struck by drones around November 13–14; Romanian authorities reported no fatalities in the incidents described.",
+          "sourceIds": [
+            "blacksea-reuters-ships-nov15",
+            "blacksea-digi24-alerts-nov15",
+            "blacksea-anadolu-dates-nov15"
+          ]
+        },
+        {
+          "text": "Evia Petrol V and Marsol were among vessels reportedly hit, and crews reportedly contained fires; attribution of the drone launches was not established.",
+          "sourceIds": [
+            "blacksea-reuters-ships-nov15",
+            "blacksea-digi24-alerts-nov15"
+          ]
+        },
+        {
+          "text": "Romanian authorities reported aerial alerts and sought additional surveillance or counter-drone support; this was a request rather than confirmed new NATO deployments.",
+          "sourceIds": [
+            "blacksea-reuters-ships-nov15",
+            "blacksea-digi24-alerts-nov15"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters places the maritime incidents in the context of NATO security and Ukraine's exports; Digi24 concentrates on Romanian coastal alerts, vessels and emergency response.",
+          "sourceIds": [
+            "blacksea-reuters-ships-nov15",
+            "blacksea-digi24-alerts-nov15"
+          ]
+        },
+        {
+          "text": "Anadolu combines the Friday Larissa 1 incident with two Saturday strikes, while Reuters and Digi24 use a three-ship Saturday account; the archive retains this unresolved difference.",
+          "sourceIds": [
+            "blacksea-anadolu-dates-nov15",
+            "blacksea-reuters-ships-nov15",
+            "blacksea-digi24-alerts-nov15"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Who launched each drone and whether merchant ships were the intended targets.",
+        "Whether three ships were hit on Saturday or reports grouped vessels across Friday and Saturday differently.",
+        "What future allied deployments, shipping restrictions or export impacts would follow."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Romanian officials described the events as a consequence of Russia's war on Ukraine but did not establish who launched the drones.",
+          "sourceIds": [
+            "blacksea-reuters-ships-nov15",
+            "blacksea-digi24-alerts-nov15"
+          ],
+          "reason": "Conflict-context assessment does not identify a perpetrator; no independent forensic attribution was available."
+        },
+        {
+          "text": "Anadolu's three-vessel grouping includes Larissa 1, while other reports name Ali Najafov in the Saturday count.",
+          "sourceIds": [
+            "blacksea-anadolu-dates-nov15",
+            "blacksea-reuters-ships-nov15"
+          ],
+          "reason": "The articles cover two dates and their counts are not fully aligned; avoid creating a falsely precise harmonised chronology."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 2,
+    "at": "2026-11-16T16:11:42.968Z",
+    "author": "ChatGPT",
+    "reason": "Remove the earlier Al Jazeera analysis from the later ASEAN summit outcome citation and remove Anadolu from the vessel-name citation, which its report does not support."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Targeted correction review re-examined the six selected ASEAN and Black Sea reports for the two corrected citation mappings. Reuters text was recovered through publisher-indexed research results after direct opens failed; Philstar, Al Jazeera, Digi24 and Anadolu publisher text was readable. Reuters and Philstar support the summit outcome; Reuters and Digi24 support the named vessels and contained fires. Al Jazeera remains relevant to negotiating barriers and the reported approximately 80 percent draft progress, while Anadolu remains relevant to the separately disclosed incident chronology. Article access records retain their original check timestamps. This revision does not claim a fresh review of the Bahrain reports or all other claims. The historical cutoff, publication-date precision, unverified attribution and vessel-count uncertainty remain unchanged. No later developments, historical captures or human review are asserted."
+  }
+}

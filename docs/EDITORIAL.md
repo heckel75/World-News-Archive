@@ -2,7 +2,7 @@
 
 ## Daily research in ChatGPT
 
-Use the existing World News History Archive task in the Open Source News Archive conversation and its news-selection intent. Research the previous completed Europe/Paris calendar day. Check the repository first: if that day already exists, do not duplicate it. Reuse persistent event IDs for continuing stories. A run more than 48 hours after cutoff is a retrospective backfill.
+Use the existing daily publishing task and the news-selection criteria below. Research the previous completed Europe/Paris calendar day. Check the repository first: if that day already exists, do not duplicate it. Reuse persistent event IDs for continuing stories. A run more than 48 hours after cutoff is a retrospective backfill.
 
 Search broadly for consequential international developments. Select three distinct events based on cross-border impact, breadth of reporting and lasting significance. This is an editorial selection, not an objective ranking. Find exactly three free-to-read articles about each event, with independent originating newsrooms: one factual/reference lens and two materially contrasting editorial or geopolitical lenses. Syndicated copies of one wire story do not constitute independent perspectives.
 

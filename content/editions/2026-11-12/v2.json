@@ -1,0 +1,609 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-12",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-12T22:59:59Z",
+  "recordedAt": "2026-11-13T07:47:36.870Z",
+  "kind": "daily",
+  "selectionSummary": "Selected three distinct November 12 developments using the same world-impact criteria: lives and populations affected, international security and trade reach, environmental and economic persistence, and independent original reporting. Followed Russia-Ukraine talks, a US policy reversal on Iran diplomacy and the AIIB climate-policy financing package announced at COP31. Continuing event IDs are preserved.",
+  "snapshot": {
+    "summary": "US envoys met Putin in Moscow and subsequently Ukraine's leader without settling European participation or a ceasefire; President Trump disavowed the need for an Iran deal while maritime risks persisted; COP31 financing coverage examined reform targets, the limits of policy lending and official development promises. None of the announced positions or plans established completed implementation.",
+    "connections": [
+      "The Ukraine talks and Iran diplomacy illustrate the separation between negotiating positions, established agreements and eventual security outcomes.",
+      "Iran-related fuel shipping risks reinforce the energy-security context of the electrification and climate-financing debates at COP31.",
+      "European security rules and climate investment both involve long-term international commitments whose detailed implementation remained disputed."
+    ],
+    "uncertainties": [
+      "No ceasefire or prisoner exchange implementation was confirmed from November 12 Moscow and Dublin diplomacy, and proposed European participation remained conditional.",
+      "Trump's statement did not establish that every US-Iran communication had stopped, while the blockade and regional security risks continued.",
+      "The announced AIIB climate-policy package did not establish completed disbursement, enacted reforms or achieved climate benefits by the cutoff."
+    ]
+  },
+  "stories": [
+    {
+      "id": "moscow-putin-us-envoys-europe-nov12",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Putin meets US envoys as European role in future Ukraine peace talks remains unsettled",
+      "summary": "US envoys Steve Witkoff and Jared Kushner met Vladimir Putin in Moscow on November 12 and then traveled to Dublin to meet Volodymyr Zelenskyy. Witkoff announced possible European participation in a further round, but a Kremlin adviser did not clearly confirm its terms. Putin reiterated objections to foreign troops in Ukraine and pressed Russia's territorial and continental-security demands. Ukraine also complained of disrupted Starshield connectivity, for reasons not independently confirmed.",
+      "whyItMatters": "The war's civilian, territorial and strategic stakes are extensive. A credible peace settlement would affect security guarantees for Ukraine, European participation and the prospects for monitoring a ceasefire.",
+      "region": "Europe / Ukraine / Russia / United States / Ireland",
+      "tags": [
+        "Russia-Ukraine-war",
+        "diplomacy",
+        "Moscow",
+        "European-security",
+        "ceasefire",
+        "Starshield"
+      ],
+      "selectionRationale": "Direct November 12 state-level talks with high humanitarian, territorial and transatlantic-security implications, covered by three originating newsrooms from international, European and Russian official perspectives.",
+      "evidenceNote": "The original Reuters, Guardian and TASS pages were read anonymously. TASS supplies a Russian official-centered lens, not independent evidence for Kremlin accusations; Reuters first-publication clock remained ambiguous, and no archival snapshot was inspected.",
+      "articles": [
+        {
+          "id": "ukr-reuters-moscow-nov12",
+          "role": "reference",
+          "headline": "Putin lets Europe join Ukraine peace talks, Zelenskiy welcomes prospect of European participation",
+          "url": "https://www.reuters.com/world/europe/us-envoys-arrive-moscow-latest-round-ukrainian-peace-talks-with-putin-2026-11-12/",
+          "publishedAt": "2026-11-12",
+          "genre": "Original bylined international diplomatic report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "International negotiation and conditional announcement",
+            "rationale": "Sets Witkoff's European-participation assertion against the Kremlin's guarded readout and unresolved Ukrainian concerns."
+          },
+          "summary": "Reuters reports the Moscow meeting and subsequent Dublin contact, distinguishing US optimism from Kremlin conditions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-13T07:47:36.870Z",
+            "method": "research-tool",
+            "note": "Original Reuters story and substantial body opened at publisher, anonymously readable without payment or login."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-13T07:47:36.870Z",
+            "contentHash": null,
+            "evidenceNote": "By Andrew Osborn and Padraic Halpin. November 12 page shows 07:25 UTC with an ambiguous update indicator; original time cannot be confirmed, so date-only precision."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukr-guardian-security-nov12",
+          "role": "contrast_a",
+          "headline": "Putin takes hard line in US talks as Ukraine says Starlink disrupted again",
+          "url": "https://www.theguardian.com/world/2026/nov/12/vladimir-putin-russia-target-foreign-troops-ukraine-elon-musk-starlink",
+          "publishedAt": "2026-11-12T17:26:00Z",
+          "genre": "Original bylined European diplomatic and security news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "European security and battlefield dependence",
+            "rationale": "Focuses on Ukraine's security concerns, European objections to Russian proposals and contested claims about Starshield."
+          },
+          "summary": "The Guardian examines Putin's troop and territorial conditions and Zelenskyy's allegation that Starshield limits impeded defenses.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-13T07:47:36.870Z",
+            "method": "research-tool",
+            "note": "Publisher page and complete article readable without login or payment."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-13T07:47:36.870Z",
+            "contentHash": null,
+            "evidenceNote": "By Pjotr Sauer and Jennifer Rankin. First published November 12 18:26 CET (17:26 UTC), page shows November 12 23:26 CET revision; Ukrainian connectivity complaint remains an attributed allegation."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukr-tass-ushakov-nov12",
+          "role": "contrast_b",
+          "headline": "Putin aide comments on Europe’s security, humanitarian task, Kiev's peace allergy",
+          "url": "https://tass.com/politics/2217455",
+          "publishedAt": "2026-11-12",
+          "genre": "Original Russian news-agency digest of Kremlin briefing",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "TASS",
+            "domain": "tass.com",
+            "country": "Russia",
+            "ownership": "Russian state-owned news agency",
+            "ownershipGroup": "tass",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Russian official security-framework rationale",
+            "rationale": "Offers Kremlin aide Ushakov's account of wider European security demands and the asserted need for a humanitarian mission."
+          },
+          "summary": "TASS reports the Russian representative's appraisal of peace diplomacy and contested accusations against Kyiv.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-13T07:47:36.870Z",
+            "method": "research-tool",
+            "note": "Original TASS report body freely readable at publisher."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-13T07:47:36.870Z",
+            "contentHash": null,
+            "evidenceNote": "Russian state news agency. Page dated November 12 with 20:07 clock without confirmed timezone, so date-only original publication precision; statements of officials do not establish their truth."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Putin met American negotiators Witkoff and Kushner in Moscow on November 12 to discuss the Russia–Ukraine war.",
+          "sourceIds": [
+            "ukr-reuters-moscow-nov12",
+            "ukr-guardian-security-nov12",
+            "ukr-tass-ushakov-nov12"
+          ]
+        },
+        {
+          "text": "The Moscow meeting followed Ukraine–Russia–US discussions held in Abu Dhabi on November 10 and 11.",
+          "sourceIds": [
+            "ukr-reuters-moscow-nov12",
+            "ukr-tass-ushakov-nov12"
+          ]
+        },
+        {
+          "text": "Russian representatives advocated a wider European security discussion and Putin restated objections to foreign troops being stationed in Ukraine.",
+          "sourceIds": [
+            "ukr-reuters-moscow-nov12",
+            "ukr-guardian-security-nov12",
+            "ukr-tass-ushakov-nov12"
+          ]
+        },
+        {
+          "text": "The American delegation proposed European participation in later peace talks, but the Kremlin did not provide unambiguous confirmation of the final arrangement.",
+          "sourceIds": [
+            "ukr-reuters-moscow-nov12",
+            "ukr-guardian-security-nov12"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters juxtaposes US diplomatic optimism with the Kremlin's more cautious readout; the Guardian foregrounds European opposition to Moscow's proposed security terms.",
+          "sourceIds": [
+            "ukr-reuters-moscow-nov12",
+            "ukr-guardian-security-nov12"
+          ]
+        },
+        {
+          "text": "TASS foregrounds Ushakov's allegations about Kyiv's conduct; the Guardian emphasizes the implications of Russian territorial and troop demands for Ukrainian sovereignty.",
+          "sourceIds": [
+            "ukr-tass-ushakov-nov12",
+            "ukr-guardian-security-nov12"
+          ]
+        },
+        {
+          "text": "Reuters treats a reported humanitarian mission as a Russian proposal, while TASS gives the Kremlin justification for the idea at greater length.",
+          "sourceIds": [
+            "ukr-reuters-moscow-nov12",
+            "ukr-tass-ushakov-nov12"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "No peace settlement, ceasefire or binding guarantees had been announced by the November 12 cutoff.",
+        "The precise form, representation and acceptance of possible European participation in future talks were not established.",
+        "Zelenskyy's allegations about Starshield disruption did not establish the technical mechanism or responsible actor.",
+        "Claims concerning Russian control of Kostiantynivka were disputed and a proposed humanitarian mission had not been implemented."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "A Kremlin adviser accused Ukraine's president of avoiding peace because of possible elections.",
+          "sourceIds": [
+            "ukr-tass-ushakov-nov12"
+          ],
+          "reason": "Attribution to an interested official; no independent verification of political motives."
+        },
+        {
+          "text": "Zelenskyy alleged that deliberately imposed Starshield speed limits disrupted Ukraine's drone defenses.",
+          "sourceIds": [
+            "ukr-reuters-moscow-nov12",
+            "ukr-guardian-security-nov12"
+          ],
+          "reason": "Selected reports corroborate the allegation was made, not the technical cause or decision-maker."
+        },
+        {
+          "text": "Putin asserted Russian full control of Kostiantynivka and proposed a humanitarian mission.",
+          "sourceIds": [
+            "ukr-reuters-moscow-nov12",
+            "ukr-tass-ushakov-nov12"
+          ],
+          "reason": "Control was disputed and the proposal was not an implemented humanitarian operation."
+        }
+      ]
+    },
+    {
+      "id": "trump-vance-iran-deal-reversal-nov12",
+      "eventId": "me-iran-us-israel-war-hormuz-2026",
+      "title": "Trump says an Iran deal is unnecessary and redirects Vance toward US domestic matters",
+      "summary": "Donald Trump said on November 12 that the United States no longer needed a deal with Iran and instructed Vice President JD Vance to focus on domestic allegations of crime and corruption. Vance had previously helped lead Iran-related diplomacy, while US sanctions, the blockade of Iranian ports and Hormuz security questions persisted. The new presidential statement was not proof that every channel of contact had closed or that the war was over.",
+      "whyItMatters": "A diplomatic reversal could constrain paths toward de-escalation in an economically strategic region. The conflict and shipping risks affect Gulf security, civilian welfare and worldwide energy trade.",
+      "region": "Iran / United States / Middle East / Strait of Hormuz",
+      "tags": [
+        "Iran-war",
+        "JD-Vance",
+        "United-States",
+        "sanctions",
+        "Strait-of-Hormuz",
+        "diplomacy"
+      ],
+      "selectionRationale": "A discrete November 12 shift in US public negotiating policy with significant regional and global trade-security implications, documented in independent international, US political and Iran-focused reports.",
+      "evidenceNote": "Reuters, Guardian and Iran International original reports were readable. The Guardian page was revised after the cutoff, so its changed text is not claimed as a verified November 12 capture. Iran International credits another newsroom for its report of private White House thinking. The Guardian article was subsequently updated; no historical version from the cutoff was inspected.",
+      "articles": [
+        {
+          "id": "iran-reuters-trump-vance-nov12",
+          "role": "reference",
+          "headline": "Trump says US does not need Iran deal, directs Vance to focus on domestic corruption",
+          "url": "https://www.reuters.com/world/us/trump-says-vance-should-focus-domestic-corruption-we-dont-need-deal-with-iran-2026-11-12/",
+          "publishedAt": "2026-11-12",
+          "genre": "Original bylined international news dispatch",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Public US position and diplomatic background",
+            "rationale": "Presents Trump's directive together with Vance's prior discussions, US sanctions and the continuing Hormuz situation."
+          },
+          "summary": "Reuters records the president's public statement and distinguishes speculative private talks from confirmed diplomacy.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-13T07:47:36.870Z",
+            "method": "research-tool",
+            "note": "Original Reuters article and substantive body anonymously readable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-13T07:47:36.870Z",
+            "contentHash": null,
+            "evidenceNote": "By Bo Erickson and colleagues. November 12 report displays 13:39 UTC with non-specific updated indicator; first-publication clock not independently confirmed; date-only recorded."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "iran-guardian-vance-stalemate-nov12",
+          "role": "contrast_a",
+          "headline": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+          "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+          "publishedAt": "2026-11-12T19:01:00Z",
+          "genre": "Original bylined US politics and Iran-war report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "US domestic politics and regional stalemate",
+            "rationale": "Focuses on Vance's position, US domestic political consequences and continued impact of Hormuz restrictions."
+          },
+          "summary": "The Guardian situates the negotiating pivot within a prolonged war, economic pressures and domestic political disagreement.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-13T07:47:36.870Z",
+            "method": "research-tool",
+            "note": "Full original publisher report readable free; the page was later updated after the historical cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-13T07:47:36.870Z",
+            "contentHash": null,
+            "evidenceNote": "By Andrew Roth, first published November 12 19:01 GMT, updated November 13 02:30 GMT. No verified historical snapshot; only corroborated November 12 information retained."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "iran-iranintl-vance-nov12",
+          "role": "contrast_b",
+          "headline": "Trump pulls Vance off Iran talks, orders him to focus on 'corruption'",
+          "url": "https://www.iranintl.com/en/202611123282",
+          "publishedAt": "2026-11-12T15:14:00Z",
+          "genre": "Original Iran-focused newsroom news brief",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Iran International",
+            "domain": "iranintl.com",
+            "country": "United Kingdom",
+            "ownership": "Volant Media UK Limited",
+            "ownershipGroup": "volant-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Iran-facing diplomatic implications",
+            "rationale": "Emphasizes the changed US approach to talks with Tehran and attributes assertions about internal disputes to another publisher."
+          },
+          "summary": "Iran International recounts Trump's directive and previously reported US concerns about Iran talks, citing the Wall Street Journal for the latter.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-13T07:47:36.870Z",
+            "method": "research-tool",
+            "note": "Original Iran International newsroom brief freely readable without login."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-13T07:47:36.870Z",
+            "contentHash": null,
+            "evidenceNote": "Dated November 12, 15:14 GMT+0. Discussion of alleged private White House misgivings is attributed to the Wall Street Journal, not independently verified here."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Trump publicly said November 12 that the US no longer needed an Iran agreement and redirected Vance to domestic crime and corruption issues.",
+          "sourceIds": [
+            "iran-reuters-trump-vance-nov12",
+            "iran-guardian-vance-stalemate-nov12",
+            "iran-iranintl-vance-nov12"
+          ]
+        },
+        {
+          "text": "Vance had previously been a major figure in attempts to negotiate with Iran.",
+          "sourceIds": [
+            "iran-reuters-trump-vance-nov12",
+            "iran-guardian-vance-stalemate-nov12",
+            "iran-iranintl-vance-nov12"
+          ]
+        },
+        {
+          "text": "The United States continued restrictions on Iranian ports while the conflict and Strait of Hormuz shipping problems remained unresolved.",
+          "sourceIds": [
+            "iran-reuters-trump-vance-nov12",
+            "iran-guardian-vance-stalemate-nov12"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Reuters focuses on what Trump's directive establishes about official US policy; the Guardian places the pivot amid domestic election pressures and consequences of the continuing blockade.",
+          "sourceIds": [
+            "iran-reuters-trump-vance-nov12",
+            "iran-guardian-vance-stalemate-nov12"
+          ]
+        },
+        {
+          "text": "Iran International foregrounds implications for contact with Tehran and carefully attributes disputed insider accounts to another publisher, while the Guardian emphasizes US political and regional stalemate.",
+          "sourceIds": [
+            "iran-iranintl-vance-nov12",
+            "iran-guardian-vance-stalemate-nov12"
+          ]
+        },
+        {
+          "text": "Reuters says proposed private Vance contacts could not be confirmed; Iran International reports attributed claims of internal reservations without independently proving them.",
+          "sourceIds": [
+            "iran-reuters-trump-vance-nov12",
+            "iran-iranintl-vance-nov12"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Trump's statement did not prove that all indirect negotiations or contacts with Iran had ended; no treaty or negotiated peace resulted.",
+        "Whether Vance had arranged or would attend previously reported private talks remained unconfirmed.",
+        "The future of the blockade, oil shipping and any fresh military escalation remained unclear."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Trump asserted that the US held hundreds of billions in Iranian funds and controlled 'their Strait'.",
+          "sourceIds": [
+            "iran-reuters-trump-vance-nov12",
+            "iran-guardian-vance-stalemate-nov12"
+          ],
+          "reason": "His assertion does not independently establish ownership of a specified sum or legal control of Hormuz."
+        },
+        {
+          "text": "Another newspaper reported through unnamed sources that Trump regretted Vance's prior Iran negotiating memorandum.",
+          "sourceIds": [
+            "iran-iranintl-vance-nov12"
+          ],
+          "reason": "Iran International attributes private-office claims to the Wall Street Journal; their accuracy was not independently verified here."
+        },
+        {
+          "text": "Trump accused Democratic-led US jurisdictions of widespread corruption.",
+          "sourceIds": [
+            "iran-reuters-trump-vance-nov12",
+            "iran-guardian-vance-stalemate-nov12"
+          ],
+          "reason": "A politically charged allegation in his directive, not proof of criminal misconduct."
+        }
+      ]
+    },
+    {
+      "id": "cop31-finance-fossil-rights-nov12",
+      "eventId": "gl-cop31-climate-antalya-2026",
+      "title": "AIIB climate-policy financing at COP31: reform targets, delivery limits and development promises",
+      "summary": "A $1.6 billion AIIB package for Türkiye drew coverage of reform milestones, the limits of policy lending and the host government's development promises.",
+      "whyItMatters": "Readers need to distinguish financing commitments, regulatory targets and demonstrated results.",
+      "region": "Global / Türkiye",
+      "tags": [
+        "COP31",
+        "climate-finance",
+        "policy-lending",
+        "carbon-pricing",
+        "Antalya"
+      ],
+      "selectionRationale": "All three articles expressly cover the same AIIB package announced on November 12. Reuters presents reform milestones; Dunya examines policy lending and implementation limits; Anadolu foregrounds government development claims.",
+      "evidenceNote": "Correction research on November 16 replaced two articles about other COP31 developments. Three distinct originating newsrooms were identified by their bylines and publishers. Their shared reliance on official announcements does not independently establish implementation. Current publisher versions were read; cutoff-time snapshots were unavailable.",
+      "articles": [
+        {
+          "id": "cop-reuters-aiib-finance-nov12",
+          "role": "reference",
+          "headline": "COP31 host Turkey, AIIB strike record $1.6 billion climate policy deal",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-host-turkey-aiib-strike-record-16-billion-climate-policy-deal-2026-11-12/",
+          "publishedAt": "2026-11-12",
+          "genre": "Original bylined financial and climate-policy news report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Finance and reform milestones",
+            "rationale": "Organizes the announcement around funding and planned changes."
+          },
+          "summary": "The report sets out the agreement and prospective reforms.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-13T07:47:36.870Z",
+            "method": "research-tool",
+            "note": "Original edition's access record retained. November 16 research retrieved substantial publisher text through an indexed result after a direct-open error; direct anonymous browser access was not reconfirmed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-16T16:04:24.1449618Z",
+            "contentHash": null,
+            "evidenceNote": "By Simon Jessop. Publisher displays November 12, 05:45 UTC and an updated indicator without a separate time. Date-only original-publication precision retained. November 16 retrieval was correction research."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop-dunya-policy-loan-nov12",
+          "role": "contrast_a",
+          "headline": "Türkiye'ye 1,6 milyar dolarlık iklim kredisi: Sanayiye karbon takvimi",
+          "url": "https://www.dunya.com/finans/haberler/turkiyeye-16-milyar-dolarlik-iklim-kredisi-sanayiye-karbon-takvimi-haberi-847354",
+          "publishedAt": "2026-11-12",
+          "genre": "Original bylined business-news explainer",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Dünya Gazetesi",
+            "domain": "dunya.com",
+            "country": "Türkiye",
+            "ownership": "DÜNYA Grup Medya Gazetecilik A.Ş. (publisher)",
+            "ownershipGroup": "dunya-grup-medya",
+            "ownershipSource": "https://www.dunya.com/p/kunye"
+          },
+          "lens": {
+            "label": "Policy lending and implementation limits",
+            "rationale": "Separates sovereign reform financing from direct company investment, and licensing from operational capacity."
+          },
+          "summary": "The explainer examines industrial obligations and the scope of sovereign policy lending.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-16T16:04:24.1449618Z",
+            "method": "research-tool",
+            "note": "Substantial original publisher article opened without payment or login in the research tool."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-16T16:04:24.1449618Z",
+            "contentHash": null,
+            "evidenceNote": "By Murat Ali Oral; original November 12 at 09:31, updated 09:39. Clock timezone unverified, so date-only. No external wire credit observed. Read during November 16 correction research."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop-anadolu-development-finance-nov12",
+          "role": "contrast_b",
+          "headline": "Türkiye ile kalkınma bankaları arasında COP31'de 5,1 milyar dolarlık anlaşma",
+          "url": "https://www.aa.com.tr/tr/ekonomi/turkiye-ile-kalkinma-bankalari-arasinda-cop31de-5-1-milyar-dolarlik-anlasma/4121700",
+          "publishedAt": "2026-11-12",
+          "genre": "Original bylined news-agency report from Antalya",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Anadolu Agency",
+            "domain": "aa.com.tr",
+            "country": "Türkiye",
+            "ownership": "Anadolu Ajansı T.A.Ş.; Turkish Treasury and Finance Ministry holds 47.75% according to its imprint",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": "https://www.aa.com.tr/tr/p/kunye"
+          },
+          "lens": {
+            "label": "Host-government development narrative",
+            "rationale": "Centers ministers' and lenders' claims about jobs, resilience and cooperation."
+          },
+          "summary": "The ceremony report places the AIIB package within wider development-bank agreements.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-16T16:04:24.1449618Z",
+            "method": "research-tool",
+            "note": "Substantial public article opened without payment or login; the agency labels its website versions abridgments of its subscriber news service."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-16T16:04:24.1449618Z",
+            "contentHash": null,
+            "evidenceNote": "By Mert Davut, Serhat Tutak and Zeynep Duyar; Antalya dateline and AA photography. Original and update dates both November 12, no clock displayed. Read during November 16 correction research."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "AIIB announced $1.6 billion for Türkiye's climate-policy reforms at COP31 on November 12.",
+          "sourceIds": [
+            "cop-reuters-aiib-finance-nov12",
+            "cop-dunya-policy-loan-nov12",
+            "cop-anadolu-development-finance-nov12"
+          ]
+        },
+        {
+          "text": "The program includes future emissions-reporting and renewable-licensing milestones.",
+          "sourceIds": [
+            "cop-reuters-aiib-finance-nov12",
+            "cop-dunya-policy-loan-nov12"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Dünya scrutinizes the mechanics and limits of policy lending alongside Reuters' reform overview.",
+          "sourceIds": [
+            "cop-dunya-policy-loan-nov12",
+            "cop-reuters-aiib-finance-nov12"
+          ]
+        },
+        {
+          "text": "Anadolu foregrounds official development promises; Dünya distinguishes commitments from direct investment and operating capacity.",
+          "sourceIds": [
+            "cop-anadolu-development-finance-nov12",
+            "cop-dunya-policy-loan-nov12"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Announcement coverage does not establish completed disbursement, enacted reforms or achieved climate benefits."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The finance minister predicted jobs and a stronger economy.",
+          "sourceIds": [
+            "cop-anadolu-development-finance-nov12"
+          ],
+          "reason": "A reported official forecast, not a measured result."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 2,
+    "at": "2026-11-16T16:13:18.965Z",
+    "author": "ChatGPT",
+    "reason": "Correct two overbroad citation mappings and replace the two COP31 contrasts about separate developments with original reporting on the same AIIB financing package, distinguishing implementation scrutiny from official development promises."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Targeted correction review re-examined the six selected Moscow and Iran reports for two citation mappings; two supporting citations remain for each corrected fact. Reuters text was recovered through publisher-indexed research results after direct opens failed; Guardian, TASS and Iran International text was readable at the publisher. Those article access records retain their original check timestamps. The COP31 story now compares Reuters, Dunya and Anadolu coverage of the same November 12 AIIB financing package. The two new original articles were read at their publisher URLs, their bylines and publisher identities checked, and date-only publication precision used where clocks were unverified. Reuters COP31 text was retrieved through an indexed publisher result; its prior readable-access record is retained without claiming a fresh direct browser access pass. Shared official announcements establish attributed claims, not independent proof of implementation. The original cutoff and recordedAt are preserved. Current publisher versions were reviewed; the Guardian post-cutoff update caveat and absence of authenticated cutoff-time captures or hashes remain limitations. No later developments or human review are asserted. Source-access and later-update caveats are kept in evidence notes, separately from uncertainties at the historical cutoff."
+  }
+}
