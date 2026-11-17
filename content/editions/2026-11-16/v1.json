@@ -1,0 +1,595 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-16",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-16T22:59:59Z",
+  "recordedAt": "2026-11-17T08:04:28.616Z",
+  "kind": "daily",
+  "selectionSummary": "World-impact criterion applied consistently: cross-border effects, numbers of people or trade routes at risk, durability of security or legal consequences, and breadth of reliable independent reporting. Selected the major Ukraine–Russia drone escalation, Houthi advances toward Aden and Bab al-Mandeb, and the global autonomous-weapons rules decision point. These are distinct developments; published earlier editions were inspected and continuing event IDs reused.",
+  "snapshot": {
+    "summary": "Military drone escalation and attacks on strategic corridors in Ukraine and Yemen expose immediate civilian and transport risks. Separately, diplomats face a longer-term choice about binding rules for lethal autonomous systems. No reporting here establishes that the particular attacks involved fully autonomous target selection.",
+    "connections": [
+      "The Crimean Bridge and Bab al-Mandeb are distinct but internationally significant transport chokepoints whose vulnerability complicates diplomacy and civilian security.",
+      "The autonomous-weapons debate concerns future machine-controlled lethal decision-making; the use of drones in the other stories does not by itself establish autonomous weapons were used.",
+      "Every story distinguishes what officials assert from observable outcomes: drone interceptions and structural damage, tactical redeployment versus retreat, and proposed treaties versus enacted rules."
+    ],
+    "uncertainties": [
+      "Actual scale of Crimean Bridge damage and verified drone totals.",
+      "Whether the Yemen front line would stabilize or threaten Aden and Red Sea shipping.",
+      "Whether Geneva delegates could agree on a binding arms-control negotiation mandate."
+    ]
+  },
+  "stories": [
+    {
+      "id": "ukraine-record-drone-swarm-kerch-bridge-nov16",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Record Ukrainian drone barrage strikes Crimean Bridge; structural damage contested",
+      "summary": "Russia's defence ministry said 1,336 Ukrainian drones were intercepted overnight, a claimed record not independently counted. Russia acknowledged a strike on the Crimean Bridge and suspended road traffic for repairs, while saying trains continued. The Kremlin called the damage minor; a Russian-language independent newsroom cited visuals and Telegram sources indicating more extensive damage to the bridge's arch. Russian industrial fires and injuries were also reported.",
+      "whyItMatters": "The crossing supports road, rail and military logistics into Russian-occupied Crimea. A mass drone operation also risks civilian harm, wider retaliation and disruption of energy infrastructure as diplomacy remains stalled.",
+      "region": "Ukraine / Russian-occupied Crimea / Russia",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Crimean Bridge",
+        "drones",
+        "energy",
+        "Black Sea",
+        "war"
+      ],
+      "selectionRationale": "Selected for international security stakes, industrial and transport impacts, civilian exposure and strategic significance of the crossing. Russian military counts and engineering assessments remain attributed.",
+      "evidenceNote": "Reuters original Moscow reporting provides international reference; TASS reproduces the Russian ministry's modest operational disruption account; The Moscow Times' Russian newsroom contrasts that with footage and Telegram-derived claims of more serious arch damage. The competing claims concern the same damage, but the morning-versus-later reporting clocks and missing independent engineering assessment limit any resolution.",
+      "articles": [
+        {
+          "id": "ukr-reuters-drones-nov16",
+          "role": "reference",
+          "headline": "Ukraine launches biggest drone attack on Russia since war began, defence ministry data shows",
+          "url": "https://www.reuters.com/world/europe/ukraine-launches-biggest-drone-attack-russia-since-war-began-defence-ministry-2026-11-16/",
+          "publishedAt": "2026-11-16T10:33:00Z",
+          "genre": "Original international news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Military claims in context",
+            "rationale": "Reports the official Russian drone count, Kremlin bridge assessment, industrial fires and disputed refinery estimates."
+          },
+          "summary": "Reuters reports the Russian claim of 1,336 drones downed, restricted road use at the bridge, and continued rail service. Kyiv's refinery-loss figure was not independently verified.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-17T08:04:28.616Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened, article body readable without a payment or login. Publisher text and images not reproduced."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-17T08:04:28.616Z",
+            "contentHash": null,
+            "evidenceNote": "By Andrew Osborn and Gleb Stolyarov; Reuters publisher shows original Nov16 10:33 UTC."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukr-tass-bridge-nov16",
+          "role": "contrast_a",
+          "headline": "Repairs underway on Crimean Bridge after drone attack — ministry",
+          "url": "https://tass.com/emergencies/2218521",
+          "publishedAt": "2026-11-16",
+          "genre": "Russian state-agency news dispatch",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "TASS",
+            "domain": "tass.com",
+            "country": "Russia",
+            "ownership": "Russian state news agency",
+            "ownershipGroup": "tass",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Limited disruption according to Russian transport officials",
+            "rationale": "The ministry says repairs were underway, road restrictions temporary and rail services normal; Reuters additionally records the Kremlin's minor-damage characterization."
+          },
+          "summary": "TASS reports road traffic suspended while repair teams assessed alternating flow, with trains operating and no reported injuries at the time.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-17T08:04:28.616Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened, article body readable without a payment or login. Publisher text and images not reproduced."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-17T08:04:28.616Z",
+            "contentHash": null,
+            "evidenceNote": "Original TASS dispatch datelined Moscow November 16; publisher HTML does not expose a timezone-qualified original clock. Directly reports ministry claims, not a structural inspection."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukr-moscow-arch-nov16",
+          "role": "contrast_b",
+          "headline": "«Повело на 15 градусов». Арка Крымского моста получила серьезные повреждения после удара ВСУ",
+          "url": "https://ru.themoscowtimes.com/2026/11/16/povelo-na15-gradusov-arka-krimskogo-mosta-poluchila-sereznie-povrezhdeniya-posle-udara-vsu-a211493",
+          "publishedAt": "2026-11-16",
+          "genre": "Russian-language news report and source synthesis",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "The Moscow Times, Russian Service",
+            "domain": "themoscowtimes.com",
+            "country": "Netherlands / Russian-language",
+            "ownership": "Independent The Moscow Times newsroom",
+            "ownershipGroup": "the-moscow-times",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Possible significant damage to bridge arch",
+            "rationale": "Cites circulating video plus Mash and Crimean Wind reports claiming visible arch tilt, in contrast to the Kremlin's description."
+          },
+          "summary": "The Moscow Times' Russian service describes what it considers serious damage to the bridge arch but prints incompatible unofficial estimates of roughly 5 and 15 degrees.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-17T08:04:28.616Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened, article body readable without a payment or login. Publisher text and images not reproduced."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-17T08:04:28.616Z",
+            "contentHash": null,
+            "evidenceNote": "Publisher dated Nov16; newsroom cites videos and Telegram sources. Neither tilt angle nor the structural consequence was independently engineered or verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Russian officials acknowledged a Ukrainian strike on the Crimean Bridge and restrictions on road use while repairs or assessments took place.",
+          "sourceIds": [
+            "ukr-reuters-drones-nov16",
+            "ukr-tass-bridge-nov16",
+            "ukr-moscow-arch-nov16"
+          ]
+        },
+        {
+          "text": "Russian authorities said rail traffic continued; those mutually reported statements do not constitute independent verification of railway operation throughout the day.",
+          "sourceIds": [
+            "ukr-reuters-drones-nov16",
+            "ukr-tass-bridge-nov16"
+          ]
+        },
+        {
+          "text": "Russia's military reported intercepting 1,336 drones in the overnight operation; the number is a belligerent's unverified count.",
+          "sourceIds": [
+            "ukr-reuters-drones-nov16",
+            "ukr-moscow-arch-nov16"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Was November 16 damage to the Crimean Bridge limited and quickly manageable, or structurally serious? POSITION A: TASS quotes Russia's Transport Ministry describing repairs, possible reversible road traffic and normal train service; Reuters also cites the Kremlin calling damage minor. POSITION B: The Moscow Times' Russian newsroom reports apparent arch deformation, citing videos, Mash and Crimean Wind. EVIDENCE: A strike and road restrictions are corroborated; independent engineering assessment is absent, conflicting tilt estimates are unproved, and different reporting times may explain part of the apparent discrepancy.",
+          "sourceIds": [
+            "ukr-tass-bridge-nov16",
+            "ukr-moscow-arch-nov16",
+            "ukr-reuters-drones-nov16"
+          ]
+        },
+        {
+          "text": "Russian officials' reassurance and unofficial claims of a 5-degree or 15-degree arch tilt give different accounts of the same structural outcome. Neither Reuters nor the selected opposition report independently measured the bridge; the archive does not endorse either asserted damage scale.",
+          "sourceIds": [
+            "ukr-reuters-drones-nov16",
+            "ukr-moscow-arch-nov16"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The bridge's final structural integrity, repair timetable and possible logistics disruptions as known by cutoff.",
+        "Actual drones launched versus intercepted, independently verified.",
+        "Longer-term Russian refinery damage and reprisals against Ukraine's energy system."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Russia's defence ministry reported downing 1,336 drones.",
+          "reason": "The figure is based on a party to the conflict, not an independently verified count.",
+          "sourceIds": [
+            "ukr-reuters-drones-nov16",
+            "ukr-moscow-arch-nov16"
+          ]
+        },
+        {
+          "text": "Unofficial Russian accounts quoted by The Moscow Times gave different tilt measurements for the bridge arch, while the Kremlin assessed damage as minor.",
+          "reason": "No independent engineering inspection was available; differences may also reflect when claims were made.",
+          "sourceIds": [
+            "ukr-moscow-arch-nov16",
+            "ukr-reuters-drones-nov16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "yemen-aden-coastal-retreat-saudi-command-nov16",
+      "eventId": "me-saudi-houthi-escalation-2026",
+      "title": "Saudi Arabia changes Yemen coalition command after Houthi advances near Red Sea strait",
+      "summary": "Saudi Arabia reassigned leadership of its Yemen coalition after government forces pulled out of Dhubab and the Bab al-Mandeb coastal approaches. Officials framed the withdrawal as a strategic redeployment to defend Aden and help break the Taiz siege, while a Houthi account and independent military analysts described a forced retreat. Reuters reported fears in Aden and replacement of the Saudi commander.",
+      "whyItMatters": "The Red Sea–Gulf of Aden passage is a major global shipping route. Houthi territorial advances and pressure on Aden may deepen a severe humanitarian crisis and destabilize Saudi security, particularly alongside threats to Hormuz.",
+      "region": "Yemen / Saudi Arabia / Bab al-Mandeb",
+      "tags": [
+        "Yemen",
+        "Houthis",
+        "Saudi Arabia",
+        "Aden",
+        "Bab al-Mandeb",
+        "Red Sea",
+        "displacement"
+      ],
+      "selectionRationale": "Immediate territorial and command consequences at a transcontinental shipping chokepoint, humanitarian and regional escalation risk, enduring effects on trade.",
+      "evidenceNote": "Reuters reports Saudi royal decree and contacts officials and Aden residents; Anadolu directly reports government's redeployment rationale and Houthi counterclaim; Al Jazeera's Mohammad Mansour independently interviews experts challenging that account. Different evidence on the same disputed military assessment rather than merely different geographical attention.",
+      "articles": [
+        {
+          "id": "yem-reuters-commander-nov16",
+          "role": "reference",
+          "headline": "After Yemen setback, Saudi Arabia replaces military commander",
+          "url": "https://www.reuters.com/world/middle-east/houthis-seize-ground-yemens-southern-coast-edge-closer-aden-2026-11-16/",
+          "publishedAt": "2026-11-16T13:54:00Z",
+          "genre": "Original international news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Royal decree and strategic fallout",
+            "rationale": "Combines Saudi state decree, diplomats, Yemeni military sources and residents in Aden; some strategic interpretations are attributed."
+          },
+          "summary": "Reuters documents Saudi Arabia's replacement of its coalition commander as Houthis gained territory, and reports Aden residents' worries without claiming the city had fallen.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-17T08:04:28.616Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened, article body readable without a payment or login. Publisher text and images not reproduced."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-17T08:04:28.616Z",
+            "contentHash": null,
+            "evidenceNote": "By Timour Azhari and Mohammed Ghobari, additional original Reuters reporting; Nov16 13:54 UTC published."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "yem-anadolu-regroup-nov16",
+          "role": "contrast_a",
+          "headline": "Yemeni army says troops regrouping to break Houthi siege of Taiz",
+          "url": "https://mobile.aa.com.tr/en/middle-east/yemeni-army-says-troops-regrouping-to-break-houthi-siege-of-taiz/4126080",
+          "publishedAt": "2026-11-16",
+          "genre": "Original reported dispatch",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Anadolu Agency",
+            "domain": "aa.com.tr",
+            "country": "Turkey",
+            "ownership": "Anadolu Agency (state-operated)",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Government's deliberate redeployment explanation",
+            "rationale": "Quotes Yemeni minister and army arguing the repositioning will defend Aden and prepare action at Taiz; prints the Houthi counterclaim."
+          },
+          "summary": "Anadolu reports government officials saying the withdrawal supports Aden's defence and Taiz operations, but a Houthi source says government forces were driven out.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-17T08:04:28.616Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened, article body readable without a payment or login. Publisher text and images not reproduced."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-17T08:04:28.616Z",
+            "contentHash": null,
+            "evidenceNote": "By Abdulsalam Fayez and Tarek Chouiref; publisher displays original and updated Nov16, no trustworthy first-publication clock."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "yem-aj-advance-nov16",
+          "role": "contrast_b",
+          "headline": "Houthis edge closer to Aden as Yemeni forces pull out of Bab al-Mandeb",
+          "url": "https://www.aljazeera.com/news/2026/11/16/houthis-edge-closer-to-aden-as-yemeni-forces-pull-out-of-bab-al-mandeb",
+          "publishedAt": "2026-11-16",
+          "genre": "Original reported geopolitical analysis",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Retreat and exposed supply lines",
+            "rationale": "Bylined reporter interviews retired military specialist Hassan Jouni and analyst Ali al-Dahab, who describe the outcome as serious loss of ground despite the government's label."
+          },
+          "summary": "Al Jazeera reports experts assessing that the withdrawal ceded coastal control and threatened Aden's approach and Taiz supply routes; future capture remains hypothetical.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-17T08:04:28.616Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened, article body readable without a payment or login. Publisher text and images not reproduced."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-17T08:04:28.616Z",
+            "contentHash": null,
+            "evidenceNote": "By Mohammad Mansour; original publisher shows Nov16, no precise clock. The image credit to Reuters is separate from its original reported article."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Government forces said they were withdrawing from the Bab al-Mandeb/Dhubab coastal area and prioritizing the protection of Aden.",
+          "sourceIds": [
+            "yem-reuters-commander-nov16",
+            "yem-anadolu-regroup-nov16",
+            "yem-aj-advance-nov16"
+          ]
+        },
+        {
+          "text": "The Houthis took over areas vacated by government-aligned units, worsening the government's strategic position around the southwestern coast.",
+          "sourceIds": [
+            "yem-reuters-commander-nov16",
+            "yem-anadolu-regroup-nov16",
+            "yem-aj-advance-nov16"
+          ]
+        },
+        {
+          "text": "Pressure on Aden and fighting around Taiz persisted despite government announcements of renewed operations.",
+          "sourceIds": [
+            "yem-reuters-commander-nov16",
+            "yem-aj-advance-nov16"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Was leaving Bab al-Mandeb/Dhubab a planned tactical redeployment that strengthens Aden and Taiz, or a forced military defeat? POSITION A: Yemen's government, reported independently by Anadolu, calls it strategic repositioning and cites threatened fronts and planned defences. POSITION B: Named military analysts Jouni and al-Dahab interviewed by Al Jazeera argue that lost coastal ground and supply routes make it a serious retreat; Houthis similarly claim government forces were driven out. EVIDENCE: All sources corroborate the withdrawal and new Houthi positions; strategic intentions and whether regrouping succeeds remain unproven. Reuters independently links Saudi command change to the setback through diplomats, while no combatant assertion is taken as conclusive.",
+          "sourceIds": [
+            "yem-anadolu-regroup-nov16",
+            "yem-aj-advance-nov16",
+            "yem-reuters-commander-nov16"
+          ]
+        },
+        {
+          "text": "Anadolu documents army figures for claimed attacks and losses, while Reuters focuses on verifiable royal command reassignment and residents' fears. These are differences in evidentiary basis, not proof that the unverified casualty totals are wrong or right.",
+          "sourceIds": [
+            "yem-anadolu-regroup-nov16",
+            "yem-reuters-commander-nov16"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether Aden can be held and Taiz relieved; control of nearby routes remained fluid.",
+        "Operational consequences of Saudi commander reassignment and further Houthi advances.",
+        "Civilian displacement, casualty totals and actual disruption of commercial shipping."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Yemeni military authorities claimed hundreds of strikes, 201 Houthi personnel neutralized and 121 vehicles affected.",
+          "reason": "No independent battlefield assessment of those official totals was available.",
+          "sourceIds": [
+            "yem-anadolu-regroup-nov16"
+          ]
+        },
+        {
+          "text": "The Houthis say government forces were driven out, while the government calls the pullback planned.",
+          "reason": "Opposing belligerent explanations for the same movement; neither fully proves operational motives or later results.",
+          "sourceIds": [
+            "yem-anadolu-regroup-nov16",
+            "yem-aj-advance-nov16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geneva-autonomous-weapons-binding-treaty-debate-nov16",
+      "eventId": "gl-autonomous-weapons-un-rules-2026",
+      "title": "Geneva UN conference divided over binding international controls on autonomous weapons",
+      "summary": "The seventh review conference of the Convention on Certain Conventional Weapons opened in Geneva. UN Secretary-General António Guterres pressed for negotiations on a legally binding instrument that restricts lethal autonomous weapons. The US and Russia opposed the binding approach, favoring existing law or voluntary guidelines. A Russian procedural objection delayed work. No treaty or negotiating mandate had been agreed by the historical cutoff.",
+      "whyItMatters": "Global rules governing machine selection and engagement of targets could shape future armed conflicts, human accountability and civilian protection as AI-enabled military systems develop.",
+      "region": "Global / Geneva, Switzerland",
+      "tags": [
+        "United Nations",
+        "autonomous weapons",
+        "AI",
+        "arms control",
+        "human rights",
+        "international law"
+      ],
+      "selectionRationale": "One internationally consequential multilateral decision point for durable standards governing lethal military technologies across all countries, with broad political disagreement and potential long-term harm.",
+      "evidenceNote": "AP's original bylined wire dispatch reports both policy camps and consensus procedure; Reuters reports the US/Russian preference for nonbinding controls and Russia's procedural obstruction; Anadolu's original Geneva reporter quotes the UN leader's opposing call for a binding instrument. All describe the same policy question, without portraying newsroom positions as institutional endorsements.",
+      "articles": [
+        {
+          "id": "ai-ap-conference-nov16",
+          "role": "reference",
+          "headline": "Killer drones face a reckoning as UN conference of nations considers rules on lethal AI weapons",
+          "url": "https://apnews.com/article/autonomous-weapons-ai-russia-guterres-pope-1ff519255c145105360b04961d136081",
+          "publishedAt": "2026-11-16",
+          "genre": "Original bylined explanatory news report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Associated Press news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Geneva consensus rules and competing mandates",
+            "rationale": "Explains seven-country binding proposal, Russia's statement that restrictions are premature and rights advocates' demands, without editorially endorsing them."
+          },
+          "summary": "AP explains the conference's consensus decision process, seven states' proposed treaty negotiations and official Russian objections to restrictions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-17T08:04:28.616Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened, article body readable without a payment or login. Publisher text and images not reproduced."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-17T08:04:28.616Z",
+            "contentHash": null,
+            "evidenceNote": "Original AP reporter Jamey Keaten; original Nov16 independently dated in Nov16 reproductions (not counted as sources); AP publisher readable, but first-publication clock not exposed."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ai-reuters-opposition-nov16",
+          "role": "contrast_a",
+          "headline": "US and Russia to oppose talks on limiting autonomous weapons",
+          "url": "https://www.reuters.com/world/us-russia-oppose-talks-limiting-autonomous-weapons-2026-11-16/",
+          "publishedAt": "2026-11-16T00:03:00Z",
+          "genre": "Original diplomatic news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "US/Russian nonbinding-policy position",
+            "rationale": "Reports Washington's rationale that existing humanitarian law suffices and its five-year nonbinding proposal; Russia's observer rule objection is documented."
+          },
+          "summary": "Reuters reports the US and Russia opposing an immediate binding mandate and Russia delaying the opening by objecting to observer participation.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-17T08:04:28.616Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened, article body readable without a payment or login. Publisher text and images not reproduced."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-17T08:04:28.616Z",
+            "contentHash": null,
+            "evidenceNote": "By Olivia Le Poidevin; Reuters publisher shows Nov16 00:03 UTC; reporting of an actor's position, not Reuters editorial advocacy."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ai-anadolu-un-call-nov16",
+          "role": "contrast_b",
+          "headline": "UN chief urges binding rules on autonomous weapons as treaty review opens in Geneva",
+          "url": "https://www.aa.com.tr/en/world/un-chief-urges-binding-rules-on-autonomous-weapons-as-treaty-review-opens-in-geneva/4126501",
+          "publishedAt": "2026-11-16",
+          "genre": "Original Geneva conference news report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Anadolu Agency",
+            "domain": "aa.com.tr",
+            "country": "Turkey",
+            "ownership": "Anadolu Agency (state-operated)",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "UN case for binding prohibitions",
+            "rationale": "Quotes Guterres and conference President Julien Thöni arguing that advancing weapons technology requires a clear legally binding instrument and safeguards."
+          },
+          "summary": "Anadolu records Guterres urging states to begin legally binding negotiations and the conference chair's call for decisive action.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-17T08:04:28.616Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened, article body readable without a payment or login. Publisher text and images not reproduced."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-17T08:04:28.616Z",
+            "contentHash": null,
+            "evidenceNote": "By Beyza Binnur Dönmez; publisher shows publication and update Nov16; no verified first-publication clock."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The seventh review conference opened in Geneva on November 16 to consider further work on lethal autonomous weapons; no binding international instrument was adopted that day.",
+          "sourceIds": [
+            "ai-ap-conference-nov16",
+            "ai-reuters-opposition-nov16",
+            "ai-anadolu-un-call-nov16"
+          ]
+        },
+        {
+          "text": "UN Secretary-General António Guterres publicly supported a legally binding instrument with prohibitions and restrictions.",
+          "sourceIds": [
+            "ai-reuters-opposition-nov16",
+            "ai-anadolu-un-call-nov16",
+            "ai-ap-conference-nov16"
+          ]
+        },
+        {
+          "text": "The United States and Russia were opposing immediate talks toward a binding pact; that policy position was reported by two independent originating newsrooms.",
+          "sourceIds": [
+            "ai-ap-conference-nov16",
+            "ai-reuters-opposition-nov16"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Should UN members immediately negotiate legally binding restrictions on lethal autonomous weapons or rely on existing humanitarian law and nonbinding national guidelines? POSITION A: Reuters reports the United States proposing a five-year nonbinding process and Russia opposing restrictions as premature, citing existing law. POSITION B: Anadolu reports UN Secretary-General Guterres demanding binding prohibitions to protect human judgment and accountability. EVIDENCE: These are genuinely different proposed actions by named actors on the identical policy question, not opposing editorial labels; neither actor's assertion alone proves the adequacy of its proposal and no mandate had passed.",
+          "sourceIds": [
+            "ai-reuters-opposition-nov16",
+            "ai-anadolu-un-call-nov16"
+          ]
+        },
+        {
+          "text": "AP independently documents both the seven-country proposal for a binding negotiation mandate and Russia's contrary claim that such restrictions are premature, plus the consensus requirement. Reuters reports Russia's observer-procedure objection; these establish disagreement, not a finalized treaty veto.",
+          "sourceIds": [
+            "ai-ap-conference-nov16",
+            "ai-reuters-opposition-nov16"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether the meeting would authorize binding negotiations or only nonbinding measures by November 20.",
+        "How new rules could distinguish AI assistance from autonomous selection of lethal targets and require verifiable human control.",
+        "Real-world prevalence and performance of fully autonomous targeting systems remained incompletely documented."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Advocates say autonomous strikes have occurred in some conflicts and that roughly 130 states support controls.",
+          "reason": "Autonomy definitions and campaigner tallies vary; individual battlefield deployments are not independently established by these reports.",
+          "sourceIds": [
+            "ai-ap-conference-nov16",
+            "ai-reuters-opposition-nov16"
+          ]
+        },
+        {
+          "text": "US and Russian officials argue existing laws suffice, while Guterres says binding restrictions are necessary.",
+          "reason": "These are competing legal and policy judgments, not independently proven efficacy assessments.",
+          "sourceIds": [
+            "ai-reuters-opposition-nov16",
+            "ai-anadolu-un-call-nov16"
+          ]
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-17T08:04:28.616Z",
+    "author": "ChatGPT",
+    "reason": "Initial agent-reviewed November 16 daily edition with nine original freely readable publisher articles and three explicit substantive contested-question comparisons."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent opened all nine originating publisher pages and checked headlines, bylines, genre, publisher identity, date and free access. AP's original Nov16 date corroborated on freely read syndicated copies but those were NOT counted as independent sources; AP publisher clock was not exposed. Reuters first-publication clocks were publisher-visible; TASS, Moscow Times, Al Jazeera, Anadolu and AP use verified day-level precision. The Russian bridge-damage estimates, combatants' claims and diplomats' normative arguments are distinctly attributed; historical article snapshots and fingerprints were not obtained. No later outcome is imported, and no human review is claimed."
+  }
+}
