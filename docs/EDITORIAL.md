@@ -16,6 +16,25 @@ For each story, identify the central disputed question before choosing contrast_
 
 Use the existing framingDifferences entries to make the disputed question, position A, position B and what the evidence establishes explicit, citing the relevant selected article IDs. A factual discrepancy caused by different reporting times or definitions is not automatically an opposing interpretation. Keep the existing world-impact selection and source-eligibility requirements; if a qualifying comparison cannot be verified, continue research and apply the existing private-draft failure rule.
 
+## Optional X attention and discourse
+
+After completing the normal three-article research, original summary, common facts, framing differences and historical uncertainties for each story, use browsing tools to check public X (x.com / Twitter) posts for that edition's calendar day in Europe/Paris, through its normal cutoff. This is an optional, secondary attention and discourse layer. X posts must never replace any of the three free-to-read journalistic articles or establish news facts, casualty numbers or official claims. Do not alter the original summary, common facts or uncertainties on the basis of X.
+
+Include either or both optional story fields only when meaningfully observable; omitted fields and null mean unavailable or not assessed, not low attention:
+
+- xAttention: {trending, note}. trending accepts true, false, "high volume", "moderate", "low or not observed", or "not clearly observed". note is at most one short sentence describing the observation and its limits.
+- xDiscourse: {summary, examples?}. summary is two to four concise sentences describing observed or contested framings, attributed to the observed sample rather than asserted as facts or consensus. For genuinely low observable presence, use one sentence or omit it. examples is optional and contains at most three direct HTTPS links to representative public posts or threads, preferably still accessible. Use no embeds or full post text.
+
+Keep the combined note and summary to at most five sentences per story; a shorter one-sentence observation is acceptable when presence is low or the signal is unclear.
+
+Verify each example's original posting timestamp and convert it to the edition's Europe/Paris day; the X window starts at local midnight and ends at the edition cutoff, not the articles' broader 72-hour window. A thread link does not make replies outside that window eligible. A date-only display or unverifiable timezone is insufficient if day membership is uncertain. Record the actual later observation time and its limitations in review.note; do not backdate retrieval or treat a current page as a preserved cutoff-time capture.
+
+Claim trending or high/moderate/low conversation volume only when browsing reveals a suitable historical signal for that day, stating the scope (such as geography, terms and observation coverage) in the note or review.note. Current personalized trends, current engagement counts, search-result totals and a few selected posts do not establish past daily volume or dominant public opinion. Missing results, a login barrier or unavailable historical data are not evidence of low attention. Omit xAttention, set it to null, or use "not clearly observed" with an explicit limit when the signal is unclear; do not default to false. Use false only for an observed absence of a trend, not an unobserved day.
+
+Prefer a reasonably varied observable sample over extreme posts. Use wording such as "among the accessible posts observed" unless there is evidence for broader descriptions such as "many accounts" or "a dominant framing". Distinguish incompatible claims, different interpretations and simple differences in reporting times; do not endorse or verify any claim through X. Explain limits and convergence honestly.
+
+Present any included note beneath "Observed conversation on X", after the journalistic comparison, with a short disclaimer that it concerns attention and public framing and is not verified reporting. Keep X links outside the journalistic articles and their citation IDs. If access or verification fails, omit the affected optional field and briefly record the coverage limit in review.note; do not block or weaken an otherwise verified three-by-three edition. Existing editions are not retroactively changed by introducing this layer.
+
 ## As-of-day integrity
 
 Set timezone to Europe/Paris. cutoff is the UTC instant corresponding to 23:59:59 on the edition date in Europe/Paris (21:59:59Z in summer, 22:59:59Z in winter); recordedAt is the actual preparation time. The validator checks the timezone with daylight-saving rules. Older editions without a timezone field retain UTC interpretation. Do not backdate retrieval or recording. Every article must have original publication metadata within 72 hours before cutoff. Use YYYY-MM-DD when no timezone or clock time is verified. An updated-only date is permitted only in a reviewed retrospective edition, with an explicit limitation. Disclose later edits and avoid facts only learned after cutoff. Preserve uncertainties as they stood then.
