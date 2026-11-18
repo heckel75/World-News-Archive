@@ -1,0 +1,604 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-17",
+  "cutoff": "2026-11-17T22:59:59Z",
+  "recordedAt": "2026-11-18T07:35:29.599Z",
+  "kind": "daily",
+  "selectionSummary": "Three distinct events chosen consistently for cross-border scope, near-term effects on lives or vital infrastructure, potential consequences for global trade and climate, and durable impact on international security or policy. Editorial selection rather than a quantitative ranking.",
+  "snapshot": {
+    "summary": "On November 17 an attack destroyed a roadway section of the Crimean Bridge while Russia and Ukraine disagreed about legality; COP31 discussed whether an electrification target needs a clean-power mandate; and Quad leaders met in Manila amid disputed assessments of the group's real-world value. Each case distinguishes a documented event from actors' proposed interpretations or promised results.",
+    "connections": [
+      "Bridge destruction and maritime initiatives both touch strategic transport and security, without implying direct coordination.",
+      "The COP31 electrification and Quad technology initiatives would affect future infrastructure and investment, but commitments are not demonstrated implementation.",
+      "Contested questions concern lawful military targeting, optimal climate-policy design, and the practical effectiveness of regional alignments."
+    ],
+    "uncertainties": [
+      "Unverified bridge casualties and repair duration.",
+      "COP31's final target text, grid financing and actual climate benefit.",
+      "Execution and strategic effect of Quad maritime and AI commitments."
+    ]
+  },
+  "stories": [
+    {
+      "id": "ukraine-kerch-road-bridge-collapse-nov17",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Ukrainian attack destroys Crimean Bridge road span as Moscow and Kyiv dispute its legality",
+      "summary": "Ukraine's security service said it conducted a multi-stage operation against the Crimean Bridge. Reuters independently verified footage showing the main road arch collapse into the Kerch Strait. Russia's Investigative Committee called the strike terrorism under domestic law; Ukraine portrayed it as self-defence against a military supply route. A Russia-installed governor reported two deaths, an attributed claim rather than a verified casualty count.",
+      "whyItMatters": "The bridge is a symbolic connection between Russia and occupied Crimea and has served as a military logistics corridor. Its loss disrupts travel and may affect supply routes while both sides strike infrastructure and talks remain unresolved.",
+      "region": "Ukraine / Russia / Kerch Strait / Crimea",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Crimea",
+        "Crimean Bridge",
+        "war",
+        "logistics",
+        "international law"
+      ],
+      "selectionRationale": "Visible physical damage to an internationally consequential wartime transport link, civilian safety implications, and competing legal narratives in an ongoing interstate war.",
+      "evidenceNote": "Reuters independently verified images of the collapsed roadway and reported from both capitals. Ukrainska Pravda originated its own report of Ukrainian security officials' statements. Interfax originated its own report of the Russian terrorism investigation; a criminal case is not a finding by an independent court.",
+      "articles": [
+        {
+          "id": "ukr-bridge-reuters-17",
+          "role": "reference",
+          "headline": "Ukraine cripples Crimean road bridge in blow to Putin before meeting with Xi and Trump",
+          "url": "https://www.reuters.com/world/europe/ukraine-strikes-crimean-bridge-second-day-russia-pounds-kyiv-bridges-2026-11-17/",
+          "publishedAt": "2026-11-17T09:50:00Z",
+          "genre": "Original international breaking-news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Visible damage and both combatants' accounts",
+            "rationale": "Reuters separately verified imagery of the road arch collapse and reports Russian and Ukrainian statements with their limits."
+          },
+          "summary": "Reuters reports the damaged road section, disrupted crossings, governor's casualty statement and diplomatic context without adjudicating target legality.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-18T07:35:29.599Z",
+            "method": "research-tool",
+            "note": "Originating publisher article body opened and readable without login or payment during research on Nov 18; no original full text, images or unverified archive capture retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-18T07:35:29.599Z",
+            "contentHash": null,
+            "evidenceNote": "By Lina Golovnya and Andrew Osborn; original newsroom page states Nov17 09:50 UTC. Exact later on-page edits and any post-cutoff versions were not archived."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukr-bridge-pravda-17",
+          "role": "contrast_a",
+          "headline": "Ukraine's Security Service on Crimean Bridge strike: Road section is destroyed and no vehicles can cross it",
+          "url": "https://www.pravda.com.ua/eng/news/2026/11/17/8063248/index.amp",
+          "publishedAt": "2026-11-17",
+          "genre": "Original bylined national news report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Ukrainska Pravda",
+            "domain": "pravda.com.ua",
+            "country": "Ukraine",
+            "ownership": "Ukrainska Pravda independent newsroom",
+            "ownershipGroup": "ukrainska-pravda",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Ukrainian military self-defence justification",
+            "rationale": "Quotes Ukraine's security service and General Staff portraying the bridge as a logistics target and invoking the right to self-defence."
+          },
+          "summary": "Reports SSU statements about the operation's stages, scale and military rationale; it does not independently determine legality.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-18T07:35:29.599Z",
+            "method": "research-tool",
+            "note": "Originating publisher article body opened and readable without login or payment during research on Nov 18; no original full text, images or unverified archive capture retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-18T07:35:29.599Z",
+            "contentHash": null,
+            "evidenceNote": "By Valentyna Romanenko; publisher displays Nov17 12:12 but original UTC offset not independently verified, so date precision used. Tactical details come from Ukrainian military officials."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ukr-bridge-interfax-17",
+          "role": "contrast_b",
+          "headline": "СКР завел дело о теракте в связи с украинскими атаками на Крымский мост",
+          "url": "https://www.interfax.ru/russia/1129502",
+          "publishedAt": "2026-11-17",
+          "genre": "Original Russian domestic news dispatch",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Interfax",
+            "domain": "interfax.ru",
+            "country": "Russia",
+            "ownership": "Interfax news agency",
+            "ownershipGroup": "interfax-russia",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Moscow's criminal-terrorism designation",
+            "rationale": "Reports Russia's Investigative Committee opening a domestic terrorism case over bridge damage; it does not itself prove terrorist intent."
+          },
+          "summary": "Documents the Russian official legal characterization and reported damage and traffic restrictions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-18T07:35:29.599Z",
+            "method": "research-tool",
+            "note": "Originating publisher article body opened and readable without login or payment during research on Nov 18; no original full text, images or unverified archive capture retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-18T07:35:29.599Z",
+            "contentHash": null,
+            "evidenceNote": "Original Interfax Nov17 page at 11:17 local Russian time; source is Russia's Investigative Committee, not independent adjudication of its claim."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The road portion of the bridge was struck, damaged and subject to travel restrictions; Reuters separately verified footage of the main road arch collapsing.",
+          "sourceIds": [
+            "ukr-bridge-reuters-17",
+            "ukr-bridge-pravda-17",
+            "ukr-bridge-interfax-17"
+          ]
+        },
+        {
+          "text": "Ukraine's security authorities publicly identified Ukrainian forces as responsible for the strike, while Russian authorities also attributed it to Ukraine.",
+          "sourceIds": [
+            "ukr-bridge-reuters-17",
+            "ukr-bridge-pravda-17",
+            "ukr-bridge-interfax-17"
+          ]
+        },
+        {
+          "text": "Russian officials acknowledged the transport disruption and need for investigation or repair planning, but no independently verified reopening date existed.",
+          "sourceIds": [
+            "ukr-bridge-reuters-17",
+            "ukr-bridge-interfax-17"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Was the attack a legitimate military action in self-defence or terrorism? POSITION A: Ukrainian security and General Staff statements reported by Ukrainska Pravda assert a military-logistics purpose and Article 51 self-defence. POSITION B: Russia's Investigative Committee, reported by Interfax, opened an Article 205 terrorism case. EVIDENCE: Reuters independently verifies bridge damage, not target legality, intent, proportionality or the merits of either legal theory; a Russian case is not an international judgment.",
+          "sourceIds": [
+            "ukr-bridge-pravda-17",
+            "ukr-bridge-interfax-17",
+            "ukr-bridge-reuters-17"
+          ]
+        },
+        {
+          "text": "These sources converge on destruction and interruption of road travel but not on the strike's legal or humanitarian meaning. Ukraine's detailed operation story and Russia's claims of fatalities require independent verification; mere disagreement cannot establish equivalence or truth.",
+          "sourceIds": [
+            "ukr-bridge-reuters-17",
+            "ukr-bridge-pravda-17",
+            "ukr-bridge-interfax-17"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Independent civilian casualty total and any identities involved.",
+        "Repair timetable and longer-term impact on civilian mobility and Russian military supply.",
+        "Independent legal assessment of the specific attack's military necessity, distinction and proportionality.",
+        "The actual scale of each side's simultaneous drone and missile operations."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Crimea's Russia-installed governor reported two people killed.",
+          "sourceIds": [
+            "ukr-bridge-reuters-17"
+          ],
+          "reason": "The selected sources did not independently verify the victims or total."
+        },
+        {
+          "text": "The SSU described a seven-stage operation and asserted that the bridge served Russian military logistics.",
+          "sourceIds": [
+            "ukr-bridge-pravda-17"
+          ],
+          "reason": "Operational detail and military-use assessment originate from a party to the war."
+        },
+        {
+          "text": "Russian investigators categorized the attack as terrorism.",
+          "sourceIds": [
+            "ukr-bridge-interfax-17"
+          ],
+          "reason": "Filing a criminal case records an accusation, not independent proof of its elements."
+        }
+      ]
+    },
+    {
+      "id": "cop31-electrification-clean-power-dispute-nov17",
+      "eventId": "gl-cop31-climate-antalya-2026",
+      "title": "COP31's proposed 35x35 electrification target divides negotiators over clean-power conditions",
+      "summary": "Turkey promoted a voluntary COP31 pledge raising electricity's share of final global energy demand to 35% by 2035, and European officials endorsed the initiative. However, the draft did not require new electricity supply to be renewable. The UN ocean envoy argued that this condition was vital to protect oceans; Turkey's COP presidency said previous fossil-fuel commitments already covered the issue. Neither position had become a final COP31 agreement.",
+      "whyItMatters": "The electricity transition could reshape transport, buildings and industry worldwide. Replacing oil or gas use does not yield the same emissions savings if new electricity comes from fossil generation; poorer economies also face major grid and financing requirements.",
+      "region": "Global / Antalya, Turkey",
+      "tags": [
+        "COP31",
+        "climate",
+        "electrification",
+        "renewables",
+        "energy transition",
+        "climate finance"
+      ],
+      "selectionRationale": "An internationally applicable 2035 climate and energy proposal whose wording can change projected emissions, capital flows and energy-security choices across countries.",
+      "evidenceNote": "Original Anadolu reporting documented EU Commission support for the 35x35 goal; The Guardian's original live dispatch directly reported UN ocean envoy Peter Thomson's clean-power condition; Reuters independently reported Turkey's contrary policy rationale, financing constraints and Climate TRACE model scenarios.",
+      "articles": [
+        {
+          "id": "cop31-anadolu-eu-17",
+          "role": "reference",
+          "headline": "AB'den COP31'in \"35'te 35 Küresel Elektrifikasyon Hedefi\"ne destek",
+          "url": "https://www.aa.com.tr/tr/yesilhat/yesil-diplomasi/abden-cop31in-35te-35-kuresel-elektrifikasyon-hedefine-destek/1832348",
+          "publishedAt": "2026-11-17",
+          "genre": "Original bylined Turkish climate diplomacy report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Anadolu Agency",
+            "domain": "aa.com.tr",
+            "country": "Turkey",
+            "ownership": "Anadolu Agency, state-operated news agency",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "European endorsement, with a clean-energy emphasis",
+            "rationale": "Reports EU Commission backing for the Turkish electrification goal while its officials also emphasize clean power, not fossil electricity."
+          },
+          "summary": "Documents the European Commission's announcement of support and quotes EU officials about energy transition.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-18T07:35:29.599Z",
+            "method": "research-tool",
+            "note": "Originating publisher article body opened and readable without login or payment during research on Nov 18; no original full text, images or unverified archive capture retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-18T07:35:29.599Z",
+            "contentHash": null,
+            "evidenceNote": "By Duygu Alhan and Nuran Erkul Kaya; original publisher dated 17.11.2026; full Turkish-language text publicly accessible."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop31-guardian-renewables-17",
+          "role": "contrast_a",
+          "headline": "Cop31 as it happened: first draft of agreement under pressure as climate negotiations enter final days",
+          "url": "https://www.theguardian.com/environment/live/2026/nov/17/cop31-live-first-draft-of-agreement-under-pressure-as-negotiations-enter-final-days",
+          "publishedAt": "2026-11-17T07:12:00Z",
+          "genre": "Original live climate news coverage, with on-site reporting",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "UN ocean envoy advocates explicitly clean power",
+            "rationale": "Gabrielle Canon reports UN ocean envoy Peter Thomson's view that only renewables-linked electrification protects oceans, alongside the counterargument for flexible electrification."
+          },
+          "summary": "Reports the clean-power condition as a contested policy issue, with field testimony and the live draft's reported absence of an explicit requirement.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-18T07:35:29.599Z",
+            "method": "research-tool",
+            "note": "Originating publisher article body opened and readable without login or payment during research on Nov 18; no original full text, images or unverified archive capture retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-18T07:35:29.599Z",
+            "contentHash": null,
+            "evidenceNote": "The Guardian first published the liveblog Nov17 at 02:12 EST, updated it the same day; the relevant Gabrielle Canon original dispatch is Nov17 09:34 EST."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop31-reuters-flexible-17",
+          "role": "contrast_b",
+          "headline": "Can COP31's proposed 'age of electricity' slow global warming?",
+          "url": "https://www.reuters.com/sustainability/cop/can-cop31s-proposed-age-electricity-slow-global-warming-2026-11-17/",
+          "publishedAt": "2026-11-17T12:56:00Z",
+          "genre": "Original explanatory climate reporting",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Turkey's flexible pledge rationale and modelled scenarios",
+            "rationale": "Reuters reports the Turkish COP presidency's argument that an added renewables clause is unnecessary due to prior commitments, while also presenting critics and quantified clean-grid benefits."
+          },
+          "summary": "Explains proposed 35x35 design, emissions modelling and grid finance needs without endorsing Ankara's preferred wording.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-18T07:35:29.599Z",
+            "method": "research-tool",
+            "note": "Originating publisher article body opened and readable without login or payment during research on Nov 18; no original full text, images or unverified archive capture retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-18T07:35:29.599Z",
+            "contentHash": null,
+            "evidenceNote": "By Sarah McFarlane with William James; original Reuters page dated Nov17 at 12:56 UTC. Climate TRACE savings estimates are forecasts, not measured outcomes."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Turkey's 35x35 initiative aimed to raise electricity's share of final energy consumption worldwide to 35% by 2035.",
+          "sourceIds": [
+            "cop31-anadolu-eu-17",
+            "cop31-guardian-renewables-17",
+            "cop31-reuters-flexible-17"
+          ]
+        },
+        {
+          "text": "The proposed target's wording did not explicitly require new generation from renewable energy, and participants debated whether that was sufficient for climate protection.",
+          "sourceIds": [
+            "cop31-guardian-renewables-17",
+            "cop31-reuters-flexible-17"
+          ]
+        },
+        {
+          "text": "Electrification was presented by participants as a potential climate and energy-security measure, but its ultimate emissions effect depends substantially on the power mix.",
+          "sourceIds": [
+            "cop31-anadolu-eu-17",
+            "cop31-reuters-flexible-17",
+            "cop31-guardian-renewables-17"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Must the electrification pledge explicitly require renewable power? POSITION A: UN ocean envoy Peter Thomson, quoted in The Guardian's original field dispatch, argues that without new renewables the pledge fails to protect oceans from warming and acidification. POSITION B: Turkey's COP presidency, reported by Reuters, argues a new condition is unnecessary because earlier global climate agreements already call for moving away from fossil fuels; supporters also cite efficiency gains even on dirty grids. EVIDENCE: Reuters and The Guardian agree the draft lacks the condition, while emissions-model comparisons suggest cleaner generation brings larger savings; neither source establishes what final negotiators will adopt.",
+          "sourceIds": [
+            "cop31-guardian-renewables-17",
+            "cop31-reuters-flexible-17"
+          ]
+        },
+        {
+          "text": "Anadolu separately reports the EU Commission's support for 35x35 and European speakers' support for clean power: endorsement of the general target is not evidence of support for every drafting choice. Reuters and The Guardian each give substantive counterarguments, not a simple newsroom-versus-newsroom polarity.",
+          "sourceIds": [
+            "cop31-anadolu-eu-17",
+            "cop31-guardian-renewables-17",
+            "cop31-reuters-flexible-17"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether negotiators would agree on a final 35x35 pledge or any clean-power condition.",
+        "Financing, storage and grid expansion commitments for developing economies.",
+        "Actual emissions reductions relative to scenarios and future electricity generation choices."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Climate TRACE estimates annual cuts of around 4.1 billion tonnes of carbon under a flexible version of 35x35 and roughly double with clean power.",
+          "sourceIds": [
+            "cop31-reuters-flexible-17"
+          ],
+          "reason": "Conditional modelling is not measured climate benefit or an agreed outcome."
+        },
+        {
+          "text": "Turkey's COP presidency says existing COP decisions make an additional clean-power condition unnecessary.",
+          "sourceIds": [
+            "cop31-reuters-flexible-17"
+          ],
+          "reason": "Its adequacy is a contested policy and legal interpretation, not settled fact."
+        }
+      ]
+    },
+    {
+      "id": "quad-manila-summit-maritime-ai-contested-nov17",
+      "eventId": "as-quad-indo-pacific-security-cooperation-2026",
+      "title": "Quad leaders revive Manila summit with maritime and AI plans amid Chinese objections",
+      "summary": "Leaders of the United States, Australia, India and Japan met in Manila on November 17 for their first Quad leaders' summit since 2024. They announced maritime patrol exercises and an AI accelerator, presenting the cooperation as support for a stable Indo-Pacific. Chinese strategic analysts interviewed by Global Times disputed that the loose grouping could achieve lasting influence and called the occasion chiefly symbolic.",
+      "whyItMatters": "The Quad includes four large economies and technologically capable states located around vital Asia-Pacific trade routes. Whether the group's announcements turn into coordinated maritime security and technology investment could affect regional stability and relations with China.",
+      "region": "Asia-Pacific / Manila, Philippines",
+      "tags": [
+        "Quad",
+        "China",
+        "United States",
+        "India",
+        "Japan",
+        "Australia",
+        "maritime security",
+        "AI"
+      ],
+      "selectionRationale": "Major-power geopolitical alignment affecting sea lanes, supply chains and AI policy, with competing substantive claims about regional security outcomes.",
+      "evidenceNote": "Original Reuters and AP reporters independently documented the summit, participants and announced initiatives. Global Times reproduced some wire-sourced meeting facts but also independently interviewed two Chinese analysts for an opposing interpretation; those analyses are carefully attributed, and no post-announcement delivery is asserted.",
+      "articles": [
+        {
+          "id": "quad-reuters-summit-17",
+          "role": "reference",
+          "headline": "Trump meets key US regional allies in Manila ahead of China visit",
+          "url": "https://www.reuters.com/world/china/trump-kick-off-asia-trip-with-quad-talks-manila-ahead-china-visit-2026-11-17/",
+          "publishedAt": "2026-11-17",
+          "genre": "Original international summit reporting",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reported summit initiatives and regional context",
+            "rationale": "Documents the leaders' meeting, joint plans and political statement while distinguishing announcements from outcomes."
+          },
+          "summary": "Reuters reports the Quad's maritime patrol, AI and economic-security proposals; the joint message did not explicitly name China.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-18T07:35:29.599Z",
+            "method": "research-tool",
+            "note": "Originating publisher article body opened and readable without login or payment during research on Nov 18; no original full text, images or unverified archive capture retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-18T07:35:29.599Z",
+            "contentHash": null,
+            "evidenceNote": "By Trevor Hunnicutt, Karen Lema and Mikhail Flores. Reuters page lists Nov17 01:26 UTC for initial release but reports same-day later meetings; date precision avoids assigning later content to the earlier clock."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "quad-ap-leaders-17",
+          "role": "contrast_a",
+          "headline": "Trump arrives in Philippines to kick off Asia trip with economic deals and talks with allies",
+          "url": "https://apnews.com/article/trump-asia-manila-asean-xi-putin-c94386cd092482d94dca38fc8b8d51a7",
+          "publishedAt": "2026-11-17",
+          "genre": "Original AP summit and domestic-reaction reporting",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Associated Press news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Leaders' argument for substantive regional coordination",
+            "rationale": "The AP newsroom reports the four governments' practical announcements and their leaders' stability rationale alongside Manila's protest opposition; this is attributed leader advocacy, not AP endorsement."
+          },
+          "summary": "Covers the meeting, planned aircraft exercise and AI accelerator, plus original observations of Philippines' domestic protest response.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-18T07:35:29.599Z",
+            "method": "research-tool",
+            "note": "Originating publisher article body opened and readable without login or payment during research on Nov 18; no original full text, images or unverified archive capture retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-18T07:35:29.599Z",
+            "contentHash": null,
+            "evidenceNote": "By Michelle L. Price, Jim Gomez and Josh Boak. AP publisher displays full original article without a trusted first-publication clock; dated Nov17 AP syndications corroborate day but do not count as independent sources."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "quad-globaltimes-sceptics-17",
+          "role": "contrast_b",
+          "headline": "Quad leaders revive meeting in Manila for ‘photo diplomacy,’ but loose grouping cannot shape path of Asia-Pacific: observers",
+          "url": "https://www.globaltimes.cn/page/202611/1374492.shtml",
+          "publishedAt": "2026-11-17",
+          "genre": "Original geopolitics report and analyst interviews",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Global Times",
+            "domain": "globaltimes.cn",
+            "country": "China",
+            "ownership": "People's Daily-affiliated Chinese newsroom",
+            "ownershipGroup": "global-times-peoples-daily",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Chinese analysts' symbolic-containment assessment",
+            "rationale": "Global Times directly interviewed Tsinghua analyst Qian Feng and East China Normal University analyst Chen Hong, who assessed the Quad as insufficiently cohesive and the meeting as performative. The article cites other outlets for some meeting facts."
+          },
+          "summary": "Provides specifically attributed Chinese criticism of the Quad's impact and proposed cooperation, which is an opinion on future effectiveness, not a demonstrated outcome.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-18T07:35:29.599Z",
+            "method": "research-tool",
+            "note": "Originating publisher article body opened and readable without login or payment during research on Nov 18; no original full text, images or unverified archive capture retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-18T07:35:29.599Z",
+            "contentHash": null,
+            "evidenceNote": "Publisher's Asia-Pacific index lists Nov17 22:31:51 local; original Global Times reporting includes direct expert interviews, although some descriptions of summit statements credit Reuters and The Guardian."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The leaders of the Quad's four member countries met in Manila on November 17, the first leaders' summit after a gap since 2024.",
+          "sourceIds": [
+            "quad-reuters-summit-17",
+            "quad-ap-leaders-17",
+            "quad-globaltimes-sceptics-17"
+          ]
+        },
+        {
+          "text": "Participants announced future cooperation involving maritime patrols and artificial intelligence; announcing plans does not establish implementation.",
+          "sourceIds": [
+            "quad-reuters-summit-17",
+            "quad-ap-leaders-17"
+          ]
+        },
+        {
+          "text": "The meeting occurred in a context of competition involving China, although the leaders' framing and Chinese analysts' interpretations of the group differed.",
+          "sourceIds": [
+            "quad-reuters-summit-17",
+            "quad-ap-leaders-17",
+            "quad-globaltimes-sceptics-17"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Is the renewed Quad a substantively stabilizing regional partnership or a mainly symbolic attempt to contain China? POSITION A: Quad leaders, directly quoted and reported by AP, cite maritime exercise and AI accelerator plans as tangible cooperation for regional stability; AP does not endorse their claims. POSITION B: Qian Feng and Chen Hong, directly interviewed by Global Times, say members' divergent interests and cost-sharing problems leave the summit as 'photo diplomacy'. EVIDENCE: Reuters and AP establish the meeting and announcements but cannot verify long-term delivery or influence by November 17.",
+          "sourceIds": [
+            "quad-ap-leaders-17",
+            "quad-globaltimes-sceptics-17",
+            "quad-reuters-summit-17"
+          ]
+        },
+        {
+          "text": "All accounts accept that leaders met and promised measures; their difference concerns likely effectiveness and strategic legitimacy, not date or reporting detail. Global Times' expert interviews are original independent commentary; its references to Reuters and The Guardian for summit actions are not counted as independent confirmation.",
+          "sourceIds": [
+            "quad-reuters-summit-17",
+            "quad-ap-leaders-17",
+            "quad-globaltimes-sceptics-17"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Implementation, funding and durability of announced AI, maritime and supply-chain initiatives.",
+        "Future alignments among Quad governments, including how they balance China relations with other priorities.",
+        "Effect on maritime incidents, economic coercion and US-China diplomatic talks after November 17."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Quad leaders say their coordination will deliver a free, open and stable Indo-Pacific.",
+          "sourceIds": [
+            "quad-ap-leaders-17",
+            "quad-reuters-summit-17"
+          ],
+          "reason": "A political objective and prediction, not a measured security outcome."
+        },
+        {
+          "text": "Chinese analysts called the summit photo diplomacy that cannot shape the Asia-Pacific.",
+          "sourceIds": [
+            "quad-globaltimes-sceptics-17"
+          ],
+          "reason": "Attributed prediction about political impact, not proven absence of future cooperation."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-18T07:35:29.599Z",
+    "author": "ChatGPT",
+    "reason": "First complete agent-reviewed daily edition for 2026-11-17."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Prepared and agent-reviewed at 2026-11-18T07:35:29.599Z UTC after cutoff 2026-11-17T22:59:59Z. The nine selected original publisher pages were opened without payment or login; original headlines, bylines/newsrooms, genre and publication dates examined, with date-only precision where first-publication timezone or hour could not be verified. AP's publisher lacks an unambiguous original clock; its Nov17 date was corroborated by dated syndication without counting copies as independent newsrooms. Selected Reuters/Guardian pages may include same-day changes; no frozen as-of-cutoff captures or fingerprints are claimed. State allegations, disputed legal arguments, modelling and expert predictions are attributed. Public X searches returned no day-verifiable accessible sample or historical volume measure, so optional X fields were omitted rather than assuming low attention. Agent review only; no human review or copyrighted article content."
+  },
+  "timezone": "Europe/Paris"
+}
