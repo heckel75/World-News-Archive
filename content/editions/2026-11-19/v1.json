@@ -1,0 +1,595 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-19",
+  "cutoff": "2026-11-19T22:59:59Z",
+  "recordedAt": "2026-11-20T07:48:03.178Z",
+  "kind": "daily",
+  "selectionSummary": "Consistent world-impact criterion: cross-border reach, scale of human consequences, international-security and climate-system effects, independently verified breadth of reporting and durable institutional implications. Selected three distinct developments: unprecedented nuclear-power summit, historic genocide judgment and COP31 draft negotiation.",
+  "snapshot": {
+    "summary": "On November 19, formal statements and judicial findings highlighted the gap between promises and implementation: three powers made modest peace commitments, a court imposed binding accountability without direct enforcement, and climate negotiators debated a draft stripped of fossil-fuel language.",
+    "connections": [
+      "Each story tests the reach of international institutions: the UN and international courts, the ICJ Genocide Convention, and the UN climate process.",
+      "The summit declaration mentioned legal immunities on the same day an international court ruled on state responsibility; this coincidence does not establish causation.",
+      "All three distinguish official words or legal decisions from concrete, enforceable consequences."
+    ],
+    "uncertainties": [
+      "Whether summit pledges would yield actual nuclear or peace arrangements.",
+      "Whether Myanmar would implement binding reparations and safe return.",
+      "Whether COP31 would agree a final text or restore explicit fossil-fuel commitments."
+    ]
+  },
+  "stories": [
+    {
+      "id": "shenzhen-superpower-summit-pledges-nov19",
+      "eventId": "gl-china-russia-us-shenzhen-summit-2026",
+      "title": "US, Chinese and Russian leaders sign limited Shenzhen declaration",
+      "summary": "The first Trump-Xi-Putin trilateral summit produced a four-part declaration about UN reform, petroleum supply, state official immunity and future nuclear-risk dialogue. The public text did not resolve the wars in Ukraine and Iran or establish a new nuclear arms agreement.",
+      "whyItMatters": "The three countries' strategic arsenals, influence over global institutions and roles in existing wars make their commitments consequential far beyond Asia.",
+      "region": "Shenzhen, China / global",
+      "tags": [
+        "China",
+        "United States",
+        "Russia",
+        "APEC",
+        "nuclear arms",
+        "Ukraine",
+        "Iran",
+        "international law"
+      ],
+      "selectionRationale": "Great-power nuclear security, cross-border war diplomacy and potential changes to international institutions; directly reported by multiple independent newsrooms.",
+      "evidenceNote": "AP original report, original Xinhua Xi remarks and original Guardian Shenzhen dispatch were opened. Xi's assessment of success is attributed; a declaration is not implementation.",
+      "articles": [
+        {
+          "id": "summit19-ap-outcome",
+          "role": "reference",
+          "headline": "Trump, Xi and Putin hold rare 3-way talks on nuclear risks but deliver no breakthroughs",
+          "url": "https://apnews.com/article/trump-xi-putin-nuclear-ukraine-iran-a04dc76ed8e786b087e2c1ea9598783a",
+          "publishedAt": "2026-11-18",
+          "publishedPrecision": "date",
+          "genre": "Original international diplomatic news report",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Associated Press cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Limited result of high-profile summit",
+            "rationale": "AP distinguishes the modest declaration from initial hopes of deals on nuclear weapons and wars."
+          },
+          "summary": "After roughly 70 minutes, the leaders announced cooperation on UN reform, oil refining, ICC jurisdiction and nuclear-risk dialogue without resolving the Iran or Ukraine wars.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-20T07:48:03.178Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened without payment or login on 20 Nov 2026. AP original authors Josh Boak, Michelle L. Price and E. Eduardo Castillo. First posted November 18 and revised on November 19; revised headline verified on AP's own site; a separate AP syndication confirmed the first date, not counted independently."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-20T07:48:03.178Z",
+            "contentHash": null,
+            "evidenceNote": "AP original authors Josh Boak, Michelle L. Price and E. Eduardo Castillo. First posted November 18 and revised on November 19; revised headline verified on AP's own site; a separate AP syndication confirmed the first date, not counted independently."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "summit19-xinhua-dialogue",
+          "role": "contrast_a",
+          "headline": "China-Russia-U.S. summit positive, constructive, fruitful: Xi",
+          "url": "https://english.news.cn/20261119/ea286bc57b54463abfbca86325122df0/c.html",
+          "publishedAt": "2026-11-19T11:58:15Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original Chinese government-remarks news report",
+          "outlet": {
+            "name": "Xinhua News Agency",
+            "domain": "news.cn",
+            "country": "China",
+            "ownership": "Chinese state news agency",
+            "ownershipGroup": "xinhua-news-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Xi's affirmative assessment of dialogue",
+            "rationale": "Xinhua quotes Xi declaring the meeting fruitful and emphasizing respect for other nations' security concerns; this is his view, not independent verification."
+          },
+          "summary": "Xi said the leaders found consensus on dialogue and cooperation for peace.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-20T07:48:03.178Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened without payment or login on 20 Nov 2026. Xinhua original report edited by huaxia, dated Nov 19 at 19:58:15 Beijing time, converted to UTC; no independent claim of actual peace."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-20T07:48:03.178Z",
+            "contentHash": null,
+            "evidenceNote": "Xinhua original report edited by huaxia, dated Nov 19 at 19:58:15 Beijing time, converted to UTC; no independent claim of actual peace."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "summit19-guardian-limits",
+          "role": "contrast_b",
+          "headline": "China, Russia and US agree peace declaration with no mention of Ukraine and Iran wars",
+          "url": "https://www.theguardian.com/world/2026/nov/19/china-russia-us-agree-peace-statement-no-mention-ukraine-iran-wars",
+          "publishedAt": "2026-11-19T15:45:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original reporting from Shenzhen",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Practical limits and omitted affected states",
+            "rationale": "Reporter Rebecca Bailey examines the declaration's failure to address the wars and reports concern that affected countries could be bypassed."
+          },
+          "summary": "The declaration addressed oil, the UN, immunity and nuclear risk, not ending the conflicts in Ukraine or Iran.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-20T07:48:03.178Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened without payment or login on 20 Nov 2026. Rebecca Bailey in Shenzhen, first published Nov19 10:45 EST=15:45 UTC, later same-day revised 12:13 EST, both before the Paris cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-20T07:48:03.178Z",
+            "contentHash": null,
+            "evidenceNote": "Rebecca Bailey in Shenzhen, first published Nov19 10:45 EST=15:45 UTC, later same-day revised 12:13 EST, both before the Paris cutoff."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Trump, Xi and Putin held trilateral talks in Shenzhen on November 19.",
+          "sourceIds": [
+            "summit19-ap-outcome",
+            "summit19-xinhua-dialogue",
+            "summit19-guardian-limits"
+          ]
+        },
+        {
+          "text": "The limited declaration covered the UN, refined oil supply, official immunity and nuclear-risk dialogue; it did not promise an end to either major war.",
+          "sourceIds": [
+            "summit19-ap-outcome",
+            "summit19-guardian-limits"
+          ]
+        },
+        {
+          "text": "Xi publicly called the talks constructive; the assessment was made while the concrete measures remained modest.",
+          "sourceIds": [
+            "summit19-xinhua-dialogue",
+            "summit19-ap-outcome"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Was the meeting an effective contribution to global peace, or primarily symbolic major-power diplomacy that left those affected by wars outside the room? POSITION A: Xi, reported by Xinhua, called it fruitful and said the three countries recognized the need to respect every state's security concerns. POSITION B: European critics and the Guardian's account stress that Ukraine and Iran were omitted from the declaration and no settlement was secured. EVIDENCE: AP independently reports both the declaration and lack of a substantive breakthrough; Xi's assertion of peace benefits remains an attributed judgment.",
+          "sourceIds": [
+            "summit19-xinhua-dialogue",
+            "summit19-guardian-limits",
+            "summit19-ap-outcome"
+          ]
+        },
+        {
+          "text": "All sources concur the summit and declaration occurred; the material disagreement is whether diplomatic contact and broad principles suffice as real progress, not whether the leaders met.",
+          "sourceIds": [
+            "summit19-ap-outcome",
+            "summit19-xinhua-dialogue",
+            "summit19-guardian-limits"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether nuclear-risk discussions would become enforceable arms-control limits.",
+        "Whether peace diplomacy would include the states and populations directly affected.",
+        "Whether the oil, ICC and UN positions would have policy consequences."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Xi called the summit fruitful for global peace.",
+          "reason": "A political interpretation, not independently measurable proof of peace.",
+          "sourceIds": [
+            "summit19-xinhua-dialogue"
+          ]
+        },
+        {
+          "text": "Trump described the summit as historic and suggested it advanced a Ukraine settlement.",
+          "reason": "No peace agreement was signed by cutoff.",
+          "sourceIds": [
+            "summit19-ap-outcome",
+            "summit19-guardian-limits"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "myanmar-rohingya-icj-genocide-ruling-nov19",
+      "eventId": "as-myanmar-rohingya-genocide-icj-2019-2026",
+      "title": "UN court holds Myanmar responsible for genocide against Rohingya",
+      "summary": "The International Court of Justice ruled 9-6 that Myanmar's 2017 military campaign committed genocide against the Rohingya population. The majority rejected Myanmar's argument that counterinsurgency alone explained the violence and ordered remedies including safe return and compensation, whose implementation remains unresolved.",
+      "whyItMatters": "The ICJ's first judgment holding a state responsible for genocide establishes a landmark precedent, while more than a million displaced Rohingya remain exposed to continuing insecurity.",
+      "region": "Myanmar / Bangladesh / The Hague",
+      "tags": [
+        "Myanmar",
+        "Rohingya",
+        "genocide",
+        "ICJ",
+        "international justice",
+        "Bangladesh"
+      ],
+      "selectionRationale": "Exceptional legal precedent, large-scale displacement, human rights significance and consequences for state accountability in other cases.",
+      "evidenceNote": "Reuters and Guardian cover the delivered court ruling; an earlier Al Jazeera original explainer specifically documents Myanmar's disputed defense before it was rejected. No later political outcome is assumed.",
+      "articles": [
+        {
+          "id": "icj19-reuters-judgment",
+          "role": "reference",
+          "headline": "Top UN court finds Myanmar committed genocide against Muslim Rohingya",
+          "url": "https://www.reuters.com/world/asia-pacific/top-un-court-finds-myanmar-committed-state-sponsored-genocide-against-muslim-2026-11-19/",
+          "publishedAt": "2026-11-19T12:02:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original international court and legal news report",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Judgment and limits on enforcement",
+            "rationale": "Reuters examines the majority ruling, evidentiary findings and restitution obligations."
+          },
+          "summary": "The ICJ found genocide during Myanmar's 2017 military operations and ordered redress and conditions for voluntary safe return.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-20T07:48:03.178Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened without payment or login on 20 Nov 2026. Stephanie van den Berg, Anthony Deutsch and Ruma Paul; Reuters original reporting Nov19 12:02 UTC, not a syndicated host."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-20T07:48:03.178Z",
+            "contentHash": null,
+            "evidenceNote": "Stephanie van den Berg, Anthony Deutsch and Ruma Paul; Reuters original reporting Nov19 12:02 UTC, not a syndicated host."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "icj19-aj-preverdict-defense",
+          "role": "contrast_a",
+          "headline": "ICJ to rule on Rohingya genocide case against Myanmar: What’s at stake?",
+          "url": "https://www.aljazeera.com/news/2026/11/19/icj-to-rule-on-rohingya-genocide-case-against-myanmar-whats-at-stake",
+          "publishedAt": "2026-11-19",
+          "publishedPrecision": "date",
+          "genre": "Original pre-verdict legal explainer",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network, state-funded",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Myanmar's rejected counterinsurgency position",
+            "rationale": "Rached El-Moctar's explainer reports Myanmar arguing that its military responded to armed attacks without an intent to destroy Rohingya people, and Gambia's opposing submission; Al Jazeera endorses neither."
+          },
+          "summary": "Before judgment, Myanmar said its clearance operations targeted armed militants, while Gambia argued violence demonstrated an intent to destroy Rohingya.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-20T07:48:03.178Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened without payment or login on 20 Nov 2026. By Rached El-Moctar, dated Nov19 with no original clock; pre-judgment article retained specifically to document opposing legal submissions, not misrepresented as a reaction to the verdict."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-20T07:48:03.178Z",
+            "contentHash": null,
+            "evidenceNote": "By Rached El-Moctar, dated Nov19 with no original clock; pre-judgment article retained specifically to document opposing legal submissions, not misrepresented as a reaction to the verdict."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "icj19-guardian-genocide-finding",
+          "role": "contrast_b",
+          "headline": "Myanmar committed genocide against Rohingya minority, world’s top court rules",
+          "url": "https://www.theguardian.com/world/2026/nov/19/genocide-rohingya-international-court-of-justice-ruling-myanmar",
+          "publishedAt": "2026-11-19T11:08:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original Hague court and legal reporting",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Judicial finding contrary to Myanmar defense",
+            "rationale": "Kaamil Ahmed and Oliver Holmes report judges' conclusion of genocidal intent, including killings, sexual violence and measures preventing births."
+          },
+          "summary": "The ICJ's nine-judge majority concluded the 2017 operations intended to destroy a substantial part of the Rohingya population, rejecting Myanmar's counterterrorism explanation.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-20T07:48:03.178Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened without payment or login on 20 Nov 2026. Guardian staff Kaamil Ahmed and Oliver Holmes; first published 12:08 CET=11:08 UTC, updated 14:52 CET Nov19, within cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-20T07:48:03.178Z",
+            "contentHash": null,
+            "evidenceNote": "Guardian staff Kaamil Ahmed and Oliver Holmes; first published 12:08 CET=11:08 UTC, updated 14:52 CET Nov19, within cutoff."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "A 9-6 ICJ majority found Myanmar responsible for genocide against the Rohingya in the 2017 campaign.",
+          "sourceIds": [
+            "icj19-reuters-judgment",
+            "icj19-guardian-genocide-finding"
+          ]
+        },
+        {
+          "text": "Myanmar's defense asserted a counterterrorism rationale and denied genocidal intent; Gambia submitted the opposite case.",
+          "sourceIds": [
+            "icj19-aj-preverdict-defense",
+            "icj19-reuters-judgment",
+            "icj19-guardian-genocide-finding"
+          ]
+        },
+        {
+          "text": "The court ordered redress and provision for safe return but lacked a means to enforce compliance directly.",
+          "sourceIds": [
+            "icj19-reuters-judgment",
+            "icj19-guardian-genocide-finding"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Did the military operation amount to intentional destruction of the Rohingya, or justified counterinsurgency against armed groups? POSITION A: Myanmar's representatives, reported by Al Jazeera in a pre-judgment explainer, argued security necessity and denied genocidal intent; this is an actor's position, not the newsroom's endorsement. POSITION B: The ICJ majority, reported by the Guardian, ruled that widespread killings, sexual violence and other acts established an intent to destroy part of the group, rejecting that explanation. EVIDENCE: Reuters independently details the delivered binding judgment; the judicial finding has decisive legal weight over the rejected position, not equal evidentiary weight.",
+          "sourceIds": [
+            "icj19-aj-preverdict-defense",
+            "icj19-guardian-genocide-finding",
+            "icj19-reuters-judgment"
+          ]
+        },
+        {
+          "text": "Pre-verdict and post-verdict sources reflect the same legal dispute at different stages, not contradicting newsrooms. The judgment established legal state responsibility, not actual enforcement or individuals' criminal convictions.",
+          "sourceIds": [
+            "icj19-aj-preverdict-defense",
+            "icj19-reuters-judgment",
+            "icj19-guardian-genocide-finding"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "How Myanmar would respond to binding reparations and non-repetition obligations.",
+        "Whether refugees could ever return voluntarily with security and rights guaranteed.",
+        "Whether international enforcement or individual criminal proceedings would follow."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Myanmar argued the 2017 operation was counterinsurgency without genocidal intent.",
+          "reason": "Attribution of an ultimately rejected legal defense, not evidence that genocide did not occur.",
+          "sourceIds": [
+            "icj19-aj-preverdict-defense",
+            "icj19-reuters-judgment"
+          ]
+        },
+        {
+          "text": "Supporters hoped the verdict would enable safe repatriation.",
+          "reason": "An expected benefit, not a completed return or enforced reparation.",
+          "sourceIds": [
+            "icj19-guardian-genocide-finding"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cop31-antalya-weakened-fossil-fuels-draft-nov19",
+      "eventId": "gl-cop31-climate-antalya-2026",
+      "title": "COP31 draft drops fossil-fuel commitments as deadline approaches",
+      "summary": "The November 19 draft of COP31's Antalya Declaration removed language on ending fossil fuel use and softened electrification commitments. Turkey and Australia defended an achievable package to implement existing climate goals. Campaigners and vulnerable countries demanded stronger fossil-fuel and climate-finance terms; no final agreement was confirmed by the Paris cutoff.",
+      "whyItMatters": "Nearly 200 countries' climate policy signals guide emissions, clean-energy investment and the resources available to populations facing the greatest climate risks.",
+      "region": "Antalya, Türkiye / global",
+      "tags": [
+        "COP31",
+        "climate",
+        "fossil fuels",
+        "climate finance",
+        "electrification",
+        "Paris Agreement"
+      ],
+      "selectionRationale": "Long-term worldwide climate, health, finance and energy investment consequences with directly conflicting negotiated prescriptions.",
+      "evidenceNote": "Reuters checked the wording; Anadolu original interviews/briefing explain presidency case; Guardian independently covers criticism. Guardian was modified after cutoff, so only corroborated Nov19 draft facts were used.",
+      "articles": [
+        {
+          "id": "cop19-reuters-text",
+          "role": "reference",
+          "headline": "COP31 draft drops fossil fuel language as talks near deadline",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-negotiators-publish-revised-deal-text-with-no-mention-fossil-fuels-2026-11-19/",
+          "publishedAt": "2026-11-19T12:13:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original international climate negotiation coverage",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Comparison of draft changes",
+            "rationale": "Reuters examines the removal of fossil fuel references, weaker targets, critics and negotiating presidents' response."
+          },
+          "summary": "COP31's draft removed fossil fuel language, weakened electricity terms and faced pressure from climate-vulnerable nations.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-20T07:48:03.178Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened without payment or login on 20 Nov 2026. Tuvan Gumrukcu and Peter Hobson, Reuters original reporting Nov19 12:13 UTC, no final COP decision claimed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-20T07:48:03.178Z",
+            "contentHash": null,
+            "evidenceNote": "Tuvan Gumrukcu and Peter Hobson, Reuters original reporting Nov19 12:13 UTC, no final COP decision claimed."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop19-anadolu-presidency",
+          "role": "contrast_a",
+          "headline": "COP31 Presidency unveils 2nd draft cover decision, with Paris Agreement goals, electrification on focus",
+          "url": "https://www.aa.com.tr/en/greenline/green-diplomacy/cop31-presidency-unveils-2nd-draft-cover-decision-with-paris-agreement-goals-electrification-on-focus/1832371",
+          "publishedAt": "2026-11-19",
+          "publishedPrecision": "date",
+          "genre": "Original Turkish COP presidency briefing",
+          "outlet": {
+            "name": "Anadolu Agency Greenline",
+            "domain": "aa.com.tr",
+            "country": "Türkiye",
+            "ownership": "Turkish state-funded news agency",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Consensus and practical implementation argument",
+            "rationale": "Anadolu reporters document President Murat Kurum's position favoring implementation, electrification, grids and financing; his projections are attributed."
+          },
+          "summary": "Kurum promoted a proposed 35% electricity share of world final energy use by 2035 alongside finance and adaptation as practical Paris-aligned steps.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-20T07:48:03.178Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened without payment or login on 20 Nov 2026. Fatma Zehra Solmaz and İlayda Çakırtekin; original Greenline Anadolu story dated 19.11.2026, with no publication hour displayed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-20T07:48:03.178Z",
+            "contentHash": null,
+            "evidenceNote": "Fatma Zehra Solmaz and İlayda Çakırtekin; original Greenline Anadolu story dated 19.11.2026, with no publication hour displayed."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop19-guardian-stronger-text",
+          "role": "contrast_b",
+          "headline": "Cop31 told it risks being ‘ghost’ summit as all mentions of fossil fuels removed from draft text",
+          "url": "https://www.theguardian.com/environment/2026/nov/19/cop31-risks-becoming-ghost-summit-after-all-mentions-of-fossil-fuels-removed-from-draft-text",
+          "publishedAt": "2026-11-19T17:58:00Z",
+          "publishedPrecision": "datetime",
+          "genre": "Original multi-reporter climate summit account",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Campaigners' opposition to weakened commitments",
+            "rationale": "Guardian reporters quote campaigners and Panama demanding explicit fossil fuel phaseout and finance, contrasting the presidency's compromise position."
+          },
+          "summary": "Campaigners warned that omitting fossil fuel action and finance ambition could undermine the draft and threatened opposition.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-20T07:48:03.178Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened without payment or login on 20 Nov 2026. Original team Fiona Harvey, Graham Readfearn, Damien Gayle, Gabrielle Canon and Oliver Milman. Published Nov19 17:58 GMT; updated Nov20 05:23 GMT after cutoff. Only Nov19 draft facts corroborated in Reuters are treated as historical; no cutoff text snapshot exists."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-20T07:48:03.178Z",
+            "contentHash": null,
+            "evidenceNote": "Original team Fiona Harvey, Graham Readfearn, Damien Gayle, Gabrielle Canon and Oliver Milman. Published Nov19 17:58 GMT; updated Nov20 05:23 GMT after cutoff. Only Nov19 draft facts corroborated in Reuters are treated as historical; no cutoff text snapshot exists."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "A Nov19 second draft excluded fossil-fuel phaseout language and softened electrification wording.",
+          "sourceIds": [
+            "cop19-reuters-text",
+            "cop19-guardian-stronger-text"
+          ]
+        },
+        {
+          "text": "The presidency continued promoting a proposed 35% electricity share of global final energy use by 2035.",
+          "sourceIds": [
+            "cop19-anadolu-presidency",
+            "cop19-reuters-text"
+          ]
+        },
+        {
+          "text": "The draft was still under negotiation as the deadline approached, with disagreement over finance and fossil-fuel language.",
+          "sourceIds": [
+            "cop19-reuters-text",
+            "cop19-guardian-stronger-text",
+            "cop19-anadolu-presidency"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Should negotiators retain clear fossil-fuel transition and ambitious finance language even at the risk of no consensus, or prioritize an adoptable implementation package? POSITION A: COP president Murat Kurum, described in original Anadolu reporting, defended a concrete implementation approach centered on electrification and adaptation. POSITION B: Campaigners and Panama, quoted by the Guardian, said the omissions undermined the climate goal and demanded tougher wording. EVIDENCE: Reuters corroborates the changed draft, not promised emissions reductions or the forecast of a failed summit.",
+          "sourceIds": [
+            "cop19-anadolu-presidency",
+            "cop19-guardian-stronger-text",
+            "cop19-reuters-text"
+          ]
+        },
+        {
+          "text": "The sources agree the draft was weakened and unfinished; the opposed positions concern whether pragmatic political compromise is adequate climate action or an unacceptable retreat, not different time definitions.",
+          "sourceIds": [
+            "cop19-anadolu-presidency",
+            "cop19-guardian-stronger-text",
+            "cop19-reuters-text"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether final text would restore any fossil-fuel phaseout commitment.",
+        "Whether developed countries would agree stronger quantified adaptation finance.",
+        "Whether a 35% electrification goal would be adopted and depend on renewable power."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The Turkish presidency said electrification and adaptation would make the draft a practical Paris-aligned success.",
+          "reason": "An advocacy and implementation projection, not accomplished emissions cuts.",
+          "sourceIds": [
+            "cop19-anadolu-presidency"
+          ]
+        },
+        {
+          "text": "Campaigners warned the weak wording risked making COP31 a symbolic failure.",
+          "reason": "An attributed prediction before the final conference decision.",
+          "sourceIds": [
+            "cop19-guardian-stronger-text",
+            "cop19-reuters-text"
+          ]
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-20T07:48:03.178Z",
+    "author": "ChatGPT",
+    "reason": "First agent-reviewed edition for November 19, 2026."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Agent research and review on 2026-11-20 recorded at 2026-11-20T07:48:03.178Z after historical cutoff 2026-11-19T22:59:59Z. Nine originating publisher pages were opened and readable without login or payment. Headlines, author groups, dates, genre and independence checked. AP first publication November 18 and revision November 19 disclosed; Al Jazeera's ICJ article is clearly pre-verdict; Guardian COP31 article first published 19 Nov but modified after cutoff on 20 Nov at 05:23 UTC, so only Nov19 facts separately corroborated in Reuters are used. Current retrieval is not an archived cutoff copy. No copyrighted bodies, images, fabricated snapshots or fingerprints published. Public X historical searching on 20 November returned no reliably timestamped, representative Nov19 posts or credible past volume signals; omitted the optional layer, not interpreted as low attention. Official statements and advocacy are attributed. No human review."
+  },
+  "timezone": "Europe/Paris"
+}
