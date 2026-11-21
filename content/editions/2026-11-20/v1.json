@@ -1,0 +1,590 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-20",
+  "cutoff": "2026-11-20T22:59:59Z",
+  "recordedAt": "2026-11-21T07:10:03.571Z",
+  "kind": "daily",
+  "selectionSummary": "Selected for global reach, number of countries or communities affected and potential lasting institutional consequences: diplomacy among nuclear powers, state responsibility for genocide and worldwide climate negotiations. Rankings reflect editorial judgment, not statistical certainty.",
+  "snapshot": {
+    "summary": "Three November 20 disputes exposed a common distinction between pronouncements and outcomes: world leaders celebrated peace talks without settlements; Myanmar challenged a binding genocide ruling without implementing remedies; and COP31 negotiations failed to conclude by their deadline.",
+    "connections": [
+      "The Shenzhen declaration and COP31 drafts faced tests of whether diplomatic language leads to practical commitments.",
+      "The ICJ finding carried established legal weight but still faced the practical problem of enforcement.",
+      "Across all three, official statements establish what actors said, not that their projections or defenses were true."
+    ],
+    "uncertainties": [
+      "Future effect of tripower summit declaration on armed conflicts and nuclear diplomacy.",
+      "Enforcement of genocide remedies and safe return for Rohingya.",
+      "Final climate text and adaptation-finance package after the overtime negotiations."
+    ]
+  },
+  "stories": [
+    {
+      "id": "shenzhen-summit-substance-debate-nov20",
+      "eventId": "gl-china-russia-us-shenzhen-summit-2026",
+      "title": "Shenzhen tripower summit: landmark peace declaration or diplomatic pageantry?",
+      "summary": "A day after Donald Trump, Xi Jinping and Vladimir Putin met in Shenzhen, Chinese Foreign Minister Wang Yi hailed their peace declaration as a historic advance. Independent reporting and political analysis found no concrete settlements on Ukraine, Iran or arms control. By November 20 the declaration's long-term effects were unproven.",
+      "whyItMatters": "Diplomacy among three nuclear powers shapes global security, ongoing wars and the expectations placed on international institutions.",
+      "region": "Shenzhen, China / global",
+      "tags": [
+        "China",
+        "United States",
+        "Russia",
+        "APEC",
+        "nuclear diplomacy",
+        "international security"
+      ],
+      "selectionRationale": "Global military and diplomatic reach, stakes for ongoing conflicts and international institutions, and materially opposed assessments of an actual joint declaration.",
+      "evidenceNote": "All three independent original articles accessible and dates verified; Xinhua reports the Chinese minister's position, Guardian provides David Smith's own political analysis, Reuters provides independent reporting with analyst views. Reporting a declaration is not demonstrating an implemented security accord.",
+      "articles": [
+        {
+          "id": "summit20-reuters-limits",
+          "role": "reference",
+          "headline": "Trump's personalized diplomacy hits its limits with 3-way summit",
+          "url": "https://www.reuters.com/world/china/trumps-personalized-diplomacy-hits-its-limits-with-3-way-summit-2026-11-20/",
+          "publishedAt": "2026-11-20T06:03:00Z",
+          "genre": "Original reported political analysis",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Event and outcome-focused reference reporting",
+            "rationale": "Matt Spetalnick reports the meeting and declaration and attributes critical assessments to analysts, without representing a concrete peace deal as achieved."
+          },
+          "summary": "Analysts said the high-profile three-way meeting left substantive disagreements on wars and other strategic issues unresolved.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-21T07:10:03.571Z",
+            "method": "research-tool",
+            "note": "Original public publisher article fully opened without login or payment on 2026-11-21. Reuters by Matt Spetalnick; original Nov20 06:03 UTC; original newsroom analysis, not an unsigned wire copy."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-21T07:10:03.571Z",
+            "contentHash": null,
+            "evidenceNote": "Reuters by Matt Spetalnick; original Nov20 06:03 UTC; original newsroom analysis, not an unsigned wire copy."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "summit20-xinhua-landmark",
+          "role": "contrast_a",
+          "headline": "China-Russia-U.S. summit a landmark to go down in history: Chinese FM",
+          "url": "https://english.news.cn/20261120/e3057f5fd9d84e139486aa584178cb3d/c.html",
+          "publishedAt": "2026-11-20",
+          "genre": "Original state-agency reporting of minister's remarks",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Xinhua News Agency",
+            "domain": "news.cn",
+            "country": "China",
+            "ownership": "Chinese state news agency",
+            "ownershipGroup": "xinhua-news-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "China's official argument that dialogue is itself a breakthrough",
+            "rationale": "The article attributes the assessment of a landmark model for great-power relations to Foreign Minister Wang Yi, not to independently demonstrated results."
+          },
+          "summary": "Wang Yi called the Shenzhen declaration a constructive step toward global peace and stable major-power relations.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-21T07:10:03.571Z",
+            "method": "research-tool",
+            "note": "Original public publisher article fully opened without login or payment on 2026-11-21. Xinhua Source: Xinhua, editor huaxia, published Nov20 at 09:12:15 publisher clock, timezone not confirmed, so date-only metadata retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-21T07:10:03.571Z",
+            "contentHash": null,
+            "evidenceNote": "Xinhua Source: Xinhua, editor huaxia, published Nov20 at 09:12:15 publisher clock, timezone not confirmed, so date-only metadata retained."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "summit20-guardian-optics",
+          "role": "contrast_b",
+          "headline": "Friend zone: rejected by US voters, Trump enjoys autocrats’ warm embrace",
+          "url": "https://www.theguardian.com/us-news/2026/nov/20/donald-trump-xi-jinping-vladimir-putin-summit",
+          "publishedAt": "2026-11-20T15:15:00Z",
+          "genre": "Original bylined political analysis",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Critical assessment of symbolic gains versus substantive outcomes",
+            "rationale": "David Smith's analysis contends the spectacle benefited Xi and Putin, unlike a verifiable peace settlement; its conclusions are editorial analysis, not observed future outcomes."
+          },
+          "summary": "The three-way meeting offered powerful political symbolism but little evidence of substantive progress on major disputes.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-21T07:10:03.571Z",
+            "method": "research-tool",
+            "note": "Original public publisher article fully opened without login or payment on 2026-11-21. David Smith Guardian original first published Nov20 15:15 GMT and last modified 19:51 GMT, both before cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-21T07:10:03.571Z",
+            "contentHash": null,
+            "evidenceNote": "David Smith Guardian original first published Nov20 15:15 GMT and last modified 19:51 GMT, both before cutoff."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Trump, Xi and Putin met in Shenzhen in connection with APEC and issued a leaders' declaration addressing peace and cooperation.",
+          "sourceIds": [
+            "summit20-reuters-limits",
+            "summit20-xinhua-landmark",
+            "summit20-guardian-optics"
+          ]
+        },
+        {
+          "text": "No confirmed peace agreement on the Ukraine or Iran wars or binding nuclear arms-control treaty emerged from the meeting.",
+          "sourceIds": [
+            "summit20-reuters-limits",
+            "summit20-guardian-optics"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Was the summit a significant step toward security and stability, or largely symbolic public diplomacy? POSITION A: Chinese Foreign Minister Wang Yi, quoted in Xinhua's original report, called the talks a landmark and the declaration a new model for major-power cooperation. POSITION B: Guardian analyst David Smith argues the meeting favored Xi's and Putin's optics without tangible major-war or arms-control agreements. EVIDENCE: Reuters independently verifies the leaders met and reports a declaration but no practical settlement; aspirations and assessments of diplomatic value are not established outcomes.",
+          "sourceIds": [
+            "summit20-xinhua-landmark",
+            "summit20-guardian-optics",
+            "summit20-reuters-limits"
+          ]
+        },
+        {
+          "text": "All three sources agree the summit occurred; the meaningful divergence concerns adequacy and prospects, not whether the leaders issued a statement. Reuters includes analysis and does not supply proof of future success or failure.",
+          "sourceIds": [
+            "summit20-reuters-limits",
+            "summit20-xinhua-landmark",
+            "summit20-guardian-optics"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether the declaration would lead to enforceable nuclear-risk commitments.",
+        "Whether diplomacy could reduce the fighting in Ukraine or Iran.",
+        "Whether claimed strategic or image benefits for leaders would materialize."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Wang Yi said the summit's declaration would advance world peace.",
+          "reason": "A government official's prediction of future effects, not independently verified results.",
+          "sourceIds": [
+            "summit20-xinhua-landmark"
+          ]
+        },
+        {
+          "text": "Political analysts described the meeting as potentially handing a strategic advantage to China and Russia.",
+          "reason": "An interpretation of diplomatic optics, not a measured or settled outcome.",
+          "sourceIds": [
+            "summit20-guardian-optics",
+            "summit20-reuters-limits"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "myanmar-rohingya-icj-rejection-nov20",
+      "eventId": "as-myanmar-rohingya-genocide-icj-2019-2026",
+      "title": "Myanmar rejects binding Rohingya genocide ruling as refugees demand justice",
+      "summary": "Myanmar's government repudiated the International Court of Justice's November 19 ruling finding the state responsible for genocide against the Rohingya in 2017. Officials said the nine-to-six judgment was unfair and defended military operations as counterterrorism. Rohingya advocates and a legal commentator argued that the court's ruling required reparations, protected return and accountability; none had been delivered by cutoff.",
+      "whyItMatters": "The first ICJ judgment holding a state responsible for genocide sets a major international-law precedent and concerns the safety and rights of roughly 1.2 million displaced Rohingya in Bangladesh.",
+      "region": "Myanmar / Bangladesh / The Hague",
+      "tags": [
+        "Rohingya",
+        "Myanmar",
+        "ICJ",
+        "genocide",
+        "refugees",
+        "international law",
+        "accountability"
+      ],
+      "selectionRationale": "Binding international legal precedent, serious humanitarian effects on a displaced population, contested compliance and evidentiary authority.",
+      "evidenceNote": "Original Reuters court/government reporting, original AP reporting by David Rising and Grant Peck, and Nazmus Sakib's expressly labeled Al Jazeera opinion. Myanmar's rejected defense is attributed, not endorsed by the AP. ICJ majority finding has greater legal authority than executive objections.",
+      "articles": [
+        {
+          "id": "rohingya20-reuters-government",
+          "role": "reference",
+          "headline": "Myanmar calls UN court's Rohingya genocide ruling a 'great disappointment'",
+          "url": "https://www.reuters.com/world/asia-pacific/myanmar-calls-icj-ruling-genocide-unfair-2026-11-20/",
+          "publishedAt": "2026-11-20T08:45:00Z",
+          "genre": "Original Reuters international law and government report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Court's legal finding and formal government response",
+            "rationale": "Reuters distinguishes the delivered nine-to-six genocide finding from Myanmar's disagreement and the prospect of enforcement."
+          },
+          "summary": "Myanmar rejected the judgment and said refugee return depended on conditions; the ICJ had found it responsible for the 2017 genocide.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-21T07:10:03.571Z",
+            "method": "research-tool",
+            "note": "Original public publisher article fully opened without login or payment on 2026-11-21. Reuters originating newsroom, Nov20 08:45 UTC, original publisher page publicly readable."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-21T07:10:03.571Z",
+            "contentHash": null,
+            "evidenceNote": "Reuters originating newsroom, Nov20 08:45 UTC, original publisher page publicly readable."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "rohingya20-ap-denial",
+          "role": "contrast_a",
+          "headline": "Myanmar dismisses the UN court’s ruling on its responsibility for Rohingya genocide as ‘unfair’",
+          "url": "https://apnews.com/article/bangladesh-rohingya-myanmar-un-world-court-ruling-c76dcb3f97c1077262f87e0cba01bb78",
+          "publishedAt": "2026-11-20",
+          "genre": "Original on-the-ground AP news report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Associated Press cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Government's stated legal objections and counterinsurgency defense",
+            "rationale": "AP's David Rising and Grant Peck directly report spokesperson Khaing Khaing Soe's criticism and the foreign ministry's claim of insufficient proof, without agreeing with that defense."
+          },
+          "summary": "The government cited the split vote, challenged the court's evidence and portrayed its campaign as a response to insurgent attacks.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-21T07:10:03.571Z",
+            "method": "research-tool",
+            "note": "Original public publisher article fully opened without login or payment on 2026-11-21. Original AP by David Rising and Grant Peck with Nov20 press briefing and Friday foreign ministry statement; original publication hour not verified."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-21T07:10:03.571Z",
+            "contentHash": null,
+            "evidenceNote": "Original AP by David Rising and Grant Peck with Nov20 press briefing and Friday foreign ministry statement; original publication hour not verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "rohingya20-aj-opinion",
+          "role": "contrast_b",
+          "headline": "Can the Rohingya genocide verdict deliver justice?",
+          "url": "https://www.aljazeera.com/opinions/2026/11/20/can-the-rohingya-genocide-verdict-deliver-justice",
+          "publishedAt": "2026-11-20",
+          "genre": "Original signed legal/human-rights opinion",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network, Qatari state-funded",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Argument for recognizing genocide finding and securing remedies",
+            "rationale": "Nazmus Sakib's explicitly labeled opinion accepts the genocide judgment and argues enforcement, citizenship and safe return matter more than the declaration alone."
+          },
+          "summary": "The legal judgment is significant, but displaced people remain unlikely to see justice without compliance and safe-return guarantees.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-21T07:10:03.571Z",
+            "method": "research-tool",
+            "note": "Original public publisher article fully opened without login or payment on 2026-11-21. Original Al Jazeera OPINION by Nazmus Sakib, dated Nov20; no verified original UTC publishing hour."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-21T07:10:03.571Z",
+            "contentHash": null,
+            "evidenceNote": "Original Al Jazeera OPINION by Nazmus Sakib, dated Nov20; no verified original UTC publishing hour."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The ICJ ruled by nine votes to six on November 19 that Myanmar bore state responsibility for genocide against the Rohingya during its 2017 campaign.",
+          "sourceIds": [
+            "rohingya20-reuters-government",
+            "rohingya20-ap-denial",
+            "rohingya20-aj-opinion"
+          ]
+        },
+        {
+          "text": "On November 20 the Myanmar government publicly rejected the ruling as unfair or disappointing and continued to characterize the 2017 operation as counterterrorism.",
+          "sourceIds": [
+            "rohingya20-reuters-government",
+            "rohingya20-ap-denial"
+          ]
+        },
+        {
+          "text": "Judicial remedies had not brought immediate reparations or safe voluntary refugee return by the historical cutoff.",
+          "sourceIds": [
+            "rohingya20-reuters-government",
+            "rohingya20-ap-denial",
+            "rohingya20-aj-opinion"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Did the ICJ correctly establish genocide and binding state responsibility, or misinterpret a claimed counterterrorism operation? POSITION A: Myanmar's spokesperson and foreign ministry, reported by AP, asserted the nine-to-six decision was unfair and the evidence inadequate; this is Myanmar's position, not AP's own. POSITION B: Nazmus Sakib in an expressly labeled Al Jazeera opinion accepts the court's finding and advocates actual enforcement, reparations and safe return. EVIDENCE: Reuters corroborates the binding ruling and formal rejection, and the majority judgment outweighs the government's rejected case as a matter of law; it does not establish that compliance has occurred.",
+          "sourceIds": [
+            "rohingya20-ap-denial",
+            "rohingya20-aj-opinion",
+            "rohingya20-reuters-government"
+          ]
+        },
+        {
+          "text": "The sources agree on the verdict and its unenforced remedies. They differ over legality and obligation rather than the number of votes or timing; statements that the court was unfair do not negate the legal finding.",
+          "sourceIds": [
+            "rohingya20-reuters-government",
+            "rohingya20-ap-denial",
+            "rohingya20-aj-opinion"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether Myanmar would implement reparations or changes required by the judgment.",
+        "Whether Rohingya refugees could return safely and voluntarily with rights protected.",
+        "Whether other states could secure compliance and protect the community despite Myanmar's continuing conflict."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Myanmar's foreign ministry claimed the military's 2017 actions were limited counterterrorism without genocidal intent.",
+          "reason": "An attributed government defense rejected by the ICJ majority, not proof of an innocent operation.",
+          "sourceIds": [
+            "rohingya20-ap-denial",
+            "rohingya20-reuters-government"
+          ]
+        },
+        {
+          "text": "Advocates hoped the judgment would help guarantee future refugee return and accountability.",
+          "reason": "An aspiration for future enforcement, not evidence of completed remedies.",
+          "sourceIds": [
+            "rohingya20-ap-denial",
+            "rohingya20-aj-opinion"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cop31-antalya-overtime-nov20",
+      "eventId": "gl-cop31-climate-antalya-2026",
+      "title": "COP31 climate negotiations run into overtime amid dispute over fossil fuels",
+      "summary": "COP31 in Antalya missed its scheduled November 20 closing with governments still divided over explicit fossil-fuel transition wording and adaptation financing. The Turkish COP presidency had promoted a compromise built on electrification, resilience and implementation; climate-vulnerable countries and campaigners sought firmer obligations. No agreed final outcome was established by the Paris cutoff.",
+      "whyItMatters": "Decisions by nearly 200 nations on emissions and adaptation finance affect worldwide energy investment, climate hazards and vulnerable populations.",
+      "region": "Antalya, Türkiye / global",
+      "tags": [
+        "COP31",
+        "climate",
+        "fossil fuels",
+        "adaptation finance",
+        "electrification",
+        "Paris Agreement"
+      ],
+      "selectionRationale": "Planetary emissions, public health, development funding and long-run energy transition with materially contested approaches to the same negotiating text.",
+      "evidenceNote": "Reuters Nov20 contemporaneous on-site reporting, original Nov19 Anadolu presidency briefing within the 72-hour sourcing window, original Nov20 multi-reporter Guardian coverage. The contrasts are actor positions, not fixed newsroom leanings. Guardian first publication 18:56 UTC and update 20:04 UTC, both before cutoff.",
+      "articles": [
+        {
+          "id": "cop20-reuters-overtime",
+          "role": "reference",
+          "headline": "COP31 climate talks spill into overtime as nations quarrel over fossil fuels",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-spill-into-overtime-nations-quarrel-over-fossil-fuels-2026-11-20/",
+          "publishedAt": "2026-11-20T15:04:00Z",
+          "genre": "Original on-site international climate news",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Negotiating status and outstanding clauses",
+            "rationale": "Reuters reporters Ezgi Erkoyun and Valerie Volcovici report deadline overrun and the actual divides in text, not a concluded agreement."
+          },
+          "summary": "Nearly 200 governments were still negotiating fossil-fuel language and financing after the scheduled close.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-21T07:10:03.571Z",
+            "method": "research-tool",
+            "note": "Original public publisher article fully opened without login or payment on 2026-11-21. Reuters original by Ezgi Erkoyun and Valerie Volcovici, published Nov20 15:04 UTC; full publisher page accessible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-21T07:10:03.571Z",
+            "contentHash": null,
+            "evidenceNote": "Reuters original by Ezgi Erkoyun and Valerie Volcovici, published Nov20 15:04 UTC; full publisher page accessible."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop20-anadolu-presidency",
+          "role": "contrast_a",
+          "headline": "COP31 Presidency unveils 2nd draft cover decision, with Paris Agreement goals, electrification on focus",
+          "url": "https://www.aa.com.tr/en/greenline/green-diplomacy/cop31-presidency-unveils-2nd-draft-cover-decision-with-paris-agreement-goals-electrification-on-focus/1832371",
+          "publishedAt": "2026-11-19",
+          "genre": "Original on-site climate presidency briefing",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Anadolu Agency Greenline",
+            "domain": "aa.com.tr",
+            "country": "Türkiye",
+            "ownership": "Turkish state-funded news agency",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Presidency's pragmatic implementation approach",
+            "rationale": "Anadolu journalists report COP president Murat Kurum's proposed 35% global electricity share by 2035 plus infrastructure, resilience and financing, not achieved emissions reductions."
+          },
+          "summary": "The host presidency presented electrification, grids, renewable investment and adaptation as a workable package for Paris Agreement goals.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-21T07:10:03.571Z",
+            "method": "research-tool",
+            "note": "Original public publisher article fully opened without login or payment on 2026-11-21. Original Anadolu Greenline by Fatma Zehra Solmaz and İlayda Çakırtekin, dated 19.11.2026 with no original clock; earlier actor position, not alleged Nov20 conclusion."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-21T07:10:03.571Z",
+            "contentHash": null,
+            "evidenceNote": "Original Anadolu Greenline by Fatma Zehra Solmaz and İlayda Çakırtekin, dated 19.11.2026 with no original clock; earlier actor position, not alleged Nov20 conclusion."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop20-guardian-demands",
+          "role": "contrast_b",
+          "headline": "Cop31 talks go into overtime as debate rages over lack of fossil fuels in draft deal",
+          "url": "https://www.theguardian.com/environment/2026/nov/20/cop31-talks-overtime-fossil-fuels-vanish-from-draft-deal",
+          "publishedAt": "2026-11-20T18:56:00Z",
+          "genre": "Original multi-reporter on-site climate news",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Vulnerable states' demand for explicit fossil fuel and finance obligations",
+            "rationale": "Guardian reporters Graham Readfearn, Fiona Harvey and Damien Gayle quote African and climate-vulnerable country representatives and civil society who reject a vague final pact."
+          },
+          "summary": "Vulnerable delegations and campaigners criticized the absence of explicit fossil-fuel requirements and adequate adaptation finance.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-21T07:10:03.571Z",
+            "method": "research-tool",
+            "note": "Original public publisher article fully opened without login or payment on 2026-11-21. Original Guardian by three staff journalists, first Nov20 13:56 EST=18:56 UTC, updated 15:04 EST=20:04 UTC, both before cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-21T07:10:03.571Z",
+            "contentHash": null,
+            "evidenceNote": "Original Guardian by three staff journalists, first Nov20 13:56 EST=18:56 UTC, updated 15:04 EST=20:04 UTC, both before cutoff."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The COP31 meeting in Antalya continued past its scheduled November 20 closing without an adopted final consensus deal.",
+          "sourceIds": [
+            "cop20-reuters-overtime",
+            "cop20-guardian-demands"
+          ]
+        },
+        {
+          "text": "The working draft's omission of explicit fossil-fuel phaseout language provoked disagreement.",
+          "sourceIds": [
+            "cop20-reuters-overtime",
+            "cop20-guardian-demands"
+          ]
+        },
+        {
+          "text": "Adaptation finance and concrete energy-transition implementation were major questions that negotiators had not settled.",
+          "sourceIds": [
+            "cop20-reuters-overtime",
+            "cop20-anadolu-presidency",
+            "cop20-guardian-demands"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Should COP31 insist on explicit fossil-fuel transition and binding adaptation-finance language even if consensus is difficult, or adopt a broad implementation-oriented electrification package? POSITION A: Turkish COP president Murat Kurum, quoted in original Anadolu reporting, emphasized practical emissions and resilience measures, a 35% electricity share goal and finance. POSITION B: African and vulnerable-country delegates and campaigners quoted in the Guardian warned that a weak fossil-fuel and finance text would be inadequate. EVIDENCE: Reuters confirms the missing fossil-fuel wording and negotiating stalemate, but neither promised implementation nor critics' predictions had materialized by cutoff.",
+          "sourceIds": [
+            "cop20-anadolu-presidency",
+            "cop20-guardian-demands",
+            "cop20-reuters-overtime"
+          ]
+        },
+        {
+          "text": "The accounts converge that stronger climate action and financing are central aims; opposition concerns whether the proposed draft provides a sufficiently specific, actionable path, not a mere difference in reporting time.",
+          "sourceIds": [
+            "cop20-reuters-overtime",
+            "cop20-anadolu-presidency",
+            "cop20-guardian-demands"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether an agreed final text would restore explicit fossil-fuel language.",
+        "Whether a quantified adaptation-finance obligation would be agreed.",
+        "Whether the proposed electrification goal would survive and specify low-carbon sources.",
+        "Whether the summit would achieve consensus after its scheduled closing date."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The COP president projected that the proposed electrification and finance package would implement Paris goals effectively.",
+          "reason": "An official policy forecast, not actual emissions reductions.",
+          "sourceIds": [
+            "cop20-anadolu-presidency"
+          ]
+        },
+        {
+          "text": "Campaigners warned the weakened draft could amount to a diplomatic failure.",
+          "reason": "An attributed prediction before the final negotiations concluded.",
+          "sourceIds": [
+            "cop20-guardian-demands",
+            "cop20-reuters-overtime"
+          ]
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-21T07:10:03.571Z",
+    "author": "ChatGPT",
+    "reason": "First complete agent-reviewed November 20, 2026 edition."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Research and review actually performed on 2026-11-21, recorded at 2026-11-21T07:10:03.571Z, separately from the 2026-11-20T22:59:59Z historical cutoff. All nine original publisher pages opened and readable without payment/login; original dates, headlines, genres and author/newsroom attribution checked. Date-only precision used where publisher UTC clock cannot be established. Guardian Nov20 edits remained within the historical cutoff; Anadolu's Nov19 report is within the allowable original-publication window. Current pages are not historical cutoff snapshots. No unverified archive capture, full text, image or content hash used. Common facts require independent selected corroboration; official claims attributed, court's binding result not placed on equal evidentiary footing with government denial. Public X historical searches on Nov21 failed to provide verifiable Nov20 post timestamps or representative historical volume; optional fields omitted, not treated as low attention. Agent review only; no human review."
+  },
+  "timezone": "Europe/Paris"
+}
