@@ -1,0 +1,598 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-21",
+  "cutoff": "2026-11-21T22:59:59Z",
+  "recordedAt": "2026-11-22T07:27:47.801Z",
+  "kind": "daily",
+  "selectionSummary": "Three distinct developments selected consistently by cross-border scale, affected populations, durability of climate/security/legal consequences and breadth of independent original reporting; an editorial world-impact ranking rather than an objective measure. Each has two independently authored source reports covering materially different actor answers to the same disputed question, plus a factual reference.",
+  "snapshot": {
+    "summary": "Global climate negotiations remained unfinished, Gulf military actors gave incompatible justifications for cross-border violence, and UN weapons diplomats agreed on process without binding constraints. In each case announced positions differed from independently verified implementation.",
+    "connections": [
+      "The gulf between official claims and proven implementation is central to all three developments.",
+      "Consensus and national-security claims can obstruct enforceable international safeguards across very different policy fields.",
+      "The stakes include global climate harm, civilian and trade risks in the Gulf, and accountability for lethal military technology."
+    ],
+    "uncertainties": [
+      "COP31 had no confirmed final agreement by the Saturday cutoff.",
+      "Iranian US-radar damage and airspace-intrusion allegations were unverified.",
+      "Legal enforceability of the UN's future autonomous-weapons instrument remained undecided."
+    ]
+  },
+  "stories": [
+    {
+      "id": "cop31-antalya-saturday-deadlock-nov21",
+      "eventId": "gl-cop31-climate-antalya-2026",
+      "title": "COP31 deadlocked on fossil fuels and finance after scheduled closing",
+      "summary": "On Saturday November 21 COP31 in Antalya remained in overtime without a final climate deal. The Turkish presidency urged compromise to preserve consensus while vulnerable countries and campaigners insisted on explicit fossil-fuel transition wording and greater adaptation support. No Sunday negotiating text or later outcome is counted as known at this edition's cutoff.",
+      "whyItMatters": "Negotiations involving nearly 200 parties shape global energy transition commitments, investment, emissions and financial assistance to populations most exposed to climate hazards.",
+      "region": "Antalya, Türkiye / global",
+      "tags": [
+        "COP31",
+        "climate diplomacy",
+        "fossil fuels",
+        "adaptation finance",
+        "energy transition"
+      ],
+      "selectionRationale": "Planetary scale, very broad policy and economic impact, and directly contested substantive minimum conditions for a consensus agreement.",
+      "evidenceNote": "Three separate originating newsrooms. The Guardian story first appeared Saturday but was revised after the 21 November cutoff and now mentions a Sunday draft; Sunday-only developments are excluded. Reuters Nov21 and Xinhua Nov21 provide independent historical corroboration. Xinhua's publishing timezone not disclosed.",
+      "articles": [
+        {
+          "id": "cop21-reuters",
+          "role": "reference",
+          "headline": "COP31 climate summit risks failure as talks go deep into overtime",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-climate-summit-risks-failure-talks-go-deep-into-overtime-2026-11-21/",
+          "publishedAt": "2026-11-21T14:36:00Z",
+          "genre": "Original on-site climate reporting",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Status of negotiations and positions of the negotiating parties",
+            "rationale": "Reuters reporters Valerie Volcovici and Sarah Mcfarlane document the EU no-weak-deal warning, host presidency's appeals and funding and fossil-fuel obstacles."
+          },
+          "summary": "The summit missed its close, with delegates still disputing fossil-fuel language and adaptation support.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-22T07:27:47.801Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened fully without login or payment on 2026-11-22. Original Reuters by Valerie Volcovici and Sarah Mcfarlane; publisher shows 21 Nov 14:36 UTC."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-22T07:27:47.801Z",
+            "contentHash": null,
+            "evidenceNote": "Original Reuters by Valerie Volcovici and Sarah Mcfarlane; publisher shows 21 Nov 14:36 UTC. This later retrieval is not a preserved historical cutoff capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop21-xinhua",
+          "role": "contrast_a",
+          "headline": "COP31 closing session concludes, outcome document expected over weekend",
+          "url": "https://english.news.cn/europe/20261121/9dc6548149b44d3d8b5a580bf66ae70a/c.html",
+          "publishedAt": "2026-11-21",
+          "genre": "Original conference wire dispatch",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Xinhua News Agency",
+            "domain": "english.news.cn",
+            "country": "China",
+            "ownership": "Chinese state news agency",
+            "ownershipGroup": "xinhua-news-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "COP presidency's consensus-first position",
+            "rationale": "Xinhua directly quotes Turkish COP president Murat Kurum saying little distance remains and calling on delegations to place consensus over individual priorities; this is Kurum's view."
+          },
+          "summary": "The host presidency maintained that a compromise could emerge while acknowledging that no final package had yet been released.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-22T07:27:47.801Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened fully without login or payment on 2026-11-22. Original Xinhua agency source line is 2026-11-21 18:28:15 without verified timezone, so date precision; describes Friday night plenary, not a finished Saturday agreement."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-22T07:27:47.801Z",
+            "contentHash": null,
+            "evidenceNote": "Original Xinhua agency source line is 2026-11-21 18:28:15 without verified timezone, so date precision; describes Friday night plenary, not a finished Saturday agreement. This later retrieval is not a preserved historical cutoff capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop21-guardian",
+          "role": "contrast_b",
+          "headline": "Climate talks stall as countries mull showdown with Saudi Arabia over fossil fuel phaseout",
+          "url": "https://www.theguardian.com/environment/2026/nov/21/climate-talks-stall-countries-mull-showdown-saudi-arabia-over-fossil-fuels",
+          "publishedAt": "2026-11-21T19:43:00Z",
+          "genre": "Original multi-reporter on-site climate news",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Vulnerable countries' demand for explicit commitments",
+            "rationale": "Fiona Harvey, Graham Readfearn, Damien Gayle and Adam Morton quote Tuvalu minister Maina Talia and campaigners insisting on fossil-fuel transition language and adequate finance."
+          },
+          "summary": "Vulnerable-country representatives signaled that weak or absent fossil-fuel commitments were unacceptable, while negotiations continued.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-22T07:27:47.801Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened fully without login or payment on 2026-11-22. Guardian first published 21 Nov 14:43 EST (19:43 UTC), modified 22 Nov 01:12 EST (06:12 UTC). Post-cutoff Sunday draft references not used."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-22T07:27:47.801Z",
+            "contentHash": null,
+            "evidenceNote": "Guardian first published 21 Nov 14:43 EST (19:43 UTC), modified 22 Nov 01:12 EST (06:12 UTC). Post-cutoff Sunday draft references not used. This later retrieval is not a preserved historical cutoff capture."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The COP31 meeting extended past its scheduled November 20 close with no agreed final decision by the Paris November 21 cutoff.",
+          "sourceIds": [
+            "cop21-reuters",
+            "cop21-guardian",
+            "cop21-xinhua"
+          ]
+        },
+        {
+          "text": "Fossil-fuel transition language and climate-finance support for poorer and vulnerable countries remained disputed topics.",
+          "sourceIds": [
+            "cop21-reuters",
+            "cop21-guardian"
+          ]
+        },
+        {
+          "text": "President Murat Kurum publicly urged a compromise through consensus rather than prolonging disputes over wording; this is evidence of his diplomatic position, not a deal.",
+          "sourceIds": [
+            "cop21-xinhua",
+            "cop21-reuters"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Should COP31 prioritize a compromise on implementable broad goals even without explicit fossil-fuel language, or insist on binding or clearly stated fossil-fuel transition and adaptation provisions even at risk of no deal? POSITION A: Turkish COP president Murat Kurum, reported in Xinhua, urged consensus and argued that the distance to a deal was small. POSITION B: Tuvalu climate minister Maina Talia and vulnerable-country campaigners, quoted by the Guardian, regarded fossil-fuel transition wording and financial support as non-negotiable. EVIDENCE: Reuters independently verifies the positions and remaining stalemate, not that a deal or promised mitigation occurred.",
+          "sourceIds": [
+            "cop21-xinhua",
+            "cop21-guardian",
+            "cop21-reuters"
+          ]
+        },
+        {
+          "text": "The outlets agree on continuing negotiations and their subject matter; the difference is the sufficiency of a compromise text, not a conflicting chronology. Sunday's later Guardian revisions are not incorporated into November 21 uncertainties.",
+          "sourceIds": [
+            "cop21-reuters",
+            "cop21-xinhua",
+            "cop21-guardian"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether COP31 would adopt a final agreement at all.",
+        "Whether any adopted text would explicitly call for transitioning away from fossil fuels.",
+        "Whether negotiators would settle adaptation finance and the clean-energy conditions of electrification."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Kurum said consensus was within reach.",
+          "reason": "A host negotiator's expectation, not a confirmed agreement.",
+          "sourceIds": [
+            "cop21-xinhua",
+            "cop21-reuters"
+          ]
+        },
+        {
+          "text": "Campaigners warned that omitting fossil-fuel terms would make COP31 a significant diplomatic failure.",
+          "reason": "An attributed political judgment before the final text was known.",
+          "sourceIds": [
+            "cop21-guardian",
+            "cop21-reuters"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bahrain-iran-industrial-site-attacks-nov21",
+      "eventId": "me-iran-us-israel-war-hormuz-2026",
+      "title": "Bahrain reports Iranian industrial-site fire; Tehran claims attacks on US bases",
+      "summary": "Bahrain said Iranian attacks caused a fire and material damage at an industrial facility on November 21, with no injuries reported, and said it had intercepted other aerial threats. Iran's Revolutionary Guards claimed their missile and drone attacks targeted US military positions in response to alleged US airspace violations. Damage to US radars and the asserted justification were not independently verified.",
+      "whyItMatters": "Bahrain hosts the US Navy's Fifth Fleet and sits near strategically vital Gulf energy and shipping corridors; escalation can threaten civilian safety and regional commerce.",
+      "region": "Bahrain, Iran / Persian Gulf",
+      "tags": [
+        "Iran conflict",
+        "Bahrain",
+        "Gulf security",
+        "US military",
+        "civilian infrastructure",
+        "air defence"
+      ],
+      "selectionRationale": "Cross-border military confrontation with an immediately affected civilian facility, nearby US forces, and potential Gulf trade and energy consequences; opposing official answers on legitimacy and consequences.",
+      "evidenceNote": "Reuters, Al Jazeera English and Anadolu originated independent reports. Bahrain's industrial-fire assertions and the IRGC's base-strike and airspace claims are attributed; statement agreement establishes what officials claimed, not that the claimed target damage or legal grounds have been proved.",
+      "articles": [
+        {
+          "id": "bh21-reuters",
+          "role": "reference",
+          "headline": "Bahrain says Iranian attack hits industrial facility as air defences intercept attacks",
+          "url": "https://www.reuters.com/world/middle-east/bahrain-warns-residents-potential-threat-iran-conflict-persists-2026-11-21/",
+          "publishedAt": "2026-11-21T19:15:00Z",
+          "genre": "Original international conflict reporting",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Documents the rival official accounts and independent confirmation limits",
+            "rationale": "Reuters reporting by Enas Alashray and Ahmed Tolba cites Bahraini statements and IRGC explanations and notes that US Central Command did not immediately respond."
+          },
+          "summary": "Bahrain reported a civilian industrial fire and no injuries, while Iran said it attacked US military positions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-22T07:27:47.801Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened fully without login or payment on 2026-11-22. Original Reuters reporter credits Enas Alashray and Ahmed Tolba, publisher shows Nov 21 19:15 UTC."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-22T07:27:47.801Z",
+            "contentHash": null,
+            "evidenceNote": "Original Reuters reporter credits Enas Alashray and Ahmed Tolba, publisher shows Nov 21 19:15 UTC. This later retrieval is not a preserved historical cutoff capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "bh21-aj",
+          "role": "contrast_a",
+          "headline": "Bahrain says Iranian attack causes fire at industrial facility",
+          "url": "https://www.aljazeera.com/news/2026/11/21/bahrain-says-iranian-attack-causes-fire-at-industrial-facility",
+          "publishedAt": "2026-11-21",
+          "genre": "Original staff conflict news",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network (Qatari state-funded)",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Iranian Guards' stated rationale and claimed US military target damage",
+            "rationale": "Al Jazeera Staff documents IRGC allegations of American drone incursions and strikes on Patriot radars, while also citing Bahrain's industrial fire, without independently validating Iranian claims."
+          },
+          "summary": "The IRGC said it targeted US bases as retaliation and claimed Patriot radar damage; Bahrain reported damage at an industrial facility.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-22T07:27:47.801Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened fully without login or payment on 2026-11-22. Original Al Jazeera Staff article displayed Nov 21; precise original clock absent."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-22T07:27:47.801Z",
+            "contentHash": null,
+            "evidenceNote": "Original Al Jazeera Staff article displayed Nov 21; precise original clock absent. This later retrieval is not a preserved historical cutoff capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "bh21-anadolu",
+          "role": "contrast_b",
+          "headline": "Bahrain says Iranian attack sets ‘civilian’ industrial site ablaze",
+          "url": "https://www.aa.com.tr/en/middle-east/bahrain-says-iranian-attack-sets-civilian-industrial-site-ablaze/4133214",
+          "publishedAt": "2026-11-21",
+          "genre": "Original international conflict report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Anadolu Agency",
+            "domain": "aa.com.tr",
+            "country": "Türkiye",
+            "ownership": "Turkish state-funded national news agency",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Bahraini government's characterization of unlawful danger to civilians",
+            "rationale": "Anadolu's Rania Abushamala cites Bahrain's Interior Ministry describing a civilian industrial facility and public safety alerts while noting Iran's claim of attacks on bases."
+          },
+          "summary": "Bahrain reported a fire and material damage at a civilian industrial site without injuries, alongside Iranian claims of US military targets.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-22T07:27:47.801Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened fully without login or payment on 2026-11-22. Original Anadolu by Rania Abushamala, published and updated Nov 21, no original hour verified."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-22T07:27:47.801Z",
+            "contentHash": null,
+            "evidenceNote": "Original Anadolu by Rania Abushamala, published and updated Nov 21, no original hour verified. This later retrieval is not a preserved historical cutoff capture."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Bahrain's Interior Ministry reported an industrial facility fire and material damage from an Iranian attack on November 21, saying no injuries had been reported.",
+          "sourceIds": [
+            "bh21-reuters",
+            "bh21-aj",
+            "bh21-anadolu"
+          ]
+        },
+        {
+          "text": "Iran's Revolutionary Guards publicly claimed to have struck US military positions in Bahrain in response to purported American actions.",
+          "sourceIds": [
+            "bh21-reuters",
+            "bh21-aj",
+            "bh21-anadolu"
+          ]
+        },
+        {
+          "text": "Bahrain warned people about aerial danger and reported defensive interceptions while the confrontation remained unresolved.",
+          "sourceIds": [
+            "bh21-reuters",
+            "bh21-aj"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Was Iran's cross-border attack a justified response to US military incursions or unacceptable aggression threatening Bahrain's civilian facilities? POSITION A: The IRGC, reported by Al Jazeera, said American drones violated Iranian airspace and that Iranian strikes targeted US military radar as retaliation. POSITION B: Bahrain's Interior Ministry, reported by Anadolu, described Iranian aggression damaging a civilian industrial facility; the Bahraini military reported interceptions. EVIDENCE: Reuters corroborates these as statements and reports the damage claim, but it does not independently establish Iran's retaliation justification or alleged destruction of radar. Neither newsroom endorses its quoted actor's legal conclusion.",
+          "sourceIds": [
+            "bh21-aj",
+            "bh21-anadolu",
+            "bh21-reuters"
+          ]
+        },
+        {
+          "text": "The accounts converge on an escalating armed confrontation and Bahrain's fire report. A military target claimed by the IRGC and reported civilian damage could coexist; the genuine conflict is in legitimacy and responsibility, not necessarily mutually exclusive physical events.",
+          "sourceIds": [
+            "bh21-reuters",
+            "bh21-aj",
+            "bh21-anadolu"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The actual extent of US military damage, including Iran's claimed Patriot radar losses.",
+        "Whether US aircraft violated Iranian airspace as the IRGC alleged.",
+        "The verified identity and status of the impacted industrial site and full incident sequence.",
+        "Whether regional strikes would intensify or be mitigated by diplomacy."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Iran's Guards said they destroyed two US Patriot radars in retaliation for US drone incursions.",
+          "reason": "Neither equipment destruction nor the alleged incursions was independently demonstrated by the selected reports.",
+          "sourceIds": [
+            "bh21-aj",
+            "bh21-reuters"
+          ]
+        },
+        {
+          "text": "Bahrain described the struck facility as civilian and assigned responsibility to Iranian attacks.",
+          "reason": "Bahrain's official classification and attribution were reported, not independently adjudicated in all particulars.",
+          "sourceIds": [
+            "bh21-anadolu",
+            "bh21-reuters"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "geneva-autonomous-weapons-limited-mandate-nov21",
+      "eventId": "gl-autonomous-weapons-un-rules-2026",
+      "title": "UN states extend autonomous-weapons rulemaking without a binding treaty mandate",
+      "summary": "At a Geneva weapons review conference ending early November 21, diplomats agreed to spend two more years elaborating a possible international instrument on lethal autonomous weapons, without a mandate to negotiate binding restrictions. UN officials considered the step progress; disarmament advocates and numerous governments objected that it delayed enforceable safeguards.",
+      "whyItMatters": "The outcome will influence whether human control, accountability and international humanitarian restrictions keep pace with increasingly capable autonomous military systems.",
+      "region": "Geneva, Switzerland / global",
+      "tags": [
+        "autonomous weapons",
+        "military artificial intelligence",
+        "United Nations",
+        "arms control",
+        "humanitarian law"
+      ],
+      "selectionRationale": "Long-lasting implications for conflicts and civilian protection worldwide, with an independently documented dispute over whether a weak interim mandate was acceptable progress.",
+      "evidenceNote": "AP's Jamey Keaten originated the reference article, Anadolu's Beyza Binnur Donmez independently reported named UN officials, and Guardian reporters Frances Mao and Patrick Wintour examined the failed stronger treaty mandate. All actual pages were opened, not syndicated copies. AP date-only precision reflects lack of an exposed original publisher clock; original 21 Nov date also confirmed by contemporaneous AP distribution.",
+      "articles": [
+        {
+          "id": "aws21-ap",
+          "role": "reference",
+          "headline": "Nations agree to extend talks on AI killer robots but no firm commitment to rein them in",
+          "url": "https://apnews.com/article/un-drones-robots-un-lethal-ai-weapons-ebe057d2a47cde53100970c8f648e7fa",
+          "publishedAt": "2026-11-21",
+          "genre": "Original Geneva UN diplomacy reporting",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Independent non-profit news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Specific diplomatic result and both official and advocacy assessments",
+            "rationale": "AP reporter Jamey Keaten distinguishes the actual two-year instrument-development process from absent commitments to binding rules."
+          },
+          "summary": "States agreed to elaborate possible AI weapons restrictions by 2028 but did not commit to negotiate a binding treaty.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-22T07:27:47.801Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened fully without login or payment on 2026-11-22. Original AP by Jamey Keaten accessible on AP publisher; Nov 21 original day independently confirmed by contemporaneous AP redistribution; exact original AP publisher time not displayed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-22T07:27:47.801Z",
+            "contentHash": null,
+            "evidenceNote": "Original AP by Jamey Keaten accessible on AP publisher; Nov 21 original day independently confirmed by contemporaneous AP redistribution; exact original AP publisher time not displayed. This later retrieval is not a preserved historical cutoff capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "aws21-anadolu",
+          "role": "contrast_a",
+          "headline": "UN sees progress on autonomous weapons regulation despite lack of binding treaty mandate",
+          "url": "https://www.aa.com.tr/en/world/un-sees-progress-on-autonomous-weapons-regulation-despite-lack-of-binding-treaty-mandate/4133032",
+          "publishedAt": "2026-11-21",
+          "genre": "Original Geneva diplomatic reporting",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Anadolu Agency",
+            "domain": "aa.com.tr",
+            "country": "Türkiye",
+            "ownership": "Turkish state-funded national news agency",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Named UN negotiators' view that gradual progress was achieved",
+            "rationale": "Anadolu reporter Beyza Binnur Donmez quotes disarmament chief Izumi Nakamitsu and Swiss chair Julien Thoeni describing the two-year process as significant progress, not yet a binding agreement."
+          },
+          "summary": "UN disarmament officials welcomed the new elaboration mandate while acknowledging that its legal form was undecided.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-22T07:27:47.801Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened fully without login or payment on 2026-11-22. Original Anadolu Geneva report by Beyza Binnur Donmez, published and updated Nov 21, original hour not shown."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-22T07:27:47.801Z",
+            "contentHash": null,
+            "evidenceNote": "Original Anadolu Geneva report by Beyza Binnur Donmez, published and updated Nov 21, original hour not shown. This later retrieval is not a preserved historical cutoff capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "aws21-guardian",
+          "role": "contrast_b",
+          "headline": "International UN talks on controlling use of autonomous weapons collapse",
+          "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
+          "publishedAt": "2026-11-21T13:15:00Z",
+          "genre": "Original Geneva weapons-policy reporting",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Treaty supporters' criticism of diluted non-binding mandate",
+            "rationale": "Frances Mao in Geneva and Patrick Wintour report that activists and many treaty-supporting countries regard the outcome as insufficient and document Russia's opposition."
+          },
+          "summary": "The demand for binding treaty negotiations failed, leaving a weaker two-year process and considerable humanitarian criticism.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-22T07:27:47.801Z",
+            "method": "research-tool",
+            "note": "Original publisher page opened fully without login or payment on 2026-11-22. Original Guardian published Nov21 08:15 EST (13:15 UTC), updated Nov21 11:36 EST (16:36 UTC), within cutoff. Collapse refers to binding mandate, not all talks ending."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-22T07:27:47.801Z",
+            "contentHash": null,
+            "evidenceNote": "Original Guardian published Nov21 08:15 EST (13:15 UTC), updated Nov21 11:36 EST (16:36 UTC), within cutoff. Collapse refers to binding mandate, not all talks ending. This later retrieval is not a preserved historical cutoff capture."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "CCW parties ended their Geneva review conference by mandating work through 2028 on elaborating an instrument on lethal autonomous weapons.",
+          "sourceIds": [
+            "aws21-ap",
+            "aws21-anadolu",
+            "aws21-guardian"
+          ]
+        },
+        {
+          "text": "The decision did not launch negotiations for a legally binding treaty, despite proposals supported by numerous countries and humanitarian advocates.",
+          "sourceIds": [
+            "aws21-ap",
+            "aws21-anadolu",
+            "aws21-guardian"
+          ]
+        },
+        {
+          "text": "The CCW consensus rule and resistance to an immediate binding negotiating mandate obstructed the stronger outcome.",
+          "sourceIds": [
+            "aws21-ap",
+            "aws21-guardian"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "DISPUTED QUESTION: Is a two-year process a meaningful step toward regulating autonomous weapons or an unacceptable deferral of legally binding humanitarian protections? POSITION A: UN disarmament chief Izumi Nakamitsu and the Swiss chair, reported by Anadolu, called the elaboration mandate a significant achievement that leaves open eventual binding rules. POSITION B: humanitarian advocates and treaty-supporting states quoted by the Guardian warned the compromise failed to require enforceable restrictions now. EVIDENCE: AP establishes that the limited process was agreed but no binding-treaty negotiations mandated; the competing labels of progress and failure assess the same outcome.",
+          "sourceIds": [
+            "aws21-anadolu",
+            "aws21-guardian",
+            "aws21-ap"
+          ]
+        },
+        {
+          "text": "All three report the extension and absence of a binding treaty mandate. The Guardian's use of collapse applies to failure of immediate stronger talks, not cancellation of the agreed continuing CCW process; Anadolu attributes praise to the UN officials rather than endorsing it as an outcome.",
+          "sourceIds": [
+            "aws21-ap",
+            "aws21-anadolu",
+            "aws21-guardian"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether the future instrument could be legally binding or remain voluntary.",
+        "Whether consensus-based CCW negotiations can produce enforceable rules by 2028.",
+        "Whether treaty supporters would use an alternative forum to move faster.",
+        "What human-control, compliance and accountability requirements would be enforceable."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "UN officials said the two-year mandate could lead to a strong future legally binding instrument.",
+          "reason": "A stated possibility, not an adopted or binding treaty commitment.",
+          "sourceIds": [
+            "aws21-anadolu",
+            "aws21-ap"
+          ]
+        },
+        {
+          "text": "Campaigners warned that delayed regulation could produce escalating civilian harms.",
+          "reason": "An attributed projection about future risks, not evidence of outcomes already realized.",
+          "sourceIds": [
+            "aws21-guardian",
+            "aws21-ap"
+          ]
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-22T07:27:47.801Z",
+    "author": "ChatGPT",
+    "reason": "Initial complete agent-reviewed 2026-11-21 edition."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Publisher-page inspection, source comparison and agent review performed on 2026-11-22 at 2026-11-22T07:27:47.801Z UTC, distinct from Saturday cutoff 2026-11-21T22:59:59Z. All nine independent original publisher pages were opened without login/payment; titles, originating newsrooms, dates, genres and accessibility checked. Only verified original publication hours are recorded; Xinhua's time zone and exact AP/Al Jazeera/Anadolu original publishing clocks were not verified, so date-only precision is used. Guardian COP31 first published 21 Nov but was modified early 22 Nov after historical cutoff; its Sunday draft references were expressly excluded, with Saturday information corroborated by Reuters. None of the pages is claimed as an archived 21 Nov capture; no invented fingerprints or archived URLs. All official claims, especially military outcomes and predicted diplomatic progress, stay attributed. Public X historical searches across COP31, Iran/Bahrain and Geneva arms control conducted on Nov22 yielded no reliably time-verified, representative Nov21 posts or credible historical volume; optional X fields omitted without inferring low attention. No copyrighted articles or images stored; this is agent review only, not human review."
+  },
+  "timezone": "Europe/Paris"
+}
