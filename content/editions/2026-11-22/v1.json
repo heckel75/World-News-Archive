@@ -1,0 +1,617 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-22",
+  "cutoff": "2026-11-22T22:59:59Z",
+  "recordedAt": "2026-11-23T08:44:25.468Z",
+  "kind": "daily",
+  "timezone": "Europe/Paris",
+  "selectionSummary": "Consistent world-impact criteria: cross-border scale, breadth of affected populations, long-term consequences for security, climate and economic systems, and corroboration by separate originating newsrooms. The three stories are an editorial selection, not a quantitative ranking.",
+  "snapshot": {
+    "summary": "COP31 finished without a global cover decision, a Russian corvette was almost submerged in a suspected drone attack in Libya, and international tanker traffic remained at risk around the contested Strait of Hormuz. In each story, verifiable events were separated from unresolved military or diplomatic claims.",
+    "connections": [
+      "Disputes about who sets the rules shaped global climate cooperation, port sovereignty in Libya and access to vital sea lanes.",
+      "Assertions of good-faith negotiation, lawful military logistics and safe maritime control were contested by other actors.",
+      "A gap remained between official explanations and independent evidence of causes, policy outcomes or legal responsibility."
+    ],
+    "uncertainties": [
+      "Climate negotiations remained without an overarching agreement while some narrower initiatives proceeded.",
+      "The Benghazi attacker, alleged launch location and complete casualty toll were unconfirmed at November 22 cutoff.",
+      "Whether named tankers had hit mines or been struck by projectiles, and the legality of Iran's restrictions, were unsettled."
+    ]
+  },
+  "stories": [
+    {
+      "id": "cop31-antalya-cover-pact-collapse-nov22",
+      "eventId": "gl-cop31-climate-antalya-2026",
+      "title": "COP31 ends without overarching deal after fossil-fuel deadlock",
+      "region": "Antalya, Türkiye / global",
+      "summary": "COP31 concluded on November 22 without a consensus decision on its main Antalya pact after talks ran into Sunday. The EU and other governments objected to draft wording that omitted a direct fossil-fuel transition commitment, while Türkiye's presidency said it had pursued every workable compromise. Several separate initiatives and narrower decisions survived; the core political pact did not.",
+      "whyItMatters": "The collapse affects multilateral coordination on emissions, climate-finance commitments and investment signals affecting populations and economies worldwide. Existing climate agreements were not erased.",
+      "tags": [
+        "COP31",
+        "climate diplomacy",
+        "fossil fuels",
+        "adaptation finance",
+        "multilateralism"
+      ],
+      "selectionRationale": "Worldwide, multi-generational implications for climate and energy investment, alongside failure of the main international political agreement.",
+      "evidenceNote": "Reuters' original listed 23:40 UTC Nov21 is after local midnight on Nov22. The Guardian original Nov22 13:54 CET converts to 12:54 UTC; Anadolu provides a Nov22 date without timezone precision. All have independent originating reporters. Reuters displays an undated current update indicator; no archived cutoff capture was verified.",
+      "articles": [
+        {
+          "id": "cop22-r",
+          "role": "reference",
+          "headline": "COP31 climate talks collapse as EU and others reject deal",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/",
+          "publishedAt": "2026-11-21T23:40:00Z",
+          "genre": "Original plenary and policy reporting",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: plenary outcome and negotiating obstacles",
+            "rationale": "Peter Hobson, Lewis Jackson and Ezgi Erkoyun report the EU objections, lack of an adopted agreement and Turkish/Australian statements."
+          },
+          "summary": "The climate summit ended without an overarching agreement over fossil fuels and financing.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-23T08:44:25.468Z",
+            "method": "research-tool",
+            "note": "Original Reuters page opened with full article readable without login or payment, original time Nov21 23:40 UTC and named Reuters bylines."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-23T08:44:25.468Z",
+            "contentHash": null,
+            "evidenceNote": "Original timestamp visible; updates beyond the historical cutoff cannot be excluded from today's page, so only historically corroborated points were used. A live-page retrieval is not a historical cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop22-a",
+          "role": "contrast_a",
+          "headline": "COP31 president closes climate summit without deal, blames some countries for failed talks",
+          "url": "https://www.aa.com.tr/en/environment/cop31-president-closes-climate-summit-without-deal-blames-some-countries-for-failed-talks/4133828",
+          "publishedAt": "2026-11-22",
+          "genre": "Original newsroom dispatch on summit president's statement",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Anadolu Agency",
+            "domain": "aa.com.tr",
+            "country": "Türkiye",
+            "ownership": "Anadolu Agency, Turkish state news agency",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Host presidency: compromise was essential",
+            "rationale": "Seyit Kurt records COP president Murat Kurum's argument that some countries failed to show enough flexibility despite host efforts."
+          },
+          "summary": "Kurum closed the summit and attributed the impasse partly to a refusal to compromise.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-23T08:44:25.468Z",
+            "method": "research-tool",
+            "note": "Read complete originating Anadolu page without payment or login; by Seyit Kurt, published/updated Nov22, clock and timezone not specified."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-23T08:44:25.468Z",
+            "contentHash": null,
+            "evidenceNote": "Statements about exhaustion of diplomacy and other parties' culpability are the president's attributed political account. A live-page retrieval is not a historical cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "cop22-g",
+          "role": "contrast_b",
+          "headline": "Cop31 climate talks break down as key deal rejected",
+          "url": "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+          "publishedAt": "2026-11-22T12:54:00Z",
+          "genre": "Original reporting from summit in Antalya",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian News & Media, Scott Trust-owned",
+            "ownershipGroup": "guardian-news-and-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "EU and vulnerable-country objection to weaker pact",
+            "rationale": "Fiona Harvey and Graham Readfearn report EU minister Darragh O'Brien's argument that a pact not naming fossil fuels would be inadequate."
+          },
+          "summary": "EU and other parties declined to endorse a text they said lacked a necessary fossil-fuel commitment.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-23T08:44:25.468Z",
+            "method": "research-tool",
+            "note": "Original Guardian page opened in full without login or payment; first published Sun Nov22 13:54 CET, current display 17:14 CET, on-site named reporters."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-23T08:44:25.468Z",
+            "contentHash": null,
+            "evidenceNote": "The original first-publication and later same-day displayed times were distinguished; policy assessments are attributed. A live-page retrieval is not a historical cutoff-time capture."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "COP31 closed on November 22 without adoption of an overarching climate cover decision.",
+          "sourceIds": [
+            "cop22-r",
+            "cop22-a",
+            "cop22-g"
+          ]
+        },
+        {
+          "text": "EU delegates rejected the proposed pact because it did not explicitly name fossil fuels.",
+          "sourceIds": [
+            "cop22-r",
+            "cop22-g"
+          ]
+        },
+        {
+          "text": "Türkiye's COP president Murat Kurum said no consensus had been reached and that the presidency had sought compromise.",
+          "sourceIds": [
+            "cop22-r",
+            "cop22-a",
+            "cop22-g"
+          ]
+        },
+        {
+          "text": "Fossil-fuel wording, climate finance and the role of carbon-removal technologies were contentious.",
+          "sourceIds": [
+            "cop22-r",
+            "cop22-g"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Central disputed question: Accept a compromise cover pact lacking explicit fossil-fuel transition language, or reject it as too weak? Position A: Kurum, reported by cop22-a, said countries needed flexibility to obtain a workable collective result. Position B: EU minister O'Brien, reported by cop22-g, said omitting fossil fuels was unacceptable and risked greenwashing. The reference cop22-r corroborates the omission and failure, but neither source proves which strategy would yield better future emissions.",
+          "sourceIds": [
+            "cop22-a",
+            "cop22-g",
+            "cop22-r"
+          ]
+        },
+        {
+          "text": "Competing explanations of collapse remain attributed: Kurum faulted insufficient concessions by some parties; European objectors said the draft failed to address the central driver of climate change. All sources confirm nonadoption; no evidence establishes a single actor's sole responsibility.",
+          "sourceIds": [
+            "cop22-a",
+            "cop22-g",
+            "cop22-r"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether future negotiations will explicitly commit governments to fossil-fuel reductions and specific adaptation financing remained undecided.",
+        "Realized emissions benefits of pledges and carbon-removal technology cannot be inferred from draft wording.",
+        "Later live-page edits may not reproduce the exact historical cutoff text."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Kurum said Türkiye exhausted all possible avenues to consensus and other states were insufficiently flexible.",
+          "sourceIds": [
+            "cop22-a",
+            "cop22-r"
+          ],
+          "reason": "Official assessment of diplomatic responsibility, not independently proven as an exhaustive causal account."
+        },
+        {
+          "text": "Delegates and activists characterized the abandoned draft as greenwashing fossil fuels.",
+          "sourceIds": [
+            "cop22-g",
+            "cop22-r"
+          ],
+          "reason": "Attributed evaluative description rather than a separately established factual finding."
+        }
+      ]
+    },
+    {
+      "id": "benghazi-merkury-suspected-drone-nov22",
+      "eventId": "eu-ukraine-russia-libya-maritime-war-2026",
+      "title": "Suspected drone attack nearly sinks Russian corvette in Benghazi, Libya",
+      "region": "Benghazi, Libya / Mediterranean",
+      "summary": "An explosion aboard the Russian Navy corvette Merkury in Benghazi on November 22 was investigated as a suspected sea-drone attack; satellite imagery showed much of the vessel submerged. The eastern Libyan government said it had permission to refuel and called the strike an intrusion. The western Tripoli administration, while rejecting proxy warfare, also objected to foreign military use of Libyan ports. Who launched the drones was not established at cutoff.",
+      "whyItMatters": "The war between Russia and Ukraine appeared to pose new risks to North Africa, Libya's divided sovereignty and the Mediterranean's military and commercial maritime traffic.",
+      "tags": [
+        "Libya",
+        "Benghazi",
+        "Russia-Ukraine war",
+        "naval drones",
+        "sovereignty",
+        "maritime safety"
+      ],
+      "selectionRationale": "Serious loss of a Russian military asset outside its main theatre, with implications for third-country sovereignty and civilian shipping.",
+      "evidenceNote": "Reuters documented Vantor imagery and medical sources; Al Jazeera adds independent Benghazi local reporting; The Kyiv Independent provides an original bylined comparison and quotes Tripoli's public statement, although AP-origin military-source details are clearly identified as such. Unverified death, cargo and drone-origin allegations are not counted as established.",
+      "articles": [
+        {
+          "id": "lib22-r",
+          "role": "reference",
+          "headline": "Libya's eastern government suspects drone attack caused explosion on Russian ship",
+          "url": "https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/",
+          "publishedAt": "2026-11-22T14:25:00Z",
+          "genre": "Original Libyan field-sourced news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: imagery, physical effects, attribution limits",
+            "rationale": "Ayman Al-Warfali and Reuters colleagues describe near-submergence, injury reports, ongoing investigation and no then-confirmed attacker."
+          },
+          "summary": "Reuters documents apparent sinking of the Merkury and eastern Libya's request for an investigation.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-23T08:44:25.468Z",
+            "method": "research-tool",
+            "note": "Full originating Reuters article accessible without account/payment; by Ayman Al-Warfali with additional Reuters colleagues, original Nov22 14:25 UTC."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-23T08:44:25.468Z",
+            "contentHash": null,
+            "evidenceNote": "Current Reuters page may have been edited later; responsibility assertions and subsequent events were excluded. A live-page retrieval is not a historical cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "lib22-j",
+          "role": "contrast_a",
+          "headline": "Russian vessel hit by suspected Ukrainian drone at Libya’s Benghazi port",
+          "url": "https://www.aljazeera.com/news/2026/11/22/suspected-drone-strike-hits-russian-vessel-in-libya",
+          "publishedAt": "2026-11-22",
+          "genre": "Original Al Jazeera local-sourced newsroom report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Eastern Libya: foreign attack violates sovereignty",
+            "rationale": "Al Jazeera reports Benghazi local contacts and the eastern administration's argument that the refuelling arrangement was authorized and the possible strike violated sovereignty."
+          },
+          "summary": "The eastern Libyan government condemned a suspected strike on a Russian warship allowed into the port.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-23T08:44:25.468Z",
+            "method": "research-tool",
+            "note": "Original Al Jazeera page opened fully without paywall/login, credited to Al Jazeera Staff and dated Nov22; precise original time is not established."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-23T08:44:25.468Z",
+            "contentHash": null,
+            "evidenceNote": "Local-source allegations of deaths and weapons cargo are not confirmed, and AP/Reuters contributions within the article are identified rather than counted as independent. A live-page retrieval is not a historical cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "lib22-k",
+          "role": "contrast_b",
+          "headline": "Russian warship docked in Benghazi hit by suspected drone attack, Libyan officials say",
+          "url": "https://kyivindependent.com/russian-warship-docked-in-benghazi-hit-by-suspected-drone-attack-libyan-officials-say/",
+          "publishedAt": "2026-11-22",
+          "genre": "Original Kyiv Independent developing news report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "The Kyiv Independent",
+            "domain": "kyivindependent.com",
+            "country": "Ukraine",
+            "ownership": "The Kyiv Independent newsroom",
+            "ownershipGroup": "kyiv-independent",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Western Libya: foreign military logistics can create risk",
+            "rationale": "Abbey Fenbert records Tripoli's rejection of using Libyan ports for foreign military and logistical operations, a materially different assessment of what threatens sovereignty."
+          },
+          "summary": "Tripoli warned that hosting military logistics for foreign parties itself risked importing conflict.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-23T08:44:25.468Z",
+            "method": "research-tool",
+            "note": "Original Kyiv Independent article readable without payment/login; by Abbey Fenbert, displayed Nov22 8:02 pm but timezone not verified, so stored date precision only."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-23T08:44:25.468Z",
+            "contentHash": null,
+            "evidenceNote": "Citations to AP are disclosed, not treated as independent Kyiv reporting; a separate quotation from a Ukrainian sanctions adviser concerns a Baltic incident. A live-page retrieval is not a historical cutoff-time capture."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The Russian Navy corvette Merkury suffered grave damage at Benghazi on November 22 and satellite imagery showed it largely capsized or submerged.",
+          "sourceIds": [
+            "lib22-r",
+            "lib22-j",
+            "lib22-k"
+          ]
+        },
+        {
+          "text": "The eastern administration said it had permitted the ship to refuel and resupply under Russia-Libya cooperation and that a drone strike was suspected.",
+          "sourceIds": [
+            "lib22-r",
+            "lib22-j",
+            "lib22-k"
+          ]
+        },
+        {
+          "text": "Libyan authorities in both east and west warned about being drawn into external conflicts, while identifying different underlying hazards.",
+          "sourceIds": [
+            "lib22-j",
+            "lib22-k"
+          ]
+        },
+        {
+          "text": "No one had publicly claimed responsibility for the suspected Benghazi attack by the November 22 reporting cutoff.",
+          "sourceIds": [
+            "lib22-r",
+            "lib22-j",
+            "lib22-k"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Central disputed question: Is the principal Libyan sovereignty violation an attack on a ship legally permitted to resupply, or using Libyan ports for foreign military logistics? Position A: eastern authorities (lib22-j) condemned the suspected assault and said Russian refuelling was permitted. Position B: Tripoli's government (lib22-k) objected to military/logistical use of Libyan ports exposing the country to proxy war. Both condemned foreign spillover, so this is a difference in identified responsibility and remedial priorities, not opposite attitudes to civilian safety. lib22-r confirms the underlying official statements, not their legal conclusions.",
+          "sourceIds": [
+            "lib22-j",
+            "lib22-k",
+            "lib22-r"
+          ]
+        },
+        {
+          "text": "Evidence assessment: satellite imagery supports the physical near-sinking, but neither the suspected Ukrainian launch site, the ship's reported cargo nor a legal justification for any attack was independently established. Assertions about drone origins are not proof against western Libya or Ukraine.",
+          "sourceIds": [
+            "lib22-r",
+            "lib22-j",
+            "lib22-k"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Who launched the drones and where they came from were unresolved at cutoff; later acknowledgements are outside this edition.",
+        "The true casualty total and alleged cargo of arms and drones were not reliably reconciled.",
+        "The scope and findings of a proposed international investigation and effects on Libyan security were not yet known."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Eastern Libyan military sources suspected Ukrainian sea drones launched from western Libya.",
+          "sourceIds": [
+            "lib22-r",
+            "lib22-k"
+          ],
+          "reason": "No official claim of responsibility or independent forensic confirmation existed by cutoff."
+        },
+        {
+          "text": "Al Jazeera local contacts alleged deaths and weapons cargo, while Reuters medical sources described ten minor injuries.",
+          "sourceIds": [
+            "lib22-j",
+            "lib22-r"
+          ],
+          "reason": "The accounts were not independently reconciled; changing or incomplete casualty estimates are not a manufactured ideological dispute."
+        }
+      ]
+    },
+    {
+      "id": "hormuz-tanker-security-contested-transit-nov22",
+      "eventId": "me-iran-us-israel-war-hormuz-2026",
+      "title": "Hormuz shipping remains hazardous as Iran disputes responsibility for tanker fires",
+      "region": "Strait of Hormuz / Oman and Iran",
+      "summary": "Commercial vessels remained in danger around the Strait of Hormuz through November 22 amid US-Iran hostilities. British maritime monitors described unidentified projectiles striking tankers near Oman; Iranian officials reported other tanker fires after alleged mine strikes in prohibited areas. The ships and mechanisms were not independently reconciled. Iran's demand for prior routing permission contrasts with outside reporting that treats its tightening control of transit as a deliberate coercive strategy.",
+      "whyItMatters": "The strait historically carried close to one-fifth of global crude-oil supply; disruption threatens multinational seafarers, ecosystems, export revenues and global energy costs.",
+      "tags": [
+        "Strait of Hormuz",
+        "Iran",
+        "maritime security",
+        "oil shipping",
+        "naval mines",
+        "energy markets"
+      ],
+      "selectionRationale": "Persisting international supply-route risk and direct confrontation over transit access in the world's central Gulf oil chokepoint.",
+      "evidenceNote": "Three independently originating newsrooms: Reuters incident report Nov20, Tasnim Iranian-army reporting Nov20, and Al Jazeera news Nov21 incorporating its own Tehran correspondent as well as disclosed AFP/Reuters inputs. All first-published within 72 hours of Nov22 cutoff; reports from distinct unidentified vessels are deliberately not conflated.",
+      "articles": [
+        {
+          "id": "hor22-r",
+          "role": "reference",
+          "headline": "Tanker catches fire after projectile strike near Strait of Hormuz, UKMTO says",
+          "url": "https://www.reuters.com/world/middle-east/fire-reported-tanker-after-projectile-strike-off-oman-ukmto-says-2026-11-20/",
+          "publishedAt": "2026-11-20T16:16:00Z",
+          "genre": "Original news report on UKMTO maritime incident",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: independently monitored threats and official uncertainty",
+            "rationale": "Reuters reports the UK agency's unknown-projectile incident near Khasab and an Iranian account of a mine, without establishing identity or mechanism."
+          },
+          "summary": "A tanker fire and conflicting official descriptions illustrated uncertainty over the type of maritime danger.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-23T08:44:25.468Z",
+            "method": "research-tool",
+            "note": "Full original Reuters article opened without login/paywall; Reuters by Enas Alashray and Ahmed Tolba, Nov20 16:16 UTC."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-23T08:44:25.468Z",
+            "contentHash": null,
+            "evidenceNote": "Reuters does not independently identify the projectile and does not prove that military and UKMTO accounts describe a single ship. A live-page retrieval is not a historical cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "hor22-t",
+          "role": "contrast_a",
+          "headline": "Tanker Catches Fire After Hitting Sea Mine in Strait of Hormuz",
+          "url": "https://www.tasnimnews.ir/en/news/2026/11/20/3753124/tanker-catches-fire-after-hitting-sea-mine-in-strait-of-hormuz",
+          "publishedAt": "2026-11-20",
+          "genre": "Original Iranian agency report on military statement",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Tasnim News Agency",
+            "domain": "tasnimnews.ir",
+            "country": "Iran",
+            "ownership": "Tasnim News Agency, Iranian news organisation",
+            "ownershipGroup": "tasnim-news-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Iranian navy: noncompliance makes transit unsafe",
+            "rationale": "Tasnim publishes the navy's claim that disabling navigation systems and disregarding its declared lanes caused tanker incidents, arguing that coordination is essential for safe passage."
+          },
+          "summary": "Iranian authorities located the cause of the reported dangers in tankers' failure to obey their restrictions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-23T08:44:25.468Z",
+            "method": "research-tool",
+            "note": "Complete original Tasnim page opened with no payment or login; Nov20 08:59 publisher display, timezone unverified, so date precision retained."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-23T08:44:25.468Z",
+            "contentHash": null,
+            "evidenceNote": "The navy's vessel behavior, mine mechanics and entitlement to regulate passage are attributed, not independently substantiated. A live-page retrieval is not a historical cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "hor22-j",
+          "role": "contrast_b",
+          "headline": "Tankers hit in Strait of Hormuz as Iran tightens grip on shipping",
+          "url": "https://www.aljazeera.com/news/2026/11/21/tankers-hit-in-strait-of-hormuz-as-iran-tightens-grip-on-shipping",
+          "publishedAt": "2026-11-21",
+          "genre": "Newsroom report with on-air correspondent and credited agencies",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Iranian restrictions as deliberate shipping pressure",
+            "rationale": "Al Jazeera reports UK maritime alerts and its Tehran correspondent Resul Serdar's interpretation that Iran deliberately increased risks to exert pressure amid a US blockade."
+          },
+          "summary": "The newsroom's correspondent interprets Tehran's escalating restrictions as strategic coercion, not simply accidental ship noncompliance.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-23T08:44:25.468Z",
+            "method": "research-tool",
+            "note": "Original Al Jazeera page fully readable without login/payment; dated Nov21, credits Al Jazeera Staff, AFP and Reuters plus named own correspondent Resul Serdar."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-23T08:44:25.468Z",
+            "contentHash": null,
+            "evidenceNote": "Agency material is distinguished from Al Jazeera's own analysis; a correspondent's reported approximate incident count came from Iranian statements. A live-page retrieval is not a historical cutoff-time capture."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "British maritime authorities reported tanker projectile incidents near Oman while Iranian military sources reported tanker fires attributed to mines in the Strait of Hormuz period.",
+          "sourceIds": [
+            "hor22-r",
+            "hor22-j"
+          ]
+        },
+        {
+          "text": "Iranian authorities require operators to coordinate and use military-designated routes in the strait, according to their own statements.",
+          "sourceIds": [
+            "hor22-t",
+            "hor22-j"
+          ]
+        },
+        {
+          "text": "Threats to commercial ships continued in a US-Iran confrontation affecting a waterway that previously handled roughly one-fifth of global oil trade.",
+          "sourceIds": [
+            "hor22-r",
+            "hor22-j"
+          ]
+        },
+        {
+          "text": "The reporting did not establish identical vessel identities linking British projectile observations to Iranian mine assertions.",
+          "sourceIds": [
+            "hor22-r",
+            "hor22-j"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Central disputed question: Are tanker hazards mainly caused by crews violating Iranian protective routes, or by Iran's coercive restriction of international passage? Position A: Iranian navy, reported by hor22-t, blames tankers that allegedly ignore safety rules and says Iranian authorization is required. Position B: Al Jazeera's own Tehran correspondent, documented in hor22-j, interprets Tehran's restrictions as deliberately escalating maritime pressure in response to the US blockade. hor22-r confirms the independently reported hazard but not either causal generalization or Iran's claimed legal authority.",
+          "sourceIds": [
+            "hor22-t",
+            "hor22-j",
+            "hor22-r"
+          ]
+        },
+        {
+          "text": "The route-enforcement and maritime-monitoring accounts do not establish a definitive 'mine versus projectile' conflict for a single named ship: different incident dates and unconfirmed identities prevent that inference. The genuine policy divergence is whether unilateral Iranian control improves safety or intentionally threatens maritime commerce.",
+          "sourceIds": [
+            "hor22-t",
+            "hor22-j",
+            "hor22-r"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The identities, precise locations and causes of individual damaged vessels were unverified across reports.",
+        "Whether ships disabled their navigation equipment and whether mines caused specific fires were unresolved.",
+        "Safe transit and a diplomatic settlement of the US-Iran maritime confrontation had no confirmed timetable."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Iran's navy said tanker crews disabled identification systems, crossed prohibited routes and hit mines.",
+          "sourceIds": [
+            "hor22-t",
+            "hor22-j"
+          ],
+          "reason": "No selected independent vessel or explosive forensics verifies those military allegations."
+        },
+        {
+          "text": "Al Jazeera's correspondent mentioned about 25 incidents in the preceding week on the basis of Iranian claims.",
+          "sourceIds": [
+            "hor22-j"
+          ],
+          "reason": "This is an attributed military-statement tally, not independently audited incident volume."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-23T08:44:25.468Z",
+    "author": "ChatGPT",
+    "reason": "First publication of the complete daily edition."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Actual research review recorded 2026-11-23T08:44:25.468Z UTC, separately from the historical Nov22 22:59:59 UTC cutoff. All nine publisher pages were opened and free text, bylines or originating newsroom, genre, original date, URL and access checked; unverifiable clock-time zones were not invented. No archived page captures or content hashes were made. Reuters COP31 shows an undated update indicator; where exact historical content could not be proved, only November 22 developments independently corroborated by other selected articles were included. November 23 later knowledge was excluded from historical uncertainties. Public X searches on November 23 did not show a sufficiently representative sample of individually timestamp-verifiable November 22 posts or trustworthy past-day trend measurements; optional X fields omitted, not rated low. This is agent review only."
+  }
+}
