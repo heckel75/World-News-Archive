@@ -1,0 +1,598 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-23",
+  "cutoff": "2026-11-23T22:59:59Z",
+  "recordedAt": "2026-11-24T07:44:22Z",
+  "kind": "daily",
+  "timezone": "Europe/Paris",
+  "selectionSummary": "Editorial selection based consistently on transnational reach, breadth of affected populations or institutions, potential durability of consequences and corroboration by separate newsrooms. November 23 brought a major EU sanctions proposal, leadership reversal at a globally important AI chip supplier, and divergent responses to the breakdown of climate diplomacy. This is not a numerical ranking.",
+  "snapshot": {
+    "summary": "Three developments show competing approaches to institutional resilience: the European Commission proposed new pressure on Russia, Nvidia restored its founder under US government pressure, and the Antalya climate summit's failure prompted divergent assessments of the value of compromise.",
+    "connections": [
+      "Sanctions and export-control scrutiny link economic policy to security and the conduct of powerful institutions.",
+      "The climate response and Nvidia reversal illustrate different assessments of the costs of accepting or rejecting a compromise.",
+      "Official assurances and announced measures do not by themselves establish successful implementation or future effects."
+    ],
+    "uncertainties": [
+      "EU member states had not approved the new sanctions.",
+      "The Nvidia investigations and congressional scrutiny remained open.",
+      "A route to a stronger international climate agreement remained unresolved."
+    ]
+  },
+  "stories": [
+    {
+      "id": "eu-russia-sanctions-22-nov23",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "EU proposes new Russia sanctions including financial and sporting restrictions",
+      "region": "European Union / Russia / Ukraine",
+      "summary": "On November 23 the European Commission unveiled its 22nd proposed sanctions package over Russia's war against Ukraine. It targets dozens of banks, crypto networks, energy services, former combatants' visas and the use of Russian national symbols at EU sporting events. The sports proposal intersects with a different approach by the International Olympic Committee, which had provisionally lifted the Russian Olympic Committee's suspension earlier in 2026. The package still required unanimous member-state approval.",
+      "whyItMatters": "Restrictions on banks, energy and shipping can affect financing and cross-border commerce; the sport provisions could reshape eligibility and international competitions ahead of the next Olympic cycle.",
+      "tags": [
+        "European Union",
+        "Russia",
+        "Ukraine",
+        "sanctions",
+        "finance",
+        "sport"
+      ],
+      "selectionRationale": "A new proposed package with international finance, energy and institutional consequences in a continuing major war.",
+      "evidenceNote": "Three separate reporting groups: Reuters, Al Jazeera with AP contributions, and ARD-aktuell with Brussels reporting. The central divergence concerns sporting participation under national symbols and the balance between public sanctions and sporting autonomy, not whether the full sanctions package was announced.",
+      "articles": [
+        {
+          "id": "eu23-r",
+          "role": "reference",
+          "headline": "EU Commission proposes ban on Russian athletes, ex-fighters in new Russia sanctions package",
+          "url": "https://www.reuters.com/business/finance/eu-commission-proposes-22nd-sanctions-package-russia-2026-11-23/",
+          "publishedAt": "2026-11-23T15:17:00Z",
+          "genre": "Original Brussels news dispatch",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: proposal and approval process",
+            "rationale": "Julia Payne's report documents the proposed financial and sporting measures and unanimity requirement."
+          },
+          "summary": "The Commission proposed additional sanctions on Russia, including banks, crypto services and sporting representation.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-24T07:44:13Z",
+            "method": "research-tool",
+            "note": "Full Reuters page readable; original displayed November 23 at 15:17 UTC; reporting credit Julia Payne."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-24T07:44:13Z",
+            "contentHash": null,
+            "evidenceNote": "An undated updated indicator is visible; no subsequent adoption is inferred. Live retrieval is not a cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "eu23-a",
+          "role": "contrast_a",
+          "headline": "EU plans sports ban in sweeping new Russia sanctions proposal",
+          "url": "https://www.aljazeera.com/news/2026/11/23/eu-plans-sports-ban-in-sweeping-new-russia-sanctions-proposal",
+          "publishedAt": "2026-11-23",
+          "genre": "News report credited to Al Jazeera Staff and AP",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Commission rationale: prevent propaganda",
+            "rationale": "The report records Ursula von der Leyen's rationale for restricting national sporting representation as part of broader pressure on Russia."
+          },
+          "summary": "The Commission argues that sport should not serve propaganda and proposes restrictions on flags and sponsorship.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-24T07:44:13Z",
+            "method": "research-tool",
+            "note": "Complete page readable with November 23 date; Al Jazeera Staff and AP credited; no verified clock time."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-24T07:44:13Z",
+            "contentHash": null,
+            "evidenceNote": "This is attributed Commission policy, not a newsroom endorsement. AP contributions are disclosed, not counted as an additional independent article. Live retrieval is not a cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "eu23-b",
+          "role": "contrast_b",
+          "headline": "EU-Vorschlag für neue Sanktionen Keine Athleten mehr unter russischer Flagge",
+          "url": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html",
+          "publishedAt": "2026-11-23",
+          "genre": "German public-service news report with Brussels correspondent input",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Tagesschau",
+            "domain": "tagesschau.de",
+            "country": "Germany",
+            "ownership": "ARD public-service broadcasting consortium, ARD-aktuell",
+            "ownershipGroup": "ard-aktuell",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Sporting autonomy: IOC approach",
+            "rationale": "ARD describes the IOC's July reversal, its position that government actions should not determine athletes' access, and the national-flag decisions left to federations."
+          },
+          "summary": "The proposal would limit sporting federations' discretion under the IOC's readmission approach.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-24T07:44:13Z",
+            "method": "research-tool",
+            "note": "Full German report readable; page dated November 23, 18:23 update display; linked same-day ARD report at 17:08; Thomas Spickhofen credited."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-24T07:44:13Z",
+            "contentHash": null,
+            "evidenceNote": "Date precision only: exact original web posting clock time not verified. IOC stance is pre-existing policy, not a new response to the package; translation summarized. Live retrieval is not a cutoff-time capture."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The European Commission proposed its 22nd Russia sanctions package on November 23, with measures against financial institutions and sporting representation.",
+          "sourceIds": [
+            "eu23-r",
+            "eu23-a",
+            "eu23-b"
+          ]
+        },
+        {
+          "text": "The proposed sporting measure would prevent Russian athletes and teams from competing under their national flag at EU events.",
+          "sourceIds": [
+            "eu23-r",
+            "eu23-a",
+            "eu23-b"
+          ]
+        },
+        {
+          "text": "The new measures required agreement of the EU's member governments before taking effect.",
+          "sourceIds": [
+            "eu23-r",
+            "eu23-a",
+            "eu23-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Central disputed question: should state-directed sanctions restrict Russian sporting representation, or should sporting bodies retain discretion so athletes are not penalized for government actions? Position A: Commission president von der Leyen, reported in eu23-a, argues that national symbols can serve propaganda and proposes restrictions. Position B: the IOC policy reported by eu23-b leaves flag decisions to federations and opposes limiting athlete participation because of government conduct. The positions concern policy and autonomy, not competing factual accounts of the proposal; the IOC stance predates the announcement.",
+          "sourceIds": [
+            "eu23-a",
+            "eu23-b",
+            "eu23-r"
+          ]
+        },
+        {
+          "text": "The sanctions proposal is documented, but the sources do not establish that a flag ban would reduce propaganda or that allowing national representation would be harmless. Restrictions on symbols are distinct from a blanket prohibition on all Russian athletes.",
+          "sourceIds": [
+            "eu23-a",
+            "eu23-b",
+            "eu23-r"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether all 27 EU governments would approve the package or amend it.",
+        "How sports federations would reconcile national-symbol restrictions with competition rules and qualification.",
+        "Whether the financial measures would effectively curtail Russia's war financing."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Von der Leyen characterized sporting restrictions as necessary to prevent propaganda and former combatants as a security risk.",
+          "sourceIds": [
+            "eu23-a",
+            "eu23-b",
+            "eu23-r"
+          ],
+          "reason": "These are policy justifications; the reports establish the statements, not the effectiveness of the restrictions or the risk posed by every individual."
+        }
+      ]
+    },
+    {
+      "id": "nvidia-huang-reinstatement-nov23",
+      "eventId": "gl-nvidia-leadership-export-controls-2026",
+      "title": "Nvidia restores Jensen Huang as CEO after US presidential intervention",
+      "region": "United States / global semiconductor industry",
+      "summary": "Nvidia reinstated founder Jensen Huang as chief executive on November 23 after its board had recently declined to bring him back. President Donald Trump publicly backed the reversal and claimed credit for his intervention. The board said it had received government assurances on national security. Nvidia shares rallied sharply, while investigations and scrutiny of export controls continued.",
+      "whyItMatters": "Nvidia supplies a large share of the advanced computing hardware on which AI development depends. Its leadership, export compliance and relationship with government have consequences for global investment and technology supply chains.",
+      "tags": [
+        "Nvidia",
+        "AI",
+        "semiconductors",
+        "corporate governance",
+        "export controls",
+        "United States"
+      ],
+      "selectionRationale": "Leadership and oversight at a globally important chipmaker, with broad market and cross-border technology implications.",
+      "evidenceNote": "Reuters, The Verge and The Guardian independently originated their reports. The alleged intelligence links and any illegal conduct remain unproven; the archived summary does not treat executive assurances as an investigative finding.",
+      "articles": [
+        {
+          "id": "nv23-r",
+          "role": "reference",
+          "headline": "Huang returns as Nvidia CEO after Trump intervention in abrupt board reversal",
+          "url": "https://www.reuters.com/technology/nvidia-reinstates-jensen-huang-ceo-2026-11-23/",
+          "publishedAt": "2026-11-23T13:59:00Z",
+          "genre": "Original corporate and market news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: reversal, market reaction, scrutiny",
+            "rationale": "Deborah Mary Sophia, Anhata Rooprai and David Morgan report the board decision, presidential involvement and unresolved concerns."
+          },
+          "summary": "Huang returned under presidential pressure; markets welcomed the decision while lawmakers raised objections.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-24T07:44:13Z",
+            "method": "research-tool",
+            "note": "Full originating Reuters page readable, named bylines and November 23 13:59 UTC original timestamp visible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-24T07:44:13Z",
+            "contentHash": null,
+            "evidenceNote": "Updated indicator without exact revision time; retained only developments also reported on November 23. Live retrieval is not a cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "nv23-a",
+          "role": "contrast_a",
+          "headline": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+          "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
+          "publishedAt": "2026-11-23T16:30:00Z",
+          "genre": "Original technology policy news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Verge",
+            "domain": "theverge.com",
+            "country": "United States",
+            "ownership": "Vox Media",
+            "ownershipGroup": "vox-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "White House: reinstatement was justified",
+            "rationale": "Stevie Bonifield reports Trump's argument that Huang's return was needed and that the government had found no evidence of unlawful conduct; the headline is the newsroom's characterization."
+          },
+          "summary": "The White House portrayed its involvement as beneficial and asserted that Huang's return presented no security risk.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-24T07:44:13Z",
+            "method": "research-tool",
+            "note": "Full article readable; named author Stevie Bonifield and Nov 23 16:30 UTC visible."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-24T07:44:13Z",
+            "contentHash": null,
+            "evidenceNote": "The White House statement is attributed; Semafor and the CNBC interview are identified as underlying reporting, not extra selected newsrooms. Live retrieval is not a cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "nv23-b",
+          "role": "contrast_b",
+          "headline": "Jensen Huang reinstated as Nvidia CEO after Trump intervenes",
+          "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+          "publishedAt": "2026-11-23T14:15:00Z",
+          "genre": "Original technology and business news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian News & Media, Scott Trust-owned",
+            "ownershipGroup": "guardian-news-and-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Congressional critics: reinstatement was premature",
+            "rationale": "Dan Milmo and Robert Booth report Senator Elizabeth Warren's objection and demands for answers about export controls, alongside the board and president's defense."
+          },
+          "summary": "Warren challenged the reinstatement while the company's inquiry and other scrutiny remained open.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-24T07:44:13Z",
+            "method": "research-tool",
+            "note": "Full article readable, named reporters, first published 15:15 CET and updated 23:23 CET November 23 (14:15 and 22:23 UTC)."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-24T07:44:13Z",
+            "contentHash": null,
+            "evidenceNote": "The quoted political objection is not the newsroom's own conclusion; no finding of espionage or illegal chip diversion is established. Live retrieval is not a cutoff-time capture."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Nvidia restored Huang to the chief executive position on November 23 after a recent board decision against his return.",
+          "sourceIds": [
+            "nv23-r",
+            "nv23-a",
+            "nv23-b"
+          ]
+        },
+        {
+          "text": "Trump said he intervened in favor of Huang's reinstatement.",
+          "sourceIds": [
+            "nv23-r",
+            "nv23-a",
+            "nv23-b"
+          ]
+        },
+        {
+          "text": "The company said it received senior US government input and considered the return not to present a national security risk.",
+          "sourceIds": [
+            "nv23-r",
+            "nv23-a",
+            "nv23-b"
+          ]
+        },
+        {
+          "text": "An inquiry into possible foreign intelligence targeting remained open despite the reinstatement.",
+          "sourceIds": [
+            "nv23-r",
+            "nv23-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Central disputed question: was reinstatement justified now, or too risky before security and compliance questions were resolved? Position A: Trump and the White House, reported in nv23-a, argue the government found no evidence of unlawful conduct and Huang's leadership is vital. Position B: Warren, reported in nv23-b, considers the decision reckless and points to unanswered export-control questions and ongoing scrutiny. The reference nv23-r confirms the board reversal and competing accounts, not a final exoneration or finding of wrongdoing.",
+          "sourceIds": [
+            "nv23-a",
+            "nv23-b",
+            "nv23-r"
+          ]
+        },
+        {
+          "text": "The sources agree the board reinstated Huang and that official reassurances were given. The sharp market recovery measures investor response, not proof that security concerns were resolved; the critics' warnings are not proof of a violation either.",
+          "sourceIds": [
+            "nv23-r",
+            "nv23-a",
+            "nv23-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The outcome of the company's independent inquiry and congressional scrutiny.",
+        "Whether controlled chips were diverted or any individual broke the law.",
+        "The long-run effect of executive-branch intervention on governance and export compliance."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Trump asserted that the government found no evidence of unlawful conduct by Huang and no security risk from his reinstatement.",
+          "sourceIds": [
+            "nv23-a",
+            "nv23-r",
+            "nv23-b"
+          ],
+          "reason": "An attributed government assessment, not an independent or final conclusion about all ongoing inquiries."
+        },
+        {
+          "text": "Reports described suspicions that a woman linked to Huang was a Chinese intelligence asset.",
+          "sourceIds": [
+            "nv23-r",
+            "nv23-b"
+          ],
+          "reason": "The selected reports do not establish that allegation or any illegal conduct by Huang."
+        }
+      ]
+    },
+    {
+      "id": "cop31-aftermath-compromise-nov23",
+      "eventId": "gl-cop31-climate-antalya-2026",
+      "title": "COP31 aftermath: disagreement over whether rejecting the weak pact was the right course",
+      "region": "Antalya, Türkiye / global",
+      "summary": "A day after the Antalya climate summit ended without its main political agreement, Turkish President Recep Tayyip Erdogan said that the meeting nevertheless created a basis for future negotiations. The breakdown reflected disagreement over fossil-fuel language and climate financing. Climate scientist Bill Hare argued in a published opinion that refusing the inadequate draft was preferable to endorsing it.",
+      "whyItMatters": "The ability of nearly all countries to coordinate climate action affects long-term energy investment, adaptation finance and exposure to climate impacts. Assessments of the breakdown can shape future negotiating strategies.",
+      "tags": [
+        "COP31",
+        "climate diplomacy",
+        "fossil fuels",
+        "adaptation",
+        "multilateralism"
+      ],
+      "selectionRationale": "A fresh post-summit assessment on November 23 of the future of a global institution after a significant negotiating failure.",
+      "evidenceNote": "Al Jazeera's Federica Marsi provides independent reporting; Reuters records Erdogan's November 23 remarks; the Guardian publishes an explicitly labeled opinion by climate scientist Bill Hare. An initially considered Le Monde editorial was excluded because its page expressly identified subscriber-only access; replaced with the readable Guardian opinion. The latter was first published late November 22 UTC and edited before the November 23 cutoff.",
+      "articles": [
+        {
+          "id": "co23-r",
+          "role": "reference",
+          "headline": "COP31: What next after UN climate talks collapse",
+          "url": "https://www.aljazeera.com/news/2026/11/23/cop31-what-next-after-un-climate-talks-collapse",
+          "publishedAt": "2026-11-23",
+          "genre": "Original explanatory news report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Al Jazeera English",
+            "domain": "aljazeera.com",
+            "country": "Qatar",
+            "ownership": "Al Jazeera Media Network",
+            "ownershipGroup": "al-jazeera-media-network",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: outcomes and future options",
+            "rationale": "Federica Marsi interviews climate and legal experts about the failed agreement, finance and continuing multilateral options."
+          },
+          "summary": "The collapse exposed divisions over energy transition and funding; other avenues for climate action remain.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-24T07:44:13Z",
+            "method": "research-tool",
+            "note": "Full publisher page readable; November 23 date and Federica Marsi byline displayed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-24T07:44:13Z",
+            "contentHash": null,
+            "evidenceNote": "No clock time or timezone verified; no later outcomes used. Live retrieval is not a cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "co23-a",
+          "role": "contrast_a",
+          "headline": "Turkey's Erdogan says COP31 laid groundwork for more climate talks despite lack of deal",
+          "url": "https://www.reuters.com/sustainability/cop/turkeys-erdogan-says-cop31-laid-groundwork-more-climate-talks-despite-lack-deal-2026-11-23/",
+          "publishedAt": "2026-11-23T16:25:00Z",
+          "genre": "Original Ankara news dispatch",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Host assessment: agreement would have been preferable",
+            "rationale": "Reuters reports Erdogan saying a cover decision would have been better and pointing to separate decisions and investment cooperation."
+          },
+          "summary": "Erdogan defended the summit's remaining achievements despite the missing overarching agreement.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-24T07:44:13Z",
+            "method": "research-tool",
+            "note": "Full Reuters page readable; original Nov 23 16:25 UTC, Huseyin Hayatsever reporting and Ezgi Erkoyun writing credits."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-24T07:44:13Z",
+            "contentHash": null,
+            "evidenceNote": "The president's count of decisions and appraisal of benefits remain attributed; undated updated indicator. Live retrieval is not a cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "co23-b",
+          "role": "contrast_b",
+          "headline": "The good news out of Cop31? That most of the world’s governments said no to an agreement stripped of meaning",
+          "url": "https://www.theguardian.com/environment/commentisfree/2026/nov/23/cop31-climate-summit-no-agreement",
+          "publishedAt": "2026-11-22T22:30:00Z",
+          "genre": "Signed opinion / climate policy commentary",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian News & Media, Scott Trust-owned",
+            "ownershipGroup": "guardian-news-and-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Climate scientist: rejecting the draft was preferable",
+            "rationale": "Bill Hare, CEO of Climate Analytics, argues that refusal to endorse a text without adequate fossil-fuel action was the better outcome."
+          },
+          "summary": "Hare regards rejection of the weak draft as protection of ambition and urges stronger national action.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-24T07:44:13Z",
+            "method": "research-tool",
+            "note": "Full opinion readable; Bill Hare credited; first published November 22 17:30 EST (22:30 UTC), last modified November 23 13:37 EST (18:37 UTC)."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-24T07:44:13Z",
+            "contentHash": null,
+            "evidenceNote": "The author's evaluation and broad claim about government support are not independently established by the article's headline. Live retrieval is not a cutoff-time capture."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "COP31 ended on November 22 without an overarching political agreement.",
+          "sourceIds": [
+            "co23-r",
+            "co23-a",
+            "co23-b"
+          ]
+        },
+        {
+          "text": "The draft was opposed because it lacked sufficiently explicit fossil-fuel transition language.",
+          "sourceIds": [
+            "co23-r",
+            "co23-b"
+          ]
+        },
+        {
+          "text": "The disagreement did not end the wider international climate process.",
+          "sourceIds": [
+            "co23-r",
+            "co23-a"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Central disputed question: was an agreed cover decision preferable, or was rejecting the inadequate compromise the better outcome? Position A: Erdogan, in co23-a, said reaching agreement on the cover decision would have been preferable, while pointing to other decisions and investment opportunities. Position B: Hare's signed opinion in co23-b says refusing the draft was preferable because it failed to address the transition away from fossil fuels adequately. The reporting in co23-r supports the underlying deadlock and reasons for rejection; it does not demonstrate the counterfactual effects of adoption.",
+          "sourceIds": [
+            "co23-a",
+            "co23-b",
+            "co23-r"
+          ]
+        },
+        {
+          "text": "Both assessments allow for further climate cooperation; neither establishes that the talks' failure will improve or worsen future emissions. The divergence is over the value of accepting a compromise versus preserving ambition, not whether climate change is real.",
+          "sourceIds": [
+            "co23-a",
+            "co23-b",
+            "co23-r"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether subsequent negotiations could restore stronger fossil-fuel language and finance commitments.",
+        "Whether the separate decisions and investment initiatives would deliver practical progress.",
+        "Whether alternative cooperative arrangements would accelerate action without a new consensus cover decision."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Erdogan said delegates adopted 46 separate decisions and the summit created valuable investment and financing opportunities.",
+          "sourceIds": [
+            "co23-a"
+          ],
+          "reason": "The selected Reuters report attributes this tally and assessment to Erdogan; the other sources do not independently audit them."
+        },
+        {
+          "text": "Hare called the refusal to approve the draft a victory for multilateralism.",
+          "sourceIds": [
+            "co23-b"
+          ],
+          "reason": "This is the signed author's normative assessment, not an established future policy outcome."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-24T07:44:22Z",
+    "author": "ChatGPT",
+    "reason": "First publication of the complete daily edition."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Research pages were checked during the November 24 morning run; retrieval verification recorded at 2026-11-24T07:44:13Z and review at 2026-11-24T07:44:22Z. Nine complete readable articles from independent originating groups within each story were inspected for headline, URL, genre, date, and authorship. Mixed agency credits disclosed. No content fingerprint or historical capture verified. Date-only precision used where a clock/timezone or exact first-post time was unavailable; undated live-page update indicators disclosed. The Le Monde subscriber-only candidate was replaced by the readable Guardian opinion. On November 24 at approximately 07:44 UTC, searches of public X for Nvidia/Huang, EU sanctions/Russian sports and COP31/Antalya did not yield a verifiable day-specific sample or historical volume signal; optional fields omitted, not interpreted as low attention. This is agent review, not human review."
+  }
+}
