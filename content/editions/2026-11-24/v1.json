@@ -1,0 +1,595 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-24",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-24T22:59:59Z",
+  "recordedAt": "2026-11-25T07:28:16.422Z",
+  "kind": "daily",
+  "selectionSummary": "Editorial selection based on cross-border consequences, breadth of independent reporting and lasting institutional significance: the Mediterranean extension of a war, a major technology company's criminal verdict and a dispute over alliance obligations. EU hybrid vehicle quotas, Gulf shipping and Yemen developments were also considered.",
+  "snapshot": {
+    "summary": "Military sovereignty, corporate accountability and allied defence obligations were debated across three separate events.",
+    "connections": [
+      "Each case tests the limits of institutional authority across borders.",
+      "Judicial findings, official legal arguments and political assessments have different evidentiary weight."
+    ],
+    "uncertainties": [
+      "The legal and diplomatic consequences of the Libya strikes remain unsettled.",
+      "Huawei's appeal and penalty outcomes and Canada's future defence decisions remained open."
+    ]
+  },
+  "stories": [
+    {
+      "id": "libya-strike-lawfulness-nov24",
+      "eventId": "eu-ukraine-russia-libya-maritime-war-2026",
+      "title": "Ukraine defends Benghazi strikes as Libya rejects any authorization",
+      "region": "Ukraine / Libya / Mediterranean",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "Libya",
+        "sovereignty",
+        "international law",
+        "maritime security"
+      ],
+      "summary": "On November 24 Kyiv defended its November 22 attacks against Russian vessels in Libyan waters as self-defence. Tripoli rejected allegations of a prior understanding and reiterated that foreign military activity does not excuse violations of Libyan sovereignty.",
+      "whyItMatters": "The dispute extends the implications of the Russia-Ukraine war to a third country and raises questions about international maritime security and the limits of self-defence.",
+      "selectionRationale": "Fresh competing diplomatic positions on an incident with consequences for Mediterranean security and the scope of an international war.",
+      "evidenceNote": "Reuters, The Kyiv Independent and Anadolu originated separate reports. Ukrainian and Libyan statements are attributed; neither alone decides the legal issue. The Reuters update indicator has no exact revision timestamp. No later developments are used.",
+      "articles": [
+        {
+          "id": "ly24-r",
+          "role": "reference",
+          "headline": "Ukraine says attack on Russian ships in Libya was self-defence",
+          "url": "https://www.reuters.com/world/europe/ukraine-insists-attack-russian-ships-libya-was-self-defence-2026-11-24/",
+          "publishedAt": "2026-11-24T12:40:00Z",
+          "genre": "Original international news dispatch",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: diplomatic dispute",
+            "rationale": "Daniel Flynn reports both governments' statements and the regional context."
+          },
+          "summary": "Kyiv invoked self-defence while Tripoli condemned the operation and opposed further involvement.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-25T07:27:24Z",
+            "method": "research-tool",
+            "note": "Full article and byline readable; displayed November 24 12:40 UTC with undated update indicator."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-25T07:27:24Z",
+            "contentHash": null,
+            "evidenceNote": "Live page inspected in the morning research session, not a historical capture. Full article and byline readable; displayed November 24 12:40 UTC with undated update indicator."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ly24-a",
+          "role": "contrast_a",
+          "headline": "Strikes on Russian ship in Libya are lawful self-defense, Ukraine says",
+          "url": "https://kyivindependent.com/strikes-on-russian-ship-in-libya-are-lawful-self-defense-ukraine-says/",
+          "publishedAt": "2026-11-24",
+          "genre": "Original news report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "The Kyiv Independent",
+            "domain": "kyivindependent.com",
+            "country": "Ukraine",
+            "ownership": "Independent Kyiv Independent newsroom",
+            "ownershipGroup": "kyiv-independent",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Kyiv: lawful military action",
+            "rationale": "Jonas Heins reports foreign ministry spokesperson Heorhii Tykhyi's invocation of Article 51 and argument that Russian military assets are legitimate targets."
+          },
+          "summary": "Ukraine's spokesperson asserted that the operation was defensive and not aimed against Libya.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-25T07:27:24Z",
+            "method": "research-tool",
+            "note": "Full article, byline and November 24 12:56 pm visible; timezone not verified, date precision used."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-25T07:27:24Z",
+            "contentHash": null,
+            "evidenceNote": "Live page inspected in the morning research session, not a historical capture. Full article, byline and November 24 12:56 pm visible; timezone not verified, date precision used."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ly24-b",
+          "role": "contrast_b",
+          "headline": "Libya's Tripoli-based government denies any prior agreement with Ukraine on Benghazi attacks",
+          "url": "https://www.aa.com.tr/en/middle-east/-libyas-tripoli-based-government-denies-any-prior-agreement-with-ukraine-on-benghazi-attacks/4135992",
+          "publishedAt": "2026-11-24",
+          "genre": "Original news dispatch",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Anadolu Agency",
+            "domain": "aa.com.tr",
+            "country": "Türkiye",
+            "ownership": "Anadolu Ajansı, Turkish state news agency",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Tripoli: sovereignty remains binding",
+            "rationale": "Serdar Dincel reports Tripoli's denial of any prior arrangement and its rejection of foreign operations that violate sovereignty."
+          },
+          "summary": "Tripoli acknowledged the risks of foreign forces but denied that these justified infringement of its territory.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-25T07:27:24Z",
+            "method": "research-tool",
+            "note": "Full article readable, named byline; publication and update both November 24, no clock time verified."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-25T07:27:24Z",
+            "contentHash": null,
+            "evidenceNote": "Live page inspected in the morning research session, not a historical capture. Full article readable, named byline; publication and update both November 24, no clock time verified."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Ukraine acknowledged attacks against Russian vessels near Benghazi on November 22.",
+          "sourceIds": [
+            "ly24-r",
+            "ly24-a",
+            "ly24-b"
+          ]
+        },
+        {
+          "text": "On November 24 Ukrainian officials defended the operation by invoking the right of self-defence.",
+          "sourceIds": [
+            "ly24-r",
+            "ly24-a"
+          ]
+        },
+        {
+          "text": "The Tripoli government opposed use of Libyan territory for hostile operations.",
+          "sourceIds": [
+            "ly24-r",
+            "ly24-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Disputed question: did Kyiv's right to self-defence justify the operation in Libyan waters? Position A: Tykhyi in ly24-a argues Russian military assets are lawful targets under Article 51. Position B: Tripoli in ly24-b says the presence of unauthorized foreign forces does not justify violations of Libyan sovereignty and denies advance agreement. ly24-r corroborates the dispute, not either legal conclusion.",
+          "sourceIds": [
+            "ly24-a",
+            "ly24-b",
+            "ly24-r"
+          ]
+        },
+        {
+          "text": "Both sides express concern about Russian military use of third-country infrastructure; they differ on whether Ukrainian action in Libya is justified. The reports do not establish consent or an independent legal ruling.",
+          "sourceIds": [
+            "ly24-a",
+            "ly24-b",
+            "ly24-r"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether any relevant authorization or consent existed.",
+        "The legal assessment of the operation and any diplomatic response.",
+        "The complete consequences for Libyan and regional maritime security."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Kyiv said its operation was lawful self-defence.",
+          "sourceIds": [
+            "ly24-a",
+            "ly24-r"
+          ],
+          "reason": "A government legal position rather than an independent adjudication."
+        },
+        {
+          "text": "Tripoli denied prior agreement with Kyiv.",
+          "sourceIds": [
+            "ly24-b"
+          ],
+          "reason": "The denial is documented; the selected reporting does not independently establish all private arrangements."
+        }
+      ]
+    },
+    {
+      "id": "huawei-us-verdict-nov24",
+      "eventId": "gl-huawei-us-criminal-case-2018-2026",
+      "title": "US jury convicts Huawei on ten counts but rejects racketeering conspiracy",
+      "region": "United States / China / global",
+      "tags": [
+        "Huawei",
+        "China",
+        "United States",
+        "trade secrets",
+        "sanctions",
+        "telecommunications"
+      ],
+      "summary": "A Brooklyn federal jury found Huawei guilty on ten of twelve criminal counts, including conspiracy to steal trade secrets and fraud, while acquitting it of racketeering conspiracy and conspiracy to obstruct justice. The company indicated it would appeal.",
+      "whyItMatters": "The verdict affects a major telecommunications supplier and a long-running dispute over technology competition, sanctions enforcement and the US-China commercial relationship.",
+      "selectionRationale": "A major judicial decision involving an internationally important technology supplier, with potential long-term commercial and diplomatic consequences.",
+      "evidenceNote": "Reuters and AP report the proceedings independently; The Verge's named technology writer synthesizes the DOJ statement and NBC/Bloomberg reporting and sought comment directly. It is not a republished wire story. Al Jazeera's AP/Reuters copy was excluded; NBC page could not be opened and was not selected. The AP date was cross-checked against its same-byline November 24 Washington Post syndication, not counted as an extra source.",
+      "articles": [
+        {
+          "id": "hw24-r",
+          "role": "reference",
+          "headline": "China's Huawei convicted in sprawling US criminal trial over Iran business",
+          "url": "https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/",
+          "publishedAt": "2026-11-24T20:16:00Z",
+          "genre": "Original court news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: split verdict and case history",
+            "rationale": "Karen Freifeld documents the counts, trial and contrasting legal positions."
+          },
+          "summary": "The jury convicted Huawei on ten charges but rejected two others; sentencing remained ahead.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-25T07:27:24Z",
+            "method": "research-tool",
+            "note": "Full named article readable; displayed November 24 20:16 UTC with undated update indicator."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-25T07:27:24Z",
+            "contentHash": null,
+            "evidenceNote": "Live page inspected in the morning research session, not a historical capture. Full named article readable; displayed November 24 20:16 UTC with undated update indicator."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "hw24-a",
+          "role": "contrast_a",
+          "headline": "Huawei found guilty of stealing trade secrets",
+          "url": "https://www.theverge.com/tech/1041820/huawei-guilty-trade-secrets-trial",
+          "publishedAt": "2026-11-24T22:23:00Z",
+          "genre": "Named technology news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Verge",
+            "domain": "theverge.com",
+            "country": "United States",
+            "ownership": "Vox Media publication",
+            "ownershipGroup": "vox-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Prosecution: systemic corporate wrongdoing",
+            "rationale": "Emma Roth quotes DOJ official Tysen Duva's assessment of a long pattern of fraud and theft, while also reporting the company's rejection and citing the underlying DOJ release and other reporting."
+          },
+          "summary": "The report records the convictions and the DOJ's broad characterization of the company's conduct.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-25T07:27:24Z",
+            "method": "research-tool",
+            "note": "Full article readable, named author and November 24 22:23 UTC displayed; update dated November 24 without exact time."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-25T07:27:24Z",
+            "contentHash": null,
+            "evidenceNote": "Live page inspected in the morning research session, not a historical capture. Full article readable, named author and November 24 22:23 UTC displayed; update dated November 24 without exact time."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "hw24-b",
+          "role": "contrast_b",
+          "headline": "Chinese tech giant Huawei is guilty of conspiracy to steal trade secrets, US jury finds",
+          "url": "https://apnews.com/article/huawei-racketeering-trial-verdict-b39ac780e2e31140015a1be02f0329ab",
+          "publishedAt": "2026-11-24",
+          "genre": "Original courtroom news report",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Not-for-profit news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Defense: government overreach",
+            "rationale": "Michael R. Sisak and Larry Neumeister report defense attorney Brian Heberlig's view that isolated incidents were mischaracterized as company-wide criminal conduct and the acquittals undercut that narrative."
+          },
+          "summary": "Defense counsel welcomed the two acquittals but said the company would challenge the guilty verdicts.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-25T07:27:24Z",
+            "method": "research-tool",
+            "note": "Full AP originating page and bylines readable; date verified from same-byline AP dispatch syndicated November 24, original clock time not established."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-25T07:27:24Z",
+            "contentHash": null,
+            "evidenceNote": "Live page inspected in the morning research session, not a historical capture. Full AP originating page and bylines readable; date verified from same-byline AP dispatch syndicated November 24, original clock time not established."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "A federal jury in Brooklyn convicted Huawei on ten of twelve counts.",
+          "sourceIds": [
+            "hw24-r",
+            "hw24-a",
+            "hw24-b"
+          ]
+        },
+        {
+          "text": "The jury acquitted Huawei of racketeering conspiracy and conspiracy to obstruct justice.",
+          "sourceIds": [
+            "hw24-r",
+            "hw24-a",
+            "hw24-b"
+          ]
+        },
+        {
+          "text": "Huawei indicated it intended to appeal the convictions.",
+          "sourceIds": [
+            "hw24-r",
+            "hw24-a",
+            "hw24-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Disputed question: does the case establish a company-wide criminal culture, or did prosecutors overgeneralize from individual misconduct? Position A: DOJ official Duva, quoted by hw24-a, describes a systemic pattern spanning years, relying on the prosecuted conduct and guilty verdicts. Position B: Heberlig in hw24-b invokes the acquittals and argues the evidence was selectively assembled from disparate incidents. hw24-r establishes the split verdict; the guilty counts stand, while the jury rejected the racketeering and obstruction conspiracies.",
+          "sourceIds": [
+            "hw24-a",
+            "hw24-b",
+            "hw24-r"
+          ]
+        },
+        {
+          "text": "The reports converge on the verdict. The acquittals do not erase the convictions; the convictions do not establish every allegation in the government's broader narrative.",
+          "sourceIds": [
+            "hw24-r",
+            "hw24-a",
+            "hw24-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "The eventual sentence and financial penalties.",
+        "Whether an appeal would change the verdict.",
+        "The effects on Huawei's operations and international technology relations."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "DOJ officials portrayed Huawei's corporate success as founded on a long pattern of illicit conduct.",
+          "sourceIds": [
+            "hw24-a",
+            "hw24-r"
+          ],
+          "reason": "Broader characterization exceeds the individual verdicts and the jury acquitted on racketeering conspiracy."
+        },
+        {
+          "text": "Defense counsel described the acquittals as vindicating the company's compliance culture.",
+          "sourceIds": [
+            "hw24-b",
+            "hw24-r"
+          ],
+          "reason": "Counsel's interpretation is not a general finding of compliance."
+        }
+      ]
+    },
+    {
+      "id": "canada-us-defense-dispute-nov24",
+      "eventId": "na-us-canada-defense-norad-2026",
+      "title": "Canada rejects Pentagon criticism of its defence commitment",
+      "region": "Canada / United States / NATO",
+      "tags": [
+        "Canada",
+        "United States",
+        "NATO",
+        "NORAD",
+        "defence spending",
+        "alliance"
+      ],
+      "summary": "Canada's defence minister responded on November 24 to a Pentagon fact sheet that questioned Ottawa's military readiness and spending trajectory. David McGuinty maintained that Canada makes its own decisions and that bilateral and NATO cooperation continued.",
+      "whyItMatters": "The dispute concerns continental defence, NATO commitments and procurement cooperation between closely integrated allies, with consequences for alliance trust.",
+      "selectionRationale": "A fresh ministerial response to a public disagreement over defence obligations within a major international security alliance.",
+      "evidenceNote": "The Canadian Press wire is selected once through its Global News host and credited to the originating newsroom. TIME and The Guardian have separate named reporting. The Guardian dates release of the memo to Tuesday; TIME and Canadian Press say Monday. The edition distinguishes the memo from the November 24 response and does not treat that dating difference as substantive divergence.",
+      "articles": [
+        {
+          "id": "ca24-r",
+          "role": "reference",
+          "headline": "Pentagon criticizes Canada’s defence spending, military readiness",
+          "url": "https://globalnews.ca/news/12163344/pentagon-canada-defence/",
+          "publishedAt": "2026-11-23",
+          "genre": "Original Canadian Press news dispatch, syndicated by Global News",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "The Canadian Press (via Global News)",
+            "domain": "globalnews.ca",
+            "country": "Canada",
+            "ownership": "The Canadian Press originating wire service; Global News is the host",
+            "ownershipGroup": "canadian-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: memo and bilateral context",
+            "rationale": "Kelly Geraldine Malone reports the fact sheet, spending and earlier cooperation assurances."
+          },
+          "summary": "The memo questioned Canadian readiness and was issued amid bilateral military and trade tensions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-25T07:27:24Z",
+            "method": "research-tool",
+            "note": "Full article readable, Canadian Press byline; posted November 23 6:41 pm and updated November 24 2:40 pm, timezone not verified."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-25T07:27:24Z",
+            "contentHash": null,
+            "evidenceNote": "Live page inspected in the morning research session, not a historical capture. Full article readable, Canadian Press byline; posted November 23 6:41 pm and updated November 24 2:40 pm, timezone not verified."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ca24-a",
+          "role": "contrast_a",
+          "headline": "Hegseth’s Pentagon Accuses Canada of Failing as Credible Defense Partner Amid Tensions",
+          "url": "https://time.com/article/2026/11/24/hegseth-pentagon-accuses-canada-failing-credible-defense-partner/",
+          "publishedAt": "2026-11-24T18:25:00Z",
+          "genre": "Original international news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "TIME",
+            "domain": "time.com",
+            "country": "United States",
+            "ownership": "TIME media company",
+            "ownershipGroup": "time",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Pentagon: Canadian readiness and funding inadequate",
+            "rationale": "Tiago Ventura reports the Pentagon assessment, links the fact sheet and budget documents, and includes a direct response from the Canadian defence ministry."
+          },
+          "summary": "The Pentagon questioned Canada's plan and procurement choices; Canadian officials defended their commitment.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-25T07:27:24Z",
+            "method": "research-tool",
+            "note": "Full article readable; named reporter and November 24 18:25 UTC shown."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-25T07:27:24Z",
+            "contentHash": null,
+            "evidenceNote": "Live page inspected in the morning research session, not a historical capture. Full article readable; named reporter and November 24 18:25 UTC shown."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ca24-b",
+          "role": "contrast_b",
+          "headline": "Canada says it ‘does not report to the US’ after Pentagon memo criticizing military spending",
+          "url": "https://www.theguardian.com/world/2026/nov/24/canada-sovereign-nation-us-relations-defence-pentagon-memo",
+          "publishedAt": "2026-11-24T21:11:00Z",
+          "genre": "Original international news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian News & Media, Scott Trust-owned",
+            "ownershipGroup": "guardian-news-and-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Ottawa: sovereign decisions and continuing cooperation",
+            "rationale": "Leyland Cecco reports McGuinty's response, citing existing NORAD and NATO cooperation and Canada's announced spending plans."
+          },
+          "summary": "The minister rejected the premise that Ottawa must answer to Washington and maintained existing military cooperation.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-25T07:27:24Z",
+            "method": "research-tool",
+            "note": "Full article readable, named reporter; first published November 24 21:11 GMT, updated 22:02 GMT before cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-25T07:27:24Z",
+            "contentHash": null,
+            "evidenceNote": "Live page inspected in the morning research session, not a historical capture. Full article readable, named reporter; first published November 24 21:11 GMT, updated 22:02 GMT before cutoff."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The Pentagon issued a public fact sheet criticizing Canadian military readiness and spending plans.",
+          "sourceIds": [
+            "ca24-r",
+            "ca24-a",
+            "ca24-b"
+          ]
+        },
+        {
+          "text": "Canada and the United States cooperate through NATO and NORAD.",
+          "sourceIds": [
+            "ca24-a",
+            "ca24-b"
+          ]
+        },
+        {
+          "text": "Canada has pledged to reach NATO's new defence and related security spending target by 2035.",
+          "sourceIds": [
+            "ca24-a",
+            "ca24-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Disputed question: is Canada acting as a credible continental defence partner under its current plans? Position A: the Pentagon in ca24-a says readiness and spending are inadequate and cites budget timing and procurement uncertainty. Position B: McGuinty in ca24-b says Canada is sovereign and its operational cooperation continues; Ottawa points to its spending plans and alliance commitments. ca24-r corroborates the criticism and context, not a final readiness assessment.",
+          "sourceIds": [
+            "ca24-a",
+            "ca24-b",
+            "ca24-r"
+          ]
+        },
+        {
+          "text": "The accounts agree that spending and procurement are contested. TIME also cites the Canadian budget watchdog's doubts about the long-term spending path. Continued cooperation does not itself prove that every readiness target is met; Pentagon criticism does not establish that cooperation has ceased.",
+          "sourceIds": [
+            "ca24-a",
+            "ca24-b",
+            "ca24-r"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether Canada's spending trajectory would meet the 2035 target.",
+        "The final fighter procurement decision.",
+        "Whether the disagreement would change operational cooperation or alliance trust."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The Pentagon characterized Canada as falling short of credible partnership and described longstanding underinvestment.",
+          "sourceIds": [
+            "ca24-a",
+            "ca24-r",
+            "ca24-b"
+          ],
+          "reason": "Attributed official assessment; the selected reporting does not independently audit military readiness."
+        },
+        {
+          "text": "McGuinty maintained that cooperation had not changed.",
+          "sourceIds": [
+            "ca24-b"
+          ],
+          "reason": "An official assurance, not a comprehensive independent operational audit."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-25T07:28:16.422Z",
+    "author": "ChatGPT",
+    "reason": "Initial publication of complete November 24 Paris-day edition."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Actual morning research on November 25, with verification recorded around 2026-11-25T07:27:24Z and edition preparation at 2026-11-25T07:28:16.422Z. Nine readable articles inspected, with named newsroom origin, headline, date and genre. Date-only precision used where exact original clock/timezone could not be established; AP date corroborated by its same-byline syndicated dispatch, not counted twice. The Canadian Press wire is credited to its origin rather than host; the Al Jazeera Huawei wire compilation was excluded. NBC Huawei candidate inaccessible and replaced by the accessible Verge report. Verge explicitly credits prior reporting and sought comment; only its own attributed DOJ coverage is used as contrast. No archive snapshot or fingerprint verified. Undated update indicators and discrepant memo-release dates disclosed; only cutoff-day developments used. Public X searches on November 25 around 07:27 UTC for Benghazi/Sybiha, Huawei verdict and Pentagon/Canada yielded no verified November 24 post sample or historical volume measure. Optional fields omitted, not evidence of low attention. Agent review only."
+  }
+}
