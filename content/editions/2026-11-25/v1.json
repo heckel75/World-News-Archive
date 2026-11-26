@@ -1,0 +1,588 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-25",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-25T22:59:59Z",
+  "recordedAt": "2026-11-26T07:52:45.884Z",
+  "kind": "daily",
+  "selectionSummary": "Editorial selection based on cross-border impact, breadth of independent reporting and lasting institutional significance: proposed US trade barriers, a Pacific security treaty and the widening diplomatic fallout of an international war. Gulf and Red Sea developments and other regional political stories were considered; no claim of objective ranking.",
+  "snapshot": {
+    "summary": "The day highlighted disputes over economic pressure, strategic partnerships and sovereignty across three distinct international events.",
+    "connections": [
+      "The US tariff proposal and Pacific treaty could change cross-border economic relationships; their stated benefits are not yet demonstrated.",
+      "The Pacific and Libya stories expose competing understandings of sovereignty and security cooperation, in very different circumstances."
+    ],
+    "uncertainties": [
+      "Final tariff decisions and the durability of trade agreements.",
+      "Implementation of the Pacific treaty and the status of China's earlier pact.",
+      "The legal consequences and potential retaliation following the Libya attack."
+    ]
+  },
+  "stories": [
+    {
+      "id": "us-industrial-tariff-proposal-nov25",
+      "eventId": "gl-us-industrial-overcapacity-tariffs-2026",
+      "title": "US proposes new tariffs on 14 trading partners over industrial capacity",
+      "region": "United States / Global trade",
+      "tags": [
+        "trade",
+        "tariffs",
+        "United States",
+        "China",
+        "European Union",
+        "industrial policy"
+      ],
+      "summary": "Washington announced prospective import duties targeting 14 economies, including China and the European Union, following an investigation into alleged industrial overcapacity. The proposal uses a different statutory basis from the broad emergency tariffs struck down earlier in 2026. China disputed the rationale and the EU rejected the allegation that Europe causes structural overcapacity.",
+      "whyItMatters": "The proposal affects major manufacturing and consumer markets across Asia, Europe and North America and could reshape supply chains and trade agreements.",
+      "selectionRationale": "Broad direct cross-border economic reach, substantial independent coverage and a potentially enduring change to trade enforcement.",
+      "evidenceNote": "Three separately originated reports. The Guardian page was modified after cutoff; only the proposal and US statements corroborated in contemporaneous reporting are used. Reuters has an undated update indicator. Proposed ceilings, existing duties and potential uncapped rates are not conflated.",
+      "articles": [
+        {
+          "id": "tr25-r",
+          "role": "reference",
+          "headline": "Trump unveils new tariffs over excess industrial capacity, undeterred by midterms defeat",
+          "url": "https://www.reuters.com/world/china/us-proposes-new-tariffs-14-trading-partners-fight-excess-factory-capacity-2026-11-25/",
+          "publishedAt": "2026-11-25T13:15:00Z",
+          "genre": "Original news report by David Lawder and Andrea Shalal",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: tariff mechanism and responses",
+            "rationale": "Explains the proposed rates, statutory route, consultation and competing official statements."
+          },
+          "summary": "Washington intends to use Section 301, with rates dependent on existing trade commitments and a hearing still ahead.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-26T07:52:45.884Z",
+            "method": "research-tool",
+            "note": "Article body and named bylines readable; November 25 13:15 UTC displayed; update indicator lacks exact time."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-26T07:52:45.884Z",
+            "contentHash": null,
+            "evidenceNote": "Live article inspected during this research session; verification recorded at 2026-11-26T07:52:45.884Z. No historical capture inspected."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "tr25-a",
+          "role": "contrast_a",
+          "headline": "Trump proposing new tariffs on 14 partners including China and EU",
+          "url": "https://www.theguardian.com/us-news/2026/nov/25/trump-new-china-tariffs-europe",
+          "publishedAt": "2026-11-25T14:59:00Z",
+          "genre": "Original news report by Lauren Aratani",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian News & Media, Scott Trust-owned",
+            "ownershipGroup": "guardian-news-and-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "US trade representative: corrective tariffs",
+            "rationale": "Reports Jamieson Greer's justification based on alleged distortive industrial policies, while also providing US household-cost context; this is his position, not the reporter's endorsement."
+          },
+          "summary": "Greer presents the measures as a way to protect US industry from unfair competition.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-26T07:52:45.884Z",
+            "method": "research-tool",
+            "note": "Full article and byline readable; first published November 25 15:59 CET; modified November 26 06:08 CET, after cutoff. Later-only material excluded."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-26T07:52:45.884Z",
+            "contentHash": null,
+            "evidenceNote": "Live article inspected during this research session; verification recorded at 2026-11-26T07:52:45.884Z. No historical capture inspected."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "tr25-b",
+          "role": "contrast_b",
+          "headline": "Trump Administration Unveils New Tariffs for China, the European Union, and More",
+          "url": "https://time.com/article/2026/11/25/trump-administration-new-tariffs-china-european-union-india/",
+          "publishedAt": "2026-11-25T19:02:00Z",
+          "genre": "Original news report by Tiago Ventura",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "TIME",
+            "domain": "time.com",
+            "country": "United States",
+            "ownership": "TIME media company",
+            "ownershipGroup": "time",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Trading partners: disputed premise",
+            "rationale": "Reports Chinese foreign ministry objections and a direct EU Commission response, distinguishing China's denial from Europe's acknowledgement of overcapacity elsewhere."
+          },
+          "summary": "China rejects the rationale; the EU disputes its own responsibility and asks Washington to respect their existing agreement.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-26T07:52:45.884Z",
+            "method": "research-tool",
+            "note": "Full article and named author readable; November 25 19:02 UTC displayed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-26T07:52:45.884Z",
+            "contentHash": null,
+            "evidenceNote": "Live article inspected during this research session; verification recorded at 2026-11-26T07:52:45.884Z. No historical capture inspected."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The US announced a tariff proposal covering 14 trading partners, including China and the EU.",
+          "sourceIds": [
+            "tr25-r",
+            "tr25-a",
+            "tr25-b"
+          ]
+        },
+        {
+          "text": "The administration invoked Section 301 of the Trade Act of 1974 after the Supreme Court struck down earlier emergency-based tariffs.",
+          "sourceIds": [
+            "tr25-r",
+            "tr25-a",
+            "tr25-b"
+          ]
+        },
+        {
+          "text": "Public consultation and a hearing were still ahead; the new proposed duties were not yet in effect.",
+          "sourceIds": [
+            "tr25-r",
+            "tr25-a",
+            "tr25-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Disputed question: do foreign industrial practices justify this round of US tariffs? Position A: Greer in tr25-a argues that subsidies and other policies disadvantage US producers and warrant corrective duties, drawing on the trade office investigation. Position B: Guo Jiakun in tr25-b rejects China's alleged overcapacity as a pretext; the EU Commission separately denies that Europe is a source and prefers joint action. tr25-r establishes the proposal and China's objection, not the validity of the economic diagnosis.",
+          "sourceIds": [
+            "tr25-a",
+            "tr25-b",
+            "tr25-r"
+          ]
+        },
+        {
+          "text": "The articles converge on the policy announcement, not on its justification. The EU accepts that global overcapacity can be a real problem, unlike China's categorical rejection. None demonstrates that these particular tariffs would correct it.",
+          "sourceIds": [
+            "tr25-a",
+            "tr25-b",
+            "tr25-r"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Final rates and exemptions after consultation.",
+        "Whether existing agreements and the US-China truce would be maintained.",
+        "Effects on industrial output, prices and international trade."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Greer maintains that the targeted industrial practices have eroded US manufacturing.",
+          "sourceIds": [
+            "tr25-a",
+            "tr25-r"
+          ],
+          "reason": "The selected accounts document the official assessment, not an independent causal audit."
+        },
+        {
+          "text": "China's foreign ministry dismisses the alleged overcapacity problem.",
+          "sourceIds": [
+            "tr25-b",
+            "tr25-r"
+          ],
+          "reason": "An attributed political and economic assessment, not independently established by the reports."
+        }
+      ]
+    },
+    {
+      "id": "australia-solomon-security-treaty-nov25",
+      "eventId": "as-australia-solomon-islands-security-2026",
+      "title": "Australia and Solomon Islands sign security and development treaty",
+      "region": "Oceania / Indo-Pacific",
+      "tags": [
+        "Australia",
+        "Solomon Islands",
+        "China",
+        "Pacific",
+        "security",
+        "sovereignty"
+      ],
+      "summary": "Australia and Solomon Islands signed a treaty reinforcing Canberra's role in Honiara's security and providing for development cooperation. The deal restricts foreign military bases and addresses consultation on important infrastructure. The Solomon Islands government welcomed the reset while its opposition warned against abandoning security cooperation with China.",
+      "whyItMatters": "The agreement may alter strategic relationships across the Pacific and affects the island country's development options, policing and foreign-policy autonomy.",
+      "selectionRationale": "An international agreement with durable security provisions and implications for Pacific competition among major powers.",
+      "evidenceNote": "Reuters, Guardian and ABC have distinct named reporting. ABC carries the opposition's prior warning in its November 25 report. Reports differ in confidence about the future of the China pact; Wale declined to discuss its disposition publicly, so definitive termination is not established. Local Solomon Star candidate was inaccessible and replaced with ABC's readable original reporting.",
+      "articles": [
+        {
+          "id": "si25-r",
+          "role": "reference",
+          "headline": "Australia, Solomon Islands sign security pact in blow to China",
+          "url": "https://www.reuters.com/world/china/australia-solomon-islands-sign-security-pact-2026-11-25/",
+          "publishedAt": "2026-11-25T00:02:00Z",
+          "genre": "Original news report by Alasdair Pal",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: treaty provisions and regional context",
+            "rationale": "Describes the agreement, assistance and the status of questions surrounding the earlier China pact."
+          },
+          "summary": "The treaty formalizes Australian security cooperation while leaving questions about Honiara's Chinese agreement.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-26T07:52:45.884Z",
+            "method": "research-tool",
+            "note": "Full report and named byline readable; November 25 00:02 UTC shown with undated update indicator."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-26T07:52:45.884Z",
+            "contentHash": null,
+            "evidenceNote": "Live article inspected during this research session; verification recorded at 2026-11-26T07:52:45.884Z. No historical capture inspected."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "si25-a",
+          "role": "contrast_a",
+          "headline": "Australia’s security pact with Solomon Islands a blow to China’s influence in the Pacific",
+          "url": "https://www.theguardian.com/world/2026/nov/25/australia-solomon-islands-treaty-blow-to-china-pacific-influence",
+          "publishedAt": "2026-11-25T01:51:00Z",
+          "genre": "Original news report by Tom McIlroy and Tess Ikonomou",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian News & Media, Scott Trust-owned",
+            "ownershipGroup": "guardian-news-and-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Governments: durable partnership respecting autonomy",
+            "rationale": "Quotes Albanese on sovereignty and describes the assistance package, presenting the governments' rationale alongside strategic competition."
+          },
+          "summary": "The governments portray closer ties as supporting security and development without compromising self-government.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-26T07:52:45.884Z",
+            "method": "research-tool",
+            "note": "Full article and bylines readable; first published November 24 20:51 EST (November 25 UTC), modified November 25 01:33 EST before cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-26T07:52:45.884Z",
+            "contentHash": null,
+            "evidenceNote": "Live article inspected during this research session; verification recorded at 2026-11-26T07:52:45.884Z. No historical capture inspected."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "si25-b",
+          "role": "contrast_b",
+          "headline": "Australia signs 'historic' pact with Solomon Islands in blow to China",
+          "url": "https://www.abc.net.au/news/2026-11-25/australia-signs-pact-with-solomon-islands-in-blow-to-china/107424550",
+          "publishedAt": "2026-11-25",
+          "genre": "Original news report by Stephen Dziedzic",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "ABC News",
+            "domain": "abc.net.au",
+            "country": "Australia",
+            "ownership": "Australian Broadcasting Corporation, public broadcaster",
+            "ownershipGroup": "australian-broadcasting-corporation",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Opposition: risks of moving away from China",
+            "rationale": "Reports opposition leader Manasseh Sogavare's warning about development relations and Australian influence, as well as Wale's cabinet support. The opposition argument is not ABC's editorial position."
+          },
+          "summary": "Sogavare warned that abandoning Chinese policing cooperation might harm development relations; Wale defended the decision.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-26T07:52:45.884Z",
+            "method": "research-tool",
+            "note": "Full report and named byline readable; posted November 25 at 12:22 pm, updated 3:54 pm; timezone not verified."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-26T07:52:45.884Z",
+            "contentHash": null,
+            "evidenceNote": "Live article inspected during this research session; verification recorded at 2026-11-26T07:52:45.884Z. No historical capture inspected."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Australia and Solomon Islands signed a security-related treaty in Canberra on November 25.",
+          "sourceIds": [
+            "si25-r",
+            "si25-a",
+            "si25-b"
+          ]
+        },
+        {
+          "text": "The agreement identifies Australia as the preferred security partner and includes restrictions on foreign military or security bases.",
+          "sourceIds": [
+            "si25-r",
+            "si25-b"
+          ]
+        },
+        {
+          "text": "The treaty accompanies Australian assistance for development and security, including education and policing.",
+          "sourceIds": [
+            "si25-r",
+            "si25-a",
+            "si25-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Disputed question: should Honiara prioritize Australian security cooperation while moving away from the Chinese pact? Position A: Albanese and Wale, reported in si25-a, portray the treaty as a stable partnership that respects sovereignty and provides tangible benefits. Position B: Sogavare, quoted in si25-b, argues that giving up the Chinese policing agreement could jeopardize development ties and reflects Australian influence. si25-r establishes the signed agreement but not the future effects or definitive status of the China pact.",
+          "sourceIds": [
+            "si25-a",
+            "si25-b",
+            "si25-r"
+          ]
+        },
+        {
+          "text": "The news reports converge on the strategic shift. Their quoted political actors disagree about whether that shift serves Honiara's interests. The funding provisions are evidence of commitments, not proof of delivery or the opposition's predicted harm.",
+          "sourceIds": [
+            "si25-a",
+            "si25-b",
+            "si25-r"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether and when the previous Chinese security arrangement would end.",
+        "Whether the development and security commitments would be delivered.",
+        "Domestic political consequences and future relations with Beijing."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Albanese maintains the treaty respects Solomon Islands sovereignty.",
+          "sourceIds": [
+            "si25-a"
+          ],
+          "reason": "The statement is a political assurance; practical implementation is not yet observable."
+        },
+        {
+          "text": "Sogavare warned that ending the Chinese policing pact could damage development ties.",
+          "sourceIds": [
+            "si25-b"
+          ],
+          "reason": "Forecast by the opposition leader, not an established consequence."
+        }
+      ]
+    },
+    {
+      "id": "libya-ukraine-retaliation-diplomacy-nov25",
+      "eventId": "eu-ukraine-russia-libya-maritime-war-2026",
+      "title": "Libyan army threatens retaliation and Italy criticizes Ukraine's strikes in Libya",
+      "region": "Libya / Ukraine / Italy / Mediterranean",
+      "tags": [
+        "Libya",
+        "Ukraine",
+        "Russia",
+        "Italy",
+        "sovereignty",
+        "international law"
+      ],
+      "summary": "Eastern Libya's military authorities said two naval officers had died of injuries from the Ukrainian attack on a Russian warship and threatened retaliation. Italian Foreign Minister Antonio Tajani criticized the operation as a violation of Libyan sovereignty, while Kyiv had defended it under the UN Charter's self-defence provision.",
+      "whyItMatters": "The diplomatic and military fallout raises the risk that the Russia-Ukraine war draws in other states and undermines stability in the Mediterranean.",
+      "selectionRationale": "Fresh escalation and a third-country diplomatic response following a cross-border attack; consequential for international law and regional security.",
+      "evidenceNote": "Continues the existing Libya event ID. AP's originating report was readable and original date corroborated via same-byline syndication, which is not a separate selected source. The Libyan casualty announcement is attributed; other selected reports do not independently confirm it. Kyiv Independent is a November 24 antecedent within the 72-hour source window. No legal adjudication established.",
+      "articles": [
+        {
+          "id": "ly25-r",
+          "role": "reference",
+          "headline": "Libyan army vows retaliation after 2 naval officers die of wounds from Ukrainian drone attack",
+          "url": "https://apnews.com/article/russia-ukraine-war-libya-drone-attack-warship-officers-5719d6750c0619695c7f23a373cecd7b",
+          "publishedAt": "2026-11-25",
+          "genre": "Original news report by Samy Magdy and Samya Kullab",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Not-for-profit news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: Libyan military statement and background",
+            "rationale": "Reports the new Libyan military announcement and Ukraine's acknowledged role, with attribution."
+          },
+          "summary": "The Libyan National Army reported deaths from injuries and threatened an unspecified response.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-26T07:52:45.884Z",
+            "method": "research-tool",
+            "note": "Full originating article and bylines readable; original November 25 date corroborated by same-byline syndicated dispatches; original clock and timezone not verified."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-26T07:52:45.884Z",
+            "contentHash": null,
+            "evidenceNote": "Live article inspected during this research session; verification recorded at 2026-11-26T07:52:45.884Z. No historical capture inspected."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ly25-a",
+          "role": "contrast_a",
+          "headline": "Strikes on Russian ship in Libya are lawful self-defense, Ukraine says",
+          "url": "https://kyivindependent.com/strikes-on-russian-ship-in-libya-are-lawful-self-defense-ukraine-says/",
+          "publishedAt": "2026-11-24",
+          "genre": "Original news report by Jonas Heins",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "The Kyiv Independent",
+            "domain": "kyivindependent.com",
+            "country": "Ukraine",
+            "ownership": "Independent Kyiv Independent newsroom",
+            "ownershipGroup": "kyiv-independent",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Kyiv: legitimate self-defence",
+            "rationale": "Reports foreign ministry spokesperson Heorhii Tykhyi's Article 51 justification and assertion that Russian military assets were the targets."
+          },
+          "summary": "Ukraine claims its action was lawful and not directed against Libya.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-26T07:52:45.884Z",
+            "method": "research-tool",
+            "note": "Full report and byline readable; November 24 12:56 pm displayed, timezone not verified."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-26T07:52:45.884Z",
+            "contentHash": null,
+            "evidenceNote": "Live article inspected during this research session; verification recorded at 2026-11-26T07:52:45.884Z. No historical capture inspected."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ly25-b",
+          "role": "contrast_b",
+          "headline": "Italy rebukes Ukraine over attacks on Russian ships in Libya",
+          "url": "https://www.reuters.com/world/italy-rebukes-ukraine-over-attacks-russian-ships-libya-2026-11-25/",
+          "publishedAt": "2026-11-25T10:28:00Z",
+          "genre": "Original news report by Crispian Balmer",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Italy: sovereignty and escalation concerns",
+            "rationale": "Reports Tajani's objection to violating Libyan territory despite Italy's continuing support for Ukraine."
+          },
+          "summary": "Tajani argues the action risks extending the war to third countries.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-26T07:52:45.884Z",
+            "method": "research-tool",
+            "note": "Full article and named byline readable; November 25 10:28 UTC shown with undated update indicator."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-26T07:52:45.884Z",
+            "contentHash": null,
+            "evidenceNote": "Live article inspected during this research session; verification recorded at 2026-11-26T07:52:45.884Z. No historical capture inspected."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Ukraine acknowledged responsibility for an operation against a Russian warship in Libya on November 22.",
+          "sourceIds": [
+            "ly25-r",
+            "ly25-a",
+            "ly25-b"
+          ]
+        },
+        {
+          "text": "Ukrainian officials said their operation was defensive and directed against Russian military assets rather than Libya.",
+          "sourceIds": [
+            "ly25-a",
+            "ly25-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Disputed question: does Ukraine's right of self-defence justify its military action in Libyan waters? Position A: Tykhyi in ly25-a cites Article 51 and the Russian military character of the target. Position B: Tajani in ly25-b argues that Libya's sovereignty must be respected and warns of widening the conflict. ly25-r records new Libyan military allegations and retaliation threats, but neither it nor the other sources resolves the legal question.",
+          "sourceIds": [
+            "ly25-a",
+            "ly25-b",
+            "ly25-r"
+          ]
+        },
+        {
+          "text": "The reports converge on Ukraine's acknowledgment of the attack, but the justification and diplomatic implications remain contested. Italy's criticism is not an abandonment of support for Ukraine; the Ukrainian assertion does not establish lawful conduct.",
+          "sourceIds": [
+            "ly25-a",
+            "ly25-b",
+            "ly25-r"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Independent confirmation of the Libyan military casualty account.",
+        "Whether the threatened retaliation would occur.",
+        "Legal and diplomatic consequences for Ukraine, Libya and other Mediterranean states."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The Libyan National Army said two naval officers died from injuries sustained during the attack and threatened retaliation.",
+          "sourceIds": [
+            "ly25-r"
+          ],
+          "reason": "Attributed to the military statement reported by AP; not independently confirmed by the selected reporting."
+        },
+        {
+          "text": "Ukraine's foreign ministry maintains that the action was lawful self-defence.",
+          "sourceIds": [
+            "ly25-a",
+            "ly25-b"
+          ],
+          "reason": "A government legal argument; no independent determination established."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-26T07:52:45.884Z",
+    "author": "ChatGPT",
+    "reason": "Initial publication of the November 25 Paris-day edition."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Research performed on November 26; verification and recording timestamp 2026-11-26T07:52:45.884Z. Nine article bodies inspected without payment or login; originating bylines, headlines, publication metadata and genre checked. Date precision used where original clock or zone was not verified. AP date corroborated by same-byline syndication, not counted twice. Inaccessible Solomon Star candidate replaced by ABC. Guardian tariff article modified after cutoff; only corroborated cutoff-day material included. Reuters undated updates noted. No archived snapshots or content hashes verified. Public X searches during the November 26 morning session for tariffs/overcapacity, Solomon Islands treaty, and Libya/Tajani did not provide verifiable November 25 post samples or historical attention measurements; optional fields omitted, not evidence of low attention. Agent review, not human review."
+  }
+}
