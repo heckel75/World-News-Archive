@@ -1,0 +1,602 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-26",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-26T22:59:59Z",
+  "recordedAt": "2026-11-27T07:13:54.317Z",
+  "kind": "daily",
+  "selectionSummary": "Editorial selection based on cross-border reach, human and economic consequences, and enduring institutional significance. Global trade policy, European war financing and Gulf regional escalation meet these criteria. Other candidates including the Congo Ebola outbreak were considered; the inspected coverage did not establish a sufficiently verified contrasting pair for that candidate.",
+  "snapshot": {
+    "summary": "Trade friction, European financing disagreements and a disputed attack in Kuwait illustrate the difficulty of collective action amid geopolitical conflict. Proposals and attributed accusations are distinguished from implemented decisions and independently established findings.",
+    "connections": [
+      "US tariff proposals and EU borrowing negotiations both involve tensions between domestic interests and international obligations.",
+      "The Kuwait incident and Ukraine financing debate involve distinct conflicts with consequences extending beyond the immediate parties."
+    ],
+    "uncertainties": [
+      "Final tariffs and negotiated exemptions.",
+      "The outcome of EU financing and budget talks.",
+      "Independent attribution of the Kuwait attack and diplomatic consequences."
+    ]
+  },
+  "stories": [
+    {
+      "id": "us-tariff-reactions-nov26",
+      "eventId": "gl-us-industrial-overcapacity-tariffs-2026",
+      "title": "Trading partners oppose proposed US tariffs as aircraft maker warns of higher costs",
+      "summary": "China, Brazil and other trading partners challenged Washington's November 25 tariff proposals on Thursday. China urged negotiations and reserved its right to respond. Brazilian aircraft manufacturer Embraer warned that proposed duties on its products could increase US airline costs. The package remained subject to consultation.",
+      "whyItMatters": "The measures reach major economies and could affect global manufacturing, established trade arrangements and aviation supply chains.",
+      "region": "Global / United States / China / Brazil / European Union",
+      "tags": [
+        "trade",
+        "tariffs",
+        "United States",
+        "China",
+        "Brazil",
+        "aviation",
+        "supply chains"
+      ],
+      "selectionRationale": "A fresh international response to a major proposed change in US trade policy, with worldwide economic reach and concrete cross-border industry exposure.",
+      "evidenceNote": "AP originated November 25 within the 72-hour window; the publication date was corroborated via the same dispatch, not counted as another newsroom. Reuters and TIME report November 26 reactions. Forecasts are not observed price effects.",
+      "articles": [
+        {
+          "id": "tar26-r",
+          "role": "reference",
+          "headline": "Brazil's Embraer criticizes new US tariffs, warns of air travel inflation",
+          "url": "https://www.reuters.com/business/aerospace-defense/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-2026-11-26/",
+          "publishedAt": "2026-11-26T14:15:00Z",
+          "genre": "Original business news report by Gabriel Araujo",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: specific sector exposure",
+            "rationale": "Examines aircraft duties and supplier links through company statements and industry context."
+          },
+          "summary": "Embraer plans to contest proposed aircraft duties, arguing American airlines and travelers could bear some costs.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-27T07:13:54.317Z",
+            "method": "research-tool",
+            "note": "Full body and byline readable; November 26 14:15 UTC original timestamp; exact update time not shown."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-27T07:13:54.317Z",
+            "contentHash": null,
+            "evidenceNote": "Actual article body inspected in the November 27 morning research session; session verification recorded at 2026-11-27T07:13:54.317Z. No cutoff-time capture checked."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "tar26-a",
+          "role": "contrast_a",
+          "headline": "US to hike tariffs on China, EU, Brazil and others over subsidized factories",
+          "url": "https://apnews.com/article/trump-tariffs-china-european-union-367083ea32f71fd7f70029ba7df66bf0",
+          "publishedAt": "2026-11-25",
+          "genre": "Original news report by Christopher Rugaber, Aamer Madhani and Josh Boak",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Not-for-profit news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "US administration: industrial protection",
+            "rationale": "Reports the trade representative's justification based on the US investigation and includes critics and economic estimates."
+          },
+          "summary": "Washington presents the proposed duties as a response to subsidized production and other alleged market distortions.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-27T07:13:54.317Z",
+            "method": "research-tool",
+            "note": "Full originating article and bylines readable; original November 25 date corroborated through matching AP dispatch; no verified clock or zone."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-27T07:13:54.317Z",
+            "contentHash": null,
+            "evidenceNote": "Actual article body inspected in the November 27 morning research session; session verification recorded at 2026-11-27T07:13:54.317Z. No cutoff-time capture checked."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "tar26-b",
+          "role": "contrast_b",
+          "headline": "Trump’s Tariff Threats Deemed 'Unacceptable' By Outraged Trading Partners",
+          "url": "https://time.com/article/2026/11/26/china-brazil-eu-push-back-against-trump-tariffs/",
+          "publishedAt": "2026-11-26T15:31:11Z",
+          "genre": "Original news report by Callum Sutherland and Olivia-Anne Cleary",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "TIME",
+            "domain": "time.com",
+            "country": "United States",
+            "ownership": "TIME media company",
+            "ownershipGroup": "time",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Trading partners: unjustified unilateral pressure",
+            "rationale": "Foregrounds objections by foreign governments and analysts, including concerns about existing agreements; also reports the US rationale."
+          },
+          "summary": "China calls for consultation; Japan and Singapore reject elements of the US assessment, while Brazil objects to unilateral measures.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-27T07:13:54.317Z",
+            "method": "research-tool",
+            "note": "Full report and named bylines readable; original November 26 15:31 UTC, updated 18:42 UTC before cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-27T07:13:54.317Z",
+            "contentHash": null,
+            "evidenceNote": "Actual article body inspected in the November 27 morning research session; session verification recorded at 2026-11-27T07:13:54.317Z. No cutoff-time capture checked."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The November 25 proposal targets 14 trading partners and uses Section 301 of the 1974 Trade Act.",
+          "sourceIds": [
+            "tar26-a",
+            "tar26-b"
+          ]
+        },
+        {
+          "text": "The package includes a proposed 10% duty on aircraft imported from Brazil.",
+          "sourceIds": [
+            "tar26-a",
+            "tar26-r"
+          ]
+        },
+        {
+          "text": "The measures had not yet entered into effect and were subject to a further process.",
+          "sourceIds": [
+            "tar26-r",
+            "tar26-a",
+            "tar26-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Disputed question: are the unilateral tariffs a justified remedy for foreign industrial distortions? Position A: US trade representative Jamieson Greer in tar26-a cites US investigations into excess capacity and subsidies as grounds for action. Position B: Chinese commerce spokesperson He Yadong and other trading partners in tar26-b reject the approach; Japan disputes the claimed domestic distortions and China favors negotiation. The evidence establishes the proposed measures and the competing official assessments, not the validity of every US finding.",
+          "sourceIds": [
+            "tar26-a",
+            "tar26-b"
+          ]
+        },
+        {
+          "text": "The reports converge on the proposal. tar26-r provides a concrete counterargument from Embraer: US demand and sourcing mean the aircraft levy could burden American customers. This is a forecast, not an observed price change; AP also includes objections, and TIME reports the US justification.",
+          "sourceIds": [
+            "tar26-a",
+            "tar26-b",
+            "tar26-r"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Final duties, exemptions and consultation outcomes.",
+        "Whether existing trade agreements would be altered or retaliation imposed.",
+        "Actual effects on capacity, inflation, airline costs and supply chains."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "The US administration argues targeted foreign practices distort competition.",
+          "sourceIds": [
+            "tar26-a",
+            "tar26-b"
+          ],
+          "reason": "The investigation's conclusions are disputed by trading partners; not independently adjudicated by the selected articles."
+        },
+        {
+          "text": "Embraer's chief executive predicts higher airline costs and potentially higher fares.",
+          "sourceIds": [
+            "tar26-r"
+          ],
+          "reason": "Prospective company assessment; the duty was still a proposal."
+        }
+      ]
+    },
+    {
+      "id": "eu-ukraine-loan-summit-nov26",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Bulgaria offers civilian-only participation in Ukraine loan as EU budget dispute deepens",
+      "summary": "At the Brussels summit, Bulgarian Prime Minister Rumen Radev signaled support for civilian assistance within the proposed €45 billion Ukraine loan, but excluded weapons financing. Germany maintained its demand for broad participation, while several governments resisted linking the loan to the next EU budget.",
+      "whyItMatters": "The financing could help sustain Ukraine's public services and defense, while the dispute affects the EU's ability to agree on long-term spending and collective security commitments.",
+      "region": "Europe / European Union / Ukraine",
+      "tags": [
+        "Ukraine",
+        "EU",
+        "Bulgaria",
+        "Germany",
+        "budget",
+        "war financing"
+      ],
+      "selectionRationale": "A material change in a member government's position on a major cross-border war-financing proposal, amid negotiations over the EU's multiannual budget.",
+      "evidenceNote": "Euronews was published before the later Bulgarian announcement. Its earlier description of four holdouts is not treated as an opposing factual interpretation. The later Guardian and Reuters accounts corroborate Radev's conditional position. No subsequent summit outcome is assumed.",
+      "articles": [
+        {
+          "id": "eu26-r",
+          "role": "reference",
+          "headline": "Bulgaria ready to back EU loan for Ukraine for civilian aid, Radev says",
+          "url": "https://www.reuters.com/markets/asia/bulgaria-ready-back-eu-loan-ukraine-civilian-aid-radev-says-2026-11-26/",
+          "publishedAt": "2026-11-26T09:11:00Z",
+          "genre": "Original Reuters news dispatch",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: Bulgarian compromise",
+            "rationale": "Reports Radev's limited commitment and the two proposed financing strands."
+          },
+          "summary": "Bulgaria is willing to participate in the civilian portion but not in arms funding, according to its prime minister.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-27T07:13:54.317Z",
+            "method": "research-tool",
+            "note": "Full Reuters dispatch readable; original November 26 09:11 UTC; exact update time not shown."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-27T07:13:54.317Z",
+            "contentHash": null,
+            "evidenceNote": "Actual article body inspected in the November 27 morning research session; session verification recorded at 2026-11-27T07:13:54.317Z. No cutoff-time capture checked."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "eu26-a",
+          "role": "contrast_a",
+          "headline": "EU leaders wrestle over Ukraine aid as potential Le Pen victory sparks fear",
+          "url": "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
+          "publishedAt": "2026-11-26T12:07:00Z",
+          "genre": "Original news report by Jennifer Rankin",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Germany: shared responsibility",
+            "rationale": "Reports Merz's renewed insistence on participation by every member and describes the political stakes and objections."
+          },
+          "summary": "Berlin seeks universal participation; Bulgaria offers limited support while other governments resist.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-27T07:13:54.317Z",
+            "method": "research-tool",
+            "note": "Full article and byline readable; first published November 26 07:07 EST, modified 12:51 EST, both before cutoff."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-27T07:13:54.317Z",
+            "contentHash": null,
+            "evidenceNote": "Actual article body inspected in the November 27 morning research session; session verification recorded at 2026-11-27T07:13:54.317Z. No cutoff-time capture checked."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "eu26-b",
+          "role": "contrast_b",
+          "headline": "EU budget and Ukraine aid headed for collision at turbulent summit",
+          "url": "https://www.euronews.com/2026/11/26/eu-budget-and-ukraine-aid-headed-for-collision-at-turbulent-summit",
+          "publishedAt": "2026-11-26T05:30:00Z",
+          "genre": "Original news report by Jorge Liboreiro",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Euronews",
+            "domain": "euronews.com",
+            "country": "France",
+            "ownership": "Euronews SA",
+            "ownershipGroup": "euronews",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Opponents: coercion and budget autonomy",
+            "rationale": "Reports Fico's rejection of the budget ultimatum and diplomats' concerns about its consequences, alongside supporters' arguments."
+          },
+          "summary": "Some governments resist the linkage between Ukraine funding and the long-term EU budget; diplomats disagree about whether pressure will help.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-27T07:13:54.317Z",
+            "method": "research-tool",
+            "note": "Full article and byline readable; original November 26 06:30 GMT+1, preceding Bulgaria's later announcement."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-27T07:13:54.317Z",
+            "contentHash": null,
+            "evidenceNote": "Actual article body inspected in the November 27 morning research session; session verification recorded at 2026-11-27T07:13:54.317Z. No cutoff-time capture checked."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "EU leaders discussed a proposed €45 billion loan for Ukraine at the November 26 Brussels summit.",
+          "sourceIds": [
+            "eu26-r",
+            "eu26-a",
+            "eu26-b"
+          ]
+        },
+        {
+          "text": "The proposal separates up to €25 billion for military support and up to €20 billion for nonmilitary support.",
+          "sourceIds": [
+            "eu26-r",
+            "eu26-a"
+          ]
+        },
+        {
+          "text": "Radev said Bulgaria would participate in nonmilitary support but not weapons funding.",
+          "sourceIds": [
+            "eu26-r",
+            "eu26-a"
+          ]
+        },
+        {
+          "text": "Merz had threatened to withhold approval of the next EU budget unless all members agreed to participate in the loan.",
+          "sourceIds": [
+            "eu26-a",
+            "eu26-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Disputed question: should agreement on the EU budget be conditioned on universal participation in Ukraine financing? Position A: Merz in eu26-a argues that common European funding requires common responsibility. Position B: Fico in eu26-b rejects the linkage as coercive; some diplomats warn it may make compromise harder. These are attributed policy judgments. The reports establish the ultimatum and dissent, not which tactic will succeed.",
+          "sourceIds": [
+            "eu26-a",
+            "eu26-b"
+          ]
+        },
+        {
+          "text": "The accounts converge on the funding dispute. eu26-r documents Bulgaria's conditional civilian-only commitment, showing a possible partial compromise. The earlier Euronews account predates this development; differing holdout counts do not constitute contradictory evidence.",
+          "sourceIds": [
+            "eu26-r",
+            "eu26-a",
+            "eu26-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Final participation and approval of the loan.",
+        "Whether the budget and funding negotiations can be separated or jointly resolved.",
+        "Timing and terms of any disbursements."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Supporters argue that a common security burden requires universal participation.",
+          "sourceIds": [
+            "eu26-a",
+            "eu26-b"
+          ],
+          "reason": "A political and strategic argument rather than an independently proven necessity."
+        },
+        {
+          "text": "Fico characterizes the budget linkage as coercion; some diplomats warn it could backfire.",
+          "sourceIds": [
+            "eu26-b",
+            "eu26-a"
+          ],
+          "reason": "Political characterization and forecast, not an established legal finding or outcome."
+        }
+      ]
+    },
+    {
+      "id": "kuwait-iran-italy-drone-dispute-nov26",
+      "eventId": "me-iran-us-israel-war-hormuz-2026",
+      "title": "Italy and Kuwait attribute fatal incident to Iran; Tehran denies involvement",
+      "summary": "Kuwaiti and Italian officials reported that two Italian civilian employees died after an incident at a facility in Kuwait. Kuwait attributed the attack to Iran, whose military and foreign minister denied involvement. Tehran offered a joint investigation, according to Reuters. Independent responsibility was not established in the selected coverage.",
+      "whyItMatters": "The deaths and conflicting accounts risk worsening relations between Iran, Gulf states and European governments during an already internationalized conflict.",
+      "region": "Middle East / Kuwait / Iran / Italy",
+      "tags": [
+        "Iran",
+        "Kuwait",
+        "Italy",
+        "regional conflict",
+        "diplomacy",
+        "attribution"
+      ],
+      "selectionRationale": "A new fatal incident affecting nationals of a third country amid a conflict with substantial regional and international security consequences.",
+      "evidenceNote": "The AP original regional roundup and Anadolu original dispatch are independent of Reuters. Their reporting draws on government statements. The AP headline attributes the attack more categorically than its Kuwait section, which attributes the claim and includes Iran's denial. No independent forensic evidence was established.",
+      "articles": [
+        {
+          "id": "kw26-r",
+          "role": "reference",
+          "headline": "Two Italians killed in attack on Kuwait site, Iran denies involvement",
+          "url": "https://www.reuters.com/world/asia-pacific/two-italians-killed-iranian-drone-attack-kuwait-italy-says-2026-11-26/",
+          "publishedAt": "2026-11-26T15:24:00Z",
+          "genre": "Original Reuters news dispatch",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: competing accounts and diplomacy",
+            "rationale": "Reports statements by Italy, Kuwait and Iran, separating attribution from denial and noting an offer of investigation."
+          },
+          "summary": "Italy and Kuwait blame Iran; Tehran rejects responsibility and proposes investigating the incident jointly.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-27T07:13:54.317Z",
+            "method": "research-tool",
+            "note": "Full article readable; original November 26 15:24 UTC; exact update time not displayed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-27T07:13:54.317Z",
+            "contentHash": null,
+            "evidenceNote": "Actual article body inspected in the November 27 morning research session; session verification recorded at 2026-11-27T07:13:54.317Z. No cutoff-time capture checked."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "kw26-a",
+          "role": "contrast_a",
+          "headline": "Israeli strikes kill 10 in Gaza as Iranian drones kill 2 Italians in Kuwait, and other Mideast news",
+          "url": "https://apnews.com/article/gaza-iran-israel-uae-hormuz-november-26-2026-522676f17532b878878ff7a4347d0e31",
+          "publishedAt": "2026-11-26",
+          "genre": "Original regional news roundup by Elena Becatoros, Fatma Khaled and Toqa Ezzidin",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Not-for-profit news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Kuwaiti and Italian officials: Iranian responsibility",
+            "rationale": "The Kuwait section reports the defense ministry's account and the Italian foreign ministry's confirmation of the victims' civilian employment; it also includes Iran's denial."
+          },
+          "summary": "Kuwait says Iran was responsible; Italy confirms the victims' civilian status; Tehran denies the attribution.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-27T07:13:54.317Z",
+            "method": "research-tool",
+            "note": "Full original article and bylines readable; November 26 publication date corroborated via matching AP dispatch; original clock and zone not verified."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-27T07:13:54.317Z",
+            "contentHash": null,
+            "evidenceNote": "Actual article body inspected in the November 27 morning research session; session verification recorded at 2026-11-27T07:13:54.317Z. No cutoff-time capture checked."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "kw26-b",
+          "role": "contrast_b",
+          "headline": "Iran denies attacking vital facility in Kuwait",
+          "url": "https://www.aa.com.tr/en/middle-east/iran-denies-attacking-vital-facility-in-kuwait/4139494",
+          "publishedAt": "2026-11-26",
+          "genre": "Original news report by Lina Altawell",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Anadolu Agency",
+            "domain": "aa.com.tr",
+            "country": "Türkiye",
+            "ownership": "Turkish state-funded national news agency",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Iranian military: denial and counteraccusation",
+            "rationale": "Reports Abolfazl Shekarchi's denial via Iranian media and his allegations about US and Israeli actions; also records Kuwait's contrary account."
+          },
+          "summary": "Iran's spokesman denies that its forces conducted the attack and suggests the allegations are being used to justify hostility.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-27T07:13:54.317Z",
+            "method": "research-tool",
+            "note": "Full article and byline readable; original and update dates November 26, with no verified clock or zone."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-27T07:13:54.317Z",
+            "contentHash": null,
+            "evidenceNote": "Actual article body inspected in the November 27 morning research session; session verification recorded at 2026-11-27T07:13:54.317Z. No cutoff-time capture checked."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Kuwait's defense ministry reported an incident at a facility on November 26 and attributed it to Iran.",
+          "sourceIds": [
+            "kw26-r",
+            "kw26-a",
+            "kw26-b"
+          ]
+        },
+        {
+          "text": "The deaths of two Italian nationals were reported by Kuwaiti authorities, and Italy also confirmed the deaths.",
+          "sourceIds": [
+            "kw26-r",
+            "kw26-a",
+            "kw26-b"
+          ]
+        },
+        {
+          "text": "Iranian officials denied responsibility.",
+          "sourceIds": [
+            "kw26-r",
+            "kw26-a",
+            "kw26-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Disputed question: was Iran responsible for the Kuwait incident? Position A: Kuwait's defense ministry, reported by kw26-a, attributes it to Iranian forces; Italy's foreign minister also attributes it to Iran in kw26-r. Position B: Iran's military spokesman in kw26-b denies an operation by Iranian forces and alleges hostile actors exploit such accusations. The selected coverage establishes the incident, reported deaths and opposed statements, but not independent attribution.",
+          "sourceIds": [
+            "kw26-a",
+            "kw26-b",
+            "kw26-r"
+          ]
+        },
+        {
+          "text": "AP's headline asserts Iranian responsibility more directly than its article's attributed account. Anadolu foregrounds the Iranian denial but also records Kuwait's position. Reuters distinguishes the competing official claims and reports a proposed joint inquiry. Neither the denial nor the counteraccusation establishes an alternative perpetrator.",
+          "sourceIds": [
+            "kw26-a",
+            "kw26-b",
+            "kw26-r"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Independent determination of responsibility.",
+        "Whether Kuwait would accept the proposed joint inquiry.",
+        "Diplomatic consequences for Iran, Kuwait and Italy."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Kuwait and Italy attribute the incident to Iran.",
+          "sourceIds": [
+            "kw26-a",
+            "kw26-r"
+          ],
+          "reason": "Official attribution is not independently demonstrated by the selected articles."
+        },
+        {
+          "text": "Iran denies involvement; its military spokesman suggests hostile actors use false-flag tactics.",
+          "sourceIds": [
+            "kw26-b",
+            "kw26-r"
+          ],
+          "reason": "No independent evidence in the selected reporting establishes the denial or identifies a different perpetrator."
+        }
+      ]
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-27T07:13:54.317Z",
+    "author": "ChatGPT",
+    "reason": "Initial publication of the November 26 Paris-day edition."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Nine originating news articles inspected without a payment or login barrier in the November 27 morning research session; session verification and recording at 2026-11-27T07:13:54.317Z. Original headlines, dates, genre, newsroom and access checked. AP original dates corroborated through matching dispatches; no double counting of syndication. Date precision retained where clock or timezone could not be verified. Reuters update times not displayed; no historical capture or fingerprint verified. Used only corroborated developments and clearly attributed statements from the cutoff day or preceding eligible context. Public X searches during the November 27 morning session for US tariffs, EU Ukraine funding and Kuwait/Iran did not establish a verifiable edition-day sample or historical volume signal; optional fields omitted, not evidence of low attention. A Congo Ebola source could not be accessed and that candidate did not yield an eligible contrasting set; other qualifying stories selected. Agent review, not human review."
+  }
+}
