@@ -1,0 +1,624 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-27",
+  "timezone": "Europe/Paris",
+  "cutoff": "2026-11-27T22:59:59Z",
+  "recordedAt": "2026-11-28T07:11:33.181Z",
+  "kind": "daily",
+  "selectionSummary": "Selected distinct developments for their cross-border consequences, breadth of independent coverage and lasting institutional significance: Ukraine diplomacy, a Gulf diplomatic escalation and a constitutional rights judgment. This is an editorial selection, not an objective ranking.",
+  "snapshot": {
+    "summary": "Three developments illustrate the difference between political arguments, official attribution and authoritative legal outcomes.",
+    "connections": [
+      "Ukraine and Kuwait involve competing diplomatic positions amid ongoing conflicts.",
+      "The Quebec ruling concerns a settled legal question but a continuing debate over policy legitimacy."
+    ],
+    "uncertainties": [
+      "Whether diplomatic pressure or engagement would produce a settlement.",
+      "Independent attribution of the Kuwait attack.",
+      "Long-term effects of the Quebec ruling."
+    ]
+  },
+  "stories": [
+    {
+      "id": "ukraine-us-putin-diplomacy-nov27",
+      "eventId": "eu-russia-ukraine-war-2022",
+      "title": "Zelenskyy urges Washington to press Putin rather than cultivate friendship",
+      "summary": "In a BBC interview broadcast Friday, Ukraine's president objected to Donald Trump's friendly description of Vladimir Putin and called for stronger American pressure on Russia. Trump had defended his personal relationship with Putin as useful to peacemaking. The Kremlin portrayed Zelenskyy's criticism as evidence of reluctance to negotiate.",
+      "whyItMatters": "The US approach to Russian leadership affects the leverage available to Ukraine and the prospects for negotiations in a war with international security and economic consequences.",
+      "region": "Europe / Ukraine / Russia / United States",
+      "tags": [
+        "Ukraine",
+        "Russia",
+        "United States",
+        "diplomacy",
+        "peace negotiations"
+      ],
+      "selectionRationale": "A new public disagreement over the diplomatic strategy of major powers in an ongoing international war.",
+      "evidenceNote": "The outlets report the BBC interview and earlier public remarks; shared reliance on that interview corroborates the statements, not their strategic predictions. The Guardian item is its own authored Ukraine entry in a wider live blog; unrelated entries and syndicated material elsewhere in that blog are not used.",
+      "articles": [
+        {
+          "id": "ua27-r",
+          "role": "reference",
+          "headline": "Ukraine's Zelenskiy compares Trump's friendship with Putin to friendship with Hitler",
+          "url": "https://www.reuters.com/business/media-telecom/ukraines-zelenskiy-compares-trumps-friendship-with-putin-friendship-with-hitler-2026-11-27/",
+          "publishedAt": "2026-11-27T08:22:00Z",
+          "genre": "Original news dispatch by Sarah Young",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: dispute over diplomacy",
+            "rationale": "Reports Zelenskyy's criticism in the context of Trump's approach and the continuing war."
+          },
+          "summary": "Zelenskyy argues that treating Putin as a friend is inconsistent with the pressure Ukraine needs.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-28T07:11:33.181Z",
+            "method": "research-tool",
+            "note": "Full dispatch readable; original November 27 at 08:22 UTC; exact update time not displayed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-28T07:11:33.181Z",
+            "contentHash": null,
+            "evidenceNote": "Article body and publication metadata inspected during the November 28 research session; session verification recorded at 2026-11-28T07:11:33.181Z. Current retrieval, not a preserved cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ua27-a",
+          "role": "contrast_a",
+          "headline": "Spanish prime minister Pedro Sánchez confident of election victory despite polls – as it happened",
+          "url": "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+          "publishedAt": "2026-11-27T09:36:00Z",
+          "genre": "Original rolling Europe news blog; Ukraine entry by Jakub Krupa",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Zelenskyy: pressure rather than friendship",
+            "rationale": "The opening Ukraine reporting foregrounds Zelenskyy's demand for US pressure and rejection of Trump's description of Putin."
+          },
+          "summary": "The Ukrainian president argues that a friendly relationship with Putin is inappropriate during Russia's invasion and that Washington should exert more pressure.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-28T07:11:33.181Z",
+            "method": "research-tool",
+            "note": "Full live blog readable; exact final page headline recorded; first published 04:36 EST and last modified 11:19 EST November 27; only the Guardian-authored Ukraine entry is used."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-28T07:11:33.181Z",
+            "contentHash": null,
+            "evidenceNote": "Article body and publication metadata inspected during the November 28 research session; session verification recorded at 2026-11-28T07:11:33.181Z. Current retrieval, not a preserved cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "ua27-b",
+          "role": "contrast_b",
+          "headline": "Zelenskyy urges US to pressure Putin and questions Trump’s reference to Putin as a ‘friend’",
+          "url": "https://apnews.com/article/russia-ukraine-war-zelenskyy-trump-putin-d891149b4cbd6521b83096a32bd5e53d",
+          "publishedAt": "2026-11-27",
+          "genre": "Original news report by Samya Kullab and Elise Morton",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Not-for-profit news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Trump: personal rapport as a diplomatic tool",
+            "rationale": "Reports Trump's defence of personal relationships in seeking a settlement and Kremlin spokesman Peskov's criticism, alongside Kyiv's position."
+          },
+          "summary": "Trump maintains that rapport can help end the war; the Kremlin interprets Zelenskyy's criticism as resistance to settlement.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-28T07:11:33.181Z",
+            "method": "research-tool",
+            "note": "Full AP report and bylines readable; original date corroborated through matching AP dispatch; original clock and zone not independently verified."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-28T07:11:33.181Z",
+            "contentHash": null,
+            "evidenceNote": "Article body and publication metadata inspected during the November 28 research session; session verification recorded at 2026-11-28T07:11:33.181Z. Current retrieval, not a preserved cutoff-time capture."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Zelenskyy criticized Trump's friendly description of Putin in a BBC interview reported on November 27.",
+          "sourceIds": [
+            "ua27-r",
+            "ua27-a",
+            "ua27-b"
+          ]
+        },
+        {
+          "text": "Trump had referred to Putin as a friend in the context of recent diplomacy.",
+          "sourceIds": [
+            "ua27-r",
+            "ua27-a",
+            "ua27-b"
+          ]
+        },
+        {
+          "text": "Russia's invasion of Ukraine was continuing when the remarks were made.",
+          "sourceIds": [
+            "ua27-r",
+            "ua27-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Disputed question: does cordial US engagement with Putin help achieve peace or undermine necessary pressure on Russia? Position A: Zelenskyy, quoted in ua27-a, argues that Russia's continued invasion and attacks make friendship inappropriate and that greater pressure is needed. Position B: Trump, reported in ua27-b, maintains that personal rapport facilitates negotiations and that hostility between leaders is an obstacle. These are attributed strategic assessments, not the newsrooms' own prescriptions.",
+          "sourceIds": [
+            "ua27-a",
+            "ua27-b"
+          ]
+        },
+        {
+          "text": "The reports converge on the existence of the interview and the competing public positions. Peskov's suggestion that Kyiv is unwilling to settle is a separate attributed accusation. The evidence does not establish that either diplomatic approach would end the war.",
+          "sourceIds": [
+            "ua27-r",
+            "ua27-a",
+            "ua27-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Whether Washington would change its approach or increase pressure.",
+        "Whether personal engagement could lead to enforceable concessions.",
+        "Prospects for negotiations and security guarantees."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Trump argues that friendly personal relations can facilitate peace.",
+          "sourceIds": [
+            "ua27-b"
+          ],
+          "reason": "A strategic prediction, not a demonstrated outcome."
+        },
+        {
+          "text": "Peskov portrays Zelenskyy's criticism as unwillingness to settle.",
+          "sourceIds": [
+            "ua27-b"
+          ],
+          "reason": "An attributed Kremlin interpretation, not proof of Kyiv's intentions."
+        },
+        {
+          "text": "Zelenskyy argues that a tougher US position is necessary.",
+          "sourceIds": [
+            "ua27-a",
+            "ua27-r"
+          ],
+          "reason": "A policy judgment about leverage rather than a proven causal outcome."
+        }
+      ],
+      "xDiscourse": {
+        "summary": "In a post reproduced in contemporaneous IBTimes UK coverage rather than directly accessible on X, Scott Robertson highlighted Zelenskyy’s rejection of Trump’s friendly description of Putin. This single example foregrounds Kyiv’s criticism and cannot establish wider opinion.",
+        "examples": [
+          "https://x.com/sarobertson_/status/2126094171110854862"
+        ]
+      }
+    },
+    {
+      "id": "kuwait-iran-diplomatic-protest-nov27",
+      "eventId": "me-iran-us-israel-war-hormuz-2026",
+      "title": "Kuwait summons Iranian ambassador over fatal attack disputed by Tehran",
+      "summary": "Kuwait summoned Iran's ambassador and delivered a diplomatic protest after an attack the previous day in which two Italian nationals died, according to Kuwaiti and Italian authorities. Kuwait attributes responsibility to Iran, which denies involvement and has proposed a joint investigation.",
+      "whyItMatters": "The dispute risks worsening Gulf and European relations with Iran and underscores the difficulty of independently attributing attacks during an international conflict.",
+      "region": "Middle East / Kuwait / Iran / Italy",
+      "tags": [
+        "Kuwait",
+        "Iran",
+        "Italy",
+        "diplomacy",
+        "attribution",
+        "regional security"
+      ],
+      "selectionRationale": "A fresh diplomatic escalation following a fatal incident involving nationals of a third country.",
+      "evidenceNote": "The reports rely on official accounts for attribution. Euronews predates the later summons; its focus on Iran's denial is not a contradictory chronology. No independent forensic determination was established.",
+      "articles": [
+        {
+          "id": "kw27-r",
+          "role": "reference",
+          "headline": "Kuwait summons Iranian ambassador over deadly drone attack",
+          "url": "https://www.aa.com.tr/en/middle-east/kuwait-summons-iranian-ambassador-over-deadly-drone-attack/4140652",
+          "publishedAt": "2026-11-27",
+          "genre": "Original news report by Mohammad Sio",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Anadolu Agency",
+            "domain": "aa.com.tr",
+            "country": "Türkiye",
+            "ownership": "Turkish state-funded national news agency",
+            "ownershipGroup": "anadolu-agency",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: diplomatic protest",
+            "rationale": "Records Kuwait's summons and the disputed attribution of the attack."
+          },
+          "summary": "Kuwait protested to Iran's ambassador; Tehran denies responsibility for the fatal incident.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-28T07:11:33.181Z",
+            "method": "research-tool",
+            "note": "Full article and byline readable; original and update dates November 27, clock and zone not verified."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-28T07:11:33.181Z",
+            "contentHash": null,
+            "evidenceNote": "Article body and publication metadata inspected during the November 28 research session; session verification recorded at 2026-11-28T07:11:33.181Z. Current retrieval, not a preserved cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "kw27-a",
+          "role": "contrast_a",
+          "headline": "Kuwait summons Iranian ambassador after drone attack kills two Italians",
+          "url": "https://www.iranintl.com/en/202611270279",
+          "publishedAt": "2026-11-27T14:45:00Z",
+          "genre": "Original newsroom news report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Iran International",
+            "domain": "iranintl.com",
+            "country": "United Kingdom",
+            "ownership": "Volant Media UK Limited",
+            "ownershipGroup": "volant-media",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Kuwait: Iranian responsibility and sovereignty",
+            "rationale": "Reports Kuwait's deputy foreign minister holding Iran responsible and invoking the state's right to defend itself."
+          },
+          "summary": "Kuwaiti officials frame the incident as a violation of sovereignty and blame Iran.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-28T07:11:33.181Z",
+            "method": "research-tool",
+            "note": "Full report readable; original 14:45 GMT, updated 17:52 GMT November 27; Volant Media UK Limited identified on site."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-28T07:11:33.181Z",
+            "contentHash": null,
+            "evidenceNote": "Article body and publication metadata inspected during the November 28 research session; session verification recorded at 2026-11-28T07:11:33.181Z. Current retrieval, not a preserved cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "kw27-b",
+          "role": "contrast_b",
+          "headline": "Iran denies responsibility for Kuwait drone strike that killed two Italians",
+          "url": "https://www.euronews.com/2026/11/27/iran-denies-responsibility-for-kuwait-drone-strike-that-killed-two-italians",
+          "publishedAt": "2026-11-27T10:20:00Z",
+          "genre": "Original Euronews Persian newsroom report",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Euronews",
+            "domain": "euronews.com",
+            "country": "France",
+            "ownership": "Euronews SA",
+            "ownershipGroup": "euronews",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Iran: denial and proposed inquiry",
+            "rationale": "Foregrounds Iranian officials' denial and proposed investigation, and reports unsubstantiated alternative attributions."
+          },
+          "summary": "Tehran rejects the accusation and offers an inquiry; other allegations of responsibility remain unsupported.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-28T07:11:33.181Z",
+            "method": "research-tool",
+            "note": "Full report readable; November 27 11:20 GMT+1, before the later diplomatic summons."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-28T07:11:33.181Z",
+            "contentHash": null,
+            "evidenceNote": "Article body and publication metadata inspected during the November 28 research session; session verification recorded at 2026-11-28T07:11:33.181Z. Current retrieval, not a preserved cutoff-time capture."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "Kuwait announced on November 27 that it had summoned Iran's ambassador and delivered a protest.",
+          "sourceIds": [
+            "kw27-r",
+            "kw27-a"
+          ]
+        },
+        {
+          "text": "Kuwaiti and Italian officials reported two Italian deaths following the incident; Kuwait attributed it to Iran.",
+          "sourceIds": [
+            "kw27-r",
+            "kw27-a",
+            "kw27-b"
+          ]
+        },
+        {
+          "text": "Iranian officials denied responsibility.",
+          "sourceIds": [
+            "kw27-r",
+            "kw27-a",
+            "kw27-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Disputed question: was Iran responsible for the fatal attack in Kuwait? Position A: Kuwait's deputy foreign minister, reported in kw27-a, holds Iran responsible and cites the alleged attack and sovereignty violation. Position B: Iran's foreign minister and military officials, reported in kw27-b, deny involvement and propose an investigation. Their statements establish conflicting official positions, not independently verified attribution.",
+          "sourceIds": [
+            "kw27-a",
+            "kw27-b"
+          ]
+        },
+        {
+          "text": "The reports converge on the reported deaths and opposed official statements. The diplomatic summons is a subsequent development reported by kw27-r and kw27-a. The alternative perpetrator allegations reported in kw27-b are unsubstantiated; no selected article provides a conclusive forensic finding.",
+          "sourceIds": [
+            "kw27-r",
+            "kw27-a",
+            "kw27-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Independent attribution and circumstances of the attack.",
+        "Whether Kuwait would agree to a joint investigation.",
+        "Consequences for diplomatic relations and regional security."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Kuwait holds Iran responsible for the attack.",
+          "sourceIds": [
+            "kw27-r",
+            "kw27-a"
+          ],
+          "reason": "Official attribution without independent forensic confirmation in the selected reports."
+        },
+        {
+          "text": "Iran denies involvement; alternative perpetrator allegations appeared in Iranian media.",
+          "sourceIds": [
+            "kw27-b"
+          ],
+          "reason": "The denial and alternative allegations are not independently established."
+        }
+      ],
+      "xDiscourse": {
+        "summary": "In the Kuwaiti foreign ministry post reproduced by Asharq Al-Awsat rather than obtained through live X access, the ministry frames the summons as a response to continued Iranian aggression. This reflects the ministry’s public attribution, not independent evidence of who carried out the strike.",
+        "examples": [
+          "https://x.com/MOFAKuwait/status/2126321426072265002"
+        ]
+      }
+    },
+    {
+      "id": "canada-quebec-secularism-ruling-nov27",
+      "eventId": "na-canada-quebec-bill21-constitutional-case-2019-2026",
+      "title": "Canada's top court largely upholds Quebec's religious-symbol restrictions",
+      "summary": "Canada's Supreme Court largely upheld Quebec's 2019 secularism law, including its use of the constitutional override clause. It struck down the face-covering requirement for elected legislators. Supporters welcomed the decision as affirming legislative authority and state secularism, while religious-minority advocates warned of continuing exclusion.",
+      "whyItMatters": "The decision has lasting implications for Canadian constitutional rights and minority participation in public employment, with comparative relevance to secularism and rights debates internationally.",
+      "region": "North America / Canada / Quebec",
+      "tags": [
+        "Canada",
+        "Quebec",
+        "religious freedom",
+        "secularism",
+        "constitutional law",
+        "minority rights"
+      ],
+      "selectionRationale": "A consequential final-court decision with enduring institutional significance and relevance to similar legal debates beyond Canada.",
+      "evidenceNote": "The reports independently cover the court's judgment and competing reactions. The judgment settles the legal challenge as described, not the normative merits of the restrictions.",
+      "articles": [
+        {
+          "id": "qc27-r",
+          "role": "reference",
+          "headline": "Canada’s top court upholds Quebec law barring public sector workers from wearing religious symbols",
+          "url": "https://www.theguardian.com/world/2026/nov/27/canadas-top-court-upholds-quebec-law-barring-public-sector-workers-from-wearing-religious-symbols",
+          "publishedAt": "2026-11-27T16:13:00Z",
+          "genre": "Original news report by Leyland Cecco",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "The Guardian",
+            "domain": "theguardian.com",
+            "country": "United Kingdom",
+            "ownership": "Guardian Media Group / Scott Trust",
+            "ownershipGroup": "guardian-media-group",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Reference: judgment and its exception",
+            "rationale": "Describes the constitutional ruling, the limited exception and the competing reactions."
+          },
+          "summary": "The court largely upholds Bill 21 while invalidating a requirement for elected legislators.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-28T07:11:33.181Z",
+            "method": "research-tool",
+            "note": "Full article readable; first published 17:13 CET, modified 18:27 CET November 27."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-28T07:11:33.181Z",
+            "contentHash": null,
+            "evidenceNote": "Article body and publication metadata inspected during the November 28 research session; session verification recorded at 2026-11-28T07:11:33.181Z. Current retrieval, not a preserved cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "qc27-a",
+          "role": "contrast_a",
+          "headline": "Canada’s Supreme Court largely upholds a Quebec ban on religious symbols for public servants",
+          "url": "https://apnews.com/article/canada-quebec-religious-symbols-supreme-court-8fa520067e80483a7e0c5d1c01fb4189",
+          "publishedAt": "2026-11-27",
+          "genre": "Original news report by Rob Gillies",
+          "publishedPrecision": "date",
+          "outlet": {
+            "name": "Associated Press",
+            "domain": "apnews.com",
+            "country": "United States",
+            "ownership": "Not-for-profit news cooperative",
+            "ownershipGroup": "associated-press",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Supporters: secularism and provincial authority",
+            "rationale": "Reports the Quebec premier's celebration and the supporters' view that public institutions should be religiously neutral, as well as objections."
+          },
+          "summary": "Quebec's leadership welcomes the court's decision as vindication of the province's legislative approach.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-28T07:11:33.181Z",
+            "method": "research-tool",
+            "note": "Full AP article and byline readable; original date corroborated by matching AP dispatch; original clock and zone not verified."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-28T07:11:33.181Z",
+            "contentHash": null,
+            "evidenceNote": "Article body and publication metadata inspected during the November 28 research session; session verification recorded at 2026-11-28T07:11:33.181Z. Current retrieval, not a preserved cutoff-time capture."
+          },
+          "archivedUrl": null
+        },
+        {
+          "id": "qc27-b",
+          "role": "contrast_b",
+          "headline": "Canada's top court upholds Quebec law banning religious symbols in test of unity",
+          "url": "https://www.reuters.com/legal/government/canadas-supreme-court-rule-quebecs-law-religious-symbols-test-canadian-unity-2026-11-27/",
+          "publishedAt": "2026-11-27T11:03:00Z",
+          "genre": "Original news dispatch by Maria Cheng",
+          "publishedPrecision": "datetime",
+          "outlet": {
+            "name": "Reuters",
+            "domain": "reuters.com",
+            "country": "United Kingdom",
+            "ownership": "Thomson Reuters Corporation",
+            "ownershipGroup": "thomson-reuters",
+            "ownershipSource": null
+          },
+          "lens": {
+            "label": "Critics: exclusion and constitutional precedent",
+            "rationale": "Reports religious-minority advocates' concerns about employment and an expert's warning about use of the constitutional override."
+          },
+          "summary": "Rights advocates argue that the law disproportionately excludes minority women from public employment and raises broader constitutional concerns.",
+          "access": {
+            "status": "readable",
+            "checkedAt": "2026-11-28T07:11:33.181Z",
+            "method": "research-tool",
+            "note": "Full dispatch readable; original November 27 11:03 UTC; exact update time not displayed."
+          },
+          "provenance": {
+            "retrievedAt": "2026-11-28T07:11:33.181Z",
+            "contentHash": null,
+            "evidenceNote": "Article body and publication metadata inspected during the November 28 research session; session verification recorded at 2026-11-28T07:11:33.181Z. Current retrieval, not a preserved cutoff-time capture."
+          },
+          "archivedUrl": null
+        }
+      ],
+      "commonFacts": [
+        {
+          "text": "The Supreme Court largely upheld Quebec's 2019 religious-symbol restrictions.",
+          "sourceIds": [
+            "qc27-r",
+            "qc27-a",
+            "qc27-b"
+          ]
+        },
+        {
+          "text": "The judgment upheld the law's use of the constitutional override provision.",
+          "sourceIds": [
+            "qc27-r",
+            "qc27-a",
+            "qc27-b"
+          ]
+        },
+        {
+          "text": "The face-covering requirement for elected legislators was struck down.",
+          "sourceIds": [
+            "qc27-r",
+            "qc27-a",
+            "qc27-b"
+          ]
+        },
+        {
+          "text": "The law restricts religious symbols for categories of public employees including teachers and police.",
+          "sourceIds": [
+            "qc27-r",
+            "qc27-a",
+            "qc27-b"
+          ]
+        }
+      ],
+      "framingDifferences": [
+        {
+          "text": "Disputed question: are the religious-symbol restrictions a legitimate means of maintaining state secularism or an unjust exclusion of religious minorities? Position A: Quebec premier Paul St-Pierre Plamondon and supporters, reported in qc27-a, welcome the ruling and defend public institutional neutrality and legislative authority. Position B: Stephen Brown of the National Council of Canadian Muslims, reported in qc27-b, points to lost employment opportunities for women who wear religious symbols; legal scholar Kerri Froc raises concerns about the precedent. These are attributed positions, not endorsements by AP or Reuters.",
+          "sourceIds": [
+            "qc27-a",
+            "qc27-b"
+          ]
+        },
+        {
+          "text": "All three reports converge on the court's decision and its exception for elected legislators. The legal ruling is authoritative on the issues decided, but it does not demonstrate that the policy is socially beneficial or settle the political debate about its consequences.",
+          "sourceIds": [
+            "qc27-r",
+            "qc27-a",
+            "qc27-b"
+          ]
+        }
+      ],
+      "uncertainties": [
+        "Long-term effects on minority employment and public participation.",
+        "Whether other legislatures would expand use of the override.",
+        "Future political responses and changes to Quebec's law."
+      ],
+      "unverifiedClaims": [
+        {
+          "text": "Supporters argue the restrictions protect state secularism.",
+          "sourceIds": [
+            "qc27-a"
+          ],
+          "reason": "A normative policy justification, not proof of social outcomes."
+        },
+        {
+          "text": "Critics warn of exclusion and wider constitutional consequences.",
+          "sourceIds": [
+            "qc27-b"
+          ],
+          "reason": "Attributed concerns; future effects were not established at cutoff."
+        }
+      ],
+      "xDiscourse": {
+        "summary": "In a contemporaneous KaCheng reproduction rather than directly accessible X content, Alberta premier Danielle Smith welcomed the judgment as vindication of legislative and provincial authority. Her post frames the issue around elected legislatures’ constitutional powers; this is one political actor’s view, not public consensus.",
+        "examples": [
+          "https://x.com/ABDanielleSmith/status/2126350448378642621"
+        ]
+      }
+    }
+  ],
+  "revision": {
+    "number": 1,
+    "at": "2026-11-28T07:11:33.181Z",
+    "author": "ChatGPT",
+    "reason": "Initial publication of the November 27 Paris-day edition."
+  },
+  "review": {
+    "status": "agent-reviewed",
+    "reviewer": "ChatGPT",
+    "note": "Nine originating journalistic reports inspected without payment or login barrier in the November 28 research session, with session verification recorded at 2026-11-28T07:11:33.181Z. Original publication metadata, headline, genre, newsroom and access checked; date precision retained where exact clock or zone not verified. The Guardian Ukraine source is its own authored entry in a wider live blog; unrelated and syndicated entries excluded. Reuters update clocks not displayed; current retrievals are not cutoff-time captures. No fingerprint or historical capture verified. X observation session recorded at 2026-11-28T07:10:41.899Z. Native X searches for Zelenskyy Putin friend, Kuwait Iran Araghchi and Quebec Bill 21 (edition-day date filters) returned DisabledError; direct candidate links also failed as below. Wider web searches used names, alternate spellings and event terms, including Trump Putin friendship / Peskov / Zelenskyy, Kuwait summons / MOFAKuwait / Araghchi / Tajani, and Quebec Bill 21 / SCC / secularism / Danielle Smith. Ukraine: Scott Robertson original https://x.com/sarobertson_/status/2126094171110854862 direct 403; reproduction https://www.ibtimes.co.uk/zelenskyy-criticises-trump-putin-my-friend-1835267 published November 27 13:39 GMT with no visible update, identifying author, text and exact status link; Snowflake 2026-11-26T23:22:05.969Z = Paris November 27 00:22:05.969, eligible despite displayed November 26 date. Kuwait: https://x.com/MOFAKuwait/status/2126321426072265002 direct 403; Asharq Al-Awsat reproduction https://aawsat.com/%D8%A7%D9%84%D8%B9%D8%A7%D9%84%D9%85-%D8%A7%D9%84%D8%B9%D8%B1%D8%A8%D9%8A/%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D8%AC/5346337-%D8%A7%D9%84%D9%83%D9%88%D9%8A%D8%AA-%D8%AA%D8%B3%D8%AA%D8%AF%D8%B9%D9%8A-%D8%B3%D9%81%D9%8A%D8%B1-%D8%B7%D9%87%D8%B1%D8%A7%D9%86-%D8%A7%D8%AD%D8%AA%D8%AC%D8%A7%D8%AC%D8%A7%D9%8B-%D8%B9%D9%84%D9%89-%D8%A7%D8%B3%D8%AA%D9%85%D8%B1%D8%A7%D8%B1-%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D8%AF%D8%A7%D8%A1%D8%A7%D8%AA-%D8%A7%D9%84%D8%A5%D9%8A%D8%B1%D8%A7%D9%86%D9%8A%D8%A9 published November 27 15:56 (zone not displayed), no visible update, identifies ministry and reproduces post with link; Snowflake 2026-11-27T14:25:07.774Z = Paris 15:25:07.774. APNA MA TV reproduction dated November 27 contained four earlier posts excluded: IDs 2126039330946945271, 2125982885244981296, 2125956609541124559, 2125970819914322164 decode respectively to November 26 19:44:11.055Z, 15:59:53.351Z, 14:15:28.735Z, 15:11:56.752Z, all outside Paris day; Akhbar Alyawm candidate page 403. Quebec: https://x.com/ABDanielleSmith/status/2126350448378642621 direct DisabledError; reproduction https://kacheng.ca/en/news/scc-upholds-quebec-bill-21-secularism-law-2026/ displays November 27 10:38:50 (zone unspecified), no visible update, identifies Smith, text and exact status link; Snowflake 2026-11-27T16:20:27.231Z = Paris 17:20:27.231. Reproductions are currently retrieved dated pages, not immutable historical captures; subsequent edits cannot be excluded. These narrow discourse samples are not reporting evidence or platform consensus. No historical volume signal established for any story; xAttention omitted, not low attention. Agent review, not human review."
+  }
+}
